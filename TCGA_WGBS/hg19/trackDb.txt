@@ -1,0 +1,33 @@
+track WholeGenomeCpG
+bigDataUrl http://fame.edbc.org/TruSeqMethyHub/V1/BStrackdata/TruSeqEPIC/TargetRegion/WholeGenome_CpG_hg19.bb
+shortLabel Whole Genome CpG
+longLabel Whole Genome CpGs of in human genome hg19
+type bigBed
+visibility hide
+color 0,60,120
+maxHeightPixels 128:25:10
+priority 1
+
+track TCGA_WGBS_CpGMethyData
+compositeTrack on
+shortLabel TCGA_WGBS
+longLabel TCGA_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track BLCA_A13J
+         parent TCGA_WGBS_CpGMethyData on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_A13J
+         longLabel  BLCA_A13J
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BLCA_A13J.bw
+         priority 1
+

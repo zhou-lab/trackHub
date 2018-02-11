@@ -1,0 +1,5 @@
+hub TCGA_WGBS
+shortLabel TCGA_WGBS
+longLabel TCGA_WGBS
+genomesFile genomes.txt
+email Wanding.Zhou@vai.org
