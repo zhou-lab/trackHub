@@ -1,0 +1,10 @@
+track WholeGenomeCpG
+bigDataUrl http://fame.edbc.org/TruSeqMethyHub/V1/BStrackdata/TruSeqEPIC/TargetRegion/WholeGenome_CpG_hg19.bb
+shortLabel Whole Genome CpG
+longLabel Whole Genome CpGs of in human genome hg19
+type bigBed
+visibility hide
+color 0,60,120
+maxHeightPixels 128:25:10
+priority 1
+

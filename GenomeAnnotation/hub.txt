@@ -1,0 +1,5 @@
+hub genome_annotation
+shortLabel genome_annotation
+longLabel genome_annotation
+genomesFile genomes.txt
+email Wanding.Zhou@vai.org
