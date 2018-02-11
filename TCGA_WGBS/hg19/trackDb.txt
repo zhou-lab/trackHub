@@ -1,7 +1,7 @@
 track TCGA_BLCA_WGBS_CpG_Beta_Values
-compositeTrack on
-shortLabel TCGA_BLCA_WGBS
-longLabel TCGA_BLCA_WGBS
+compositeTrack off
+shortLabel BLCA
+longLabel TCGA_BLCA
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -88,9 +88,9 @@ priority 2
          priority 1
 
 track TCGA_BRCA_WGBS_CpG_Beta_Values
-compositeTrack on
-shortLabel TCGA_BRCA_WGBS
-longLabel TCGA_BRCA_WGBS
+compositeTrack off
+shortLabel BRCA
+longLabel TCGA_BRCA
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -144,9 +144,9 @@ priority 2
          priority 1
 
 track TCGA_COAD_WGBS_CpG_Beta_Values
-compositeTrack on
-shortLabel TCGA_COAD_WGBS
-longLabel TCGA_COAD_WGBS
+compositeTrack off
+shortLabel COAD
+longLabel TCGA_COAD
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -167,9 +167,9 @@ priority 2
          priority 1
 
 track TCGA_GBM_WGBS_CpG_Beta_Values
-compositeTrack on
-shortLabel TCGA_GBM_WGBS
-longLabel TCGA_GBM_WGBS
+compositeTrack off
+shortLabel GBM
+longLabel TCGA_GBM
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -245,9 +245,9 @@ priority 2
          priority 1
 
 track TCGA_LUAD_WGBS_CpG_Beta_Values
-compositeTrack on
-shortLabel TCGA_LUAD_WGBS
-longLabel TCGA_LUAD_WGBS
+compositeTrack off
+shortLabel LUAD
+longLabel TCGA_LUAD
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -323,9 +323,9 @@ priority 2
          priority 1
 
 track TCGA_LUSC_WGBS_CpG_Beta_Values
-compositeTrack on
-shortLabel TCGA_LUSC_WGBS
-longLabel TCGA_LUSC_WGBS
+compositeTrack off
+shortLabel LUSC
+longLabel TCGA_LUSC
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -379,9 +379,9 @@ priority 2
          priority 1
 
 track TCGA_READ_WGBS_CpG_Beta_Values
-compositeTrack on
-shortLabel TCGA_READ_WGBS
-longLabel TCGA_READ_WGBS
+compositeTrack off
+shortLabel READ
+longLabel TCGA_READ
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -424,9 +424,9 @@ priority 2
          priority 1
 
 track TCGA_STAD_WGBS_CpG_Beta_Values
-compositeTrack on
-shortLabel TCGA_STAD_WGBS
-longLabel TCGA_STAD_WGBS
+compositeTrack off
+shortLabel STAD
+longLabel TCGA_STAD
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -491,7 +491,7 @@ priority 2
          priority 1
 
 track TCGA_UCEC_WGBS_CpG_Beta_Values
-compositeTrack on
+compositeTrack off
 shortLabel UCEC
 longLabel TCGA_UCEC
 type bigWig
