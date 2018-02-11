@@ -492,8 +492,8 @@ priority 2
 
 track TCGA_UCEC_WGBS_CpG_Beta_Values
 compositeTrack on
-shortLabel TCGA_UCEC_WGBS
-longLabel TCGA_UCEC_WGBS
+shortLabel UCEC
+longLabel TCGA_UCEC
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
