@@ -99,6 +99,28 @@ allButtonPair on
 dragAndDrop on
 priority 2
 
+         track BRCA_NA0CE
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BRCA_NA0CE
+         longLabel  BRCA_NA0CE
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_NA0CE.bw
+         priority 1
+
+         track BRCA_A0CE
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BRCA_A0CE
+         longLabel  BRCA_A0CE
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_A0CE.bw
+         priority 1
+
          track BRCA_A04X
          parent TCGA_BRCA_WGBS_CpG_Beta_Values on
          type bigWig
@@ -155,6 +177,28 @@ allButtonPair on
 dragAndDrop on
 priority 2
 
+         track COAD_N3518
+         parent TCGA_COAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COAD_N3518
+         longLabel  COAD_N3518
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//COAD_N3518.bw
+         priority 1
+         
+         track COAD_3518
+         parent TCGA_COAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COAD_3518
+         longLabel  COAD_3518
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//COAD_3518.bw
+         priority 1
+         
          track COAD_A00R
          parent TCGA_COAD_WGBS_CpG_Beta_Values on
          type bigWig
@@ -344,7 +388,18 @@ priority 2
          longLabel  LUSC_N2722
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_N2722.bw
          priority 1
-
+         
+         track LUSC_2722
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUSC_2722
+         longLabel  LUSC_2722
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_2722.bw
+         priority 1
+         
          track LUSC_1078
          parent TCGA_LUSC_WGBS_CpG_Beta_Values on
          type bigWig
@@ -501,6 +556,28 @@ visibility full
 allButtonPair on
 dragAndDrop on
 priority 2
+
+         track UCEC_NA1CI
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel UCEC_NA1CI
+         longLabel  UCEC_NA1CI
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//UCEC_NA1CI.bw
+         priority 1
+
+         track UCEC_A1CI
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel UCEC_A1CI
+         longLabel  UCEC_A1CI
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//UCEC_A1CI.bw
+         priority 1
 
          track UCEC_A05J
          parent TCGA_UCEC_WGBS_CpG_Beta_Values on
