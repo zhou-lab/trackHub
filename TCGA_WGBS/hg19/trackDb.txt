@@ -1,7 +1,7 @@
-track TCGA_WGBS_CpG_Beta_Values
+track TCGA_BLCA_WGBS_CpG_Beta_Values
 compositeTrack on
-shortLabel TCGA_WGBS
-longLabel TCGA_WGBS
+shortLabel TCGA_BLCA_WGBS
+longLabel TCGA_BLCA_WGBS
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
@@ -10,8 +10,30 @@ allButtonPair on
 dragAndDrop on
 priority 2
 
+         track BLCA_NA20V
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_NA20V
+         longLabel  BLCA_NA20V
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_NA20V.bw
+         priority 1
+
+         track BLCA_A20V
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_A20V
+         longLabel  BLCA_A20V
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A20V.bw
+         priority 1
+
          track BLCA_A13J
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -22,7 +44,7 @@ priority 2
          priority 1
 
          track BLCA_A1AA
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -33,7 +55,7 @@ priority 2
          priority 1
 
          track BLCA_A1AG
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -43,19 +65,8 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A1AG.bw
          priority 1
 
-         track BLCA_A20V
-         parent TCGA_WGBS_CpG_Beta_Values on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel BLCA_A20V
-         longLabel  BLCA_A20V
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A20V.bw
-         priority 1
-
          track BLCA_A2HQ
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -66,7 +77,7 @@ priority 2
          priority 1
 
          track BLCA_A2LA
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -76,19 +87,20 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A2LA.bw
          priority 1
 
-         track BLCA_NA20V
-         parent TCGA_WGBS_CpG_Beta_Values on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel BLCA_NA20V
-         longLabel  BLCA_NA20V
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_NA20V.bw
-         priority 1
+track TCGA_BRCA_WGBS_CpG_Beta_Values
+compositeTrack on
+shortLabel TCGA_BRCA_WGBS
+longLabel TCGA_BRCA_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
 
          track BRCA_A04X
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -99,7 +111,7 @@ priority 2
          priority 1
 
          track BRCA_A07I
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -110,7 +122,7 @@ priority 2
          priority 1
 
          track BRCA_A0YG
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -121,7 +133,7 @@ priority 2
          priority 1
 
          track BRCA_A15H
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -131,8 +143,20 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_A15H.bw
          priority 1
 
+track TCGA_COAD_WGBS_CpG_Beta_Values
+compositeTrack on
+shortLabel TCGA_COAD_WGBS
+longLabel TCGA_COAD_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
          track COAD_A00R
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_COAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -142,8 +166,20 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//COAD_A00R.bw
          priority 1
 
+track TCGA_GBM_WGBS_CpG_Beta_Values
+compositeTrack on
+shortLabel TCGA_GBM_WGBS
+longLabel TCGA_GBM_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
          track GBM_0128
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -154,7 +190,7 @@ priority 2
          priority 1
 
          track GBM_1401
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -165,7 +201,7 @@ priority 2
          priority 1
 
          track GBM_1454
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -176,7 +212,7 @@ priority 2
          priority 1
 
          track GBM_1460
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -187,7 +223,7 @@ priority 2
          priority 1
 
          track GBM_1788
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -198,7 +234,7 @@ priority 2
          priority 1
 
          track GBM_3477
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -208,19 +244,31 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//GBM_3477.bw
          priority 1
 
-         track LUAD_4630
-         parent TCGA_WGBS_CpG_Beta_Values on
+track TCGA_LUAD_WGBS_CpG_Beta_Values
+compositeTrack on
+shortLabel TCGA_LUAD_WGBS
+longLabel TCGA_LUAD_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track LUAD_N6148
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel LUAD_4630
-         longLabel  LUAD_4630
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_4630.bw
+         shortLabel LUAD_N6148
+         longLabel  LUAD_N6148
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_N6148.bw
          priority 1
 
          track LUAD_6148
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -230,8 +278,19 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_6148.bw
          priority 1
 
+         track LUAD_4630
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUAD_4630
+         longLabel  LUAD_4630
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_4630.bw
+         priority 1
+
          track LUAD_6215
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -242,7 +301,7 @@ priority 2
          priority 1
 
          track LUAD_6840
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -253,7 +312,7 @@ priority 2
          priority 1
 
          track LUAD_7156
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -263,19 +322,31 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_7156.bw
          priority 1
 
-         track LUAD_N6148
-         parent TCGA_WGBS_CpG_Beta_Values on
+track TCGA_LUSC_WGBS_CpG_Beta_Values
+compositeTrack on
+shortLabel TCGA_LUSC_WGBS
+longLabel TCGA_LUSC_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track LUSC_N2722
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel LUAD_N6148
-         longLabel  LUAD_N6148
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_N6148.bw
+         shortLabel LUSC_N2722
+         longLabel  LUSC_N2722
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_N2722.bw
          priority 1
 
          track LUSC_1078
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -286,7 +357,7 @@ priority 2
          priority 1
 
          track LUSC_2600
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -297,7 +368,7 @@ priority 2
          priority 1
 
          track LUSC_2695
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -307,19 +378,31 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_2695.bw
          priority 1
 
-         track LUSC_N2722
-         parent TCGA_WGBS_CpG_Beta_Values on
+track TCGA_READ_WGBS_CpG_Beta_Values
+compositeTrack on
+shortLabel TCGA_READ_WGBS
+longLabel TCGA_READ_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track READ_N2689
+         parent TCGA_READ_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel LUSC_N2722
-         longLabel  LUSC_N2722
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_N2722.bw
+         shortLabel READ_N2689
+         longLabel  READ_N2689
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//READ_N2689.bw
          priority 1
 
          track READ_2689
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_READ_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -330,7 +413,7 @@ priority 2
          priority 1
 
          track READ_3593
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_READ_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -340,19 +423,42 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//READ_3593.bw
          priority 1
 
-         track READ_N2689
-         parent TCGA_WGBS_CpG_Beta_Values on
+track TCGA_STAD_WGBS_CpG_Beta_Values
+compositeTrack on
+shortLabel TCGA_STAD_WGBS
+longLabel TCGA_STAD_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track STAD_N6452
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel READ_N2689
-         longLabel  READ_N2689
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//READ_N2689.bw
+         shortLabel STAD_N6452
+         longLabel  STAD_N6452
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_N6452.bw
+         priority 1
+
+         track STAD_6452
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel STAD_6452
+         longLabel  STAD_6452
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_6452.bw
          priority 1
 
          track STAD_5730
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -363,7 +469,7 @@ priority 2
          priority 1
 
          track STAD_6177
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -373,19 +479,8 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_6177.bw
          priority 1
 
-         track STAD_6452
-         parent TCGA_WGBS_CpG_Beta_Values on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel STAD_6452
-         longLabel  STAD_6452
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_6452.bw
-         priority 1
-
          track STAD_6519
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -395,19 +490,20 @@ priority 2
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_6519.bw
          priority 1
 
-         track STAD_N6452
-         parent TCGA_WGBS_CpG_Beta_Values on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel STAD_N6452
-         longLabel  STAD_N6452
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_N6452.bw
-         priority 1
+track TCGA_UCEC_WGBS_CpG_Beta_Values
+compositeTrack on
+shortLabel TCGA_UCEC_WGBS
+longLabel TCGA_UCEC_WGBS
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
 
          track UCEC_A05J
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -418,7 +514,7 @@ priority 2
          priority 1
 
          track UCEC_A0G2
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -429,7 +525,7 @@ priority 2
          priority 1
 
          track UCEC_A0K6
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
@@ -440,7 +536,7 @@ priority 2
          priority 1
 
          track UCEC_A1CK
-         parent TCGA_WGBS_CpG_Beta_Values on
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
