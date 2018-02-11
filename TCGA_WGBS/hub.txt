@@ -1,5 +1,5 @@
-hub TCGA_WGBS
-shortLabel TCGA_WGBS
-longLabel TCGA_WGBS
+hub TCGA WGBS
+shortLabel TCGA WGBS
+longLabel TCGA WGBS 39 tumors with 8 matched adjacent normals
 genomesFile genomes.txt
 email Wanding.Zhou@vai.org
