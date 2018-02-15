@@ -14,6 +14,26 @@ shortLabel Model-CGI
 longLabel Model-based CpG island definition hg19
 type bigBed
 visibility hide
-color 0,60,120
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
+
+track NCBIStrictCpGIsland_TJ2003
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/takai.jones.strict.500bpwindow.bb
+shortLabel NCBI-strict-CGI
+longLabel NCBI-strict CpG island definition hg19
+type bigBed
+visibility hide
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
+
+track NCBIRelaxedCpGIsland_TJ2003
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/takai.jones.relaxed.200bpwindow.bb
+shortLabel NCBI-relaxed-CGI
+longLabel NCBI-relaxed CpG island definition hg19
+type bigBed
+visibility hide
+color 0,120,60
 maxHeightPixels 128:25:10
 priority 1
