@@ -8,3 +8,12 @@ color 0,60,120
 maxHeightPixels 128:25:10
 priority 1
 
+track ModelCpGIsland
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/model-based-cpg-islands-hg19.bb
+shortLabel Model-CGI
+longLabel Model-based CpG island definition hg19
+type bigBed
+visibility hide
+color 0,60,120
+maxHeightPixels 128:25:10
+priority 1
