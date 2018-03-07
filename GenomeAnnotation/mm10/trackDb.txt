@@ -1,0 +1,9 @@
+track SoloWCGWCpG
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/solo_WCGW_cpg_mm10.bb
+shortLabel Solo-WCGW-CpGs
+longLabel Solo-WCGW CpGs
+type bigBed
+visibility dense
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
