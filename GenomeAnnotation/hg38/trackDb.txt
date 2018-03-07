@@ -1,3 +1,13 @@
+track WholeGenomeCpG
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/WholeGenome_CpG_hg38.bb
+shortLabel Whole Genome CpG
+longLabel Whole Genome CpGs of in human genome hg19
+type bigBed
+visibility hide
+color 0,60,120
+maxHeightPixels 128:25:10
+priority 1
+
 track SoloWCGWCpG
 bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/solo_WCGW_cpg_hg38.bb
 shortLabel Solo-WCGW-CpGs
