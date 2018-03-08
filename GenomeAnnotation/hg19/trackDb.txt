@@ -14,7 +14,6 @@ shortLabel commonPMD
 longLabel Common PMD and HMD of human genome hg19
 type bigBed
 visibility dense
-color 0,128,0
 useScore 1
 maxHeightPixels 128:25:10
 priority 1
