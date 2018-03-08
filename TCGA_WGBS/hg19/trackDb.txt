@@ -5,7 +5,7 @@ longLabel TCGA_BLCA
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility hide
 allButtonPair on
 dragAndDrop on
 priority 2
