@@ -8,6 +8,16 @@ color 0,60,120
 maxHeightPixels 128:25:10
 priority 1
 
+track commonPMD
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/PMD_coordinates_hg19.bb
+shortLabel commonPMD
+longLabel Common PMD and HMD of human genome hg19
+type bigBed
+visibility dense
+color 0,60,120
+maxHeightPixels 128:25:10
+priority 1
+
 track SoloWCGWCpG
 bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/solo_WCGW_cpg_hg19.bb
 shortLabel Solo-WCGW-CpGs
