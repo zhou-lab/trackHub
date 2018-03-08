@@ -94,7 +94,7 @@ longLabel TCGA_BRCA
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility hide
 allButtonPair on
 dragAndDrop on
 priority 2
@@ -217,7 +217,7 @@ longLabel TCGA_GBM
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility hide
 allButtonPair on
 dragAndDrop on
 priority 2
@@ -295,7 +295,7 @@ longLabel TCGA_LUAD
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility hide
 allButtonPair on
 dragAndDrop on
 priority 2
@@ -373,7 +373,7 @@ longLabel TCGA_LUSC
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility hide
 allButtonPair on
 dragAndDrop on
 priority 2
@@ -485,7 +485,7 @@ longLabel TCGA_STAD
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility hide
 allButtonPair on
 dragAndDrop on
 priority 2
@@ -552,7 +552,7 @@ longLabel TCGA_UCEC
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility hide
 allButtonPair on
 dragAndDrop on
 priority 2
