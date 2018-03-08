@@ -18,10 +18,6 @@ scoreMin 300
 scoreMax 800
 visibility dense
 useScore 1
-color 0,0,255
-minGrayLevel 4
-maxHeightPixels 128:25:10
-priority 1
 
 track SoloWCGWCpG
 bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/solo_WCGW_cpg_hg19.bb
