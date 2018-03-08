@@ -12,8 +12,10 @@ track commonPMD
 bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/PMD_coordinates_hg19.bb
 shortLabel commonPMD
 longLabel Common PMD and HMD of human genome hg19
-type bigBed
+type bigBed 6 +
 spectrum on
+scoreMin 300
+scoreMax 800
 visibility dense
 useScore 1
 color 0,0,255
