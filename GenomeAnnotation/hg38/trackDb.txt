@@ -1,7 +1,7 @@
 track WholeGenomeCpG
 bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/WholeGenome_CpG_hg38.bb
 shortLabel Whole Genome CpG
-longLabel Whole Genome CpGs of in human genome hg19
+longLabel Whole Genome CpGs of in human genome hg38
 type bigBed
 visibility hide
 color 0,60,120
