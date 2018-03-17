@@ -1,7 +1,7 @@
 track WholeGenomeCpG
 bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/WholeGenome_CpG_mm10.bb
 shortLabel Whole Genome CpG
-longLabel Whole Genome CpGs of in human genome hg19
+longLabel Whole Genome CpGs of in human genome mm10
 type bigBed
 visibility hide
 color 0,60,120
@@ -9,9 +9,9 @@ maxHeightPixels 128:25:10
 priority 1
 
 track commonPMD
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/PMD_coordinates_hg19.bb
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/PMD_coordinates_mm10.bb
 shortLabel commonPMD
-longLabel Common PMD and HMD of human genome hg19
+longLabel Common PMD and HMD of human genome mm10
 type bigBed 6 +
 spectrum on
 scoreMin 300
