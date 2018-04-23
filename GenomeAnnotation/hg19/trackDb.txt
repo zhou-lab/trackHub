@@ -1,5 +1,5 @@
 track WholeGenomeCpG
-bigDataUrl http://fame.edbc.org/TruSeqMethyHub/V1/BStrackdata/TruSeqEPIC/TargetRegion/WholeGenome_CpG_hg19.bb
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/WholeGenome_CpG_hg19.bb
 shortLabel Whole Genome CpG
 longLabel Whole Genome CpGs of in human genome hg19
 type bigBed
