@@ -30,3 +30,13 @@ visibility dense
 color 0,120,60
 maxHeightPixels 128:25:10
 priority 1
+
+track MouseArray
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/2019_04_04_reselection_merged.bb
+shortLabel Mouse Array
+longLabel Mouse Array
+type bigBed
+visibility dense
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
