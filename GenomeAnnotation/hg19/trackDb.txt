@@ -60,3 +60,14 @@ visibility hide
 color 0,120,60
 maxHeightPixels 128:25:10
 priority 1
+
+track InfiniumEPIC
+bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/EPIC.hg19.manifest.bb
+shortLabel InfiniumEPIC
+longLabel Infinium Human DNA Methylation EPIC array
+type bigBed
+visibility hide
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
+
