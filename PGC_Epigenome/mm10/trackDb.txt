@@ -149,14 +149,14 @@ autoScale on
 maxHeightPixels 100:15:5
 visibility hide
 
-         track GSM2664284_F_ssDNA_DMC1
+         track GSM2664284_F_DMC1_better
          type bigWig
          shortLabel GSM2664284_F_ssDNA_DMC1
          longLabel GSM2664284_F_ssDNA_DMC1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DMC1/GSM2664284_Ovary_SSDS_O1.ssDNA_type1.bw
          parent DMC1 on
 
-         track GSM2664285_F_ssDNA_DMC1
+         track GSM2664285_F_DMC1
          type bigWig
          shortLabel GSM2664285_F_ssDNA_DMC1
          longLabel GSM2664285_F_ssDNA_DMC1
