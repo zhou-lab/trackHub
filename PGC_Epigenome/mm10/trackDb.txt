@@ -11,132 +11,154 @@ visibility hide
          type bigWig
          shortLabel E13.5_F_H3K4me1_rep1
          longLabel E13.5_F_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_F_H3K4me1_rep1.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_F_H3K4me1_rep1.bw
          parent H3K4me1 on
 
          track E13.5_M_H3K4me1_rep1
          type bigWig
          shortLabel E13.5_M_H3K4me1_rep1
          longLabel E13.5_M_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_M_H3K4me1_rep1.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_M_H3K4me1_rep1.bw
          parent H3K4me1 on
          
          track E13.5_M_H3K4me1_rep2
          type bigWig
          shortLabel E13.5_M_H3K4me1_rep2
          longLabel E13.5_M_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_M_H3K4me1_rep2.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_M_H3K4me1_rep2.bw
          parent H3K4me1 on
          
          track E14.5_F_H3K4me1_rep1
          type bigWig
          shortLabel E14.5_F_H3K4me1_rep1
          longLabel E14.5_F_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep1.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep1.bw
          parent H3K4me1 on
          
          track E14.5_F_H3K4me1_rep2
          type bigWig
          shortLabel E14.5_F_H3K4me1_rep2
          longLabel E14.5_F_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep2.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep2.bw
          parent H3K4me1 on
          
          track E14.5_F_H3K4me1_rep3
          type bigWig
          shortLabel E14.5_F_H3K4me1_rep3
          longLabel E14.5_F_H3K4me1_rep3
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep3.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep3.bw
          parent H3K4me1 on
          
          track E14.5_F_H3K4me1_rep4
          type bigWig
          shortLabel E14.5_F_H3K4me1_rep4
          longLabel E14.5_F_H3K4me1_rep4
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep4.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep4.bw
          parent H3K4me1 on
          
          track E14.5_M_H3K4me1_rep1
          type bigWig
          shortLabel E14.5_M_H3K4me1_rep1
          longLabel E14.5_M_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_M_H3K4me1_rep1.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep1.bw
          parent H3K4me1 on
          
          track E14.5_M_H3K4me1_rep2
          type bigWig
          shortLabel E14.5_M_H3K4me1_rep2
          longLabel E14.5_M_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_M_H3K4me1_rep2.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep2.bw
          parent H3K4me1 on
          
          track E14.5_M_H3K4me1_rep3
          type bigWig
          shortLabel E14.5_M_H3K4me1_rep3
          longLabel E14.5_M_H3K4me1_rep3
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_M_H3K4me1_rep3.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep3.bw
          parent H3K4me1 on
          
          track E14.5_M_H3K4me1_rep4
          type bigWig
          shortLabel E14.5_M_H3K4me1_rep4
          longLabel E14.5_M_H3K4me1_rep4
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_M_H3K4me1_rep4.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep4.bw
          parent H3K4me1 on
          
          track E15.5_F_H3K4me1_rep1
          type bigWig
          shortLabel E15.5_F_H3K4me1_rep1
          longLabel E15.5_F_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E15.5_F_H3K4me1_rep1.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_F_H3K4me1_rep1.bw
          parent H3K4me1 on
          
          track E15.5_F_H3K4me1_rep2
          type bigWig
          shortLabel E15.5_F_H3K4me1_rep2
          longLabel E15.5_F_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E15.5_F_H3K4me1_rep2.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_F_H3K4me1_rep2.bw
          parent H3K4me1 on
          
          track E15.5_M_H3K4me1_rep1
          type bigWig
          shortLabel E15.5_M_H3K4me1_rep1
          longLabel E15.5_M_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E15.5_M_H3K4me1_rep1.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_M_H3K4me1_rep1.bw
          parent H3K4me1 on
          
          track E15.5_M_H3K4me1_rep2
          type bigWig
          shortLabel E15.5_M_H3K4me1_rep2
          longLabel E15.5_M_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E15.5_M_H3K4me1_rep2.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_M_H3K4me1_rep2.bw
          parent H3K4me1 on
          
          track E16.5_F_H3K4me1_rep1
          type bigWig
          shortLabel E16.5_F_H3K4me1_rep1
          longLabel E16.5_F_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E16.5_F_H3K4me1_rep1.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_F_H3K4me1_rep1.bw
          parent H3K4me1 on
          
          track E16.5_F_H3K4me1_rep2
          type bigWig
          shortLabel E16.5_F_H3K4me1_rep2
          longLabel E16.5_F_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E16.5_F_H3K4me1_rep2.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_F_H3K4me1_rep2.bw
          parent H3K4me1 on
          
          track E16.5_M_H3K4me1_rep1
          type bigWig
          shortLabel E16.5_M_H3K4me1_rep1
          longLabel E16.5_M_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E16.5_M_H3K4me1_rep1.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_M_H3K4me1_rep1.bw
          parent H3K4me1 on
          
          track E16.5_M_H3K4me1_rep2
          type bigWig
          shortLabel E16.5_M_H3K4me1_rep2
          longLabel E16.5_M_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E16.5_M_H3K4me1_rep2.bw
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_M_H3K4me1_rep2.bw
          parent H3K4me1 on
          
+track DMC1
+type bigWig
+shortLabel DMC1
+longLabel DMC1
+superTrack on show
+autoScale on
+maxHeightPixels 100:15:5
+visibility hide
+
+         track GSM2664284_F_ssDNA_DMC1
+         type bigWig
+         shortLabel GSM2664284_F_ssDNA_DMC1
+         longLabel GSM2664284_F_ssDNA_DMC1
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DMC1/GSM2664284_Ovary_SSDS_O1.ssDNA_type1.bw
+         parent DMC1 on
+
+         track GSM2664285_F_ssDNA_DMC1
+         type bigWig
+         shortLabel GSM2664285_F_ssDNA_DMC1
+         longLabel GSM2664285_F_ssDNA_DMC1
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DMC1/GSM2664285_Ovary_SSDS_O2.ssDNA_type1.bw
+         parent DMC1 on
