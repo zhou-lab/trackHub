@@ -2,7 +2,7 @@ track PGC_H3K4me1
 shortLabel PGC_H3K4me1
 autoScale on
 container multiWig
-aggregate stacked
+aggregate transparentOverlay
 type bigWig
 viewLimits 0:10
 maxHeightPixels 128:25:10
