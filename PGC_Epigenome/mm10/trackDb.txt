@@ -2,10 +2,8 @@ track PGC_H3K4me1
 type bigWig
 shortLabel PGC_H3K4me1
 longLabel PGC_H3K4me1
+superTrack on show
 autoScale on
-container multiWig
-aggregate transparentOverlay
-viewLimits 0:10
 maxHeightPixels 128:25:10
 visibility hide
 
