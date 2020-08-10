@@ -8,44 +8,15 @@ maxHeightPixels 128:25:10
 visibility hide
 
          track E13.5_F_H3K4me1_rep1
+         shortLabel E13.5_F_H3K4me1_rep1
          parent PGC_H3K4me1 on
          type bigWig
          color 0,102,255
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_F_H3K4me1_rep1.bw
          
          track E13.5_M_H3K4me1_rep1
+         shortLabel E13.5_M_H3K4me1_rep1
          parent PGC_H3K4me1 on
          type bigWig
          color 0,102,255
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_M_H3K4me1_rep1.bw
-         
-         track E13.5_M_H3K4me1_rep2
-         parent PGC_H3K4me1 on
-         type bigWig
-         color 0,102,255
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_M_H3K4me1_rep2.bw
-         
-         track E14.5_F_H3K4me1_rep1
-         parent PGC_H3K4me1 on
-         type bigWig
-         color 0,102,255
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep1.bw
-         
-         track E14.5_F_H3K4me1_rep2
-         parent PGC_H3K4me1 on
-         type bigWig
-         color 0,102,255
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep2.bw
-         
-         track E14.5_F_H3K4me1_rep3
-         parent PGC_H3K4me1 on
-         type bigWig
-         color 0,102,255
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep3.bw
-         
-         track E14.5_F_H3K4me1_rep4
-         parent PGC_H3K4me1 on
-         type bigWig
-         color 0,102,255
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep4.bw
-         
