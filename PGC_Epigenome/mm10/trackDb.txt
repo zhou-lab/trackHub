@@ -1,5 +1,6 @@
 track PGC_H3K4me1
 shortLabel PGC_H3K4me1
+longLabel PGC_H3K4me1
 autoScale on
 container multiWig
 aggregate transparentOverlay
