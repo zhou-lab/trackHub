@@ -3,7 +3,7 @@ shortLabel PGC_H3K4me1
 autoScale on
 container multiWig
 aggregate stacked
-type bigWig 0 1000
+type bigWig
 viewLimits 0:10
 maxHeightPixels 128:25:10
 visibility hide
