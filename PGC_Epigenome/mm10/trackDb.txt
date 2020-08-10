@@ -173,105 +173,105 @@ maxHeightPixels 100:15:5
 visibility hide
 
          track E9.5_PGC_GSM2966930
-         type bigwig
+         type bigWig
          shortLabel E9.5_PGC_GSM2966930
          longLabel E9.5_PGC_GSM2966930
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E9.5_PGC_DNase-seq_GSM2966930.bw
          parent DNase on
          
          track E9.5_PGC_GSM2966931
-         type bigwig
+         type bigWig
          shortLabel E9.5_PGC_GSM2966931
          longLabel E9.5_PGC_GSM2966931
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E9.5_PGC_DNase-seq_GSM2966931.bw
          parent DNase on
 
          track E10.5_PGC_GSM2966932
-         type bigwig
+         type bigWig
          shortLabel E10.5_PGC_GSM2966932
          longLabel E10.5_PGC_GSM2966932
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E10.5_PGC_DNase-seq_GSM2966932.bw
          parent DNase on
          
          track E10.5_PGC_GSM2966933
-         type bigwig
+         type bigWig
          shortLabel E10.5_PGC_GSM2966933
          longLabel E10.5_PGC_GSM2966933
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E10.5_PGC_DNase-seq_GSM2966933.bw
          parent DNase on
          
          track E12.5_F_PGC_GSM2966934
-         type bigwig
+         type bigWig
          shortLabel E12.5_F_PGC_GSM2966934
          longLabel E12.5_F_PGC_GSM2966934
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_PGC_DNase-seq_GSM2966934.bw
          parent DNase on
          
          track E12.5_F_PGC_GSM2966935
-         type bigwig
+         type bigWig
          shortLabel E12.5_F_PGC_GSM2966935
          longLabel E12.5_F_PGC_GSM2966935
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_PGC_DNase-seq_GSM2966935.bw
          parent DNase on
          
          track E12.5_F_soma_GSM2966936
-         type bigwig
+         type bigWig
          shortLabel E12.5_F_soma_GSM2966936
          longLabel E12.5_F_soma_GSM2966936
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_soma_DNase-seq_GSM2966936.bw
          parent DNase on
          
          track E12.5_M_PGC_GSM2966937
-         type bigwig
+         type bigWig
          shortLabel E12.5_M_PGC_GSM2966937
          longLabel E12.5_M_PGC_GSM2966937
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_PGC_DNase-seq_GSM2966937.bw
          parent DNase on
          
          track E12.5_M_PGC_GSM2966938
-         type bigwig
+         type bigWig
          shortLabel E12.5_M_PGC_GSM2966938
          longLabel E12.5_M_PGC_GSM2966938
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_PGC_DNase-seq_GSM2966938.bw
          parent DNase on
          
          track E12.5_M_soma_GSM2966939
-         type bigwig
+         type bigWig
          shortLabel E12.5_M_soma_GSM2966939
          longLabel E12.5_M_soma_GSM2966939
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_soma_DNase-seq_GSM2966939.bw
          parent DNase on
          
          track E13.5_F_PGC_GSM2966940
-         type bigwig
+         type bigWig
          shortLabel E13.5_F_PGC_GSM2966940
          longLabel E13.5_F_PGC_GSM2966940
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_female_PGC_DNase-seq_GSM2966940.bw
          parent DNase on
          
          track E13.5_F_PGC_GSM2966941
-         type bigwig
+         type bigWig
          shortLabel E13.5_F_PGC_GSM2966941
          longLabel E13.5_F_PGC_GSM2966941
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_female_PGC_DNase-seq_GSM2966941.bw
          parent DNase on
          
          track E13.5_M_PGC_GSM2966942
-         type bigwig
+         type bigWig
          shortLabel E13.5_M_PGC_GSM2966942
          longLabel E13.5_M_PGC_GSM2966942
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_male_PGC_DNase-seq_GSM2966942.bw
          parent DNase on
          
          track E13.5_M_PGC_GSM2966943
-         type bigwig
+         type bigWig
          shortLabel E13.5_M_PGC_GSM2966943
          longLabel E13.5_M_PGC_GSM2966943
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_male_PGC_DNase-seq_GSM2966943.bw
          parent DNase on
          
          track E14.5_F_PGC_GSM2966944
-         type bigwig
+         type bigWig
          shortLabel E14.5_F_PGC_GSM2966944
          longLabel E14.5_F_PGC_GSM2966944
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E14.5_female_PGC_DNase-seq_GSM2966944.bw
