@@ -1,4 +1,5 @@
 track PGC_H3K4me1
+shortLabel PGC_H3K4me1
 container multiWig
 aggregate stacked
 type bigWig 0 1000
