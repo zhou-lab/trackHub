@@ -1,7 +1,7 @@
-track PGC_H3K4me1
+track H3K4me1
 type bigWig
-shortLabel PGC_H3K4me1
-longLabel PGC_H3K4me1
+shortLabel H3K4me1
+longLabel H3K4me1
 superTrack on show
 autoScale on
 maxHeightPixels 100:15:5
@@ -12,11 +12,131 @@ visibility hide
          shortLabel E13.5_F_H3K4me1_rep1
          longLabel E13.5_F_H3K4me1_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_F_H3K4me1_rep1.bw
-         parent PGC_H3K4me1 on
-         
+         parent H3K4me1 on
+
          track E13.5_M_H3K4me1_rep1
          type bigWig
          shortLabel E13.5_M_H3K4me1_rep1
          longLabel E13.5_M_H3K4me1_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_M_H3K4me1_rep1.bw
-         parent PGC_H3K4me1 on
+         parent H3K4me1 on
+         
+         track E13.5_M_H3K4me1_rep2
+         type bigWig
+         shortLabel E13.5_M_H3K4me1_rep2
+         longLabel E13.5_M_H3K4me1_rep2
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_M_H3K4me1_rep2.bw
+         parent H3K4me1 on
+         
+         track E14.5_F_H3K4me1_rep1
+         type bigWig
+         shortLabel E14.5_F_H3K4me1_rep1
+         longLabel E14.5_F_H3K4me1_rep1
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep1.bw
+         parent H3K4me1 on
+         
+         track E14.5_F_H3K4me1_rep2
+         type bigWig
+         shortLabel E14.5_F_H3K4me1_rep2
+         longLabel E14.5_F_H3K4me1_rep2
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep2.bw
+         parent H3K4me1 on
+         
+         track E14.5_F_H3K4me1_rep3
+         type bigWig
+         shortLabel E14.5_F_H3K4me1_rep3
+         longLabel E14.5_F_H3K4me1_rep3
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep3.bw
+         parent H3K4me1 on
+         
+         track E14.5_F_H3K4me1_rep4
+         type bigWig
+         shortLabel E14.5_F_H3K4me1_rep4
+         longLabel E14.5_F_H3K4me1_rep4
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_F_H3K4me1_rep4.bw
+         parent H3K4me1 on
+         
+         track E14.5_M_H3K4me1_rep1
+         type bigWig
+         shortLabel E14.5_M_H3K4me1_rep1
+         longLabel E14.5_M_H3K4me1_rep1
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_M_H3K4me1_rep1.bw
+         parent H3K4me1 on
+         
+         track E14.5_M_H3K4me1_rep2
+         type bigWig
+         shortLabel E14.5_M_H3K4me1_rep2
+         longLabel E14.5_M_H3K4me1_rep2
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_M_H3K4me1_rep2.bw
+         parent H3K4me1 on
+         
+         track E14.5_M_H3K4me1_rep3
+         type bigWig
+         shortLabel E14.5_M_H3K4me1_rep3
+         longLabel E14.5_M_H3K4me1_rep3
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_M_H3K4me1_rep3.bw
+         parent H3K4me1 on
+         
+         track E14.5_M_H3K4me1_rep4
+         type bigWig
+         shortLabel E14.5_M_H3K4me1_rep4
+         longLabel E14.5_M_H3K4me1_rep4
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E14.5_M_H3K4me1_rep4.bw
+         parent H3K4me1 on
+         
+         track E15.5_F_H3K4me1_rep1
+         type bigWig
+         shortLabel E15.5_F_H3K4me1_rep1
+         longLabel E15.5_F_H3K4me1_rep1
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E15.5_F_H3K4me1_rep1.bw
+         parent H3K4me1 on
+         
+         track E15.5_F_H3K4me1_rep2
+         type bigWig
+         shortLabel E15.5_F_H3K4me1_rep2
+         longLabel E15.5_F_H3K4me1_rep2
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E15.5_F_H3K4me1_rep2.bw
+         parent H3K4me1 on
+         
+         track E15.5_M_H3K4me1_rep1
+         type bigWig
+         shortLabel E15.5_M_H3K4me1_rep1
+         longLabel E15.5_M_H3K4me1_rep1
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E15.5_M_H3K4me1_rep1.bw
+         parent H3K4me1 on
+         
+         track E15.5_M_H3K4me1_rep2
+         type bigWig
+         shortLabel E15.5_M_H3K4me1_rep2
+         longLabel E15.5_M_H3K4me1_rep2
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E15.5_M_H3K4me1_rep2.bw
+         parent H3K4me1 on
+         
+         track E16.5_F_H3K4me1_rep1
+         type bigWig
+         shortLabel E16.5_F_H3K4me1_rep1
+         longLabel E16.5_F_H3K4me1_rep1
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E16.5_F_H3K4me1_rep1.bw
+         parent H3K4me1 on
+         
+         track E16.5_F_H3K4me1_rep2
+         type bigWig
+         shortLabel E16.5_F_H3K4me1_rep2
+         longLabel E16.5_F_H3K4me1_rep2
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E16.5_F_H3K4me1_rep2.bw
+         parent H3K4me1 on
+         
+         track E16.5_M_H3K4me1_rep1
+         type bigWig
+         shortLabel E16.5_M_H3K4me1_rep1
+         longLabel E16.5_M_H3K4me1_rep1
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E16.5_M_H3K4me1_rep1.bw
+         parent H3K4me1 on
+         
+         track E16.5_M_H3K4me1_rep2
+         type bigWig
+         shortLabel E16.5_M_H3K4me1_rep2
+         longLabel E16.5_M_H3K4me1_rep2
+         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E16.5_M_H3K4me1_rep2.bw
+         parent H3K4me1 on
+         
