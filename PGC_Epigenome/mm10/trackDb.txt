@@ -1,24 +1,24 @@
 track PGC_H3K4me1
+type bigWig
 shortLabel PGC_H3K4me1
 longLabel PGC_H3K4me1
 autoScale on
 container multiWig
 aggregate transparentOverlay
-type bigWig
 viewLimits 0:10
 maxHeightPixels 128:25:10
 visibility hide
 
          track E13.5_F_H3K4me1_rep1
-         shortLabel E13.5_F_H3K4me1_rep1
-         parent PGC_H3K4me1 on
          type bigWig
-         color 0,102,255
+         shortLabel E13.5_F_H3K4me1_rep1
+         longLabel E13.5_F_H3K4me1_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_F_H3K4me1_rep1.bw
+         parent PGC_H3K4me1 on
          
          track E13.5_M_H3K4me1_rep1
-         shortLabel E13.5_M_H3K4me1_rep1
-         parent PGC_H3K4me1 on
          type bigWig
-         color 0,102,255
+         shortLabel E13.5_M_H3K4me1_rep1
+         longLabel E13.5_M_H3K4me1_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/E13.5_M_H3K4me1_rep1.bw
+         parent PGC_H3K4me1 on
