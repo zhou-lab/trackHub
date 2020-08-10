@@ -4,7 +4,7 @@ shortLabel PGC_H3K4me1
 longLabel PGC_H3K4me1
 superTrack on show
 autoScale on
-maxHeightPixels 128:25:10
+maxHeightPixels 100:15:5
 visibility hide
 
          track E13.5_F_H3K4me1_rep1
