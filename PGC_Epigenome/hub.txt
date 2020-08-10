@@ -1,0 +1,5 @@
+hub PGC_Epigenomes
+shortLabel PGC_Epi
+longLabel PGC chromatin accessibility, histone modification and DNA methylation
+genomesFile genomes.txt
+email wanding.zhou@pennmedicine.upenn.edu
