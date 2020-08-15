@@ -377,7 +377,6 @@ track H3K9me3
 type bigWig
 shortLabel H3K9me3
 longLabel H3K9me3
-color 31,120,180
 superTrack on show
 autoScale on
 maxHeightPixels 100:15:5
@@ -389,6 +388,7 @@ visibility hide
          longLabel E13.5_F_H3K9me3_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_F_H3K9me3_rep1.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E13.5_F_H3K9me3_rep2
          type bigWig
@@ -396,13 +396,15 @@ visibility hide
          longLabel E13.5_F_H3K9me3_rep2
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_F_H3K9me3_rep2.bw
          parent H3K9me3 on
-         
+         color 31,120,180
+       
          track E13.5_M_H3K9me3_rep1
          type bigWig
          shortLabel E13.5_M_H3K9me3_rep1
          longLabel E13.5_M_H3K9me3_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_M_H3K9me3_rep1.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E13.5_M_H3K9me3_rep2
          type bigWig
@@ -410,6 +412,7 @@ visibility hide
          longLabel E13.5_M_H3K9me3_rep2
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_M_H3K9me3_rep2.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E14.5_F_H3K9me3_rep1
          type bigWig
@@ -417,6 +420,7 @@ visibility hide
          longLabel E14.5_F_H3K9me3_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_F_H3K9me3_rep1.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E14.5_F_H3K9me3_rep2
          type bigWig
@@ -424,6 +428,7 @@ visibility hide
          longLabel E14.5_F_H3K9me3_rep2
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_F_H3K9me3_rep2.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E14.5_M_H3K9me3_rep1
          type bigWig
@@ -431,6 +436,7 @@ visibility hide
          longLabel E14.5_M_H3K9me3_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_M_H3K9me3_rep1.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E14.5_M_H3K9me3_rep2
          type bigWig
@@ -438,6 +444,7 @@ visibility hide
          longLabel E14.5_M_H3K9me3_rep2
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_M_H3K9me3_rep2.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E15.5_F_H3K9me3_rep1
          type bigWig
@@ -445,6 +452,7 @@ visibility hide
          longLabel E15.5_F_H3K9me3_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_F_H3K9me3_rep1.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E15.5_M_H3K9me3_rep1
          type bigWig
@@ -452,6 +460,7 @@ visibility hide
          longLabel E15.5_M_H3K9me3_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_M_H3K9me3_rep1.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E15.5_M_H3K9me3_rep2
          type bigWig
@@ -459,6 +468,7 @@ visibility hide
          longLabel E15.5_M_H3K9me3_rep2
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_M_H3K9me3_rep2.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E16.5_F_H3K9me3_rep1
          type bigWig
@@ -466,6 +476,7 @@ visibility hide
          longLabel E16.5_F_H3K9me3_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_F_H3K9me3_rep1.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E16.5_F_H3K9me3_rep2
          type bigWig
@@ -473,6 +484,7 @@ visibility hide
          longLabel E16.5_F_H3K9me3_rep2
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_F_H3K9me3_rep2.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E16.5_M_H3K9me3_rep1
          type bigWig
@@ -480,6 +492,7 @@ visibility hide
          longLabel E16.5_M_H3K9me3_rep1
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_M_H3K9me3_rep1.bw
          parent H3K9me3 on
+         color 31,120,180
          
          track E16.5_M_H3K9me3_rep2
          type bigWig
@@ -487,12 +500,12 @@ visibility hide
          longLabel E16.5_M_H3K9me3_rep2
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_M_H3K9me3_rep2.bw
          parent H3K9me3 on
+         color 31,120,180
          
 track H3K27ac
 type bigWig
 shortLabel H3K27ac
 longLabel H3K27ac
-color 31,120,180
 superTrack on show
 autoScale on
 maxHeightPixels 100:15:5
