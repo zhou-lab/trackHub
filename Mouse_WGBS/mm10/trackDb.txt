@@ -1466,7 +1466,7 @@ visibility hide
            bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Sun2014CellSC_HSC24mo.bw
            parent Postnatal on
            
-           track Sun2014CellSC_HSC4mo	Sun2014CellStemCell	blood	postnatal	primary
+           track Sun2014CellSC_HSC4mo
            type bigWig
            shortLabel Sun2014CellSC_HSC4mo
            longLabel Sun2014CellSC_HSC4mo
