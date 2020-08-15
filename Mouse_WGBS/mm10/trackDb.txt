@@ -1102,4 +1102,374 @@ autoScale on
 maxHeightPixels 100:15:5
 visibility hide
 
+           track AbuRemaileh2015CancerRes_colon
+           type bigWig
+           shortLabel AbuRemaileh2015CancerRes_colon
+           longLabel AbuRemaileh2015CancerRes_colon
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/AbuRemaileh2015CancerRes_colon.bw
+           parent Postnatal on
+           
+           track AbuRemaileh2015CancerRes_DSS-colon
+           type bigWig
+           shortLabel AbuRemaileh2015CancerRes_DSS-colon
+           longLabel AbuRemaileh2015CancerRes_DSS-colon
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/AbuRemaileh2015CancerRes_DSS-colon.bw
+           parent Postnatal on
+           
+           track AbuRemaileh2015CancerRes_DSSandAOM-colon
+           type bigWig
+           shortLabel AbuRemaileh2015CancerRes_DSSandAOM-colon
+           longLabel AbuRemaileh2015CancerRes_DSSandAOM-colon
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/AbuRemaileh2015CancerRes_DSSandAOM-colon.bw
+           parent Postnatal on
+           
+           track Challen2014CellSC_Ko3abHSC
+           type bigWig
+           shortLabel Challen2014CellSC_Ko3abHSC
+           longLabel Challen2014CellSC_Ko3abHSC
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Challen2014CellSC_Ko3abHSC.bw
+           parent Postnatal on
+           
+           track He2014EpigeneticsChrom_Keratinocytes-primary
+           type bigWig
+           shortLabel He2014EpigeneticsChrom_Keratinocytes-primary
+           longLabel He2014EpigeneticsChrom_Keratinocytes-primary
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/He2014EpigeneticsChrom_Keratinocytes-primary.bw
+           parent Postnatal on
+           
+           track postnatal_0_hindbrain_ENCFF303GFV
+           type bigWig
+           shortLabel postnatal_0_hindbrain_ENCFF303GFV
+           longLabel postnatal_0_hindbrain_ENCFF303GFV
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_hindbrain_ENCFF303GFV.bw
+           parent Postnatal on
+           
+           track postnatal_0_midbrain_ENCFF504HKC
+           type bigWig
+           shortLabel postnatal_0_midbrain_ENCFF504HKC
+           longLabel postnatal_0_midbrain_ENCFF504HKC
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_midbrain_ENCFF504HKC.bw
+           parent Postnatal on
+           
+           track postnatal_0_hindbrain_ENCFF433NPI
+           type bigWig
+           shortLabel postnatal_0_hindbrain_ENCFF433NPI
+           longLabel postnatal_0_hindbrain_ENCFF433NPI
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_hindbrain_ENCFF433NPI.bw
+           parent Postnatal on
+           
+           track postnatal_0_forebrain_ENCFF446IJS
+           type bigWig
+           shortLabel postnatal_0_forebrain_ENCFF446IJS
+           longLabel postnatal_0_forebrain_ENCFF446IJS
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_forebrain_ENCFF446IJS.bw
+           parent Postnatal on
+           
+           track postnatal_0_forebrain_ENCFF783ZKP
+           type bigWig
+           shortLabel postnatal_0_forebrain_ENCFF783ZKP
+           longLabel postnatal_0_forebrain_ENCFF783ZKP
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_forebrain_ENCFF783ZKP.bw
+           parent Postnatal on
+           
+           track postnatal_0_midbrain_ENCFF966UJE
+           type bigWig
+           shortLabel postnatal_0_midbrain_ENCFF966UJE
+           longLabel postnatal_0_midbrain_ENCFF966UJE
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_midbrain_ENCFF966UJE.bw
+           parent Postnatal on
+           
+           track postnatal_0_heart_ENCFF467UEZ
+           type bigWig
+           shortLabel postnatal_0_heart_ENCFF467UEZ
+           longLabel postnatal_0_heart_ENCFF467UEZ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_heart_ENCFF467UEZ.bw
+           parent Postnatal on
+           
+           track postnatal_0_heart_ENCFF096RYX
+           type bigWig
+           shortLabel postnatal_0_heart_ENCFF096RYX
+           longLabel postnatal_0_heart_ENCFF096RYX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_heart_ENCFF096RYX.bw
+           parent Postnatal on
+           
+           track postnatal_0_intestine_ENCFF968JQK
+           type bigWig
+           shortLabel postnatal_0_intestine_ENCFF968JQK
+           longLabel postnatal_0_intestine_ENCFF968JQK
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_intestine_ENCFF968JQK.bw
+           parent Postnatal on
+           
+           track postnatal_0_intestine_ENCFF644XMA
+           type bigWig
+           shortLabel postnatal_0_intestine_ENCFF644XMA
+           longLabel postnatal_0_intestine_ENCFF644XMA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_intestine_ENCFF644XMA.bw
+           parent Postnatal on
+           
+           track postnatal_0_kidney_ENCFF226ISA
+           type bigWig
+           shortLabel postnatal_0_kidney_ENCFF226ISA
+           longLabel postnatal_0_kidney_ENCFF226ISA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_kidney_ENCFF226ISA.bw
+           parent Postnatal on
+           
+           track postnatal_0_kidney_ENCFF745SMP
+           type bigWig
+           shortLabel postnatal_0_kidney_ENCFF745SMP
+           longLabel postnatal_0_kidney_ENCFF745SMP
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_kidney_ENCFF745SMP.bw
+           parent Postnatal on
+           
+           track postnatal_0_liver_ENCFF770AUO
+           type bigWig
+           shortLabel postnatal_0_liver_ENCFF770AUO
+           longLabel postnatal_0_liver_ENCFF770AUO
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_liver_ENCFF770AUO.bw
+           parent Postnatal on
+           
+           track postnatal_0_liver_ENCFF195LEN
+           type bigWig
+           shortLabel postnatal_0_liver_ENCFF195LEN
+           longLabel postnatal_0_liver_ENCFF195LEN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_liver_ENCFF195LEN.bw
+           parent Postnatal on
+           
+           track postnatal_0_lung_ENCFF920WHY
+           type bigWig
+           shortLabel postnatal_0_lung_ENCFF920WHY
+           longLabel postnatal_0_lung_ENCFF920WHY
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_lung_ENCFF920WHY.bw
+           parent Postnatal on
+           
+           track postnatal_0_lung_ENCFF555SRI
+           type bigWig
+           shortLabel postnatal_0_lung_ENCFF555SRI
+           longLabel postnatal_0_lung_ENCFF555SRI
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_lung_ENCFF555SRI.bw
+           parent Postnatal on
+           
+           track postnatal_0_stomach_ENCFF051OZQ
+           type bigWig
+           shortLabel postnatal_0_stomach_ENCFF051OZQ
+           longLabel postnatal_0_stomach_ENCFF051OZQ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_stomach_ENCFF051OZQ.bw
+           parent Postnatal on
+           
+           track postnatal_0_stomach_ENCFF562RGL
+           type bigWig
+           shortLabel postnatal_0_stomach_ENCFF562RGL
+           longLabel postnatal_0_stomach_ENCFF562RGL
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/postnatal_0_stomach_ENCFF562RGL.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051165_thymus
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051165_thymus
+           longLabel Hon2013NatureG_GSM1051165_thymus
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051165_thymus.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051159_olfactory_bulb
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051159_olfactory_bulb
+           longLabel Hon2013NatureG_GSM1051159_olfactory_bulb
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051159_olfactory_bulb.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051153_cortex
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051153_cortex
+           longLabel Hon2013NatureG_GSM1051153_cortex
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051153_cortex.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051151_cerebellum
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051151_cerebellum
+           longLabel Hon2013NatureG_GSM1051151_cerebellum
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051151_cerebellum.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051152_colon
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051152_colon
+           longLabel Hon2013NatureG_GSM1051152_colon
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051152_colon.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051154_heart
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051154_heart
+           longLabel Hon2013NatureG_GSM1051154_heart
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051154_heart.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051155_intestine
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051155_intestine
+           longLabel Hon2013NatureG_GSM1051155_intestine
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051155_intestine.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051158_lung
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051158_lung
+           longLabel Hon2013NatureG_GSM1051158_lung
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051158_lung.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051166_uterus
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051166_uterus
+           longLabel Hon2013NatureG_GSM1051166_uterus
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051166_uterus.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051162_skin
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051162_skin
+           longLabel Hon2013NatureG_GSM1051162_skin
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051162_skin.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051150_bone_marrow
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051150_bone_marrow
+           longLabel Hon2013NatureG_GSM1051150_bone_marrow
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051150_bone_marrow.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051160_pancreas
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051160_pancreas
+           longLabel Hon2013NatureG_GSM1051160_pancreas
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051160_pancreas.bw
+           parent Postnatal on
+           
+           track Hon2013NatureG_GSM1051164_stomach
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051164_stomach
+           longLabel Hon2013NatureG_GSM1051164_stomach
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Hon2013NatureG_GSM1051164_stomach.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexNeuronFemale12Mo
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexNeuronFemale12Mo
+           longLabel Lister2013Science_FrontCortexNeuronFemale12Mo
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexNeuronFemale12Mo.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexNeuronMale7Wk
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexNeuronMale7Wk
+           longLabel Lister2013Science_FrontCortexNeuronMale7Wk
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexNeuronMale7Wk.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexNeuronFemale6Wk
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexNeuronFemale6Wk
+           longLabel Lister2013Science_FrontCortexNeuronFemale6Wk
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexNeuronFemale6Wk.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexMale1Wk
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexMale1Wk
+           longLabel Lister2013Science_FrontCortexMale1Wk
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexMale1Wk.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexMale6Wk
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexMale6Wk
+           longLabel Lister2013Science_FrontCortexMale6Wk
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexMale6Wk.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexMale22Mo
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexMale22Mo
+           longLabel Lister2013Science_FrontCortexMale22Mo
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexMale22Mo.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexMale4Wk
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexMale4Wk
+           longLabel Lister2013Science_FrontCortexMale4Wk
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexMale4Wk.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexMale10Wk
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexMale10Wk
+           longLabel Lister2013Science_FrontCortexMale10Wk
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexMale10Wk.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortex8WkTet2Mut
+           type bigWig
+           shortLabel Lister2013Science_FrontCortex8WkTet2Mut
+           longLabel Lister2013Science_FrontCortex8WkTet2Mut
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortex8WkTet2Mut.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexMale2Wk
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexMale2Wk
+           longLabel Lister2013Science_FrontCortexMale2Wk
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexMale2Wk.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexGliaS00bPos
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexGliaS00bPos
+           longLabel Lister2013Science_FrontCortexGliaS00bPos
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexGliaS00bPos.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexNonNeuronFemale12Mo
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexNonNeuronFemale12Mo
+           longLabel Lister2013Science_FrontCortexNonNeuronFemale12Mo
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexNonNeuronFemale12Mo.bw
+           parent Postnatal on
+           
+           track Lister2013Science_FrontCortexNonNeuronMale7Wk
+           type bigWig
+           shortLabel Lister2013Science_FrontCortexNonNeuronMale7Wk
+           longLabel Lister2013Science_FrontCortexNonNeuronMale7Wk
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Lister2013Science_FrontCortexNonNeuronMale7Wk.bw
+           parent Postnatal on
+           
+           track Sheaffer2014GeneDev_IntestineSC
+           type bigWig
+           shortLabel Sheaffer2014GeneDev_IntestineSC
+           longLabel Sheaffer2014GeneDev_IntestineSC
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Sheaffer2014GeneDev_IntestineSC.bw
+           parent Postnatal on
+           
+           track Sheaffer2014GeneDev_Intestine
+           type bigWig
+           shortLabel Sheaffer2014GeneDev_Intestine
+           longLabel Sheaffer2014GeneDev_Intestine
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Sheaffer2014GeneDev_Intestine.bw
+           parent Postnatal on
+           
+           track Sun2014CellSC_HSC24mo
+           type bigWig
+           shortLabel Sun2014CellSC_HSC24mo
+           longLabel Sun2014CellSC_HSC24mo
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Sun2014CellSC_HSC24mo.bw
+           parent Postnatal on
+           
+           track Sun2014CellSC_HSC4mo	Sun2014CellStemCell	blood	postnatal	primary
+           type bigWig
+           shortLabel Sun2014CellSC_HSC4mo
+           longLabel Sun2014CellSC_HSC4mo
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Postnatal/Sun2014CellSC_HSC4mo.bw
+           parent Postnatal on
            
