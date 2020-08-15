@@ -128,6 +128,97 @@ visibility hide
          bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_Sperm.bw
          parent EmbryoGerm on
 
+         track Habibi2013CellSC_E14ESCSerum
+         type bigWig
+         shortLabel Habibi2013CellSC_E14ESCSerum
+         longLabel Habibi2013CellSC_E14ESCSerum
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_E14ESCSerum.bw
+         parent EmbryoGerm on
+         
+         track Habibi2013CellSC_E14ESCSerumTo2i24h
+         type bigWig
+         shortLabel Habibi2013CellSC_E14ESCSerumTo2i24h
+         longLabel Habibi2013CellSC_E14ESCSerumTo2i24h
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_E14ESCSerumTo2i24h.bw
+         parent EmbryoGerm on
+         
+         track Habibi2013CellSC_E14ESCSerumTo2i7d
+         type bigWig
+         shortLabel Habibi2013CellSC_E14ESCSerumTo2i7d
+         longLabel Habibi2013CellSC_E14ESCSerumTo2i7d
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_E14ESCSerumTo2i7d.bw
+         parent EmbryoGerm on
+         
+         Habibi2013CellSC_E14ESC2iToSerum5d	Habibi2013Cel track
+         type bigWig
+         shortLabel E14ESC2iToSerum5d	Habibi2013Cel track
+         longLabel E14ESC2iToSerum5d	Habibi2013Cel track
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/E14ESC2iToSerum5d	Habibi2013Cel track.bw
+         parent EmbryoGerm on
+
+         track Habibi2013CellSC_ESCRexGFP2i
+         type bigWig
+         shortLabel Habibi2013CellSC_ESCRexGFP2i
+         longLabel Habibi2013CellSC_ESCRexGFP2i
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_ESCRexGFP2i.bw
+         parent EmbryoGerm on
+         
+         track Habibi2013CellSC_E14ESC2iToSerum3d
+         type bigWig
+         shortLabel Habibi2013CellSC_E14ESC2iToSerum3d
+         longLabel Habibi2013CellSC_E14ESC2iToSerum3d
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_E14ESC2iToSerum3d.bw
+         parent EmbryoGerm on
+         
+         track Habibi2013CellSC_E14ESC2iAdapted
+         type bigWig
+         shortLabel Habibi2013CellSC_E14ESC2iAdapted
+         longLabel Habibi2013CellSC_E14ESC2iAdapted
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_E14ESC2iAdapted.bw
+         parent EmbryoGerm on
+         
+         track Habibi2013CellSC_E14ESC2iToSerum24h
+         type bigWig
+         shortLabel Habibi2013CellSC_E14ESC2iToSerum24h
+         longLabel Habibi2013CellSC_E14ESC2iToSerum24h
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_E14ESC2iToSerum24h.bw
+         parent EmbryoGerm on
+         
+         track Habibi2013CellSC_ESCXT2iAdapted
+         type bigWig
+         shortLabel Habibi2013CellSC_ESCXT2iAdapted
+         longLabel Habibi2013CellSC_ESCXT2iAdapted
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_ESCXT2iAdapted.bw
+         parent EmbryoGerm on
+         
+         track Li2015GenomeBiol_ESC-WT
+         type bigWig
+         shortLabel Li2015GenomeBiol_ESC-WT
+         longLabel Li2015GenomeBiol_ESC-WT
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Li2015GenomeBiol_ESC-WT.bw
+         parent EmbryoGerm on
+         
+         track Li2015GenomeBiol_ESC-Dnmt1KO
+         type bigWig
+         shortLabel Li2015GenomeBiol_ESC-Dnmt1KO
+         longLabel Li2015GenomeBiol_ESC-Dnmt1KO
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Li2015GenomeBiol_ESC-Dnmt1KO.bw
+         parent EmbryoGerm on
+         
+         track Lu2014GeneDev_E14-Tet-KO
+         type bigWig
+         shortLabel Lu2014GeneDev_E14-Tet-KO
+         longLabel Lu2014GeneDev_E14-Tet-KO
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Lu2014GeneDev_E14-Tet-KO.bw
+         parent EmbryoGerm on
+         
+         track Yearim2015CellRep_ESC
+         type bigWig
+         shortLabel Yearim2015CellRep_ESC
+         longLabel Yearim2015CellRep_ESC
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Yearim2015CellRep_ESC.bw
+         parent EmbryoGerm on
+
 track Fetal
 type bigWig
 shortLabel Fetal
@@ -999,4 +1090,16 @@ visibility hide
            longLabel Whitelaw2015GSE58108_E10.5-Embryo-WT
            bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/Whitelaw2015GSE58108_E10.5-Embryo-WT.bw
            parent Fetal on
+           
+track Postnatal
+type bigWig
+shortLabel Postnatal
+longLabel Postnatal
+superTrack on show
+viewLimits 0.0:1.0
+color 152,78,163
+autoScale on
+maxHeightPixels 100:15:5
+visibility hide
+
            
