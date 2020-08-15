@@ -504,6 +504,7 @@ visibility hide
            longLabel E13.5_F_H3K27ac_rep1
            bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_F_H3K27ac_rep1.bw
            parent H3K27ac on
+           color 255,127,0
            
            track E13.5_F_H3K27ac_rep2
            type bigWig
