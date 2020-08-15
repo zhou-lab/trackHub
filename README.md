@@ -20,3 +20,5 @@ H3K9me3 102,102,102 (grey)
 H3K27me3 56,108,176 (dark blue)
 H3K36me3 77,175,74 (green)
 H3K27ac 255,127,0 (orange)
+
+DNase/ATAC/MNase 127,201,127 (light green)

@@ -197,7 +197,7 @@ visibility hide
          longLabel E9.5_PGC_GSM2966930
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E9.5_PGC_DNase-seq_GSM2966930.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E9.5_PGC_GSM2966931
          type bigWig
@@ -205,7 +205,7 @@ visibility hide
          longLabel E9.5_PGC_GSM2966931
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E9.5_PGC_DNase-seq_GSM2966931.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
 
          track E10.5_PGC_GSM2966932
          type bigWig
@@ -213,7 +213,7 @@ visibility hide
          longLabel E10.5_PGC_GSM2966932
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E10.5_PGC_DNase-seq_GSM2966932.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E10.5_PGC_GSM2966933
          type bigWig
@@ -221,7 +221,7 @@ visibility hide
          longLabel E10.5_PGC_GSM2966933
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E10.5_PGC_DNase-seq_GSM2966933.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E12.5_F_PGC_GSM2966934
          type bigWig
@@ -229,7 +229,7 @@ visibility hide
          longLabel E12.5_F_PGC_GSM2966934
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_PGC_DNase-seq_GSM2966934.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E12.5_F_PGC_GSM2966935
          type bigWig
@@ -237,7 +237,7 @@ visibility hide
          longLabel E12.5_F_PGC_GSM2966935
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_PGC_DNase-seq_GSM2966935.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E12.5_F_soma_GSM2966936
          type bigWig
@@ -245,7 +245,7 @@ visibility hide
          longLabel E12.5_F_soma_GSM2966936
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_soma_DNase-seq_GSM2966936.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E12.5_M_PGC_GSM2966937
          type bigWig
@@ -253,7 +253,7 @@ visibility hide
          longLabel E12.5_M_PGC_GSM2966937
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_PGC_DNase-seq_GSM2966937.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E12.5_M_PGC_GSM2966938
          type bigWig
@@ -261,7 +261,7 @@ visibility hide
          longLabel E12.5_M_PGC_GSM2966938
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_PGC_DNase-seq_GSM2966938.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E12.5_M_soma_GSM2966939
          type bigWig
@@ -269,7 +269,7 @@ visibility hide
          longLabel E12.5_M_soma_GSM2966939
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_soma_DNase-seq_GSM2966939.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E13.5_F_PGC_GSM2966940
          type bigWig
@@ -277,7 +277,7 @@ visibility hide
          longLabel E13.5_F_PGC_GSM2966940
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_female_PGC_DNase-seq_GSM2966940.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E13.5_F_PGC_GSM2966941
          type bigWig
@@ -285,7 +285,7 @@ visibility hide
          longLabel E13.5_F_PGC_GSM2966941
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_female_PGC_DNase-seq_GSM2966941.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E13.5_M_PGC_GSM2966942
          type bigWig
@@ -293,7 +293,7 @@ visibility hide
          longLabel E13.5_M_PGC_GSM2966942
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_male_PGC_DNase-seq_GSM2966942.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E13.5_M_PGC_GSM2966943
          type bigWig
@@ -301,7 +301,7 @@ visibility hide
          longLabel E13.5_M_PGC_GSM2966943
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_male_PGC_DNase-seq_GSM2966943.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
          track E14.5_F_PGC_GSM2966944
          type bigWig
@@ -309,7 +309,7 @@ visibility hide
          longLabel E14.5_F_PGC_GSM2966944
          bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E14.5_female_PGC_DNase-seq_GSM2966944.bw
          parent DNase on
-         color 51,160,44
+         color 127,201,127
          
 track H3K27me3
 type bigWig
