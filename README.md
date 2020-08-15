@@ -12,6 +12,10 @@
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/PGC_Epigenome/hub.txt`
 
+- Mouse WGBS hub
+
+`https://raw.githubusercontent.com/zwdzwd/trackHub/master/Mouse_WGBS/hub.txt`
+
 # default colors:
 
 H3K4me3 228,26,28 (red)
