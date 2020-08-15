@@ -1,0 +1,880 @@
+track EmbryoGerm
+type bigWig
+shortLabel DNAme
+longLabel DNAme
+superTrack on show
+viewLimits 0.0:1.0
+color 152,78,163
+autoScale on
+maxHeightPixels 100:15:5
+visibility hide
+
+         track Peat2014CellRep_Zygote-TET3KO
+         type bigWig
+         shortLabel Zygote-TET3KO_Peat2014CellRep
+         longLabel Zygote-TET3KO_Peat2014CellRep
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Peat2014CellRep_Zygote-TET3KO.bw
+         parent EmbryoGerm on
+         
+         track Wang2014Cell_E7.5
+         type bigWig
+         shortLabel Wang2014Cell_E7.5
+         longLabel Wang2014Cell_E7.5
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_E7.5.bw
+         parent EmbryoGerm on
+         
+         track Wang2014Cell_E6.5
+         type bigWig
+         shortLabel Wang2014Cell_E6.5
+         longLabel Wang2014Cell_E6.5
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_E6.5.bw
+         parent EmbryoGerm on
+         
+         track Wang2014Cell_2Cell
+         type bigWig
+         shortLabel Wang2014Cell_2Cell
+         longLabel Wang2014Cell_2Cell
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_2Cell.bw
+         parent EmbryoGerm on
+         
+         track Wang2014Cell_4Cell
+         type bigWig
+         shortLabel Wang2014Cell_4Cell
+         longLabel Wang2014Cell_4Cell
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_4Cell.bw
+         parent EmbryoGerm on
+         
+         track Wang2014Cell_ICM
+         type bigWig
+         shortLabel Wang2014Cell_ICM
+         longLabel Wang2014Cell_ICM
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_ICM.bw
+         parent EmbryoGerm on
+         
+         track Hammoud2014CellSC_Sperm-Mature
+         type bigWig
+         shortLabel Hammoud2014CellSC_Sperm-Mature
+         longLabel Hammoud2014CellSC_Sperm-Mature
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Hammoud2014CellSC_Sperm-Mature.bw
+         parent EmbryoGerm on
+         
+         track Hammoud2014CellSC_Spermatocyte-W8
+         type bigWig
+         shortLabel Hammoud2014CellSC_Spermatocyte-W8
+         longLabel Hammoud2014CellSC_Spermatocyte-W8
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Hammoud2014CellSC_Spermatocyte-W8.bw
+         parent EmbryoGerm on
+         
+         track Hammoud2014CellSC_Spermatid-W8
+         type bigWig
+         shortLabel Hammoud2014CellSC_Spermatid-W8
+         longLabel Hammoud2014CellSC_Spermatid-W8
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Hammoud2014CellSC_Spermatid-W8.bw
+         parent EmbryoGerm on
+         
+         track Hammoud2014CellSC_Spermatogonia-W8
+         type bigWig
+         shortLabel Hammoud2014CellSC_Spermatogonia-W8
+         longLabel Hammoud2014CellSC_Spermatogonia-W8
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Hammoud2014CellSC_Spermatogonia-W8.bw
+         parent EmbryoGerm on
+         
+         track Hammoud2014CellSC_Spermatogonia-Thy1P
+         type bigWig
+         shortLabel Hammoud2014CellSC_Spermatogonia-Thy1P
+         longLabel Hammoud2014CellSC_Spermatogonia-Thy1P
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Hammoud2014CellSC_Spermatogonia-Thy1P.bw
+         parent EmbryoGerm on
+         
+         track Vlachogiannis2015CellRep_Prospermatogonia-Dnmt3LAA
+         type bigWig
+         shortLabel Vlachogiannis2015CellRep_Prospermatogonia-Dnmt3LAA
+         longLabel Vlachogiannis2015CellRep_Prospermatogonia-Dnmt3LAA
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Vlachogiannis2015CellRep_Prospermatogonia-Dnmt3LAA.bw
+         parent EmbryoGerm on
+         
+         track Vlachogiannis2015CellRep_Prospermatogonia_R1_L1
+         type bigWig
+         shortLabel Vlachogiannis2015CellRep_Prospermatogonia_R1_L1
+         longLabel Vlachogiannis2015CellRep_Prospermatogonia_R1_L1
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Vlachogiannis2015CellRep_Prospermatogonia_R1_L1.bw
+         parent EmbryoGerm on
+         
+         track Wang2014Cell_Oocyte
+         type bigWig
+         shortLabel Wang2014Cell_Oocyte
+         longLabel Wang2014Cell_Oocyte
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_Oocyte.bw
+         parent EmbryoGerm on
+         
+         track Wang2014Cell_PGC-male
+         type bigWig
+         shortLabel Wang2014Cell_PGC-male
+         longLabel Wang2014Cell_PGC-male
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_PGC-male.bw
+         parent EmbryoGerm on
+         
+         track Wang2014Cell_PGC-female
+         type bigWig
+         shortLabel Wang2014Cell_PGC-female
+         longLabel Wang2014Cell_PGC-female
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_PGC-female.bw
+         parent EmbryoGerm on
+
+         track Wang2014Cell_Sperm
+         type bigWig
+         shortLabel Wang2014Cell_Sperm
+         longLabel Wang2014Cell_Sperm
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Wang2014Cell_Sperm.bw
+         parent EmbryoGerm on
+
+track Fetal
+type bigWig
+shortLabel DNAme
+longLabel DNAme
+superTrack on show
+viewLimits 0.0:1.0
+color 152,78,163
+autoScale on
+maxHeightPixels 100:15:5
+visibility hide
+
+           track embryonic_10.5_forebrain_ENCFF365XZL
+           type bigWig
+           shortLabel embryonic_10.5_forebrain_ENCFF365XZL
+           longLabel embryonic_10.5_forebrain_ENCFF365XZL
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_forebrain_ENCFF365XZL.bw
+           parent Fetal on
+           
+           track embryonic_10.5_forebrain_ENCFF977BKF
+           type bigWig
+           shortLabel embryonic_10.5_forebrain_ENCFF977BKF
+           longLabel embryonic_10.5_forebrain_ENCFF977BKF
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_forebrain_ENCFF977BKF.bw
+           
+           track embryonic_11.5_forebrain_ENCFF530SDQ
+           type bigWig
+           shortLabel embryonic_11.5_forebrain_ENCFF530SDQ
+           longLabel embryonic_11.5_forebrain_ENCFF530SDQ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_forebrain_ENCFF530SDQ.bw
+           
+           track embryonic_11.5_forebrain_ENCFF144FZS
+           type bigWig
+           shortLabel embryonic_11.5_forebrain_ENCFF144FZS
+           longLabel embryonic_11.5_forebrain_ENCFF144FZS
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_forebrain_ENCFF144FZS.bw
+           
+           track embryonic_12.5_forebrain_ENCFF326BGA
+           type bigWig
+           shortLabel embryonic_12.5_forebrain_ENCFF326BGA
+           longLabel embryonic_12.5_forebrain_ENCFF326BGA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_forebrain_ENCFF326BGA.bw
+           
+           track embryonic_12.5_forebrain_ENCFF078XSR
+           type bigWig
+           shortLabel embryonic_12.5_forebrain_ENCFF078XSR
+           longLabel embryonic_12.5_forebrain_ENCFF078XSR
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_forebrain_ENCFF078XSR.bw
+           
+           track embryonic_13.5_forebrain_ENCFF140TCV
+           type bigWig
+           shortLabel embryonic_13.5_forebrain_ENCFF140TCV
+           longLabel embryonic_13.5_forebrain_ENCFF140TCV
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_forebrain_ENCFF140TCV.bw
+           
+           track embryonic_13.5_forebrain_ENCFF356GTX
+           type bigWig
+           shortLabel embryonic_13.5_forebrain_ENCFF356GTX
+           longLabel embryonic_13.5_forebrain_ENCFF356GTX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_forebrain_ENCFF356GTX.bw
+           
+           track embryonic_14.5_forebrain_ENCFF321BQX
+           type bigWig
+           shortLabel embryonic_14.5_forebrain_ENCFF321BQX
+           longLabel embryonic_14.5_forebrain_ENCFF321BQX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_forebrain_ENCFF321BQX.bw
+           
+           track embryonic_14.5_forebrain_ENCFF873SBV
+           type bigWig
+           shortLabel embryonic_14.5_forebrain_ENCFF873SBV
+           longLabel embryonic_14.5_forebrain_ENCFF873SBV
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_forebrain_ENCFF873SBV.bw
+           
+           track embryonic_15.5_forebrain_ENCFF146KIN
+           type bigWig
+           shortLabel embryonic_15.5_forebrain_ENCFF146KIN
+           longLabel embryonic_15.5_forebrain_ENCFF146KIN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_forebrain_ENCFF146KIN.bw
+           
+           track embryonic_15.5_forebrain_ENCFF310XUL
+           type bigWig
+           shortLabel embryonic_15.5_forebrain_ENCFF310XUL
+           longLabel embryonic_15.5_forebrain_ENCFF310XUL
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_forebrain_ENCFF310XUL.bw
+           
+           track embryonic_16.5_forebrain_ENCFF592SYK
+           type bigWig
+           shortLabel embryonic_16.5_forebrain_ENCFF592SYK
+           longLabel embryonic_16.5_forebrain_ENCFF592SYK
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_forebrain_ENCFF592SYK.bw
+           
+           track embryonic_16.5_forebrain_ENCFF098QRE
+           type bigWig
+           shortLabel embryonic_16.5_forebrain_ENCFF098QRE
+           longLabel embryonic_16.5_forebrain_ENCFF098QRE
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_forebrain_ENCFF098QRE.bw
+           
+           track embryonic_10.5_hindbrain_ENCFF550IDR
+           type bigWig
+           shortLabel embryonic_10.5_hindbrain_ENCFF550IDR
+           longLabel embryonic_10.5_hindbrain_ENCFF550IDR
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_hindbrain_ENCFF550IDR.bw
+           
+           track embryonic_10.5_hindbrain_ENCFF507ENU
+           type bigWig
+           shortLabel embryonic_10.5_hindbrain_ENCFF507ENU
+           longLabel embryonic_10.5_hindbrain_ENCFF507ENU
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_hindbrain_ENCFF507ENU.bw
+           
+           track embryonic_12.5_hindbrain_ENCFF599BKR
+           type bigWig
+           shortLabel embryonic_12.5_hindbrain_ENCFF599BKR
+           longLabel embryonic_12.5_hindbrain_ENCFF599BKR
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_hindbrain_ENCFF599BKR.bw
+           
+           track embryonic_12.5_hindbrain_ENCFF172LOQ
+           type bigWig
+           shortLabel embryonic_12.5_hindbrain_ENCFF172LOQ
+           longLabel embryonic_12.5_hindbrain_ENCFF172LOQ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_hindbrain_ENCFF172LOQ.bw
+           
+           track embryonic_13.5_hindbrain_ENCFF894POI
+           type bigWig
+           shortLabel embryonic_13.5_hindbrain_ENCFF894POI
+           longLabel embryonic_13.5_hindbrain_ENCFF894POI
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_hindbrain_ENCFF894POI.bw
+           
+           track embryonic_13.5_hindbrain_ENCFF467JWP
+           type bigWig
+           shortLabel embryonic_13.5_hindbrain_ENCFF467JWP
+           longLabel embryonic_13.5_hindbrain_ENCFF467JWP
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_hindbrain_ENCFF467JWP.bw
+           
+           track embryonic_14.5_hindbrain_ENCFF362ENF
+           type bigWig
+           shortLabel embryonic_14.5_hindbrain_ENCFF362ENF
+           longLabel embryonic_14.5_hindbrain_ENCFF362ENF
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_hindbrain_ENCFF362ENF.bw
+           
+           track embryonic_14.5_hindbrain_ENCFF434IOR
+           type bigWig
+           shortLabel embryonic_14.5_hindbrain_ENCFF434IOR
+           longLabel embryonic_14.5_hindbrain_ENCFF434IOR
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_hindbrain_ENCFF434IOR.bw
+           
+           track embryonic_15.5_hindbrain_ENCFF941BTB
+           type bigWig
+           shortLabel embryonic_15.5_hindbrain_ENCFF941BTB
+           longLabel embryonic_15.5_hindbrain_ENCFF941BTB
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_hindbrain_ENCFF941BTB.bw
+           
+           track embryonic_15.5_hindbrain_ENCFF949ZVJ
+           type bigWig
+           shortLabel embryonic_15.5_hindbrain_ENCFF949ZVJ
+           longLabel embryonic_15.5_hindbrain_ENCFF949ZVJ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_hindbrain_ENCFF949ZVJ.bw
+           
+           track embryonic_16.5_hindbrain_ENCFF994CUN
+           type bigWig
+           shortLabel embryonic_16.5_hindbrain_ENCFF994CUN
+           longLabel embryonic_16.5_hindbrain_ENCFF994CUN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_hindbrain_ENCFF994CUN.bw
+           
+           track embryonic_16.5_hindbrain_ENCFF407TGX
+           type bigWig
+           shortLabel embryonic_16.5_hindbrain_ENCFF407TGX
+           longLabel embryonic_16.5_hindbrain_ENCFF407TGX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_hindbrain_ENCFF407TGX.bw
+           
+           track embryonic_10.5_midbrain_ENCFF995WMY
+           type bigWig
+           shortLabel embryonic_10.5_midbrain_ENCFF995WMY
+           longLabel embryonic_10.5_midbrain_ENCFF995WMY
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_midbrain_ENCFF995WMY.bw
+           
+           track embryonic_10.5_midbrain_ENCFF672VOP
+           type bigWig
+           shortLabel embryonic_10.5_midbrain_ENCFF672VOP
+           longLabel embryonic_10.5_midbrain_ENCFF672VOP
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_midbrain_ENCFF672VOP.bw
+           
+           track embryonic_11.5_midbrain_ENCFF750DYD
+           type bigWig
+           shortLabel embryonic_11.5_midbrain_ENCFF750DYD
+           longLabel embryonic_11.5_midbrain_ENCFF750DYD
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_midbrain_ENCFF750DYD.bw
+           
+           track embryonic_11.5_midbrain_ENCFF611XAY
+           type bigWig
+           shortLabel embryonic_11.5_midbrain_ENCFF611XAY
+           longLabel embryonic_11.5_midbrain_ENCFF611XAY
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_midbrain_ENCFF611XAY.bw
+           
+           track embryonic_12.5_midbrain_ENCFF390NTN
+           type bigWig
+           shortLabel embryonic_12.5_midbrain_ENCFF390NTN
+           longLabel embryonic_12.5_midbrain_ENCFF390NTN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_midbrain_ENCFF390NTN.bw
+           
+           track embryonic_12.5_midbrain_ENCFF393VFF
+           type bigWig
+           shortLabel embryonic_12.5_midbrain_ENCFF393VFF
+           longLabel embryonic_12.5_midbrain_ENCFF393VFF
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_midbrain_ENCFF393VFF.bw
+           
+           track embryonic_13.5_midbrain_ENCFF646TSJ
+           type bigWig
+           shortLabel embryonic_13.5_midbrain_ENCFF646TSJ
+           longLabel embryonic_13.5_midbrain_ENCFF646TSJ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_midbrain_ENCFF646TSJ.bw
+           
+           track embryonic_13.5_midbrain_ENCFF326GKU
+           type bigWig
+           shortLabel embryonic_13.5_midbrain_ENCFF326GKU
+           longLabel embryonic_13.5_midbrain_ENCFF326GKU
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_midbrain_ENCFF326GKU.bw
+           
+           track embryonic_14.5_midbrain_ENCFF793ZHN
+           type bigWig
+           shortLabel embryonic_14.5_midbrain_ENCFF793ZHN
+           longLabel embryonic_14.5_midbrain_ENCFF793ZHN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_midbrain_ENCFF793ZHN.bw
+           
+           track embryonic_14.5_midbrain_ENCFF897NOL
+           type bigWig
+           shortLabel embryonic_14.5_midbrain_ENCFF897NOL
+           longLabel embryonic_14.5_midbrain_ENCFF897NOL
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_midbrain_ENCFF897NOL.bw
+           
+           track embryonic_15.5_midbrain_ENCFF426XRG
+           type bigWig
+           shortLabel embryonic_15.5_midbrain_ENCFF426XRG
+           longLabel embryonic_15.5_midbrain_ENCFF426XRG
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_midbrain_ENCFF426XRG.bw
+           
+           track embryonic_15.5_midbrain_ENCFF688RHG
+           type bigWig
+           shortLabel embryonic_15.5_midbrain_ENCFF688RHG
+           longLabel embryonic_15.5_midbrain_ENCFF688RHG
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_midbrain_ENCFF688RHG.bw
+           
+           track embryonic_16.5_midbrain_ENCFF320XZV
+           type bigWig
+           shortLabel embryonic_16.5_midbrain_ENCFF320XZV
+           longLabel embryonic_16.5_midbrain_ENCFF320XZV
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_midbrain_ENCFF320XZV.bw
+           
+           track embryonic_16.5_midbrain_ENCFF796POX
+           type bigWig
+           shortLabel embryonic_16.5_midbrain_ENCFF796POX
+           longLabel embryonic_16.5_midbrain_ENCFF796POX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_midbrain_ENCFF796POX.bw
+           
+           track embryonic_11.5_neural_tube_ENCFF943HMN
+           type bigWig
+           shortLabel embryonic_11.5_neural_tube_ENCFF943HMN
+           longLabel embryonic_11.5_neural_tube_ENCFF943HMN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_neural_tube_ENCFF943HMN.bw
+           
+           track embryonic_11.5_neural_tube_ENCFF859JHQ
+           type bigWig
+           shortLabel embryonic_11.5_neural_tube_ENCFF859JHQ
+           longLabel embryonic_11.5_neural_tube_ENCFF859JHQ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_neural_tube_ENCFF859JHQ.bw
+           
+           track embryonic_12.5_neural_tube_ENCFF697TML
+           type bigWig
+           shortLabel embryonic_12.5_neural_tube_ENCFF697TML
+           longLabel embryonic_12.5_neural_tube_ENCFF697TML
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_neural_tube_ENCFF697TML.bw
+           
+           track embryonic_12.5_neural_tube_ENCFF231BLL
+           type bigWig
+           shortLabel embryonic_12.5_neural_tube_ENCFF231BLL
+           longLabel embryonic_12.5_neural_tube_ENCFF231BLL
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_neural_tube_ENCFF231BLL.bw
+           
+           track embryonic_14.5_neural_tube_ENCFF152IRW
+           type bigWig
+           shortLabel embryonic_14.5_neural_tube_ENCFF152IRW
+           longLabel embryonic_14.5_neural_tube_ENCFF152IRW
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_neural_tube_ENCFF152IRW.bw
+           
+           track embryonic_14.5_neural_tube_ENCFF937GFF
+           type bigWig
+           shortLabel embryonic_14.5_neural_tube_ENCFF937GFF
+           longLabel embryonic_14.5_neural_tube_ENCFF937GFF
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_neural_tube_ENCFF937GFF.bw
+           
+           track embryonic_15.5_neural_tube_ENCFF192NIG
+           type bigWig
+           shortLabel embryonic_15.5_neural_tube_ENCFF192NIG
+           longLabel embryonic_15.5_neural_tube_ENCFF192NIG
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_neural_tube_ENCFF192NIG.bw
+           
+           track embryonic_15.5_neural_tube_ENCFF115JNG
+           type bigWig
+           shortLabel embryonic_15.5_neural_tube_ENCFF115JNG
+           longLabel embryonic_15.5_neural_tube_ENCFF115JNG
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_neural_tube_ENCFF115JNG.bw
+           
+           track embryonic_10.5_embryonic_facial_prominence_ENCFF095VLL
+           type bigWig
+           shortLabel embryonic_10.5_embryonic_facial_prominence_ENCFF095VLL
+           longLabel embryonic_10.5_embryonic_facial_prominence_ENCFF095VLL
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_embryonic_facial_prominence_ENCFF095VLL.bw
+           
+           track embryonic_10.5_embryonic_facial_prominence_ENCFF886MNA
+           type bigWig
+           shortLabel embryonic_10.5_embryonic_facial_prominence_ENCFF886MNA
+           longLabel embryonic_10.5_embryonic_facial_prominence_ENCFF886MNA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_embryonic_facial_prominence_ENCFF886MNA.bw
+           
+           track embryonic_11.5_embryonic_facial_prominence_ENCFF083XWZ
+           type bigWig
+           shortLabel embryonic_11.5_embryonic_facial_prominence_ENCFF083XWZ
+           longLabel embryonic_11.5_embryonic_facial_prominence_ENCFF083XWZ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_embryonic_facial_prominence_ENCFF083XWZ.bw
+           
+           track embryonic_11.5_embryonic_facial_prominence_ENCFF306DKT
+           type bigWig
+           shortLabel embryonic_11.5_embryonic_facial_prominence_ENCFF306DKT
+           longLabel embryonic_11.5_embryonic_facial_prominence_ENCFF306DKT
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_embryonic_facial_prominence_ENCFF306DKT.bw
+           
+           track embryonic_12.5_embryonic_facial_prominence_ENCFF497NGX
+           type bigWig
+           shortLabel embryonic_12.5_embryonic_facial_prominence_ENCFF497NGX
+           longLabel embryonic_12.5_embryonic_facial_prominence_ENCFF497NGX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_embryonic_facial_prominence_ENCFF497NGX.bw
+           
+           track embryonic_12.5_embryonic_facial_prominence_ENCFF698HGV
+           type bigWig
+           shortLabel embryonic_12.5_embryonic_facial_prominence_ENCFF698HGV
+           longLabel embryonic_12.5_embryonic_facial_prominence_ENCFF698HGV
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_embryonic_facial_prominence_ENCFF698HGV.bw
+           
+           track embryonic_13.5_embryonic_facial_prominence_ENCFF311GQV
+           type bigWig
+           shortLabel embryonic_13.5_embryonic_facial_prominence_ENCFF311GQV
+           longLabel embryonic_13.5_embryonic_facial_prominence_ENCFF311GQV
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_embryonic_facial_prominence_ENCFF311GQV.bw
+           
+           track embryonic_13.5_embryonic_facial_prominence_ENCFF235LSX
+           type bigWig
+           shortLabel embryonic_13.5_embryonic_facial_prominence_ENCFF235LSX
+           longLabel embryonic_13.5_embryonic_facial_prominence_ENCFF235LSX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_embryonic_facial_prominence_ENCFF235LSX.bw
+           
+           track embryonic_14.5_embryonic_facial_prominence_ENCFF989UNH
+           type bigWig
+           shortLabel embryonic_14.5_embryonic_facial_prominence_ENCFF989UNH
+           longLabel embryonic_14.5_embryonic_facial_prominence_ENCFF989UNH
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_embryonic_facial_prominence_ENCFF989UNH.bw
+           
+           track embryonic_14.5_embryonic_facial_prominence_ENCFF686ZQQ
+           type bigWig
+           shortLabel embryonic_14.5_embryonic_facial_prominence_ENCFF686ZQQ
+           longLabel embryonic_14.5_embryonic_facial_prominence_ENCFF686ZQQ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_embryonic_facial_prominence_ENCFF686ZQQ.bw
+           
+           track embryonic_15.5_embryonic_facial_prominence_ENCFF396QSA
+           type bigWig
+           shortLabel embryonic_15.5_embryonic_facial_prominence_ENCFF396QSA
+           longLabel embryonic_15.5_embryonic_facial_prominence_ENCFF396QSA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_embryonic_facial_prominence_ENCFF396QSA.bw
+           
+           track embryonic_15.5_embryonic_facial_prominence_ENCFF581CMO
+           type bigWig
+           shortLabel embryonic_15.5_embryonic_facial_prominence_ENCFF581CMO
+           longLabel embryonic_15.5_embryonic_facial_prominence_ENCFF581CMO
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_embryonic_facial_prominence_ENCFF581CMO.bw
+           
+           track embryonic_10.5_heart_ENCFF428AXW
+           type bigWig
+           shortLabel embryonic_10.5_heart_ENCFF428AXW
+           longLabel embryonic_10.5_heart_ENCFF428AXW
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_heart_ENCFF428AXW.bw
+           
+           track embryonic_10.5_heart_ENCFF751DLO
+           type bigWig
+           shortLabel embryonic_10.5_heart_ENCFF751DLO
+           longLabel embryonic_10.5_heart_ENCFF751DLO
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_heart_ENCFF751DLO.bw
+           
+           track embryonic_11.5_heart_ENCFF008KDS
+           type bigWig
+           shortLabel embryonic_11.5_heart_ENCFF008KDS
+           longLabel embryonic_11.5_heart_ENCFF008KDS
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_heart_ENCFF008KDS.bw
+           
+           track embryonic_11.5_heart_ENCFF107UNJ
+           type bigWig
+           shortLabel embryonic_11.5_heart_ENCFF107UNJ
+           longLabel embryonic_11.5_heart_ENCFF107UNJ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_heart_ENCFF107UNJ.bw
+           
+           track embryonic_12.5_heart_ENCFF816XTJ
+           type bigWig
+           shortLabel embryonic_12.5_heart_ENCFF816XTJ
+           longLabel embryonic_12.5_heart_ENCFF816XTJ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_heart_ENCFF816XTJ.bw
+           
+           track embryonic_12.5_heart_ENCFF464PLY
+           type bigWig
+           shortLabel embryonic_12.5_heart_ENCFF464PLY
+           longLabel embryonic_12.5_heart_ENCFF464PLY
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_heart_ENCFF464PLY.bw
+           
+           track embryonic_14.5_heart_ENCFF203TRR
+           type bigWig
+           shortLabel embryonic_14.5_heart_ENCFF203TRR
+           longLabel embryonic_14.5_heart_ENCFF203TRR
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_heart_ENCFF203TRR.bw
+           
+           track embryonic_14.5_heart_ENCFF925EPJ
+           type bigWig
+           shortLabel embryonic_14.5_heart_ENCFF925EPJ
+           longLabel embryonic_14.5_heart_ENCFF925EPJ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_heart_ENCFF925EPJ.bw
+           
+           track embryonic_15.5_heart_ENCFF963WCA
+           type bigWig
+           shortLabel embryonic_15.5_heart_ENCFF963WCA
+           longLabel embryonic_15.5_heart_ENCFF963WCA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_heart_ENCFF963WCA.bw
+           
+           track embryonic_15.5_heart_ENCFF951TJQ
+           type bigWig
+           shortLabel embryonic_15.5_heart_ENCFF951TJQ
+           longLabel embryonic_15.5_heart_ENCFF951TJQ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_heart_ENCFF951TJQ.bw
+           
+           track embryonic_16.5_heart_ENCFF633ZDN
+           type bigWig
+           shortLabel embryonic_16.5_heart_ENCFF633ZDN
+           longLabel embryonic_16.5_heart_ENCFF633ZDN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_heart_ENCFF633ZDN.bw
+           
+           track embryonic_16.5_heart_ENCFF574RDQ
+           type bigWig
+           shortLabel embryonic_16.5_heart_ENCFF574RDQ
+           longLabel embryonic_16.5_heart_ENCFF574RDQ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_heart_ENCFF574RDQ.bw
+           
+           track embryonic_14.5_intestine_ENCFF232RQE
+           type bigWig
+           shortLabel embryonic_14.5_intestine_ENCFF232RQE
+           longLabel embryonic_14.5_intestine_ENCFF232RQE
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_intestine_ENCFF232RQE.bw
+           
+           track embryonic_14.5_intestine_ENCFF550JOH
+           type bigWig
+           shortLabel embryonic_14.5_intestine_ENCFF550JOH
+           longLabel embryonic_14.5_intestine_ENCFF550JOH
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_intestine_ENCFF550JOH.bw
+           
+           track embryonic_15.5_intestine_ENCFF963EBD
+           type bigWig
+           shortLabel embryonic_15.5_intestine_ENCFF963EBD
+           longLabel embryonic_15.5_intestine_ENCFF963EBD
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_intestine_ENCFF963EBD.bw
+           
+           track embryonic_15.5_intestine_ENCFF488REA
+           type bigWig
+           shortLabel embryonic_15.5_intestine_ENCFF488REA
+           longLabel embryonic_15.5_intestine_ENCFF488REA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_intestine_ENCFF488REA.bw
+           
+           track embryonic_16.5_intestine_ENCFF895RRK
+           type bigWig
+           shortLabel embryonic_16.5_intestine_ENCFF895RRK
+           longLabel embryonic_16.5_intestine_ENCFF895RRK
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_intestine_ENCFF895RRK.bw
+           
+           track embryonic_16.5_intestine_ENCFF690ADB
+           type bigWig
+           shortLabel embryonic_16.5_intestine_ENCFF690ADB
+           longLabel embryonic_16.5_intestine_ENCFF690ADB
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_intestine_ENCFF690ADB.bw
+           
+           track embryonic_14.5_kidney_ENCFF078LCR
+           type bigWig
+           shortLabel embryonic_14.5_kidney_ENCFF078LCR
+           longLabel embryonic_14.5_kidney_ENCFF078LCR
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_kidney_ENCFF078LCR.bw
+           
+           track embryonic_14.5_kidney_ENCFF783ZZK
+           type bigWig
+           shortLabel embryonic_14.5_kidney_ENCFF783ZZK
+           longLabel embryonic_14.5_kidney_ENCFF783ZZK
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_kidney_ENCFF783ZZK.bw
+           
+           track embryonic_16.5_kidney_ENCFF478YVH
+           type bigWig
+           shortLabel embryonic_16.5_kidney_ENCFF478YVH
+           longLabel embryonic_16.5_kidney_ENCFF478YVH
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_kidney_ENCFF478YVH.bw
+           
+           track embryonic_16.5_kidney_ENCFF444WNU
+           type bigWig
+           shortLabel embryonic_16.5_kidney_ENCFF444WNU
+           longLabel embryonic_16.5_kidney_ENCFF444WNU
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_kidney_ENCFF444WNU.bw
+           
+           track embryonic_10.5_limb_ENCFF572FTW
+           type bigWig
+           shortLabel embryonic_10.5_limb_ENCFF572FTW
+           longLabel embryonic_10.5_limb_ENCFF572FTW
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_limb_ENCFF572FTW.bw
+           
+           track embryonic_10.5_limb_ENCFF558LRK
+           type bigWig
+           shortLabel embryonic_10.5_limb_ENCFF558LRK
+           longLabel embryonic_10.5_limb_ENCFF558LRK
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_10.5_limb_ENCFF558LRK.bw
+           
+           track embryonic_11.5_limb_ENCFF644JJD
+           type bigWig
+           shortLabel embryonic_11.5_limb_ENCFF644JJD
+           longLabel embryonic_11.5_limb_ENCFF644JJD
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_limb_ENCFF644JJD.bw
+           
+           track embryonic_11.5_limb_ENCFF800JCD
+           type bigWig
+           shortLabel embryonic_11.5_limb_ENCFF800JCD
+           longLabel embryonic_11.5_limb_ENCFF800JCD
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_limb_ENCFF800JCD.bw
+           
+           track embryonic_12.5_limb_ENCFF080DSY
+           type bigWig
+           shortLabel embryonic_12.5_limb_ENCFF080DSY
+           longLabel embryonic_12.5_limb_ENCFF080DSY
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_limb_ENCFF080DSY.bw
+           
+           track embryonic_12.5_limb_ENCFF103DRR
+           type bigWig
+           shortLabel embryonic_12.5_limb_ENCFF103DRR
+           longLabel embryonic_12.5_limb_ENCFF103DRR
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_limb_ENCFF103DRR.bw
+           
+           track embryonic_13.5_limb_ENCFF556ENA
+           type bigWig
+           shortLabel embryonic_13.5_limb_ENCFF556ENA
+           longLabel embryonic_13.5_limb_ENCFF556ENA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_limb_ENCFF556ENA.bw
+           
+           track embryonic_13.5_limb_ENCFF834PXN
+           type bigWig
+           shortLabel embryonic_13.5_limb_ENCFF834PXN
+           longLabel embryonic_13.5_limb_ENCFF834PXN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_limb_ENCFF834PXN.bw
+           
+           track embryonic_14.5_limb_ENCFF038IVS
+           type bigWig
+           shortLabel embryonic_14.5_limb_ENCFF038IVS
+           longLabel embryonic_14.5_limb_ENCFF038IVS
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_limb_ENCFF038IVS.bw
+           
+           track embryonic_14.5_limb_ENCFF176VLZ
+           type bigWig
+           shortLabel embryonic_14.5_limb_ENCFF176VLZ
+           longLabel embryonic_14.5_limb_ENCFF176VLZ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_limb_ENCFF176VLZ.bw
+           
+           track embryonic_15.5_limb_ENCFF613ASH
+           type bigWig
+           shortLabel embryonic_15.5_limb_ENCFF613ASH
+           longLabel embryonic_15.5_limb_ENCFF613ASH
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_limb_ENCFF613ASH.bw
+           
+           track embryonic_15.5_limb_ENCFF724AJN
+           type bigWig
+           shortLabel embryonic_15.5_limb_ENCFF724AJN
+           longLabel embryonic_15.5_limb_ENCFF724AJN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_limb_ENCFF724AJN.bw
+           
+           track embryonic_11.5_liver_ENCFF306MCB
+           type bigWig
+           shortLabel embryonic_11.5_liver_ENCFF306MCB
+           longLabel embryonic_11.5_liver_ENCFF306MCB
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_liver_ENCFF306MCB.bw
+           
+           track embryonic_11.5_liver_ENCFF903TZX
+           type bigWig
+           shortLabel embryonic_11.5_liver_ENCFF903TZX
+           longLabel embryonic_11.5_liver_ENCFF903TZX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_11.5_liver_ENCFF903TZX.bw
+           
+           track embryonic_12.5_liver_ENCFF134ECD
+           type bigWig
+           shortLabel embryonic_12.5_liver_ENCFF134ECD
+           longLabel embryonic_12.5_liver_ENCFF134ECD
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_liver_ENCFF134ECD.bw
+           
+           track embryonic_12.5_liver_ENCFF624JYN
+           type bigWig
+           shortLabel embryonic_12.5_liver_ENCFF624JYN
+           longLabel embryonic_12.5_liver_ENCFF624JYN
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_12.5_liver_ENCFF624JYN.bw
+           
+           track embryonic_13.5_liver_ENCFF516VJL
+           type bigWig
+           shortLabel embryonic_13.5_liver_ENCFF516VJL
+           longLabel embryonic_13.5_liver_ENCFF516VJL
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_liver_ENCFF516VJL.bw
+           
+           track embryonic_13.5_liver_ENCFF178WUX
+           type bigWig
+           shortLabel embryonic_13.5_liver_ENCFF178WUX
+           longLabel embryonic_13.5_liver_ENCFF178WUX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_13.5_liver_ENCFF178WUX.bw
+           
+           track embryonic_14.5_liver_ENCFF288JXO
+           type bigWig
+           shortLabel embryonic_14.5_liver_ENCFF288JXO
+           longLabel embryonic_14.5_liver_ENCFF288JXO
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_liver_ENCFF288JXO.bw
+           
+           track embryonic_14.5_liver_ENCFF079JQZ
+           type bigWig
+           shortLabel embryonic_14.5_liver_ENCFF079JQZ
+           longLabel embryonic_14.5_liver_ENCFF079JQZ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_liver_ENCFF079JQZ.bw
+           
+           track embryonic_15.5_liver_ENCFF553AFX
+           type bigWig
+           shortLabel embryonic_15.5_liver_ENCFF553AFX
+           longLabel embryonic_15.5_liver_ENCFF553AFX
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_liver_ENCFF553AFX.bw
+           
+           track embryonic_15.5_liver_ENCFF371FSG
+           type bigWig
+           shortLabel embryonic_15.5_liver_ENCFF371FSG
+           longLabel embryonic_15.5_liver_ENCFF371FSG
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_liver_ENCFF371FSG.bw
+           
+           track embryonic_16.5_liver_ENCFF243ELJ
+           type bigWig
+           shortLabel embryonic_16.5_liver_ENCFF243ELJ
+           longLabel embryonic_16.5_liver_ENCFF243ELJ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_liver_ENCFF243ELJ.bw
+           
+           track embryonic_16.5_liver_ENCFF363NVM
+           type bigWig
+           shortLabel embryonic_16.5_liver_ENCFF363NVM
+           longLabel embryonic_16.5_liver_ENCFF363NVM
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_liver_ENCFF363NVM.bw
+           
+           track embryonic_14.5_lung_ENCFF054AYU
+           type bigWig
+           shortLabel embryonic_14.5_lung_ENCFF054AYU
+           longLabel embryonic_14.5_lung_ENCFF054AYU
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_lung_ENCFF054AYU.bw
+           
+           track embryonic_14.5_lung_ENCFF070FVI
+           type bigWig
+           shortLabel embryonic_14.5_lung_ENCFF070FVI
+           longLabel embryonic_14.5_lung_ENCFF070FVI
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_lung_ENCFF070FVI.bw
+           
+           track embryonic_15.5_lung_ENCFF138NBE
+           type bigWig
+           shortLabel embryonic_15.5_lung_ENCFF138NBE
+           longLabel embryonic_15.5_lung_ENCFF138NBE
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_lung_ENCFF138NBE.bw
+           
+           track embryonic_15.5_lung_ENCFF922AMS
+           type bigWig
+           shortLabel embryonic_15.5_lung_ENCFF922AMS
+           longLabel embryonic_15.5_lung_ENCFF922AMS
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_lung_ENCFF922AMS.bw
+           
+           track embryonic_16.5_lung_ENCFF359CFG
+           type bigWig
+           shortLabel embryonic_16.5_lung_ENCFF359CFG
+           longLabel embryonic_16.5_lung_ENCFF359CFG
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_lung_ENCFF359CFG.bw
+           
+           track embryonic_16.5_lung_ENCFF222XYK
+           type bigWig
+           shortLabel embryonic_16.5_lung_ENCFF222XYK
+           longLabel embryonic_16.5_lung_ENCFF222XYK
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_lung_ENCFF222XYK.bw
+           
+           track embryonic_14.5_stomach_ENCFF029NDO
+           type bigWig
+           shortLabel embryonic_14.5_stomach_ENCFF029NDO
+           longLabel embryonic_14.5_stomach_ENCFF029NDO
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_stomach_ENCFF029NDO.bw
+           
+           track embryonic_14.5_stomach_ENCFF720OAC
+           type bigWig
+           shortLabel embryonic_14.5_stomach_ENCFF720OAC
+           longLabel embryonic_14.5_stomach_ENCFF720OAC
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_14.5_stomach_ENCFF720OAC.bw
+           
+           track embryonic_15.5_stomach_ENCFF301QSZ
+           type bigWig
+           shortLabel embryonic_15.5_stomach_ENCFF301QSZ
+           longLabel embryonic_15.5_stomach_ENCFF301QSZ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_stomach_ENCFF301QSZ.bw
+           
+           track embryonic_15.5_stomach_ENCFF880SXA
+           type bigWig
+           shortLabel embryonic_15.5_stomach_ENCFF880SXA
+           longLabel embryonic_15.5_stomach_ENCFF880SXA
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_15.5_stomach_ENCFF880SXA.bw
+           
+           track embryonic_16.5_stomach_ENCFF803ATF
+           type bigWig
+           shortLabel embryonic_16.5_stomach_ENCFF803ATF
+           longLabel embryonic_16.5_stomach_ENCFF803ATF
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_stomach_ENCFF803ATF.bw
+           
+           track embryonic_16.5_stomach_ENCFF532SZJ
+           type bigWig
+           shortLabel embryonic_16.5_stomach_ENCFF532SZJ
+           longLabel embryonic_16.5_stomach_ENCFF532SZJ
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/embryonic_16.5_stomach_ENCFF532SZJ.bw
+           
+           track Hon2013NatureG_GSM1051161_placenta
+           type bigWig
+           shortLabel Hon2013NatureG_GSM1051161_placenta
+           longLabel Hon2013NatureG_GSM1051161_placenta
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/Hon2013NatureG_GSM1051161_placenta.bw
+           
+           track Lister2013Science_FetalFrontCortex
+           type bigWig
+           shortLabel Lister2013Science_FetalFrontCortex
+           longLabel Lister2013Science_FetalFrontCortex
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/Lister2013Science_FetalFrontCortex.bw
+           
+           track Whitelaw2015GSE58108_E14.5-Liver-WT
+           type bigWig
+           shortLabel Whitelaw2015GSE58108_E14.5-Liver-WT
+           longLabel Whitelaw2015GSE58108_E14.5-Liver-WT
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/Whitelaw2015GSE58108_E14.5-Liver-WT.bw
+           
+           track Whitelaw2015GSE58108_E18.5-Liver-WT
+           type bigWig
+           shortLabel Whitelaw2015GSE58108_E18.5-Liver-WT
+           longLabel Whitelaw2015GSE58108_E18.5-Liver-WT
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/Whitelaw2015GSE58108_E18.5-Liver-WT.bw
+           
+           track Whitelaw2015GSE58108_E10.5-Embryo-WT
+           type bigWig
+           shortLabel Whitelaw2015GSE58108_E10.5-Embryo-WT
+           longLabel Whitelaw2015GSE58108_E10.5-Embryo-WT
+           bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/Fetal/Whitelaw2015GSE58108_E10.5-Embryo-WT.bw
+           

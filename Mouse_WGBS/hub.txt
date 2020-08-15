@@ -1,0 +1,5 @@
+hub Mouse_WGBS
+shortLabel Mouse_WGBS
+longLabel Mouse WGBS, Embryo, Fetal and Postnatal
+genomesFile genomes.txt
+email wanding.zhou@pennmedicine.upenn.edu
