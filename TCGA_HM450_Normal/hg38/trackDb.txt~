@@ -1,0 +1,625 @@
+track TCGA_BLCA_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel BLCA
+longLabel TCGA_BLCA
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility hide
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track BLCA_NA20V
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_NA20V
+         longLabel  BLCA_NA20V
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BLCA_NA20V.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BLCA_A20V
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_A20V
+         longLabel  BLCA_A20V
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BLCA_A20V.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BLCA_A13J
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_A13J
+         longLabel  BLCA_A13J
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BLCA_A13J.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BLCA_A1AA
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_A1AA
+         longLabel  BLCA_A1AA
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BLCA_A1AA.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BLCA_A1AG
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_A1AG
+         longLabel  BLCA_A1AG
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BLCA_A1AG.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BLCA_A2HQ
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_A2HQ
+         longLabel  BLCA_A2HQ
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BLCA_A2HQ.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BLCA_A2LA
+         parent TCGA_BLCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BLCA_A2LA
+         longLabel  BLCA_A2LA
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BLCA_A2LA.vcf.gz_cg_cov5.bw
+         priority 1
+
+track TCGA_BRCA_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel BRCA
+longLabel TCGA_BRCA
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility hide
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track BRCA_NA0CE
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BRCA_NA0CE
+         longLabel  BRCA_NA0CE
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BRCA_NA0CE.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BRCA_A0CE
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BRCA_A0CE
+         longLabel  BRCA_A0CE
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BRCA_A0CE.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BRCA_A04X
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BRCA_A04X
+         longLabel  BRCA_A04X
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BRCA_A04X.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BRCA_A07I
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BRCA_A07I
+         longLabel  BRCA_A07I
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BRCA_A07I.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BRCA_A0YG
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BRCA_A0YG
+         longLabel  BRCA_A0YG
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BRCA_A0YG.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track BRCA_A15H
+         parent TCGA_BRCA_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel BRCA_A15H
+         longLabel  BRCA_A15H
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_BRCA_A15H.vcf.gz_cg_cov5.bw
+         priority 1
+
+track TCGA_COAD_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel COAD
+longLabel TCGA_COAD
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track COAD_N3518
+         parent TCGA_COAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COAD_N3518
+         longLabel  COAD_N3518
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_COAD_N3518.vcf.gz_cg_cov5.bw
+         priority 1
+         
+         track COAD_3518
+         parent TCGA_COAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COAD_3518
+         longLabel  COAD_3518
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_COAD_3518.vcf.gz_cg_cov5.bw
+         priority 1
+         
+         track COAD_A00R
+         parent TCGA_COAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COAD_A00R
+         longLabel  COAD_A00R
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_COAD_A00R.vcf.gz_cg_cov5.bw
+         priority 1
+
+track TCGA_GBM_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel GBM
+longLabel TCGA_GBM
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility hide
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track GBM_0128
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel GBM_0128
+         longLabel  GBM_0128
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_GBM_0128.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track GBM_1401
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel GBM_1401
+         longLabel  GBM_1401
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_GBM_1401.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track GBM_1454
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel GBM_1454
+         longLabel  GBM_1454
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_GBM_1454.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track GBM_1460
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel GBM_1460
+         longLabel  GBM_1460
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_GBM_1460.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track GBM_1788
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel GBM_1788
+         longLabel  GBM_1788
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_GBM_1788.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track GBM_3477
+         parent TCGA_GBM_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel GBM_3477
+         longLabel  GBM_3477
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_GBM_3477.vcf.gz_cg_cov5.bw
+         priority 1
+
+track TCGA_LUAD_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel LUAD
+longLabel TCGA_LUAD
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility hide
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track LUAD_N6148
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUAD_N6148
+         longLabel  LUAD_N6148
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUAD_N6148.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track LUAD_6148
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUAD_6148
+         longLabel  LUAD_6148
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUAD_6148.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track LUAD_4630
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUAD_4630
+         longLabel  LUAD_4630
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUAD_4630.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track LUAD_6215
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUAD_6215
+         longLabel  LUAD_6215
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUAD_6215.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track LUAD_6840
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUAD_6840
+         longLabel  LUAD_6840
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUAD_6840.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track LUAD_7156
+         parent TCGA_LUAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUAD_7156
+         longLabel  LUAD_7156
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUAD_7156.vcf.gz_cg_cov5.bw
+         priority 1
+
+track TCGA_LUSC_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel LUSC
+longLabel TCGA_LUSC
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility hide
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track LUSC_N2722
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUSC_N2722
+         longLabel  LUSC_N2722
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUSC_N2722.vcf.gz_cg_cov5.bw
+         priority 1
+         
+         track LUSC_2722
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUSC_2722
+         longLabel  LUSC_2722
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUSC_2722.vcf.gz_cg_cov5.bw
+         priority 1
+         
+         track LUSC_1078
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUSC_1078
+         longLabel  LUSC_1078
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUSC_1078.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track LUSC_2600
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUSC_2600
+         longLabel  LUSC_2600
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUSC_2600.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track LUSC_2695
+         parent TCGA_LUSC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel LUSC_2695
+         longLabel  LUSC_2695
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_LUSC_2695.vcf.gz_cg_cov5.bw
+         priority 1
+
+track TCGA_READ_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel READ
+longLabel TCGA_READ
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility full
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track READ_N2689
+         parent TCGA_READ_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel READ_N2689
+         longLabel  READ_N2689
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_READ_N2689.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track READ_2689
+         parent TCGA_READ_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel READ_2689
+         longLabel  READ_2689
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_READ_2689.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track READ_3593
+         parent TCGA_READ_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel READ_3593
+         longLabel  READ_3593
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_READ_3593.vcf.gz_cg_cov5.bw
+         priority 1
+
+track TCGA_STAD_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel STAD
+longLabel TCGA_STAD
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility hide
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track STAD_N6452
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel STAD_N6452
+         longLabel  STAD_N6452
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_STAD_N6452.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track STAD_6452
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel STAD_6452
+         longLabel  STAD_6452
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_STAD_6452.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track STAD_5730
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel STAD_5730
+         longLabel  STAD_5730
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_STAD_5730.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track STAD_6177
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel STAD_6177
+         longLabel  STAD_6177
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_STAD_6177.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track STAD_6519
+         parent TCGA_STAD_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel STAD_6519
+         longLabel  STAD_6519
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_STAD_6519.vcf.gz_cg_cov5.bw
+         priority 1
+
+track TCGA_UCEC_WGBS_CpG_Beta_Values
+compositeTrack off
+shortLabel UCEC
+longLabel TCGA_UCEC
+type bigWig
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility hide
+allButtonPair on
+dragAndDrop on
+priority 2
+
+         track UCEC_NA1CI
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel UCEC_NA1CI
+         longLabel  UCEC_NA1CI
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_UCEC_NA1CI.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track UCEC_A1CI
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel UCEC_A1CI
+         longLabel  UCEC_A1CI
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_UCEC_A1CI.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track UCEC_A05J
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel UCEC_A05J
+         longLabel  UCEC_A05J
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_UCEC_A05J.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track UCEC_A0G2
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel UCEC_A0G2
+         longLabel  UCEC_A0G2
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_UCEC_A0G2.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track UCEC_A0K6
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel UCEC_A0K6
+         longLabel  UCEC_A0K6
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_UCEC_A0K6.vcf.gz_cg_cov5.bw
+         priority 1
+
+         track UCEC_A1CK
+         parent TCGA_UCEC_WGBS_CpG_Beta_Values on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel UCEC_A1CK
+         longLabel  UCEC_A1CK
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_WGBS/hg38/bw_mindepth5//TCGA_UCEC_A1CK.vcf.gz_cg_cov5.bw
+         priority 1
+
