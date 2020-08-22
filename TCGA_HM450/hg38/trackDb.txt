@@ -1,0 +1,18 @@
+track TCGA_ACC
+type bigWig
+shortLabel TCGA_ACC
+longLabel TCGA_ACC
+superTrack on show
+viewLimits 0.0:1.0
+color 152,78,163
+autoScale on
+maxHeightPixels 100:15:5
+visibility hide
+
+         track output
+         type bigBed
+         shortLabel output
+         longLabel output
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_HM450/output.bb
+         parent TCGA_ACC on
+
