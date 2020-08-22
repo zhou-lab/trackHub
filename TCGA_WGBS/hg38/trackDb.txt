@@ -172,7 +172,7 @@ longLabel TCGA_COAD
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility dense
 allButtonPair on
 dragAndDrop on
 priority 2
@@ -440,7 +440,7 @@ longLabel TCGA_READ
 type bigWig
 viewLimits 0.0:1.0
 maxHeightPixels 128:25:10
-visibility full
+visibility dense
 allButtonPair on
 dragAndDrop on
 priority 2
