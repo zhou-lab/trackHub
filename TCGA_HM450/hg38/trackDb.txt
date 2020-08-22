@@ -10,9 +10,10 @@ maxHeightPixels 100:15:5
 visibility hide
 
          track output
-         type bigBed
+         type bigBed 9
          shortLabel output
          longLabel output
          bigDataUrl http://zwdzwd.io/trackHubs/TCGA_HM450/hg38/output.bb
+         itemRgb on
          parent TCGA_ACC on
 
