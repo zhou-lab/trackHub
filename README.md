@@ -11,6 +11,7 @@
 - TCGA HM450 hub
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/TCGA_HM450/hub.txt`
+`https://raw.githubusercontent.com/zwdzwd/trackHub/master/TCGA_HM450_Normal/hub.txt`
 
 - PGC Epigenome hub
 
