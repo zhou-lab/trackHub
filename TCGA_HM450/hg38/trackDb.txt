@@ -13,6 +13,6 @@ visibility hide
          type bigBed
          shortLabel output
          longLabel output
-         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_HM450/output.bb
+         bigDataUrl http://zwdzwd.io/trackHubs/TCGA_HM450/hg38/output.bb
          parent TCGA_ACC on
 
