@@ -1,11 +1,9 @@
 
 track BLCA
-compositeTrack off
 type bigBed 9
 shortLabel BLCA
 longLabel BLCA
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -200,12 +198,10 @@ visibility hide
 
 
 track BRCA
-compositeTrack off
 type bigBed 9
 shortLabel BRCA
 longLabel BRCA
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -1093,12 +1089,10 @@ visibility hide
 
 
 track CESC
-compositeTrack off
 type bigBed 9
 shortLabel CESC
 longLabel CESC
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -1131,12 +1125,10 @@ visibility hide
 
 
 track CHOL
-compositeTrack off
 type bigBed 9
 shortLabel CHOL
 longLabel CHOL
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -1223,12 +1215,10 @@ visibility hide
 
 
 track COAD
-compositeTrack off
 type bigBed 9
 shortLabel COAD
 longLabel COAD
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -1576,12 +1566,10 @@ visibility hide
 
 
 track ESCA
-compositeTrack off
 type bigBed 9
 shortLabel ESCA
 longLabel ESCA
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -1731,12 +1719,10 @@ visibility hide
 
 
 track GBM
-compositeTrack off
 type bigBed 9
 shortLabel GBM
 longLabel GBM
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -1760,12 +1746,10 @@ visibility hide
 
 
 track HNSC
-compositeTrack off
 type bigBed 9
 shortLabel HNSC
 longLabel HNSC
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -2221,12 +2205,10 @@ visibility hide
 
 
 track KIRC
-compositeTrack off
 type bigBed 9
 shortLabel KIRC
 longLabel KIRC
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -3672,12 +3654,10 @@ visibility hide
 
 
 track KIRP
-compositeTrack off
 type bigBed 9
 shortLabel KIRP
 longLabel KIRP
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -4088,12 +4068,10 @@ visibility hide
 
 
 track LIHC
-compositeTrack off
 type bigBed 9
 shortLabel LIHC
 longLabel LIHC
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -4549,12 +4527,10 @@ visibility hide
 
 
 track LUAD
-compositeTrack off
 type bigBed 9
 shortLabel LUAD
 longLabel LUAD
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -4848,12 +4824,10 @@ visibility hide
 
 
 track LUSC
-compositeTrack off
 type bigBed 9
 shortLabel LUSC
 longLabel LUSC
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -5246,12 +5220,10 @@ visibility hide
 
 
 track PAAD
-compositeTrack off
 type bigBed 9
 shortLabel PAAD
 longLabel PAAD
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -5347,12 +5319,10 @@ visibility hide
 
 
 track PCPG
-compositeTrack off
 type bigBed 9
 shortLabel PCPG
 longLabel PCPG
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -5385,12 +5355,10 @@ visibility hide
 
 
 track PRAD
-compositeTrack off
 type bigBed 9
 shortLabel PRAD
 longLabel PRAD
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -5846,12 +5814,10 @@ visibility hide
 
 
 track READ
-compositeTrack off
 type bigBed 9
 shortLabel READ
 longLabel READ
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -5920,12 +5886,10 @@ visibility hide
 
 
 track SARC
-compositeTrack off
 type bigBed 9
 shortLabel SARC
 longLabel SARC
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -5967,12 +5931,10 @@ visibility hide
 
 
 track SKCM
-compositeTrack off
 type bigBed 9
 shortLabel SKCM
 longLabel SKCM
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -5996,12 +5958,10 @@ visibility hide
 
 
 track STAD
-compositeTrack off
 type bigBed 9
 shortLabel STAD
 longLabel STAD
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -6025,12 +5985,10 @@ visibility hide
 
 
 track THCA
-compositeTrack off
 type bigBed 9
 shortLabel THCA
 longLabel THCA
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -6540,12 +6498,10 @@ visibility hide
 
 
 track THYM
-compositeTrack off
 type bigBed 9
 shortLabel THYM
 longLabel THYM
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
@@ -6569,12 +6525,10 @@ visibility hide
 
 
 track UCEC
-compositeTrack off
 type bigBed 9
 shortLabel UCEC
 longLabel UCEC
-superTrack on show
-autoScale on
+compositeTrack off
 maxHeightPixels 100:15:5
 visibility hide
 
