@@ -1,0 +1,70 @@
+track Hematopoiesis
+type bigWig
+compositeTrack off
+shortLabel Human_Hematopoiesis
+longLabel Human_Hematopoiesis
+viewLimits 0.0:1.0
+maxHeightPixels 128:25:10
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track monocyte_S01B47A1
+         type bigWig
+         shortLabel monocyte_S01B47A1
+         longLabel  BP_venous_blood_S01B47A1_monocyte_DiseaseFree
+         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S01B47A1_monocyte_DiseaseFree.bw
+         parent Hematopoiesis on
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+
+         track BcellNaive_S01ECGA1
+         type bigWig
+         shortLabel BcellNaive_S01ECGA1
+         longLabel  BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree
+         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree.bw
+         parent Hematopoiesis on
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+
+         track BcellMemory_S017RE51
+         type bigWig
+         shortLabel BcellMemory_S017RE51
+         longLabel  BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree
+         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree.bw
+         parent Hematopoiesis on
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+
+         track TcellCD4AB_S008H151
+         type bigWig
+         shortLabel TcellCD4AB_S008H151
+         longLabel  BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree
+         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+         parent Hematopoiesis on
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+
+         track TcellCD4AB_S007G756
+         type bigWig
+         shortLabel TcellCD4AB_S007G756
+         longLabel  BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree
+         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+         parent Hematopoiesis on
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+
+         track TcellCD4AB_S007DD51
+         type bigWig
+         shortLabel TcellCD4AB_S007DD51
+         longLabel  BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree
+         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+         parent Hematopoiesis on
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0

@@ -1,0 +1,5 @@
+hub Human WGBS
+shortLabel Human WGBS
+longLabel All Human WGBS
+genomesFile genomes.txt
+email wanding.zhou@pennmedicine.upenn.edu
