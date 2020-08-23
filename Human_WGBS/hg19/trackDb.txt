@@ -10,7 +10,6 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-
     track Ziller_1244_fAdrenal_304084
     type bigWig
     shortLabel AdrenalGland_Fetal
@@ -21,6 +20,15 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+    track REMC_UCSD.Adrenal_Gland.STL003
+    type bigWig
+    shortLabel Other
+    longLabel REMC_UCSD.Adrenal_Gland.STL003
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSD.Adrenal_Gland.STL003.bw
+    parent AdrenalGland on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
 
 track Bladder
 type bigWig
@@ -32,7 +40,6 @@ maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
 dragAndDrop on
-
 
     track TCGA_BLCA_NA20V
     type bigWig
@@ -2506,6 +2513,16 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+    track GSE63818_FetalGonadalSoma_7to9W
+    type bigWig
+    shortLabel Gonad_Fetal
+    longLabel GSE63818_FetalGonadalSoma_7to9W
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_FetalGonadalSoma_7to9W.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
     track Okae_2014_oocytes_lowcov
     type bigWig
     shortLabel Oocyte_Embryo
@@ -2648,7 +2665,6 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-
     track TCGA_UCEC_NA1CI
     type bigWig
     shortLabel Endometrial
@@ -2658,30 +2674,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
-
-track Gonad
-type bigWig
-shortLabel Gonad
-longLabel Gonad
-compositeTrack off
-viewLimits 0.0:1.0
-maxHeightPixels 100:15:5
-visibility hide
-allButtonPair on
-dragAndDrop on
-
-
-    track GSE63818_FetalGonadalSoma_7to9W
-    type bigWig
-    shortLabel Gonad_Fetal
-    longLabel GSE63818_FetalGonadalSoma_7to9W
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_FetalGonadalSoma_7to9W.bw
-    parent Gonad on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
 
 track Heart
 type bigWig
@@ -2694,6 +2686,15 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
+    track Ziller_1119_fetal_heart
+    type bigWig
+    shortLabel Heart_Fetal
+    longLabel Ziller_1119_fetal_heart
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1119_fetal_heart.bw
+    parent Heart on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
 
     track REMC_E095_Left_Ventricle
     type bigWig
@@ -2705,7 +2706,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track REMC_E104_Right_Atrium
     type bigWig
     shortLabel Heart
@@ -2716,23 +2716,11 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track REMC_E105_Right_Ventricle
     type bigWig
     shortLabel Heart
     longLabel REMC_E105_Right_Ventricle
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E105_Right_Ventricle.bw
-    parent Heart on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
-    track Ziller_1119_fetal_heart
-    type bigWig
-    shortLabel Heart_Fetal
-    longLabel Ziller_1119_fetal_heart
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1119_fetal_heart.bw
     parent Heart on
     color 0,102,255
     maxHeightPixels 128:25:10
@@ -2850,7 +2838,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track REMC_E106_Sigmoid_Colon
     type bigWig
     shortLabel LowerGI
@@ -2860,7 +2847,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track REMC_E109_Small_Intestine
     type bigWig
@@ -2872,7 +2858,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track TCGA_COAD_N3158
     type bigWig
     shortLabel LowerGI
@@ -2882,7 +2867,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track TCGA_READ_N2689
     type bigWig
@@ -2894,7 +2878,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track Ziller_157_REMC_19_colonic_mucosa
     type bigWig
     shortLabel LowerGI
@@ -2904,7 +2887,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track Ziller_GSM1204466_1121_Colon_Adjacent_Normal
     type bigWig
@@ -2916,7 +2898,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track methbase_Berman_2012_Human_ColonNormal
     type bigWig
     shortLabel LowerGI
@@ -2926,7 +2907,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
 track Lung
 type bigWig
@@ -3020,21 +3000,21 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track REMC_UCSD.Adrenal_Gland.STL003
-    type bigWig
-    shortLabel Other
-    longLabel REMC_UCSD.Adrenal_Gland.STL003
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSD.Adrenal_Gland.STL003.bw
-    parent Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
     track methbase_Lowe_2013_Human_Buccals
     type bigWig
     shortLabel Other
     longLabel methbase_Lowe_2013_Human_Buccals
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lowe_2013_Human_Buccals.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track REMC_E065_Aorta
+    type bigWig
+    shortLabel BloodVessel
+    longLabel REMC_E065_Aorta
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E065_Aorta.bw
     parent Other on
     color 0,102,255
     maxHeightPixels 128:25:10
@@ -3050,7 +3030,6 @@ maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
 dragAndDrop on
-
 
     track REMC_BI.Fetal_Thymus.UW_H24943
     type bigWig
@@ -3170,16 +3149,6 @@ dragAndDrop on
     shortLabel Adipocyte_Subcutaneous
     longLabel Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075.bw
-    parent Myofibroblast on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track REMC_E065_Aorta
-    type bigWig
-    shortLabel MuscleCardiac
-    longLabel REMC_E065_Aorta
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E065_Aorta.bw
     parent Myofibroblast on
     color 0,102,255
     maxHeightPixels 128:25:10
