@@ -45,10 +45,10 @@ dragAndDrop on
     viewLimits 0.0:1.0
 
 
-track Blood_Lymphoid
+track BloodLymphoid
 type bigWig
-shortLabel Blood_Lymphoid
-longLabel Blood_Lymphoid
+shortLabel BloodLymphoid
+longLabel BloodLymphoid
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -61,7 +61,7 @@ dragAndDrop on
     shortLabel BCellPrecursor
     longLabel BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -71,7 +71,7 @@ dragAndDrop on
     shortLabel BCellPrecursor
     longLabel BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -81,7 +81,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_cord_blood_C003K951_CD38negative_naive_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C003K951_CD38negative_naive_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -91,7 +91,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_cord_blood_C0068L51_CD38negative_naive_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C0068L51_CD38negative_naive_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -101,7 +101,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_tonsil_G201_germinal_center_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_G201_germinal_center_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -111,7 +111,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_tonsil_GC_T14_10_germinal_center_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_GC_T14_10_germinal_center_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -121,7 +121,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_tonsil_GC_T14_11_germinal_center_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_GC_T14_11_germinal_center_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -131,7 +131,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_venous_blood_NBC_NC11_41_naive_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_NBC_NC11_41_naive_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -141,7 +141,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_venous_blood_NBC_NC11_83_naive_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_NBC_NC11_83_naive_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -151,7 +151,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_venous_blood_S001JP51_CD38negative_naive_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001JP51_CD38negative_naive_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -161,7 +161,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_venous_blood_S00DM851_CD38negative_naive_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00DM851_CD38negative_naive_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -171,7 +171,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -181,7 +181,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel methbase_Hodges_2011_Human_BCell
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hodges_2011_Human_BCell.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -191,7 +191,7 @@ dragAndDrop on
     shortLabel BCell
     longLabel BCell_CD19_Heyn_2016_GSM1279518
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BCell_CD19_Heyn_2016_GSM1279518.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -201,7 +201,7 @@ dragAndDrop on
     shortLabel memoryBCell
     longLabel BP_venous_blood_C003JB51_class_switched_memory_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003JB51_class_switched_memory_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -211,7 +211,7 @@ dragAndDrop on
     shortLabel memoryBCell
     longLabel BP_venous_blood_C003N351_memory_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003N351_memory_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -221,7 +221,7 @@ dragAndDrop on
     shortLabel memoryBCell
     longLabel BP_venous_blood_S004P151_class_switched_memory_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S004P151_class_switched_memory_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -231,7 +231,7 @@ dragAndDrop on
     shortLabel memoryBCell
     longLabel BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -241,7 +241,7 @@ dragAndDrop on
     shortLabel memoryBCell
     longLabel BP_venous_blood_csMBC_NC11_41_class_switched_memory_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_csMBC_NC11_41_class_switched_memory_B_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -251,7 +251,7 @@ dragAndDrop on
     shortLabel PlasmaCell
     longLabel BP_bone_marrow_G202_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G202_plasma_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -261,7 +261,7 @@ dragAndDrop on
     shortLabel PlasmaCell
     longLabel BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -271,7 +271,7 @@ dragAndDrop on
     shortLabel PlasmaCell
     longLabel BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -281,7 +281,7 @@ dragAndDrop on
     shortLabel PlasmaCell
     longLabel BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -291,7 +291,7 @@ dragAndDrop on
     shortLabel PlasmaCell
     longLabel BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -301,7 +301,7 @@ dragAndDrop on
     shortLabel TCellCD8
     longLabel BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -311,7 +311,7 @@ dragAndDrop on
     shortLabel TCellCD8
     longLabel BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -321,7 +321,7 @@ dragAndDrop on
     shortLabel TCellCD8
     longLabel BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -331,7 +331,7 @@ dragAndDrop on
     shortLabel TCellCD8
     longLabel BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -341,7 +341,7 @@ dragAndDrop on
     shortLabel TCellCD8
     longLabel Ziller_adult_sorted_CD8_330_draw_UW_RO_01736
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD8_330_draw_UW_RO_01736.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -351,7 +351,7 @@ dragAndDrop on
     shortLabel TCellCD8
     longLabel Ziller_adult_sorted_CD8_329_draw_UW_RO_01721
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD8_329_draw_UW_RO_01721.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -361,7 +361,7 @@ dragAndDrop on
     shortLabel TCellCD4
     longLabel BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -371,7 +371,7 @@ dragAndDrop on
     shortLabel TCellCD4
     longLabel BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -381,7 +381,7 @@ dragAndDrop on
     shortLabel TCellCD4
     longLabel BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -391,7 +391,7 @@ dragAndDrop on
     shortLabel TCellCD4
     longLabel BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -401,7 +401,7 @@ dragAndDrop on
     shortLabel TCellCD4
     longLabel Ziller_adult_sorted_CD4_327_draw_UW_RO_01721
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD4_327_draw_UW_RO_01721.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -411,7 +411,7 @@ dragAndDrop on
     shortLabel TCellCD4
     longLabel Ziller_adult_sorted_CD4_328_draw_UW_RO_01736
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD4_328_draw_UW_RO_01736.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -421,7 +421,7 @@ dragAndDrop on
     shortLabel TCellCD4
     longLabel methbase_Heyn_2012_Human_CD4T-100yr
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_CD4T-100yr.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -431,7 +431,7 @@ dragAndDrop on
     shortLabel TCellCD4
     longLabel methbase_Heyn_2012_Human_CD4T-Newborn
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_CD4T-Newborn.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -441,7 +441,7 @@ dragAndDrop on
     shortLabel Treg
     longLabel BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -451,7 +451,7 @@ dragAndDrop on
     shortLabel Treg
     longLabel BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -461,7 +461,7 @@ dragAndDrop on
     shortLabel TmemCD8
     longLabel BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -471,7 +471,7 @@ dragAndDrop on
     shortLabel TmemCD8
     longLabel BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -481,7 +481,7 @@ dragAndDrop on
     shortLabel TmemCD8
     longLabel BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -491,7 +491,7 @@ dragAndDrop on
     shortLabel TmemCD8
     longLabel BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -501,7 +501,7 @@ dragAndDrop on
     shortLabel TmemCD8
     longLabel BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -511,7 +511,7 @@ dragAndDrop on
     shortLabel TmemCD8
     longLabel BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -521,7 +521,7 @@ dragAndDrop on
     shortLabel TmemCD4
     longLabel BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -531,7 +531,7 @@ dragAndDrop on
     shortLabel TmemCD4
     longLabel BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -541,7 +541,7 @@ dragAndDrop on
     shortLabel TmemCD4
     longLabel BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -551,7 +551,7 @@ dragAndDrop on
     shortLabel TmemCD4
     longLabel BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -561,7 +561,7 @@ dragAndDrop on
     shortLabel NKCell
     longLabel BP_cord_blood_C0067N51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C0067N51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -571,7 +571,7 @@ dragAndDrop on
     shortLabel NKCell
     longLabel BP_cord_blood_S01E8O51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S01E8O51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -581,7 +581,7 @@ dragAndDrop on
     shortLabel NKCell
     longLabel BP_venous_blood_C002CTA1bs_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C002CTA1bs_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -591,7 +591,7 @@ dragAndDrop on
     shortLabel NKCell
     longLabel BP_venous_blood_C006G551_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C006G551_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -601,7 +601,7 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -611,7 +611,7 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -621,7 +621,7 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -631,7 +631,7 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -641,7 +641,7 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -651,7 +651,7 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -661,7 +661,7 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -671,7 +671,7 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -681,15 +681,15 @@ dragAndDrop on
     shortLabel Thymocyte
     longLabel BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
-    parent Blood_Lymphoid on
+    parent BloodLymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-track Blood_Myeloid
+track BloodMyeloid
 type bigWig
-shortLabel Blood_Myeloid
-longLabel Blood_Myeloid
+shortLabel BloodMyeloid
+longLabel BloodMyeloid
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -702,7 +702,7 @@ dragAndDrop on
     shortLabel DendriticCell
     longLabel BP_cord_blood_S00CP651_conventional_dendritic_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00CP651_conventional_dendritic_cell_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -712,7 +712,7 @@ dragAndDrop on
     shortLabel DendriticCell
     longLabel BP_cord_blood_S00D7151_conventional_dendritic_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00D7151_conventional_dendritic_cell_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -722,7 +722,7 @@ dragAndDrop on
     shortLabel DendriticCell
     longLabel BP_venous_blood_S00TU2A1_immature_conventional_dendritic_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TU2A1_immature_conventional_dendritic_cell_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -732,7 +732,7 @@ dragAndDrop on
     shortLabel DendriticCell
     longLabel BP_venous_blood_S00TV0A1_immature_conventional_dendritic_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TV0A1_immature_conventional_dendritic_cell_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -742,7 +742,7 @@ dragAndDrop on
     shortLabel DendriticCell
     longLabel BP_venous_blood_S00TWZA1_immature_conventional_dendritic_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TWZA1_immature_conventional_dendritic_cell_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -752,7 +752,7 @@ dragAndDrop on
     shortLabel DendriticCell
     longLabel BP_venous_blood_S00TXXA1_mature_conventional_dendritic_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TXXA1_mature_conventional_dendritic_cell_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -762,7 +762,7 @@ dragAndDrop on
     shortLabel DendriticCell
     longLabel BP_venous_blood_S00TYVA1_mature_conventional_dendritic_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TYVA1_mature_conventional_dendritic_cell_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -772,7 +772,7 @@ dragAndDrop on
     shortLabel DendriticCell
     longLabel BP_venous_blood_S00U0LA1_mature_conventional_dendritic_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00U0LA1_mature_conventional_dendritic_cell_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -782,7 +782,7 @@ dragAndDrop on
     shortLabel Eosinophil
     longLabel BP_venous_blood_S006XE53_mature_eosinophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S006XE53_mature_eosinophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -793,7 +793,7 @@ dragAndDrop on
     shortLabel Eosinophil
     longLabel BP_venous_blood_S00V6553_mature_eosinophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00V6553_mature_eosinophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -803,7 +803,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_cord_blood_S0018A52_inflammatory_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S0018A52_inflammatory_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -813,7 +813,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_cord_blood_S007SK51_inflammatory_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S007SK51_inflammatory_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -823,7 +823,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_cord_blood_S00BHQ51_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00BHQ51_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -833,7 +833,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_cord_blood_S00C1H51_alternatively_activated_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00C1H51_alternatively_activated_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -843,7 +843,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_cord_blood_S00DVR51_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00DVR51_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -853,7 +853,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_cord_blood_S00E8W51_alternatively_activated_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00E8W51_alternatively_activated_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -863,7 +863,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_C005VG51_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C005VG51_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -873,7 +873,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S001MJ51_inflammatory_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001MJ51_inflammatory_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -883,7 +883,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S001S751_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001S751_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -893,7 +893,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S001S753_inflammatory_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001S753_inflammatory_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -903,7 +903,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S0022I51_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0022I51_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -913,7 +913,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S0022I53_inflammatory_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0022I53_inflammatory_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -923,7 +923,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S0039051_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0039051_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -933,7 +933,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S0062252_alternatively_activated_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0062252_alternatively_activated_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -943,7 +943,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S006VI53_alternatively_activated_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S006VI53_alternatively_activated_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -953,7 +953,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S00BS451_alternatively_activated_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00BS451_alternatively_activated_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -963,7 +963,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S00FTN51_alternatively_activated_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00FTN51_alternatively_activated_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -973,7 +973,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S00H6O51_inflammatory_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00H6O51_inflammatory_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -983,7 +983,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S00V3BN1_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00V3BN1_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -993,7 +993,7 @@ dragAndDrop on
     shortLabel Macrophage
     longLabel BP_venous_blood_S00V49N1_macrophage_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00V49N1_macrophage_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1003,7 +1003,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_cord_blood_C005PS51_CD14positive_CD16negative_classical_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C005PS51_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1013,7 +1013,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_cord_blood_S000RD54_CD14positive_CD16negative_classical_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S000RD54_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1023,7 +1023,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_C000S5A1bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C000S5A1bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1033,7 +1033,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_C0010KA2bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C0010KA2bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1043,7 +1043,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_C001UYA3bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C001UYA3bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1053,7 +1053,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_C004SQ51_CD14positive_CD16negative_classical_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C004SQ51_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1063,7 +1063,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S00V2DN1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00V2DN1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1073,7 +1073,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01B47A1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B47A1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1083,7 +1083,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01B55A1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B55A1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1093,7 +1093,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01B63A1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B63A1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1103,7 +1103,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01B71A1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B71A1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1113,7 +1113,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01B9YA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B9YA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1123,7 +1123,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01BAWA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BAWA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1133,7 +1133,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01BBUA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BBUA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1143,7 +1143,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01BCSA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BCSA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1153,7 +1153,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01BDQA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BDQA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1163,7 +1163,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01BEOA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BEOA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1173,7 +1173,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01BFMA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BFMA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1183,7 +1183,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01BGKA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BGKA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1193,7 +1193,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01BHIA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BHIA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1203,7 +1203,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01E03A1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01E03A1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1213,7 +1213,7 @@ dragAndDrop on
     shortLabel Monocyte
     longLabel BP_venous_blood_S01MAPA1_monocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01MAPA1_monocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1223,7 +1223,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00JE0A1_neutrophilic_myelocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JE0A1_neutrophilic_myelocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1233,7 +1233,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00JFZA1_neutrophilic_metamyelocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JFZA1_neutrophilic_metamyelocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1243,7 +1243,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00JGXA1_band_form_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JGXA1_band_form_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1253,7 +1253,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00JHVA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JHVA1_segmented_neutrophil_of_bone_marrow_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1263,7 +1263,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00JJRA1_neutrophilic_myelocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JJRA1_neutrophilic_myelocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1273,7 +1273,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00JKPA1_neutrophilic_metamyelocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JKPA1_neutrophilic_metamyelocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1283,7 +1283,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00JMLA1_band_form_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JMLA1_band_form_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1293,7 +1293,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00JNJA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JNJA1_segmented_neutrophil_of_bone_marrow_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1303,7 +1303,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00VCUA1_neutrophilic_myelocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00VCUA1_neutrophilic_myelocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1313,7 +1313,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00VDSA1_neutrophilic_metamyelocyte_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00VDSA1_neutrophilic_metamyelocyte_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1323,7 +1323,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00VEQA1_band_form_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00VEQA1_band_form_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1333,7 +1333,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_bone_marrow_S00VFOA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00VFOA1_segmented_neutrophil_of_bone_marrow_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1343,7 +1343,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_cord_blood_C00184A3bs_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C00184A3bs_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1353,7 +1353,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_cord_blood_C004GD51_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C004GD51_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1363,7 +1363,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_C000S5A2bs_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C000S5A2bs_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1373,7 +1373,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_C0010KA1bs_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C0010KA1bs_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1383,7 +1383,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_C0011IA3bs_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C0011IA3bs_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1393,7 +1393,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_C001UYA1bs_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C001UYA1bs_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1403,7 +1403,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_S00FWHA1_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00FWHA1_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1413,7 +1413,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_S00FXFA1_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00FXFA1_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1423,7 +1423,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_S00K5EA1_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00K5EA1_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1433,7 +1433,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_S00K7AA1_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00K7AA1_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1443,7 +1443,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_S00K88A1_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00K88A1_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1453,7 +1453,7 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel BP_venous_blood_S00TC1A1_mature_neutrophil_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TC1A1_mature_neutrophil_DiseaseFree.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1463,18 +1463,15 @@ dragAndDrop on
     shortLabel Neutrophil
     longLabel methbase_Hodges_2011_Human_Neut
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hodges_2011_Human_Neut.bw
-    parent Blood_Myeloid on
+    parent BloodMyeloid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
-
-
-track Blood_Other
+track BloodOther
 type bigWig
-shortLabel Blood_Other
-longLabel Blood_Other
+shortLabel BloodOther
+longLabel BloodOther
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -1487,7 +1484,7 @@ dragAndDrop on
     shortLabel Osteoclast
     longLabel BP_venous_blood_S01GKTA1_osteoclast_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01GKTA1_osteoclast_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1497,7 +1494,7 @@ dragAndDrop on
     shortLabel Osteoclast
     longLabel BP_venous_blood_S01GMPA1_osteoclast_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01GMPA1_osteoclast_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1507,7 +1504,7 @@ dragAndDrop on
     shortLabel CD34HSC
     longLabel REMC_E050_Mobilized_CD34_Primary_Cells_Female
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E050_Mobilized_CD34_Primary_Cells_Female.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1517,7 +1514,7 @@ dragAndDrop on
     shortLabel Spleen
     longLabel REMC_E113_Spleen
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E113_Spleen.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1527,7 +1524,7 @@ dragAndDrop on
     shortLabel PBMC
     longLabel methbase_Heyn_2012_Human_PBMC
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_PBMC.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1537,7 +1534,7 @@ dragAndDrop on
     shortLabel PBMC
     longLabel methbase_Li_2010_Human_PBMC
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Li_2010_Human_PBMC.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1547,7 +1544,7 @@ dragAndDrop on
     shortLabel MSC
     longLabel BP_venous_blood_S00W8Y51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00W8Y51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1557,7 +1554,7 @@ dragAndDrop on
     shortLabel MSC
     longLabel BP_venous_blood_S00YAM51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00YAM51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1567,7 +1564,7 @@ dragAndDrop on
     shortLabel Erythroblast
     longLabel BP_cord_blood_S002R551_erythroblast_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S002R551_erythroblast_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1577,7 +1574,7 @@ dragAndDrop on
     shortLabel Erythroblast
     longLabel BP_cord_blood_S002S351_erythroblast_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S002S351_erythroblast_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1587,7 +1584,7 @@ dragAndDrop on
     shortLabel Megakaryocyte
     longLabel BP_cord_blood_S004AV51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S004AV51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1597,7 +1594,7 @@ dragAndDrop on
     shortLabel Megakaryocyte
     longLabel BP_cord_blood_S004BT51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S004BT51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1607,7 +1604,7 @@ dragAndDrop on
     shortLabel HSPC
     longLabel BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1617,7 +1614,7 @@ dragAndDrop on
     shortLabel HSPC
     longLabel BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1627,7 +1624,7 @@ dragAndDrop on
     shortLabel HSPC
     longLabel methbase_Hodges_2011_Human_HSPC
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hodges_2011_Human_HSPC.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1637,7 +1634,7 @@ dragAndDrop on
     shortLabel EndoProgenitor
     longLabel BP_venous_blood_S00UJK51_adult_endothelial_progenitor_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00UJK51_adult_endothelial_progenitor_cell_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -1647,7 +1644,7 @@ dragAndDrop on
     shortLabel EndoProgenitor
     longLabel BP_venous_blood_S01GU951_adult_endothelial_progenitor_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01GU951_adult_endothelial_progenitor_cell_DiseaseFree.bw
-    parent Blood_Other on
+    parent BloodOther on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -2741,29 +2738,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
-track LargeInstestine
-type bigWig
-shortLabel LargeInstestine
-longLabel LargeInstestine
-compositeTrack off
-viewLimits 0.0:1.0
-maxHeightPixels 100:15:5
-visibility hide
-allButtonPair on
-dragAndDrop on
-
-
-    track REMC_E084_Fetal_Intestine_Large
-    type bigWig
-    shortLabel LargeInstestine_Fetal
-    longLabel REMC_E084_Fetal_Intestine_Large
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E084_Fetal_Intestine_Large.bw
-    parent LargeInstestine on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
 track LiverPancreas
 type bigWig
 shortLabel LiverPancreas
@@ -2856,6 +2830,15 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
+    track REMC_E084_Fetal_Intestine_Large
+    type bigWig
+    shortLabel LargeInstestine_Fetal
+    longLabel REMC_E084_Fetal_Intestine_Large
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E084_Fetal_Intestine_Large.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
 
     track Colon_Normal_Heyn_2016_GSM1279519
     type bigWig
