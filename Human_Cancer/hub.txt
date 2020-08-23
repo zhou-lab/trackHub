@@ -1,0 +1,5 @@
+hub Human Cancer WGBS
+shortLabel Human Cancer WGBS
+longLabel All Human Cancer WGBS
+genomesFile genomes.txt
+email wanding.zhou@pennmedicine.upenn.edu
