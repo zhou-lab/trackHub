@@ -21,6 +21,10 @@
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/Mouse_WGBS/hub.txt`
 
+- Human WGBS hub
+
+`https://raw.githubusercontent.com/zwdzwd/trackHub/master/Human_WGBS/hub.txt`
+
 # default colors:
 
 H3K4me3 228,26,28 (red)
