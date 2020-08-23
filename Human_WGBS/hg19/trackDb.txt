@@ -56,6 +56,26 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
+    track BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree
+    type bigWig
+    shortLabel BCellPrecursor
+    longLabel BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree.bw
+    parent Blood_Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCellPrecursor
+    longLabel BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree.bw
+    parent Blood_Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
     track BP_cord_blood_C003K951_CD38negative_naive_B_cell_DiseaseFree
     type bigWig
     shortLabel BCell
@@ -1484,7 +1504,7 @@ dragAndDrop on
 
     track REMC_E050_Mobilized_CD34_Primary_Cells_Female
     type bigWig
-    shortLabel Other
+    shortLabel CD34HSC
     longLabel REMC_E050_Mobilized_CD34_Primary_Cells_Female
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E050_Mobilized_CD34_Primary_Cells_Female.bw
     parent Blood_Other on
@@ -1494,7 +1514,7 @@ dragAndDrop on
 
     track REMC_E112_Thymus
     type bigWig
-    shortLabel Other
+    shortLabel Thymus
     longLabel REMC_E112_Thymus
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E112_Thymus.bw
     parent Blood_Other on
@@ -1504,7 +1524,7 @@ dragAndDrop on
 
     track REMC_E113_Spleen
     type bigWig
-    shortLabel Other
+    shortLabel Spleen
     longLabel REMC_E113_Spleen
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E113_Spleen.bw
     parent Blood_Other on
@@ -1514,7 +1534,7 @@ dragAndDrop on
 
     track methbase_Heyn_2012_Human_PBMC
     type bigWig
-    shortLabel Other
+    shortLabel PBMC
     longLabel methbase_Heyn_2012_Human_PBMC
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_PBMC.bw
     parent Blood_Other on
@@ -1524,7 +1544,7 @@ dragAndDrop on
 
     track methbase_Li_2010_Human_PBMC
     type bigWig
-    shortLabel Other
+    shortLabel PBMC
     longLabel methbase_Li_2010_Human_PBMC
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Li_2010_Human_PBMC.bw
     parent Blood_Other on
@@ -1594,7 +1614,7 @@ dragAndDrop on
 
     track BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree
     type bigWig
-    shortLabel ProgenitorCell
+    shortLabel HSPC
     longLabel BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree.bw
     parent Blood_Other on
@@ -1602,19 +1622,9 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
     track BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree
     type bigWig
-    shortLabel ProgenitorCell
+    shortLabel HSPC
     longLabel BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree.bw
     parent Blood_Other on
@@ -1622,19 +1632,9 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
     track methbase_Hodges_2011_Human_HSPC
     type bigWig
-    shortLabel ProgenitorCell
+    shortLabel HSPC
     longLabel methbase_Hodges_2011_Human_HSPC
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hodges_2011_Human_HSPC.bw
     parent Blood_Other on
