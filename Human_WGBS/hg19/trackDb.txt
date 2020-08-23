@@ -2399,7 +2399,6 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-
     track GSE63818_EmbryonicBrain_lowcov
     type bigWig
     shortLabel Brain_Embryo
@@ -2409,7 +2408,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track GSE49828_ICM_lowcov
     type bigWig
@@ -2421,7 +2419,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track Okae_2014_blastocyst
     type bigWig
     shortLabel EarlyDev_Embryo
@@ -2431,7 +2428,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track Ziller_1018_Epiblast_236459
     type bigWig
@@ -2443,6 +2439,55 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+    track Placenta_Normal_Court_2014_GSM1134682
+    type bigWig
+    shortLabel Placenta_Fetal
+    longLabel Placenta_Normal_Court_2014_GSM1134682
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Placenta_Normal_Court_2014_GSM1134682.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
+    type bigWig
+    shortLabel UmbilicalVein_Fetal
+    longLabel BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
+    type bigWig
+    shortLabel UmbilicalVein_Fetal
+    longLabel BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
+    type bigWig
+    shortLabel UmbilicalVein_Fetal
+    longLabel BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
+    type bigWig
+    shortLabel UmbilicalVein_Fetal
+    longLabel BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
 
     track GSE63818_EmbryonicHeart_lowcov
     type bigWig
@@ -2454,7 +2499,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track GSE49828_EmbryonicLiver_lowcov
     type bigWig
     shortLabel Liver_Embryo
@@ -2464,7 +2508,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track Okae_2014_oocytes_lowcov
     type bigWig
@@ -2476,7 +2519,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track GSE63393_Fetal_PGC_F_D113
     type bigWig
     shortLabel PGC_Embryo
@@ -2486,7 +2528,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track GSE63393_Fetal_PGC_F_D57to67
     type bigWig
@@ -2498,7 +2539,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track GSE63393_Fetal_PGC_M_D59to137_lowcov
     type bigWig
     shortLabel PGC_Embryo
@@ -2508,7 +2548,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track GSE63818_PGC_10W_F
     type bigWig
@@ -2520,7 +2559,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track GSE63818_PGC_10W_M
     type bigWig
     shortLabel PGC_Embryo
@@ -2530,7 +2568,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track GSE63818_PGC_11W_F
     type bigWig
@@ -2542,7 +2579,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track GSE63818_PGC_11_to_13W_M
     type bigWig
     shortLabel PGC_Embryo
@@ -2552,7 +2588,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track GSE63818_PGC_17W_F
     type bigWig
@@ -2564,7 +2599,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track GSE63818_PGC_19W_M
     type bigWig
     shortLabel PGC_Embryo
@@ -2574,7 +2608,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track GSE63818_PGC_7W_M
     type bigWig
@@ -2586,7 +2619,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track methbase_Molaro_2011_Human_Sperm
     type bigWig
     shortLabel Sperm_Embryo
@@ -2596,7 +2628,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track REMC_UCSF-UBC.Testis_Spermatozoa_Primary_Cells.390ATA
     type bigWig
@@ -2733,11 +2764,10 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
-track Liver
+track LiverPancreas
 type bigWig
-shortLabel Liver
-longLabel Liver
+shortLabel LiverPancreas
+longLabel LiverPancreas
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -2745,72 +2775,75 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-
     track Liver_N1_Li_2016_GSM1716957
     type bigWig
     shortLabel Liver
     longLabel Liver_N1_Li_2016_GSM1716957
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_N1_Li_2016_GSM1716957.bw
-    parent Liver on
+    parent LiverPancreas on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track Liver_N2_Li_2016_GSM1716961
     type bigWig
     shortLabel Liver
     longLabel Liver_N2_Li_2016_GSM1716961
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_N2_Li_2016_GSM1716961.bw
-    parent Liver on
+    parent LiverPancreas on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track Liver_N3_Li_2016_GSM1716965
     type bigWig
     shortLabel Liver
     longLabel Liver_N3_Li_2016_GSM1716965
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_N3_Li_2016_GSM1716965.bw
-    parent Liver on
+    parent LiverPancreas on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track Liver_N4_Li_2016_GSM1716969
     type bigWig
     shortLabel Liver
     longLabel Liver_N4_Li_2016_GSM1716969
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_N4_Li_2016_GSM1716969.bw
-    parent Liver on
+    parent LiverPancreas on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track Liver_Normal_Court_2014_GSM1134681
     type bigWig
     shortLabel Liver
     longLabel Liver_Normal_Court_2014_GSM1134681
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_Normal_Court_2014_GSM1134681.bw
-    parent Liver on
+    parent LiverPancreas on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track REMC_E066_Adult_Liver
     type bigWig
     shortLabel Liver
     longLabel REMC_E066_Adult_Liver
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E066_Adult_Liver.bw
-    parent Liver on
+    parent LiverPancreas on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+    track REMC_E098_Pancreas
+    type bigWig
+    shortLabel Pancreas
+    longLabel REMC_E098_Pancreas
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E098_Pancreas.bw
+    parent LiverPancreas on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
 
 track LowerGI
 type bigWig
@@ -2923,7 +2956,6 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-
     track Lung_N1_Li_2016_GSM1716973
     type bigWig
     shortLabel Lung
@@ -2933,7 +2965,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track Lung_N2_Li_2016_GSM1716977
     type bigWig
@@ -2945,7 +2976,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track Lung_N3_Li_2016_GSM1716981
     type bigWig
     shortLabel Lung
@@ -2955,7 +2985,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track REMC_E096_Lung
     type bigWig
@@ -2967,7 +2996,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track TCGA_LUAD_N6148
     type bigWig
     shortLabel Lung
@@ -2978,7 +3006,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track TCGA_LUSC_N2722
     type bigWig
     shortLabel Lung
@@ -2988,21 +3015,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
-
-track Muscle
-type bigWig
-shortLabel Muscle
-longLabel Muscle
-compositeTrack off
-viewLimits 0.0:1.0
-maxHeightPixels 100:15:5
-visibility hide
-allButtonPair on
-dragAndDrop on
-
-
-
 
 track Other
 type bigWig
@@ -3020,16 +3032,6 @@ dragAndDrop on
     shortLabel Other
     longLabel REMC_E097_Ovary
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E097_Ovary.bw
-    parent Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track REMC_E098_Pancreas
-    type bigWig
-    shortLabel Other
-    longLabel REMC_E098_Pancreas
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E098_Pancreas.bw
     parent Other on
     color 0,102,255
     maxHeightPixels 128:25:10
@@ -3054,29 +3056,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
-track Placenta
-type bigWig
-shortLabel Placenta
-longLabel Placenta
-compositeTrack off
-viewLimits 0.0:1.0
-maxHeightPixels 100:15:5
-visibility hide
-allButtonPair on
-dragAndDrop on
-
-
-    track Placenta_Normal_Court_2014_GSM1134682
-    type bigWig
-    shortLabel Placenta_Fetal
-    longLabel Placenta_Normal_Court_2014_GSM1134682
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Placenta_Normal_Court_2014_GSM1134682.bw
-    parent Placenta on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
 
 track Thymus
 type bigWig
@@ -3109,61 +3088,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
-track UmbilicalVein
-type bigWig
-shortLabel UmbilicalVein
-longLabel UmbilicalVein
-compositeTrack off
-viewLimits 0.0:1.0
-maxHeightPixels 100:15:5
-visibility hide
-allButtonPair on
-dragAndDrop on
-
-    track BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
-    type bigWig
-    shortLabel UmbilicalVein_Fetal
-    longLabel BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree.bw
-    parent UmbilicalVein on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
-    track BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
-    type bigWig
-    shortLabel UmbilicalVein_Fetal
-    longLabel BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree.bw
-    parent UmbilicalVein on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
-    track BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
-    type bigWig
-    shortLabel UmbilicalVein_Fetal
-    longLabel BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree.bw
-    parent UmbilicalVein on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
-    track BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
-    type bigWig
-    shortLabel UmbilicalVein_Fetal
-    longLabel BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree.bw
-    parent UmbilicalVein on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
 
 track UpperGI
 type bigWig
