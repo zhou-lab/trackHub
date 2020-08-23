@@ -576,6 +576,96 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+    track BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel Thymocyte
+    longLabel BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
 track Blood_Myeloid
 type bigWig
 shortLabel Blood_Myeloid
@@ -1537,96 +1627,6 @@ dragAndDrop on
     shortLabel ProgenitorCell
     longLabel BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
-    type bigWig
-    shortLabel ProgenitorCell
-    longLabel BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
     parent Blood_Other on
     color 0,102,255
     maxHeightPixels 128:25:10
