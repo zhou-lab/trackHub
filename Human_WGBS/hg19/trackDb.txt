@@ -1512,16 +1512,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track REMC_E112_Thymus
-    type bigWig
-    shortLabel Thymus
-    longLabel REMC_E112_Thymus
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E112_Thymus.bw
-    parent Blood_Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
     track REMC_E113_Spleen
     type bigWig
     shortLabel Spleen
@@ -3012,37 +3002,6 @@ allButtonPair on
 dragAndDrop on
 
 
-    track REMC_E065_Aorta
-    type bigWig
-    shortLabel Muscle
-    longLabel REMC_E065_Aorta
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E065_Aorta.bw
-    parent Muscle on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
-    track REMC_E100_Psoas_Muscle
-    type bigWig
-    shortLabel Muscle
-    longLabel REMC_E100_Psoas_Muscle
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E100_Psoas_Muscle.bw
-    parent Muscle on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
-    track REMC_BI.Fetal_Muscle_Leg.UW_H24996
-    type bigWig
-    shortLabel Muscle_Fetal
-    longLabel REMC_BI.Fetal_Muscle_Leg.UW_H24996
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_BI.Fetal_Muscle_Leg.UW_H24996.bw
-    parent Muscle on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
 
 
 track Other
@@ -3056,17 +3015,6 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-    track REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03
-    type bigWig
-    shortLabel Other
-    longLabel REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03.bw
-    parent Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
     track REMC_E097_Ovary
     type bigWig
     shortLabel Other
@@ -3076,7 +3024,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track REMC_E098_Pancreas
     type bigWig
@@ -3088,18 +3035,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
-    track REMC_UCSD.Adipose_Tissue.STL003
-    type bigWig
-    shortLabel Other
-    longLabel REMC_UCSD.Adipose_Tissue.STL003
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSD.Adipose_Tissue.STL003.bw
-    parent Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
     track REMC_UCSD.Adrenal_Gland.STL003
     type bigWig
     shortLabel Other
@@ -3110,29 +3045,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
-    track REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03
-    type bigWig
-    shortLabel Other
-    longLabel REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03.bw
-    parent Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
-    track Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075
-    type bigWig
-    shortLabel Other
-    longLabel Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075.bw
-    parent Other on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-
     track methbase_Lowe_2013_Human_Buccals
     type bigWig
     shortLabel Other
@@ -3142,7 +3054,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
 track Placenta
 type bigWig
@@ -3189,6 +3100,15 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+    track REMC_E112_Thymus
+    type bigWig
+    shortLabel Thymus
+    longLabel REMC_E112_Thymus
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E112_Thymus.bw
+    parent Thymus on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
 
 track UmbilicalVein
 type bigWig
@@ -3200,7 +3120,6 @@ maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
 dragAndDrop on
-
 
     track BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
     type bigWig
@@ -3257,7 +3176,6 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-
     track REMC_E079_Esophagus
     type bigWig
     shortLabel UpperGI
@@ -3267,7 +3185,6 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
-
 
     track REMC_E094_Gastric
     type bigWig
@@ -3279,7 +3196,6 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
     track TCGA_STAD_N6452
     type bigWig
     shortLabel UpperGI
@@ -3290,3 +3206,94 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+track Skin
+type bigWig
+shortLabel Skin
+longLabel Skin
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03
+    type bigWig
+    shortLabel Keratinocyte
+    longLabel REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03.bw
+    parent Skin on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Myofibroblast
+type bigWig
+shortLabel Myofibroblast
+longLabel Myofibroblast
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03
+    type bigWig
+    shortLabel Fibroblast
+    longLabel REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03.bw
+    parent Myofibroblast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track REMC_UCSD.Adipose_Tissue.STL003
+    type bigWig
+    shortLabel Adipocyte
+    longLabel REMC_UCSD.Adipose_Tissue.STL003
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSD.Adipose_Tissue.STL003.bw
+    parent Myofibroblast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075
+    type bigWig
+    shortLabel Adipocyte_Subcutaneous
+    longLabel Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075.bw
+    parent Myofibroblast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track REMC_E065_Aorta
+    type bigWig
+    shortLabel MuscleCardiac
+    longLabel REMC_E065_Aorta
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E065_Aorta.bw
+    parent Myofibroblast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track REMC_E100_Psoas_Muscle
+    type bigWig
+    shortLabel MusclePsoas
+    longLabel REMC_E100_Psoas_Muscle
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E100_Psoas_Muscle.bw
+    parent Myofibroblast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track REMC_BI.Fetal_Muscle_Leg.UW_H24996
+    type bigWig
+    shortLabel MuscleLeg_Fetal
+    longLabel REMC_BI.Fetal_Muscle_Leg.UW_H24996
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_BI.Fetal_Muscle_Leg.UW_H24996.bw
+    parent Myofibroblast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
