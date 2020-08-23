@@ -1,70 +1,3430 @@
-track Hematopoiesis
+
+track AdrenalGland
 type bigWig
+shortLabel AdrenalGland
+longLabel AdrenalGland
 compositeTrack off
-shortLabel Human_Hematopoiesis
-longLabel Human_Hematopoiesis
 viewLimits 0.0:1.0
-maxHeightPixels 128:25:10
+maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track monocyte_S01B47A1
-         type bigWig
-         shortLabel monocyte_S01B47A1
-         longLabel  BP_venous_blood_S01B47A1_monocyte_DiseaseFree
-         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S01B47A1_monocyte_DiseaseFree.bw
-         parent Hematopoiesis on
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
 
-         track BcellNaive_S01ECGA1
-         type bigWig
-         shortLabel BcellNaive_S01ECGA1
-         longLabel  BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree
-         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree.bw
-         parent Hematopoiesis on
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
+    track Ziller_1244_fAdrenal_304084
+    type bigWig
+    shortLabel AdrenalGland_Fetal
+    longLabel Ziller_1244_fAdrenal_304084
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1244_fAdrenal_304084.bw
+    parent AdrenalGland on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
 
-         track BcellMemory_S017RE51
-         type bigWig
-         shortLabel BcellMemory_S017RE51
-         longLabel  BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree
-         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree.bw
-         parent Hematopoiesis on
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
 
-         track TcellCD4AB_S008H151
-         type bigWig
-         shortLabel TcellCD4AB_S008H151
-         longLabel  BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree
-         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-         parent Hematopoiesis on
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
+track Bladder
+type bigWig
+shortLabel Bladder
+longLabel Bladder
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
 
-         track TcellCD4AB_S007G756
-         type bigWig
-         shortLabel TcellCD4AB_S007G756
-         longLabel  BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree
-         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-         parent Hematopoiesis on
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
 
-         track TcellCD4AB_S007DD51
-         type bigWig
-         shortLabel TcellCD4AB_S007DD51
-         longLabel  BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree
-         bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19/BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-         parent Hematopoiesis on
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
+    track TCGA_BLCA_NA20V
+    type bigWig
+    shortLabel Bladder
+    longLabel TCGA_BLCA_NA20V
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_BLCA_NA20V.bw
+    parent Bladder on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Blood
+type bigWig
+shortLabel Blood
+longLabel Blood
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track BP_cord_blood_C003K951_CD38negative_naive_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_cord_blood_C003K951_CD38negative_naive_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C003K951_CD38negative_naive_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_C0068L51_CD38negative_naive_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_cord_blood_C0068L51_CD38negative_naive_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C0068L51_CD38negative_naive_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_tonsil_G201_germinal_center_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_tonsil_G201_germinal_center_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_G201_germinal_center_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_tonsil_GC_T14_10_germinal_center_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_tonsil_GC_T14_10_germinal_center_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_GC_T14_10_germinal_center_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_tonsil_GC_T14_11_germinal_center_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_tonsil_GC_T14_11_germinal_center_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_GC_T14_11_germinal_center_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_NBC_NC11_41_naive_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_venous_blood_NBC_NC11_41_naive_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_NBC_NC11_41_naive_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_NBC_NC11_83_naive_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_venous_blood_NBC_NC11_83_naive_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_NBC_NC11_83_naive_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S001JP51_CD38negative_naive_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_venous_blood_S001JP51_CD38negative_naive_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001JP51_CD38negative_naive_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00DM851_CD38negative_naive_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_venous_blood_S00DM851_CD38negative_naive_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00DM851_CD38negative_naive_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree
+    type bigWig
+    shortLabel BCell
+    longLabel BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Hodges_2011_Human_BCell
+    type bigWig
+    shortLabel BCell
+    longLabel methbase_Hodges_2011_Human_BCell
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hodges_2011_Human_BCell.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BCell_CD19_Heyn_2016_GSM1279518
+    type bigWig
+    shortLabel Blood
+    longLabel BCell_CD19_Heyn_2016_GSM1279518
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BCell_CD19_Heyn_2016_GSM1279518.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00CP651_conventional_dendritic_cell_DiseaseFree
+    type bigWig
+    shortLabel DendriticCell
+    longLabel BP_cord_blood_S00CP651_conventional_dendritic_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00CP651_conventional_dendritic_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00D7151_conventional_dendritic_cell_DiseaseFree
+    type bigWig
+    shortLabel DendriticCell
+    longLabel BP_cord_blood_S00D7151_conventional_dendritic_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00D7151_conventional_dendritic_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00TU2A1_immature_conventional_dendritic_cell_DiseaseFree
+    type bigWig
+    shortLabel DendriticCell
+    longLabel BP_venous_blood_S00TU2A1_immature_conventional_dendritic_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TU2A1_immature_conventional_dendritic_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00TV0A1_immature_conventional_dendritic_cell_DiseaseFree
+    type bigWig
+    shortLabel DendriticCell
+    longLabel BP_venous_blood_S00TV0A1_immature_conventional_dendritic_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TV0A1_immature_conventional_dendritic_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00TWZA1_immature_conventional_dendritic_cell_DiseaseFree
+    type bigWig
+    shortLabel DendriticCell
+    longLabel BP_venous_blood_S00TWZA1_immature_conventional_dendritic_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TWZA1_immature_conventional_dendritic_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00TXXA1_mature_conventional_dendritic_cell_DiseaseFree
+    type bigWig
+    shortLabel DendriticCell
+    longLabel BP_venous_blood_S00TXXA1_mature_conventional_dendritic_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TXXA1_mature_conventional_dendritic_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00TYVA1_mature_conventional_dendritic_cell_DiseaseFree
+    type bigWig
+    shortLabel DendriticCell
+    longLabel BP_venous_blood_S00TYVA1_mature_conventional_dendritic_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TYVA1_mature_conventional_dendritic_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00U0LA1_mature_conventional_dendritic_cell_DiseaseFree
+    type bigWig
+    shortLabel DendriticCell
+    longLabel BP_venous_blood_S00U0LA1_mature_conventional_dendritic_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00U0LA1_mature_conventional_dendritic_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00UJK51_adult_endothelial_progenitor_cell_DiseaseFree
+    type bigWig
+    shortLabel EndoProgenitor
+    longLabel BP_venous_blood_S00UJK51_adult_endothelial_progenitor_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00UJK51_adult_endothelial_progenitor_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01GU951_adult_endothelial_progenitor_cell_DiseaseFree
+    type bigWig
+    shortLabel EndoProgenitor
+    longLabel BP_venous_blood_S01GU951_adult_endothelial_progenitor_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01GU951_adult_endothelial_progenitor_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S006XE53_mature_eosinophil_DiseaseFree
+    type bigWig
+    shortLabel Eosinophil
+    longLabel BP_venous_blood_S006XE53_mature_eosinophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S006XE53_mature_eosinophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00V6553_mature_eosinophil_DiseaseFree
+    type bigWig
+    shortLabel Eosinophil
+    longLabel BP_venous_blood_S00V6553_mature_eosinophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00V6553_mature_eosinophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S002R551_erythroblast_DiseaseFree
+    type bigWig
+    shortLabel Erythroblast
+    longLabel BP_cord_blood_S002R551_erythroblast_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S002R551_erythroblast_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S002S351_erythroblast_DiseaseFree
+    type bigWig
+    shortLabel Erythroblast
+    longLabel BP_cord_blood_S002S351_erythroblast_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S002S351_erythroblast_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00W8Y51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree
+    type bigWig
+    shortLabel MSC
+    longLabel BP_venous_blood_S00W8Y51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00W8Y51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00YAM51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree
+    type bigWig
+    shortLabel MSC
+    longLabel BP_venous_blood_S00YAM51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00YAM51_mesenchymal_stem_cell_of_the_bone_marrow_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S0018A52_inflammatory_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_cord_blood_S0018A52_inflammatory_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S0018A52_inflammatory_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S007SK51_inflammatory_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_cord_blood_S007SK51_inflammatory_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S007SK51_inflammatory_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00BHQ51_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_cord_blood_S00BHQ51_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00BHQ51_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00C1H51_alternatively_activated_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_cord_blood_S00C1H51_alternatively_activated_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00C1H51_alternatively_activated_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00DVR51_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_cord_blood_S00DVR51_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00DVR51_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00E8W51_alternatively_activated_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_cord_blood_S00E8W51_alternatively_activated_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00E8W51_alternatively_activated_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C005VG51_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_C005VG51_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C005VG51_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S001MJ51_inflammatory_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S001MJ51_inflammatory_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001MJ51_inflammatory_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S001S751_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S001S751_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001S751_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S001S753_inflammatory_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S001S753_inflammatory_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001S753_inflammatory_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S0022I51_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S0022I51_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0022I51_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S0022I53_inflammatory_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S0022I53_inflammatory_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0022I53_inflammatory_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S0039051_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S0039051_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0039051_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S0062252_alternatively_activated_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S0062252_alternatively_activated_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0062252_alternatively_activated_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S006VI53_alternatively_activated_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S006VI53_alternatively_activated_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S006VI53_alternatively_activated_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00BS451_alternatively_activated_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S00BS451_alternatively_activated_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00BS451_alternatively_activated_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00FTN51_alternatively_activated_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S00FTN51_alternatively_activated_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00FTN51_alternatively_activated_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00H6O51_inflammatory_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S00H6O51_inflammatory_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00H6O51_inflammatory_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00V3BN1_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S00V3BN1_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00V3BN1_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00V49N1_macrophage_DiseaseFree
+    type bigWig
+    shortLabel Macrophage
+    longLabel BP_venous_blood_S00V49N1_macrophage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00V49N1_macrophage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S004AV51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree
+    type bigWig
+    shortLabel Megakaryocyte
+    longLabel BP_cord_blood_S004AV51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S004AV51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S004BT51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree
+    type bigWig
+    shortLabel Megakaryocyte
+    longLabel BP_cord_blood_S004BT51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S004BT51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_C005PS51_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_cord_blood_C005PS51_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C005PS51_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S000RD54_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_cord_blood_S000RD54_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S000RD54_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C000S5A1bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_C000S5A1bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C000S5A1bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C0010KA2bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_C0010KA2bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C0010KA2bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C001UYA3bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_C001UYA3bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C001UYA3bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C004SQ51_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_C004SQ51_CD14positive_CD16negative_classical_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C004SQ51_CD14positive_CD16negative_classical_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00V2DN1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S00V2DN1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00V2DN1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01B47A1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01B47A1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B47A1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01B55A1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01B55A1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B55A1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01B63A1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01B63A1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B63A1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01B71A1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01B71A1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B71A1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01B9YA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01B9YA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01B9YA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01BAWA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01BAWA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BAWA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01BBUA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01BBUA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BBUA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01BCSA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01BCSA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BCSA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01BDQA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01BDQA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BDQA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01BEOA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01BEOA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BEOA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01BFMA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01BFMA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BFMA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01BGKA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01BGKA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BGKA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01BHIA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01BHIA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01BHIA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01E03A1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01E03A1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01E03A1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01MAPA1_monocyte_DiseaseFree
+    type bigWig
+    shortLabel Monocyte
+    longLabel BP_venous_blood_S01MAPA1_monocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01MAPA1_monocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_C0067N51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
+    type bigWig
+    shortLabel NKCell
+    longLabel BP_cord_blood_C0067N51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C0067N51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S01E8O51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
+    type bigWig
+    shortLabel NKCell
+    longLabel BP_cord_blood_S01E8O51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S01E8O51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C002CTA1bs_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
+    type bigWig
+    shortLabel NKCell
+    longLabel BP_venous_blood_C002CTA1bs_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C002CTA1bs_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C006G551_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
+    type bigWig
+    shortLabel NKCell
+    longLabel BP_venous_blood_C006G551_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C006G551_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00JE0A1_neutrophilic_myelocyte_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00JE0A1_neutrophilic_myelocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JE0A1_neutrophilic_myelocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00JFZA1_neutrophilic_metamyelocyte_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00JFZA1_neutrophilic_metamyelocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JFZA1_neutrophilic_metamyelocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00JGXA1_band_form_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00JGXA1_band_form_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JGXA1_band_form_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00JHVA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00JHVA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JHVA1_segmented_neutrophil_of_bone_marrow_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00JJRA1_neutrophilic_myelocyte_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00JJRA1_neutrophilic_myelocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JJRA1_neutrophilic_myelocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00JKPA1_neutrophilic_metamyelocyte_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00JKPA1_neutrophilic_metamyelocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JKPA1_neutrophilic_metamyelocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00JMLA1_band_form_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00JMLA1_band_form_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JMLA1_band_form_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00JNJA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00JNJA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00JNJA1_segmented_neutrophil_of_bone_marrow_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00VCUA1_neutrophilic_myelocyte_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00VCUA1_neutrophilic_myelocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00VCUA1_neutrophilic_myelocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00VDSA1_neutrophilic_metamyelocyte_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00VDSA1_neutrophilic_metamyelocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00VDSA1_neutrophilic_metamyelocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00VEQA1_band_form_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00VEQA1_band_form_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00VEQA1_band_form_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_S00VFOA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_bone_marrow_S00VFOA1_segmented_neutrophil_of_bone_marrow_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_S00VFOA1_segmented_neutrophil_of_bone_marrow_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_C00184A3bs_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_cord_blood_C00184A3bs_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C00184A3bs_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_C004GD51_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_cord_blood_C004GD51_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C004GD51_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C000S5A2bs_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_C000S5A2bs_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C000S5A2bs_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C0010KA1bs_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_C0010KA1bs_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C0010KA1bs_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C0011IA3bs_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_C0011IA3bs_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C0011IA3bs_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C001UYA1bs_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_C001UYA1bs_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C001UYA1bs_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00FWHA1_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_S00FWHA1_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00FWHA1_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00FXFA1_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_S00FXFA1_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00FXFA1_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00K5EA1_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_S00K5EA1_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00K5EA1_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00K7AA1_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_S00K7AA1_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00K7AA1_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00K88A1_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_S00K88A1_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00K88A1_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00TC1A1_mature_neutrophil_DiseaseFree
+    type bigWig
+    shortLabel Neutrophil
+    longLabel BP_venous_blood_S00TC1A1_mature_neutrophil_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00TC1A1_mature_neutrophil_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Hodges_2011_Human_Neut
+    type bigWig
+    shortLabel Neutrophil
+    longLabel methbase_Hodges_2011_Human_Neut
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hodges_2011_Human_Neut.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01GKTA1_osteoclast_DiseaseFree
+    type bigWig
+    shortLabel Osteoclast
+    longLabel BP_venous_blood_S01GKTA1_osteoclast_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01GKTA1_osteoclast_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S01GMPA1_osteoclast_DiseaseFree
+    type bigWig
+    shortLabel Osteoclast
+    longLabel BP_venous_blood_S01GMPA1_osteoclast_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S01GMPA1_osteoclast_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E050_Mobilized_CD34_Primary_Cells_Female
+    type bigWig
+    shortLabel Other
+    longLabel REMC_E050_Mobilized_CD34_Primary_Cells_Female
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E050_Mobilized_CD34_Primary_Cells_Female.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E112_Thymus
+    type bigWig
+    shortLabel Other
+    longLabel REMC_E112_Thymus
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E112_Thymus.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E113_Spleen
+    type bigWig
+    shortLabel Other
+    longLabel REMC_E113_Spleen
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E113_Spleen.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Heyn_2012_Human_PBMC
+    type bigWig
+    shortLabel Other
+    longLabel methbase_Heyn_2012_Human_PBMC
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_PBMC.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Li_2010_Human_PBMC
+    type bigWig
+    shortLabel Other
+    longLabel methbase_Li_2010_Human_PBMC
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Li_2010_Human_PBMC.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_G202_plasma_cell_DiseaseFree
+    type bigWig
+    shortLabel Plasma
+    longLabel BP_bone_marrow_G202_plasma_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G202_plasma_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree
+    type bigWig
+    shortLabel Plasma
+    longLabel BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree
+    type bigWig
+    shortLabel Plasma
+    longLabel BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree
+    type bigWig
+    shortLabel Plasma
+    longLabel BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree
+    type bigWig
+    shortLabel Plasma
+    longLabel BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Hodges_2011_Human_HSPC
+    type bigWig
+    shortLabel ProgenitorCell
+    longLabel methbase_Hodges_2011_Human_HSPC
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hodges_2011_Human_HSPC.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TCell
+    longLabel BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_adult_sorted_CD4_327_draw_UW_RO_01721
+    type bigWig
+    shortLabel TCell
+    longLabel Ziller_adult_sorted_CD4_327_draw_UW_RO_01721
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD4_327_draw_UW_RO_01721.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_adult_sorted_CD8_330_draw_UW_RO_01736
+    type bigWig
+    shortLabel TCell
+    longLabel Ziller_adult_sorted_CD8_330_draw_UW_RO_01736
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD8_330_draw_UW_RO_01736.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Heyn_2012_Human_CD4T-100yr
+    type bigWig
+    shortLabel TCell
+    longLabel methbase_Heyn_2012_Human_CD4T-100yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_CD4T-100yr.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Heyn_2012_Human_CD4T-Newborn
+    type bigWig
+    shortLabel TCell
+    longLabel methbase_Heyn_2012_Human_CD4T-Newborn
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_CD4T-Newborn.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C003JB51_class_switched_memory_B_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryBCell
+    longLabel BP_venous_blood_C003JB51_class_switched_memory_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003JB51_class_switched_memory_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C003N351_memory_B_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryBCell
+    longLabel BP_venous_blood_C003N351_memory_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003N351_memory_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S004P151_class_switched_memory_B_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryBCell
+    longLabel BP_venous_blood_S004P151_class_switched_memory_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S004P151_class_switched_memory_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryBCell
+    longLabel BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_csMBC_NC11_41_class_switched_memory_B_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryBCell
+    longLabel BP_venous_blood_csMBC_NC11_41_class_switched_memory_B_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_csMBC_NC11_41_class_switched_memory_B_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
+    type bigWig
+    shortLabel memoryTCell
+    longLabel BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_adult_sorted_CD4_328_draw_UW_RO_01736
+    type bigWig
+    shortLabel memoryTCell
+    longLabel Ziller_adult_sorted_CD4_328_draw_UW_RO_01736
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD4_328_draw_UW_RO_01736.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_adult_sorted_CD8_329_draw_UW_RO_01721
+    type bigWig
+    shortLabel memoryTCell
+    longLabel Ziller_adult_sorted_CD8_329_draw_UW_RO_01721
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD8_329_draw_UW_RO_01721.bw
+    parent Blood on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Brain
+type bigWig
+shortLabel Brain
+longLabel Brain
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track REMC_E070_Brain_Germinal_Matrix
+    type bigWig
+    shortLabel Brain
+    longLabel REMC_E070_Brain_Germinal_Matrix
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E070_Brain_Germinal_Matrix.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E071_Brain_Hippocampus_Middle
+    type bigWig
+    shortLabel Brain
+    longLabel REMC_E071_Brain_Hippocampus_Middle
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E071_Brain_Hippocampus_Middle.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_1019_Neuroectoderm_236460
+    type bigWig
+    shortLabel Brain
+    longLabel Ziller_1019_Neuroectoderm_236460
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1019_Neuroectoderm_236460.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_1020_Neuroepithelial_236461
+    type bigWig
+    shortLabel Brain
+    longLabel Ziller_1020_Neuroepithelial_236461
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1020_Neuroepithelial_236461.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_1021_Radial_Glia_VZ_236462
+    type bigWig
+    shortLabel Brain
+    longLabel Ziller_1021_Radial_Glia_VZ_236462
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1021_Radial_Glia_VZ_236462.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_483_substantia_nigra
+    type bigWig
+    shortLabel Brain
+    longLabel Ziller_483_substantia_nigra
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_483_substantia_nigra.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_GSM1204459_1204_mid_frontal_cortex_281161
+    type bigWig
+    shortLabel Brain
+    longLabel Ziller_GSM1204459_1204_mid_frontal_cortex_281161
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_GSM1204459_1204_mid_frontal_cortex_281161.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_GSM1204460_1205_mid_frontal_cortex_281162
+    type bigWig
+    shortLabel Brain
+    longLabel Ziller_GSM1204460_1205_mid_frontal_cortex_281162
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_GSM1204460_1205_mid_frontal_cortex_281162.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_GSM1204461_1208_mid_frontal_cortex_281165
+    type bigWig
+    shortLabel Brain
+    longLabel Ziller_GSM1204461_1208_mid_frontal_cortex_281165
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_GSM1204461_1208_mid_frontal_cortex_281165.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_GSM1204462_1209_mid_frontal_cortex_281166
+    type bigWig
+    shortLabel Brain
+    longLabel Ziller_GSM1204462_1209_mid_frontal_cortex_281166
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_GSM1204462_1209_mid_frontal_cortex_281166.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_DorsPrefrontNeuron53Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_DorsPrefrontNeuron53Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_DorsPrefrontNeuron53Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_DorsPrefrontNeuronMale55Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_DorsPrefrontNeuronMale55Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_DorsPrefrontNeuronMale55Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_DorsPrefrontNonNeuron53Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_DorsPrefrontNonNeuron53Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_DorsPrefrontNonNeuron53Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_DorsPrefrontNonNeuronMale55Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_DorsPrefrontNonNeuronMale55Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_DorsPrefrontNonNeuronMale55Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_FrontCortexFemale64Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_FrontCortexFemale64Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_FrontCortexFemale64Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_MidFrontGyr12Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_MidFrontGyr12Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_MidFrontGyr12Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_MidFrontGyr16Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_MidFrontGyr16Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_MidFrontGyr16Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_MidFrontGyr2Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_MidFrontGyr2Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_MidFrontGyr2Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_MidFrontGyr35Day
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_MidFrontGyr35Day
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_MidFrontGyr35Day.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_MidFrontGyr5Yr
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Brain_Human_MidFrontGyr5Yr
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_MidFrontGyr5Yr.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Zeng_2012_Human_PreFrontCortex
+    type bigWig
+    shortLabel Brain
+    longLabel methbase_Zeng_2012_Human_PreFrontCortex
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Zeng_2012_Human_PreFrontCortex.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_515_fetal_brain
+    type bigWig
+    shortLabel Brain_Fetal
+    longLabel Ziller_515_fetal_brain
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_515_fetal_brain.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Brain_Human_FetalCerebCortex
+    type bigWig
+    shortLabel Brain_Fetal
+    longLabel methbase_Brain_Human_FetalCerebCortex
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Brain_Human_FetalCerebCortex.bw
+    parent Brain on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Breast
+type bigWig
+shortLabel Breast
+longLabel Breast
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track Breast_Normal_Heyn_2016_GSM1279517
+    type bigWig
+    shortLabel Breast
+    longLabel Breast_Normal_Heyn_2016_GSM1279517
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Breast_Normal_Heyn_2016_GSM1279517.bw
+    parent Breast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_UCSF-UBC.Breast_Luminal_Epithelial_Cells.RM066
+    type bigWig
+    shortLabel Breast
+    longLabel REMC_UCSF-UBC.Breast_Luminal_Epithelial_Cells.RM066
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSF-UBC.Breast_Luminal_Epithelial_Cells.RM066.bw
+    parent Breast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_UCSF-UBC.Breast_Myoepithelial_Cells.RM066
+    type bigWig
+    shortLabel Breast
+    longLabel REMC_UCSF-UBC.Breast_Myoepithelial_Cells.RM066
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSF-UBC.Breast_Myoepithelial_Cells.RM066.bw
+    parent Breast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track TCGA_BRCA_NA0CE
+    type bigWig
+    shortLabel Breast
+    longLabel TCGA_BRCA_NA0CE
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_BRCA_NA0CE.bw
+    parent Breast on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CellLine
+type bigWig
+shortLabel CellLine
+longLabel CellLine
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track REMC_E024_4star
+    type bigWig
+    shortLabel 4star
+    longLabel REMC_E024_4star
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E024_4star.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2011_Human_ADS
+    type bigWig
+    shortLabel ADS
+    longLabel methbase_Lister_2011_Human_ADS
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2011_Human_ADS.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2011_Human_ADSAdipose
+    type bigWig
+    shortLabel ADS.derived
+    longLabel methbase_Lister_2011_Human_ADSAdipose
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2011_Human_ADSAdipose.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Heyn_2012_Human_BCell-Healthy
+    type bigWig
+    shortLabel BCell
+    longLabel methbase_Heyn_2012_Human_BCell-Healthy
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_BCell-Healthy.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Hon_2012_Human_HMEC
+    type bigWig
+    shortLabel Breast
+    longLabel methbase_Hon_2012_Human_HMEC
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hon_2012_Human_HMEC.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track CL_Breast_Cancer_468LN_Carmona_2014_GSM1279513
+    type bigWig
+    shortLabel BreastCancer
+    longLabel CL_Breast_Cancer_468LN_Carmona_2014_GSM1279513
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//CL_Breast_Cancer_468LN_Carmona_2014_GSM1279513.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track CL_Breast_Cancer_468PT_Carmona_2014_GSM1279514
+    type bigWig
+    shortLabel BreastCancer
+    longLabel CL_Breast_Cancer_468PT_Carmona_2014_GSM1279514
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//CL_Breast_Cancer_468PT_Carmona_2014_GSM1279514.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Hon_2012_Human_HCC1954
+    type bigWig
+    shortLabel BreastCancer
+    longLabel methbase_Hon_2012_Human_HCC1954
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Hon_2012_Human_HCC1954.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E007_H1_Derived_Neuronal_Progenitor_Cultured_Cells
+    type bigWig
+    shortLabel ESC.derived.ectoderm
+    longLabel REMC_E007_H1_Derived_Neuronal_Progenitor_Cultured_Cells
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E007_H1_Derived_Neuronal_Progenitor_Cultured_Cells.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E012_hESC_Derived_CD56+_Ectoderm_Cultured_Cells
+    type bigWig
+    shortLabel ESC.derived.ectoderm
+    longLabel REMC_E012_hESC_Derived_CD56+_Ectoderm_Cultured_Cells
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E012_hESC_Derived_CD56+_Ectoderm_Cultured_Cells.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E011_hESC_Derived_CD184+_Endoderm_Cultured_Cells
+    type bigWig
+    shortLabel ESC.derived.endoderm
+    longLabel REMC_E011_hESC_Derived_CD184+_Endoderm_Cultured_Cells
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E011_hESC_Derived_CD184+_Endoderm_Cultured_Cells.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_GSM1112848_HUES64_derived_CD184_311
+    type bigWig
+    shortLabel ESC.derived.endoderm
+    longLabel Ziller_GSM1112848_HUES64_derived_CD184_311
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_GSM1112848_HUES64_derived_CD184_311.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E004_H1_BMP4_Derived_Mesendoderm_Cultured_Cells
+    type bigWig
+    shortLabel ESC.derived.mesendoderm
+    longLabel REMC_E004_H1_BMP4_Derived_Mesendoderm_Cultured_Cells
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E004_H1_BMP4_Derived_Mesendoderm_Cultured_Cells.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E006_H1_Derived_Mesenchymal_Stem_Cells
+    type bigWig
+    shortLabel ESC.derived.mesoderm
+    longLabel REMC_E006_H1_Derived_Mesenchymal_Stem_Cells
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E006_H1_Derived_Mesenchymal_Stem_Cells.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E013_hESC_Derived_CD56+_Mesoderm_Cultured_Cells
+    type bigWig
+    shortLabel ESC.derived.mesoderm
+    longLabel REMC_E013_hESC_Derived_CD56+_Mesoderm_Cultured_Cells
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E013_hESC_Derived_CD56+_Mesoderm_Cultured_Cells.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E005_H1_BMP4_Derived_Trophoblast_Cultured_Cells
+    type bigWig
+    shortLabel ESC.derived.trophoblast
+    longLabel REMC_E005_H1_BMP4_Derived_Trophoblast_Cultured_Cells
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E005_H1_BMP4_Derived_Trophoblast_Cultured_Cells.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E017_IMR90_Cell_Line
+    type bigWig
+    shortLabel Fibroblast
+    longLabel REMC_E017_IMR90_Cell_Line
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E017_IMR90_Cell_Line.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_GSM1204464_1502_IMR_90_304071
+    type bigWig
+    shortLabel Fibroblast
+    longLabel Ziller_GSM1204464_1502_IMR_90_304071
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_GSM1204464_1502_IMR_90_304071.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2009_Human_IMR90
+    type bigWig
+    shortLabel Fibroblast
+    longLabel methbase_Lister_2009_Human_IMR90
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2009_Human_IMR90.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2011_Human_FF
+    type bigWig
+    shortLabel Fibroblast
+    longLabel methbase_Lister_2011_Human_FF
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2011_Human_FF.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E003_H1_Cell_Line
+    type bigWig
+    shortLabel H1
+    longLabel REMC_E003_H1_Cell_Line
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E003_H1_Cell_Line.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2009_Human_H1ESC
+    type bigWig
+    shortLabel H1
+    longLabel methbase_Lister_2009_Human_H1ESC
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2009_Human_H1ESC.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E008_H9_Cell_Line
+    type bigWig
+    shortLabel H9
+    longLabel REMC_E008_H9_Cell_Line
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E008_H9_Cell_Line.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E016_HUES64_Cell_Line
+    type bigWig
+    shortLabel HUES64
+    longLabel REMC_E016_HUES64_Cell_Line
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E016_HUES64_Cell_Line.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Heyn_2012_Human_BCell-ICF
+    type bigWig
+    shortLabel ICF
+    longLabel methbase_Heyn_2012_Human_BCell-ICF
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_BCell-ICF.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_GSM1204463_1500_HepG2_304072
+    type bigWig
+    shortLabel LiverCancer
+    longLabel Ziller_GSM1204463_1500_HepG2_304072
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_GSM1204463_1500_HepG2_304072.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track CL_Lung_H1437_Heyn_2016_GSM1279522
+    type bigWig
+    shortLabel LungCancer
+    longLabel CL_Lung_H1437_Heyn_2016_GSM1279522
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//CL_Lung_H1437_Heyn_2016_GSM1279522.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track CL_Lung_H157_Heyn_2016_GSM1279523
+    type bigWig
+    shortLabel LungCancer
+    longLabel CL_Lung_H157_Heyn_2016_GSM1279523
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//CL_Lung_H157_Heyn_2016_GSM1279523.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E053_Neurosphere_Cultured_Cells_Cortex_Derived
+    type bigWig
+    shortLabel Neurosphere
+    longLabel REMC_E053_Neurosphere_Cultured_Cells_Cortex_Derived
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E053_Neurosphere_Cultured_Cells_Cortex_Derived.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E054_Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived
+    type bigWig
+    shortLabel Neurosphere
+    longLabel REMC_E054_Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E054_Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E021_iPS_DF_6.9_Cell_Line
+    type bigWig
+    shortLabel iPSC
+    longLabel REMC_E021_iPS_DF_6.9_Cell_Line
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E021_iPS_DF_6.9_Cell_Line.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E022_iPS_DF_19.11_Cell_Line
+    type bigWig
+    shortLabel iPSC
+    longLabel REMC_E022_iPS_DF_19.11_Cell_Line
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E022_iPS_DF_19.11_Cell_Line.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2011_Human_ADSiPSC
+    type bigWig
+    shortLabel iPSC
+    longLabel methbase_Lister_2011_Human_ADSiPSC
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2011_Human_ADSiPSC.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2011_Human_FFiPSC1911BMP4
+    type bigWig
+    shortLabel iPSC
+    longLabel methbase_Lister_2011_Human_FFiPSC1911BMP4
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2011_Human_FFiPSC1911BMP4.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2011_Human_FFiPSC197
+    type bigWig
+    shortLabel iPSC
+    longLabel methbase_Lister_2011_Human_FFiPSC197
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2011_Human_FFiPSC197.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lister_2011_Human_IMR90iPSC
+    type bigWig
+    shortLabel iPSC
+    longLabel methbase_Lister_2011_Human_IMR90iPSC
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lister_2011_Human_IMR90iPSC.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track CL_Lung_H1672_Heyn_2016_GSM1279524
+    type bigWig
+    shortLabel lymphoblast
+    longLabel CL_Lung_H1672_Heyn_2016_GSM1279524
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//CL_Lung_H1672_Heyn_2016_GSM1279524.bw
+    parent CellLine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Embryo
+type bigWig
+shortLabel Embryo
+longLabel Embryo
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track GSE63818_EmbryonicBrain_lowcov
+    type bigWig
+    shortLabel Brain_Embryo
+    longLabel GSE63818_EmbryonicBrain_lowcov
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_EmbryonicBrain_lowcov.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE49828_ICM_lowcov
+    type bigWig
+    shortLabel EarlyDev_Embryo
+    longLabel GSE49828_ICM_lowcov
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE49828_ICM_lowcov.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Okae_2014_blastocyst
+    type bigWig
+    shortLabel EarlyDev_Embryo
+    longLabel Okae_2014_blastocyst
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Okae_2014_blastocyst.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_1018_Epiblast_236459
+    type bigWig
+    shortLabel Epiblast_Embryo
+    longLabel Ziller_1018_Epiblast_236459
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1018_Epiblast_236459.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63818_EmbryonicHeart_lowcov
+    type bigWig
+    shortLabel Heart_Embryo
+    longLabel GSE63818_EmbryonicHeart_lowcov
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_EmbryonicHeart_lowcov.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE49828_EmbryonicLiver_lowcov
+    type bigWig
+    shortLabel Liver_Embryo
+    longLabel GSE49828_EmbryonicLiver_lowcov
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE49828_EmbryonicLiver_lowcov.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Okae_2014_oocytes_lowcov
+    type bigWig
+    shortLabel Oocyte_Embryo
+    longLabel Okae_2014_oocytes_lowcov
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Okae_2014_oocytes_lowcov.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63393_Fetal_PGC_F_D113
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63393_Fetal_PGC_F_D113
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63393_Fetal_PGC_F_D113.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63393_Fetal_PGC_F_D57to67
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63393_Fetal_PGC_F_D57to67
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63393_Fetal_PGC_F_D57to67.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63393_Fetal_PGC_M_D59to137_lowcov
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63393_Fetal_PGC_M_D59to137_lowcov
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63393_Fetal_PGC_M_D59to137_lowcov.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63818_PGC_10W_F
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63818_PGC_10W_F
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_PGC_10W_F.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63818_PGC_10W_M
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63818_PGC_10W_M
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_PGC_10W_M.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63818_PGC_11W_F
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63818_PGC_11W_F
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_PGC_11W_F.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63818_PGC_11_to_13W_M
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63818_PGC_11_to_13W_M
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_PGC_11_to_13W_M.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63818_PGC_17W_F
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63818_PGC_17W_F
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_PGC_17W_F.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63818_PGC_19W_M
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63818_PGC_19W_M
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_PGC_19W_M.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track GSE63818_PGC_7W_M
+    type bigWig
+    shortLabel PGC_Embryo
+    longLabel GSE63818_PGC_7W_M
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_PGC_7W_M.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Molaro_2011_Human_Sperm
+    type bigWig
+    shortLabel Sperm_Embryo
+    longLabel methbase_Molaro_2011_Human_Sperm
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Molaro_2011_Human_Sperm.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_UCSF-UBC.Testis_Spermatozoa_Primary_Cells.390ATA
+    type bigWig
+    shortLabel TestisSpermatozoa_Embryo
+    longLabel REMC_UCSF-UBC.Testis_Spermatozoa_Primary_Cells.390ATA
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSF-UBC.Testis_Spermatozoa_Primary_Cells.390ATA.bw
+    parent Embryo on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Endometrial
+type bigWig
+shortLabel Endometrial
+longLabel Endometrial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track TCGA_UCEC_NA1CI
+    type bigWig
+    shortLabel Endometrial
+    longLabel TCGA_UCEC_NA1CI
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_UCEC_NA1CI.bw
+    parent Endometrial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Gonad
+type bigWig
+shortLabel Gonad
+longLabel Gonad
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track GSE63818_FetalGonadalSoma_7to9W
+    type bigWig
+    shortLabel Gonad_Fetal
+    longLabel GSE63818_FetalGonadalSoma_7to9W
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//GSE63818_FetalGonadalSoma_7to9W.bw
+    parent Gonad on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Heart
+type bigWig
+shortLabel Heart
+longLabel Heart
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track REMC_E095_Left_Ventricle
+    type bigWig
+    shortLabel Heart
+    longLabel REMC_E095_Left_Ventricle
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E095_Left_Ventricle.bw
+    parent Heart on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E104_Right_Atrium
+    type bigWig
+    shortLabel Heart
+    longLabel REMC_E104_Right_Atrium
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E104_Right_Atrium.bw
+    parent Heart on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E105_Right_Ventricle
+    type bigWig
+    shortLabel Heart
+    longLabel REMC_E105_Right_Ventricle
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E105_Right_Ventricle.bw
+    parent Heart on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_1119_fetal_heart
+    type bigWig
+    shortLabel Heart_Fetal
+    longLabel Ziller_1119_fetal_heart
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1119_fetal_heart.bw
+    parent Heart on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track LargeInstestine
+type bigWig
+shortLabel LargeInstestine
+longLabel LargeInstestine
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track REMC_E084_Fetal_Intestine_Large
+    type bigWig
+    shortLabel LargeInstestine_Fetal
+    longLabel REMC_E084_Fetal_Intestine_Large
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E084_Fetal_Intestine_Large.bw
+    parent LargeInstestine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Liver
+type bigWig
+shortLabel Liver
+longLabel Liver
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track Liver_N1_Li_2016_GSM1716957
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_N1_Li_2016_GSM1716957
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_N1_Li_2016_GSM1716957.bw
+    parent Liver on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Liver_N2_Li_2016_GSM1716961
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_N2_Li_2016_GSM1716961
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_N2_Li_2016_GSM1716961.bw
+    parent Liver on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Liver_N3_Li_2016_GSM1716965
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_N3_Li_2016_GSM1716965
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_N3_Li_2016_GSM1716965.bw
+    parent Liver on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Liver_N4_Li_2016_GSM1716969
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_N4_Li_2016_GSM1716969
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_N4_Li_2016_GSM1716969.bw
+    parent Liver on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Liver_Normal_Court_2014_GSM1134681
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_Normal_Court_2014_GSM1134681
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Liver_Normal_Court_2014_GSM1134681.bw
+    parent Liver on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E066_Adult_Liver
+    type bigWig
+    shortLabel Liver
+    longLabel REMC_E066_Adult_Liver
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E066_Adult_Liver.bw
+    parent Liver on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track LowerGI
+type bigWig
+shortLabel LowerGI
+longLabel LowerGI
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track Colon_Normal_Heyn_2016_GSM1279519
+    type bigWig
+    shortLabel LowerGI
+    longLabel Colon_Normal_Heyn_2016_GSM1279519
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Colon_Normal_Heyn_2016_GSM1279519.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E106_Sigmoid_Colon
+    type bigWig
+    shortLabel LowerGI
+    longLabel REMC_E106_Sigmoid_Colon
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E106_Sigmoid_Colon.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E109_Small_Intestine
+    type bigWig
+    shortLabel LowerGI
+    longLabel REMC_E109_Small_Intestine
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E109_Small_Intestine.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track TCGA_COAD_N3158
+    type bigWig
+    shortLabel LowerGI
+    longLabel TCGA_COAD_N3158
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_COAD_N3158.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track TCGA_READ_N2689
+    type bigWig
+    shortLabel LowerGI
+    longLabel TCGA_READ_N2689
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_READ_N2689.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_157_REMC_19_colonic_mucosa
+    type bigWig
+    shortLabel LowerGI
+    longLabel Ziller_157_REMC_19_colonic_mucosa
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_157_REMC_19_colonic_mucosa.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_GSM1204466_1121_Colon_Adjacent_Normal
+    type bigWig
+    shortLabel LowerGI
+    longLabel Ziller_GSM1204466_1121_Colon_Adjacent_Normal
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_GSM1204466_1121_Colon_Adjacent_Normal.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Berman_2012_Human_ColonNormal
+    type bigWig
+    shortLabel LowerGI
+    longLabel methbase_Berman_2012_Human_ColonNormal
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Berman_2012_Human_ColonNormal.bw
+    parent LowerGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Lung
+type bigWig
+shortLabel Lung
+longLabel Lung
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track Lung_N1_Li_2016_GSM1716973
+    type bigWig
+    shortLabel Lung
+    longLabel Lung_N1_Li_2016_GSM1716973
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Lung_N1_Li_2016_GSM1716973.bw
+    parent Lung on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Lung_N2_Li_2016_GSM1716977
+    type bigWig
+    shortLabel Lung
+    longLabel Lung_N2_Li_2016_GSM1716977
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Lung_N2_Li_2016_GSM1716977.bw
+    parent Lung on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Lung_N3_Li_2016_GSM1716981
+    type bigWig
+    shortLabel Lung
+    longLabel Lung_N3_Li_2016_GSM1716981
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Lung_N3_Li_2016_GSM1716981.bw
+    parent Lung on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E096_Lung
+    type bigWig
+    shortLabel Lung
+    longLabel REMC_E096_Lung
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E096_Lung.bw
+    parent Lung on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track TCGA_LUAD_N6148
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUAD_N6148
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_LUAD_N6148.bw
+    parent Lung on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track TCGA_LUSC_N2722
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUSC_N2722
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_LUSC_N2722.bw
+    parent Lung on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Muscle
+type bigWig
+shortLabel Muscle
+longLabel Muscle
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track REMC_E065_Aorta
+    type bigWig
+    shortLabel Muscle
+    longLabel REMC_E065_Aorta
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E065_Aorta.bw
+    parent Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E100_Psoas_Muscle
+    type bigWig
+    shortLabel Muscle
+    longLabel REMC_E100_Psoas_Muscle
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E100_Psoas_Muscle.bw
+    parent Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_BI.Fetal_Muscle_Leg.UW_H24996
+    type bigWig
+    shortLabel Muscle_Fetal
+    longLabel REMC_BI.Fetal_Muscle_Leg.UW_H24996
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_BI.Fetal_Muscle_Leg.UW_H24996.bw
+    parent Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Other
+type bigWig
+shortLabel Other
+longLabel Other
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03
+    type bigWig
+    shortLabel Other
+    longLabel REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E058_Penis_Foreskin_Keratinocyte_Primary_Cells_skin03.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E097_Ovary
+    type bigWig
+    shortLabel Other
+    longLabel REMC_E097_Ovary
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E097_Ovary.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E098_Pancreas
+    type bigWig
+    shortLabel Other
+    longLabel REMC_E098_Pancreas
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E098_Pancreas.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_UCSD.Adipose_Tissue.STL003
+    type bigWig
+    shortLabel Other
+    longLabel REMC_UCSD.Adipose_Tissue.STL003
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSD.Adipose_Tissue.STL003.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_UCSD.Adrenal_Gland.STL003
+    type bigWig
+    shortLabel Other
+    longLabel REMC_UCSD.Adrenal_Gland.STL003
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSD.Adrenal_Gland.STL003.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03
+    type bigWig
+    shortLabel Other
+    longLabel REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells.skin03.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075
+    type bigWig
+    shortLabel Other
+    longLabel Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_1496_Subcutaneous_Adipocyte_Nuclei_304075.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track methbase_Lowe_2013_Human_Buccals
+    type bigWig
+    shortLabel Other
+    longLabel methbase_Lowe_2013_Human_Buccals
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Lowe_2013_Human_Buccals.bw
+    parent Other on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Placenta
+type bigWig
+shortLabel Placenta
+longLabel Placenta
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track Placenta_Normal_Court_2014_GSM1134682
+    type bigWig
+    shortLabel Placenta_Fetal
+    longLabel Placenta_Normal_Court_2014_GSM1134682
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Placenta_Normal_Court_2014_GSM1134682.bw
+    parent Placenta on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track Thymus
+type bigWig
+shortLabel Thymus
+longLabel Thymus
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track REMC_BI.Fetal_Thymus.UW_H24943
+    type bigWig
+    shortLabel Thymus_Fetal
+    longLabel REMC_BI.Fetal_Thymus.UW_H24943
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_BI.Fetal_Thymus.UW_H24943.bw
+    parent Thymus on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track UmbilicalVein
+type bigWig
+shortLabel UmbilicalVein
+longLabel UmbilicalVein
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
+    type bigWig
+    shortLabel UmbilicalVein_Fetal
+    longLabel BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00BJM51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree.bw
+    parent UmbilicalVein on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
+    type bigWig
+    shortLabel UmbilicalVein_Fetal
+    longLabel BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00BJM52_endothelial_cell_of_umbilical_vein_resting_DiseaseFree.bw
+    parent UmbilicalVein on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
+    type bigWig
+    shortLabel UmbilicalVein_Fetal
+    longLabel BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00DCS51_endothelial_cell_of_umbilical_vein_proliferating_DiseaseFree.bw
+    parent UmbilicalVein on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
+    type bigWig
+    shortLabel UmbilicalVein_Fetal
+    longLabel BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00DCS53_endothelial_cell_of_umbilical_vein_resting_DiseaseFree.bw
+    parent UmbilicalVein on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track UpperGI
+type bigWig
+shortLabel UpperGI
+longLabel UpperGI
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+
+    track REMC_E079_Esophagus
+    type bigWig
+    shortLabel UpperGI
+    longLabel REMC_E079_Esophagus
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E079_Esophagus.bw
+    parent UpperGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track REMC_E094_Gastric
+    type bigWig
+    shortLabel UpperGI
+    longLabel REMC_E094_Gastric
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//REMC_E094_Gastric.bw
+    parent UpperGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+    track TCGA_STAD_N6452
+    type bigWig
+    shortLabel UpperGI
+    longLabel TCGA_STAD_N6452
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_STAD_N6452.bw
+    parent UpperGI on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
