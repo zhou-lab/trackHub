@@ -248,7 +248,7 @@ dragAndDrop on
 
     track BP_bone_marrow_G202_plasma_cell_DiseaseFree
     type bigWig
-    shortLabel Plasma
+    shortLabel PlasmaCell
     longLabel BP_bone_marrow_G202_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_G202_plasma_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -258,7 +258,7 @@ dragAndDrop on
 
     track BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree
     type bigWig
-    shortLabel Plasma
+    shortLabel PlasmaCell
     longLabel BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -268,7 +268,7 @@ dragAndDrop on
 
     track BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree
     type bigWig
-    shortLabel Plasma
+    shortLabel PlasmaCell
     longLabel BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -278,7 +278,7 @@ dragAndDrop on
 
     track BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree
     type bigWig
-    shortLabel Plasma
+    shortLabel PlasmaCell
     longLabel BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -288,7 +288,7 @@ dragAndDrop on
 
     track BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree
     type bigWig
-    shortLabel Plasma
+    shortLabel PlasmaCell
     longLabel BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -298,7 +298,7 @@ dragAndDrop on
 
     track BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD8
     longLabel BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -308,7 +308,7 @@ dragAndDrop on
 
     track BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD8
     longLabel BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -318,7 +318,7 @@ dragAndDrop on
 
     track BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD8
     longLabel BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -328,7 +328,7 @@ dragAndDrop on
 
     track BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD8
     longLabel BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -336,11 +336,21 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree
+    track Ziller_adult_sorted_CD8_330_draw_UW_RO_01736
     type bigWig
-    shortLabel TCell
-    longLabel BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree.bw
+    shortLabel TCellCD8
+    longLabel Ziller_adult_sorted_CD8_330_draw_UW_RO_01736
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD8_330_draw_UW_RO_01736.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Ziller_adult_sorted_CD8_329_draw_UW_RO_01721
+    type bigWig
+    shortLabel TCellCD8
+    longLabel Ziller_adult_sorted_CD8_329_draw_UW_RO_01721
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD8_329_draw_UW_RO_01721.bw
     parent Blood_Lymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
@@ -348,7 +358,7 @@ dragAndDrop on
 
     track BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD4
     longLabel BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -358,7 +368,7 @@ dragAndDrop on
 
     track BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD4
     longLabel BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -368,7 +378,7 @@ dragAndDrop on
 
     track BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD4
     longLabel BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -378,7 +388,7 @@ dragAndDrop on
 
     track BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD4
     longLabel BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -386,19 +396,9 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree
-    type bigWig
-    shortLabel TCell
-    longLabel BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
     track Ziller_adult_sorted_CD4_327_draw_UW_RO_01721
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD4
     longLabel Ziller_adult_sorted_CD4_327_draw_UW_RO_01721
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD4_327_draw_UW_RO_01721.bw
     parent Blood_Lymphoid on
@@ -406,11 +406,11 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track Ziller_adult_sorted_CD8_330_draw_UW_RO_01736
+    track Ziller_adult_sorted_CD4_328_draw_UW_RO_01736
     type bigWig
-    shortLabel TCell
-    longLabel Ziller_adult_sorted_CD8_330_draw_UW_RO_01736
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD8_330_draw_UW_RO_01736.bw
+    shortLabel TCellCD4
+    longLabel Ziller_adult_sorted_CD4_328_draw_UW_RO_01736
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD4_328_draw_UW_RO_01736.bw
     parent Blood_Lymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
@@ -418,7 +418,7 @@ dragAndDrop on
 
     track methbase_Heyn_2012_Human_CD4T-100yr
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD4
     longLabel methbase_Heyn_2012_Human_CD4T-100yr
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_CD4T-100yr.bw
     parent Blood_Lymphoid on
@@ -428,7 +428,7 @@ dragAndDrop on
 
     track methbase_Heyn_2012_Human_CD4T-Newborn
     type bigWig
-    shortLabel TCell
+    shortLabel TCellCD4
     longLabel methbase_Heyn_2012_Human_CD4T-Newborn
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//methbase_Heyn_2012_Human_CD4T-Newborn.bw
     parent Blood_Lymphoid on
@@ -436,9 +436,29 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+    track BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree
+    type bigWig
+    shortLabel Treg
+    longLabel BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree
+    type bigWig
+    shortLabel Treg
+    longLabel BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
     track BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel memoryTCell
+    shortLabel TmemCD8
     longLabel BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -448,7 +468,7 @@ dragAndDrop on
 
     track BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel memoryTCell
+    shortLabel TmemCD8
     longLabel BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -458,7 +478,7 @@ dragAndDrop on
 
     track BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel memoryTCell
+    shortLabel TmemCD8
     longLabel BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -466,19 +486,9 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
-    type bigWig
-    shortLabel memoryTCell
-    longLabel BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
     track BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
     type bigWig
-    shortLabel memoryTCell
+    shortLabel TmemCD8
     longLabel BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -486,39 +496,9 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
-    type bigWig
-    shortLabel memoryTCell
-    longLabel BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
-    type bigWig
-    shortLabel memoryTCell
-    longLabel BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
-    track BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
-    type bigWig
-    shortLabel memoryTCell
-    longLabel BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
-    parent Blood_Lymphoid on
-    color 0,102,255
-    maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
-
     track BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel memoryTCell
+    shortLabel TmemCD8
     longLabel BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -528,7 +508,7 @@ dragAndDrop on
 
     track BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
     type bigWig
-    shortLabel memoryTCell
+    shortLabel TmemCD8
     longLabel BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree.bw
     parent Blood_Lymphoid on
@@ -536,21 +516,41 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track Ziller_adult_sorted_CD4_328_draw_UW_RO_01736
+    track BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel memoryTCell
-    longLabel Ziller_adult_sorted_CD4_328_draw_UW_RO_01736
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD4_328_draw_UW_RO_01736.bw
+    shortLabel TmemCD4
+    longLabel BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-    track Ziller_adult_sorted_CD8_329_draw_UW_RO_01721
+    track BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
     type bigWig
-    shortLabel memoryTCell
-    longLabel Ziller_adult_sorted_CD8_329_draw_UW_RO_01721
-    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//Ziller_adult_sorted_CD8_329_draw_UW_RO_01721.bw
+    shortLabel TmemCD4
+    longLabel BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TmemCD4
+    longLabel BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
+    parent Blood_Lymphoid on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    type bigWig
+    shortLabel TmemCD4
+    longLabel BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree
+    bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree.bw
     parent Blood_Lymphoid on
     color 0,102,255
     maxHeightPixels 128:25:10
