@@ -637,7 +637,7 @@ dragAndDrop on
 
     track TCGA_GBM_0128
     type bigWig
-    shortLabel Brain
+    shortLabel GBM_0128
     longLabel TCGA_GBM_0128
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_GBM_0128.bw
     parent GBM on
@@ -647,7 +647,7 @@ dragAndDrop on
 
     track TCGA_GBM_1401
     type bigWig
-    shortLabel Brain
+    shortLabel GBM_1401
     longLabel TCGA_GBM_1401
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_GBM_1401.bw
     parent GBM on
@@ -657,7 +657,7 @@ dragAndDrop on
 
     track TCGA_GBM_1454
     type bigWig
-    shortLabel Brain
+    shortLabel GBM_1454
     longLabel TCGA_GBM_1454
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_GBM_1454.bw
     parent GBM on
@@ -667,7 +667,7 @@ dragAndDrop on
 
     track TCGA_GBM_1460
     type bigWig
-    shortLabel Brain
+    shortLabel GBM_1460
     longLabel TCGA_GBM_1460
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_GBM_1460.bw
     parent GBM on
@@ -677,7 +677,7 @@ dragAndDrop on
 
     track TCGA_GBM_1788
     type bigWig
-    shortLabel Brain
+    shortLabel GBM_1788
     longLabel TCGA_GBM_1788
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_GBM_1788.bw
     parent GBM on
@@ -687,7 +687,7 @@ dragAndDrop on
 
     track TCGA_GBM_3477
     type bigWig
-    shortLabel Brain
+    shortLabel GBM_3477
     longLabel TCGA_GBM_3477
     bigDataUrl http://zwdzwd.io/trackHubs/Human_WGBS/hg19//TCGA_GBM_3477.bw
     parent GBM on

@@ -8,6 +8,10 @@
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/TCGA_WGBS/hub.txt`
 
+- Human Cancer WGBS hub (also include TCGA)
+
+`https://raw.githubusercontent.com/zwdzwd/trackHub/master/Human_Cancer/hub.txt`
+
 - TCGA HM450 hub
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/TCGA_HM450/hub.txt`

@@ -1,5 +1,5 @@
 track WholeGenomeCpG
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/WholeGenome_CpG_hg19.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/WholeGenome_CpG_hg19.bb
 shortLabel Whole Genome CpG
 longLabel Whole Genome CpGs of in human genome hg19
 type bigBed
@@ -9,7 +9,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track commonPMD
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/PMD_coordinates_hg19.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/PMD_coordinates_hg19.bb
 shortLabel commonPMD
 longLabel Common PMD and HMD of human genome hg19
 type bigBed 6 +
@@ -22,7 +22,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track SoloWCGWCpG
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/solo_WCGW_cpg_hg19.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/solo_WCGW_cpg_hg19.bb
 shortLabel Solo-WCGW-CpGs
 longLabel Solo-WCGW CpGs
 type bigBed
@@ -32,7 +32,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track ModelCpGIsland
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/model-based-cpg-islands-hg19.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/model-based-cpg-islands-hg19.bb
 shortLabel Model-CGI
 longLabel Model-based CpG island definition hg19
 type bigBed
@@ -42,7 +42,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track NCBIStrictCpGIsland_TJ2003
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/takai.jones.strict.500bpwindow.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/takai.jones.strict.500bpwindow.bb
 shortLabel NCBI-strict-CGI
 longLabel NCBI-strict CpG island definition hg19
 type bigBed
@@ -52,7 +52,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track NCBIRelaxedCpGIsland_TJ2003
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/takai.jones.relaxed.200bpwindow.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/takai.jones.relaxed.200bpwindow.bb
 shortLabel NCBI-relaxed-CGI
 longLabel NCBI-relaxed CpG island definition hg19
 type bigBed
@@ -62,7 +62,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track InfiniumEPIC
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/EPIC.hg19.manifest.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/EPIC.hg19.manifest.bb
 shortLabel InfiniumEPIC
 longLabel Infinium Human DNA Methylation EPIC array
 type bigBed

@@ -1,5 +1,5 @@
 track WholeGenomeCpG
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/WholeGenome_CpG_hg38.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/WholeGenome_CpG_hg38.bb
 shortLabel Whole Genome CpG
 longLabel Whole Genome CpGs of in human genome hg38
 type bigBed
@@ -9,7 +9,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track SoloWCGWCpG
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/solo_WCGW_cpg_hg38.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/solo_WCGW_cpg_hg38.bb
 shortLabel Solo-WCGW-CpGs
 longLabel Solo-WCGW CpGs
 type bigBed
@@ -19,7 +19,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track commonPMD
-bigDataUrl http://zwdzwd.io/trackHubs/GenomeAnnotation/PMD_coordinates_hg38.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/PMD_coordinates_hg38.bb
 shortLabel commonPMD
 longLabel Common PMD and HMD of human genome hg38
 type bigBed 6 +
