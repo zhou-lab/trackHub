@@ -11,7 +11,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_F_H3K4me1_rep1
          longLabel E13.5_F_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_F_H3K4me1_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_F_H3K4me1_rep1.bw
          parent H3K4me1 on
          color 251,154,153
 
@@ -19,7 +19,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_M_H3K4me1_rep1
          longLabel E13.5_M_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_M_H3K4me1_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_M_H3K4me1_rep1.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -27,7 +27,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_M_H3K4me1_rep2
          longLabel E13.5_M_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_M_H3K4me1_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E13.5_M_H3K4me1_rep2.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -35,7 +35,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_F_H3K4me1_rep1
          longLabel E14.5_F_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep1.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -43,7 +43,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_F_H3K4me1_rep2
          longLabel E14.5_F_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep2.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -51,7 +51,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_F_H3K4me1_rep3
          longLabel E14.5_F_H3K4me1_rep3
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep3.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep3.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -59,7 +59,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_F_H3K4me1_rep4
          longLabel E14.5_F_H3K4me1_rep4
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep4.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_F_H3K4me1_rep4.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -67,7 +67,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K4me1_rep1
          longLabel E14.5_M_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep1.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -75,7 +75,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K4me1_rep2
          longLabel E14.5_M_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep2.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -83,7 +83,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K4me1_rep3
          longLabel E14.5_M_H3K4me1_rep3
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep3.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep3.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -91,7 +91,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K4me1_rep4
          longLabel E14.5_M_H3K4me1_rep4
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep4.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E14.5_M_H3K4me1_rep4.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -99,7 +99,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_F_H3K4me1_rep1
          longLabel E15.5_F_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_F_H3K4me1_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_F_H3K4me1_rep1.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -107,7 +107,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_F_H3K4me1_rep2
          longLabel E15.5_F_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_F_H3K4me1_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_F_H3K4me1_rep2.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -115,7 +115,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_M_H3K4me1_rep1
          longLabel E15.5_M_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_M_H3K4me1_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_M_H3K4me1_rep1.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -123,7 +123,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_M_H3K4me1_rep2
          longLabel E15.5_M_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_M_H3K4me1_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E15.5_M_H3K4me1_rep2.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -131,7 +131,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_F_H3K4me1_rep1
          longLabel E16.5_F_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_F_H3K4me1_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_F_H3K4me1_rep1.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -139,7 +139,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_F_H3K4me1_rep2
          longLabel E16.5_F_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_F_H3K4me1_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_F_H3K4me1_rep2.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -147,7 +147,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_M_H3K4me1_rep1
          longLabel E16.5_M_H3K4me1_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_M_H3K4me1_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_M_H3K4me1_rep1.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -155,7 +155,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_M_H3K4me1_rep2
          longLabel E16.5_M_H3K4me1_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_M_H3K4me1_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me1/E16.5_M_H3K4me1_rep2.bw
          parent H3K4me1 on
          color 251,154,153
          
@@ -172,14 +172,14 @@ visibility hide
          type bigWig
          shortLabel GSM2664284_F_DMC1_O1
          longLabel GSM2664284_F_DMC1_O1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DMC1/GSM2664284_Ovary_SSDS_O1.ssDNA_type1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DMC1/GSM2664284_Ovary_SSDS_O1.ssDNA_type1.bw
          parent DMC1 on
 
          track GSM2664285_F_DMC1_O2
          type bigWig
          shortLabel GSM2664285_F_DMC1_O2
          longLabel GSM2664285_F_DMC1_O2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DMC1/GSM2664285_Ovary_SSDS_O2.ssDNA_type1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DMC1/GSM2664285_Ovary_SSDS_O2.ssDNA_type1.bw
          parent DMC1 on
 
 track DNase
@@ -195,7 +195,7 @@ visibility hide
          type bigWig
          shortLabel E9.5_PGC_GSM2966930
          longLabel E9.5_PGC_GSM2966930
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E9.5_PGC_DNase-seq_GSM2966930.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E9.5_PGC_DNase-seq_GSM2966930.bw
          parent DNase on
          color 127,201,127
          
@@ -203,7 +203,7 @@ visibility hide
          type bigWig
          shortLabel E9.5_PGC_GSM2966931
          longLabel E9.5_PGC_GSM2966931
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E9.5_PGC_DNase-seq_GSM2966931.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E9.5_PGC_DNase-seq_GSM2966931.bw
          parent DNase on
          color 127,201,127
 
@@ -211,7 +211,7 @@ visibility hide
          type bigWig
          shortLabel E10.5_PGC_GSM2966932
          longLabel E10.5_PGC_GSM2966932
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E10.5_PGC_DNase-seq_GSM2966932.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E10.5_PGC_DNase-seq_GSM2966932.bw
          parent DNase on
          color 127,201,127
          
@@ -219,7 +219,7 @@ visibility hide
          type bigWig
          shortLabel E10.5_PGC_GSM2966933
          longLabel E10.5_PGC_GSM2966933
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E10.5_PGC_DNase-seq_GSM2966933.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E10.5_PGC_DNase-seq_GSM2966933.bw
          parent DNase on
          color 127,201,127
          
@@ -227,7 +227,7 @@ visibility hide
          type bigWig
          shortLabel E12.5_F_PGC_GSM2966934
          longLabel E12.5_F_PGC_GSM2966934
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_PGC_DNase-seq_GSM2966934.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_PGC_DNase-seq_GSM2966934.bw
          parent DNase on
          color 127,201,127
          
@@ -235,7 +235,7 @@ visibility hide
          type bigWig
          shortLabel E12.5_F_PGC_GSM2966935
          longLabel E12.5_F_PGC_GSM2966935
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_PGC_DNase-seq_GSM2966935.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_PGC_DNase-seq_GSM2966935.bw
          parent DNase on
          color 127,201,127
          
@@ -243,7 +243,7 @@ visibility hide
          type bigWig
          shortLabel E12.5_F_soma_GSM2966936
          longLabel E12.5_F_soma_GSM2966936
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_soma_DNase-seq_GSM2966936.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_female_soma_DNase-seq_GSM2966936.bw
          parent DNase on
          color 127,201,127
          
@@ -251,7 +251,7 @@ visibility hide
          type bigWig
          shortLabel E12.5_M_PGC_GSM2966937
          longLabel E12.5_M_PGC_GSM2966937
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_PGC_DNase-seq_GSM2966937.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_PGC_DNase-seq_GSM2966937.bw
          parent DNase on
          color 127,201,127
          
@@ -259,7 +259,7 @@ visibility hide
          type bigWig
          shortLabel E12.5_M_PGC_GSM2966938
          longLabel E12.5_M_PGC_GSM2966938
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_PGC_DNase-seq_GSM2966938.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_PGC_DNase-seq_GSM2966938.bw
          parent DNase on
          color 127,201,127
          
@@ -267,7 +267,7 @@ visibility hide
          type bigWig
          shortLabel E12.5_M_soma_GSM2966939
          longLabel E12.5_M_soma_GSM2966939
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_soma_DNase-seq_GSM2966939.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E12.5_male_soma_DNase-seq_GSM2966939.bw
          parent DNase on
          color 127,201,127
          
@@ -275,7 +275,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_F_PGC_GSM2966940
          longLabel E13.5_F_PGC_GSM2966940
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_female_PGC_DNase-seq_GSM2966940.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_female_PGC_DNase-seq_GSM2966940.bw
          parent DNase on
          color 127,201,127
          
@@ -283,7 +283,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_F_PGC_GSM2966941
          longLabel E13.5_F_PGC_GSM2966941
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_female_PGC_DNase-seq_GSM2966941.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_female_PGC_DNase-seq_GSM2966941.bw
          parent DNase on
          color 127,201,127
          
@@ -291,7 +291,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_M_PGC_GSM2966942
          longLabel E13.5_M_PGC_GSM2966942
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_male_PGC_DNase-seq_GSM2966942.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_male_PGC_DNase-seq_GSM2966942.bw
          parent DNase on
          color 127,201,127
          
@@ -299,7 +299,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_M_PGC_GSM2966943
          longLabel E13.5_M_PGC_GSM2966943
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_male_PGC_DNase-seq_GSM2966943.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E13.5_male_PGC_DNase-seq_GSM2966943.bw
          parent DNase on
          color 127,201,127
          
@@ -307,7 +307,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_F_PGC_GSM2966944
          longLabel E14.5_F_PGC_GSM2966944
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/DNase/E14.5_female_PGC_DNase-seq_GSM2966944.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/DNase/E14.5_female_PGC_DNase-seq_GSM2966944.bw
          parent DNase on
          color 127,201,127
          
@@ -324,7 +324,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_F_H3K27me3_rep1
          longLabel E14.5_F_H3K27me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_F_H3K27me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_F_H3K27me3_rep1.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -332,7 +332,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K27me3_rep1
          longLabel E14.5_M_H3K27me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_M_H3K27me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_M_H3K27me3_rep1.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -340,7 +340,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K27me3_rep2
          longLabel E14.5_M_H3K27me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_M_H3K27me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_M_H3K27me3_rep2.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -348,7 +348,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K27me3_rep3
          longLabel E14.5_M_H3K27me3_rep3
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_M_H3K27me3_rep3.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_M_H3K27me3_rep3.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -356,7 +356,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K27me3_rep4
          longLabel E14.5_M_H3K27me3_rep4
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_M_H3K27me3_rep4.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E14.5_M_H3K27me3_rep4.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -364,7 +364,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_F_H3K27me3_rep1
          longLabel E15.5_F_H3K27me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E15.5_F_H3K27me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E15.5_F_H3K27me3_rep1.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -372,7 +372,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_M_H3K27me3_rep1
          longLabel E15.5_M_H3K27me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E15.5_M_H3K27me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E15.5_M_H3K27me3_rep1.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -380,7 +380,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_M_H3K27me3_rep2
          longLabel E15.5_M_H3K27me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E15.5_M_H3K27me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E15.5_M_H3K27me3_rep2.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -388,7 +388,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_F_H3K27me3_rep1
          longLabel E16.5_F_H3K27me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E16.5_F_H3K27me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E16.5_F_H3K27me3_rep1.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -396,7 +396,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_F_H3K27me3_rep2
          longLabel E16.5_F_H3K27me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E16.5_F_H3K27me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E16.5_F_H3K27me3_rep2.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -404,7 +404,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_M_H3K27me3_rep1
          longLabel E16.5_M_H3K27me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E16.5_M_H3K27me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E16.5_M_H3K27me3_rep1.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -412,7 +412,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_M_H3K27me3_rep2
          longLabel E16.5_M_H3K27me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27me3/E16.5_M_H3K27me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27me3/E16.5_M_H3K27me3_rep2.bw
          parent H3K27me3 on
          color 56,108,176
          
@@ -429,7 +429,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_F_H3K9me3_rep1
          longLabel E13.5_F_H3K9me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_F_H3K9me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_F_H3K9me3_rep1.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -437,7 +437,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_F_H3K9me3_rep2
          longLabel E13.5_F_H3K9me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_F_H3K9me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_F_H3K9me3_rep2.bw
          parent H3K9me3 on
          color 102,102,102
        
@@ -445,7 +445,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_M_H3K9me3_rep1
          longLabel E13.5_M_H3K9me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_M_H3K9me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_M_H3K9me3_rep1.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -453,7 +453,7 @@ visibility hide
          type bigWig
          shortLabel E13.5_M_H3K9me3_rep2
          longLabel E13.5_M_H3K9me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_M_H3K9me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E13.5_M_H3K9me3_rep2.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -461,7 +461,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_F_H3K9me3_rep1
          longLabel E14.5_F_H3K9me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_F_H3K9me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_F_H3K9me3_rep1.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -469,7 +469,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_F_H3K9me3_rep2
          longLabel E14.5_F_H3K9me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_F_H3K9me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_F_H3K9me3_rep2.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -477,7 +477,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K9me3_rep1
          longLabel E14.5_M_H3K9me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_M_H3K9me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_M_H3K9me3_rep1.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -485,7 +485,7 @@ visibility hide
          type bigWig
          shortLabel E14.5_M_H3K9me3_rep2
          longLabel E14.5_M_H3K9me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_M_H3K9me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E14.5_M_H3K9me3_rep2.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -493,7 +493,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_F_H3K9me3_rep1
          longLabel E15.5_F_H3K9me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_F_H3K9me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_F_H3K9me3_rep1.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -501,7 +501,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_M_H3K9me3_rep1
          longLabel E15.5_M_H3K9me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_M_H3K9me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_M_H3K9me3_rep1.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -509,7 +509,7 @@ visibility hide
          type bigWig
          shortLabel E15.5_M_H3K9me3_rep2
          longLabel E15.5_M_H3K9me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_M_H3K9me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E15.5_M_H3K9me3_rep2.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -517,7 +517,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_F_H3K9me3_rep1
          longLabel E16.5_F_H3K9me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_F_H3K9me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_F_H3K9me3_rep1.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -525,7 +525,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_F_H3K9me3_rep2
          longLabel E16.5_F_H3K9me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_F_H3K9me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_F_H3K9me3_rep2.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -533,7 +533,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_M_H3K9me3_rep1
          longLabel E16.5_M_H3K9me3_rep1
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_M_H3K9me3_rep1.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_M_H3K9me3_rep1.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -541,7 +541,7 @@ visibility hide
          type bigWig
          shortLabel E16.5_M_H3K9me3_rep2
          longLabel E16.5_M_H3K9me3_rep2
-         bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_M_H3K9me3_rep2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K9me3/E16.5_M_H3K9me3_rep2.bw
          parent H3K9me3 on
          color 102,102,102
          
@@ -558,7 +558,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_F_H3K27ac_rep1
            longLabel E13.5_F_H3K27ac_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_F_H3K27ac_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_F_H3K27ac_rep1.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -566,7 +566,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_F_H3K27ac_rep2
            longLabel E13.5_F_H3K27ac_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_F_H3K27ac_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_F_H3K27ac_rep2.bw
            parent H3K27ac on
            color 255,127,0
 
@@ -574,7 +574,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_M_H3K27ac_rep1
            longLabel E13.5_M_H3K27ac_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_M_H3K27ac_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_M_H3K27ac_rep1.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -582,7 +582,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_M_H3K27ac_rep2
            longLabel E13.5_M_H3K27ac_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_M_H3K27ac_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E13.5_M_H3K27ac_rep2.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -590,7 +590,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_F_H3K27ac_rep1
            longLabel E14.5_F_H3K27ac_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E14.5_F_H3K27ac_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E14.5_F_H3K27ac_rep1.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -598,7 +598,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_F_H3K27ac_rep2
            longLabel E14.5_F_H3K27ac_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E14.5_F_H3K27ac_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E14.5_F_H3K27ac_rep2.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -606,7 +606,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_M_H3K27ac_rep1
            longLabel E14.5_M_H3K27ac_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E14.5_M_H3K27ac_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E14.5_M_H3K27ac_rep1.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -614,7 +614,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_M_H3K27ac_rep2
            longLabel E14.5_M_H3K27ac_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E14.5_M_H3K27ac_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E14.5_M_H3K27ac_rep2.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -622,7 +622,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_F_H3K27ac_rep1
            longLabel E15.5_F_H3K27ac_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E15.5_F_H3K27ac_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E15.5_F_H3K27ac_rep1.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -630,7 +630,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_M_H3K27ac_rep1
            longLabel E15.5_M_H3K27ac_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E15.5_M_H3K27ac_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E15.5_M_H3K27ac_rep1.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -638,7 +638,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_M_H3K27ac_rep2
            longLabel E15.5_M_H3K27ac_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E15.5_M_H3K27ac_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E15.5_M_H3K27ac_rep2.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -646,7 +646,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_F_H3K27ac_rep1
            longLabel E16.5_F_H3K27ac_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E16.5_F_H3K27ac_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E16.5_F_H3K27ac_rep1.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -654,7 +654,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_F_H3K27ac_rep2
            longLabel E16.5_F_H3K27ac_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E16.5_F_H3K27ac_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E16.5_F_H3K27ac_rep2.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -662,7 +662,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_M_H3K27ac_rep1
            longLabel E16.5_M_H3K27ac_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E16.5_M_H3K27ac_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E16.5_M_H3K27ac_rep1.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -670,7 +670,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_M_H3K27ac_rep2
            longLabel E16.5_M_H3K27ac_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K27ac/E16.5_M_H3K27ac_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K27ac/E16.5_M_H3K27ac_rep2.bw
            parent H3K27ac on
            color 255,127,0
            
@@ -687,7 +687,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_F_H3K4me3_rep1
            longLabel E13.5_F_H3K4me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep1.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -695,7 +695,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_F_H3K4me3_rep2
            longLabel E13.5_F_H3K4me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep2.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -703,7 +703,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_F_H3K4me3_rep3
            longLabel E13.5_F_H3K4me3_rep3
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep3.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep3.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -711,7 +711,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_F_H3K4me3_rep4
            longLabel E13.5_F_H3K4me3_rep4
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep4.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep4.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -719,7 +719,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_F_H3K4me3_rep5
            longLabel E13.5_F_H3K4me3_rep5
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep5.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_F_H3K4me3_rep5.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -727,7 +727,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_M_H3K4me3_rep1
            longLabel E13.5_M_H3K4me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_M_H3K4me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_M_H3K4me3_rep1.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -735,7 +735,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_M_H3K4me3_rep2
            longLabel E13.5_M_H3K4me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_M_H3K4me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_M_H3K4me3_rep2.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -743,7 +743,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_M_H3K4me3_rep3
            longLabel E13.5_M_H3K4me3_rep3
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_M_H3K4me3_rep3.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_M_H3K4me3_rep3.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -751,7 +751,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_M_H3K4me3_rep4
            longLabel E13.5_M_H3K4me3_rep4
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_M_H3K4me3_rep4.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E13.5_M_H3K4me3_rep4.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -759,7 +759,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_F_H3K4me3_rep1
            longLabel E14.5_F_H3K4me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_F_H3K4me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_F_H3K4me3_rep1.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -767,7 +767,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_F_H3K4me3_rep2
            longLabel E14.5_F_H3K4me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_F_H3K4me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_F_H3K4me3_rep2.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -775,7 +775,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_F_H3K4me3_rep3
            longLabel E14.5_F_H3K4me3_rep3
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_F_H3K4me3_rep3.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_F_H3K4me3_rep3.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -783,7 +783,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_F_H3K4me3_rep4
            longLabel E14.5_F_H3K4me3_rep4
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_F_H3K4me3_rep4.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_F_H3K4me3_rep4.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -791,7 +791,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_M_H3K4me3_rep1
            longLabel E14.5_M_H3K4me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_M_H3K4me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_M_H3K4me3_rep1.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -799,7 +799,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_M_H3K4me3_rep2
            longLabel E14.5_M_H3K4me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_M_H3K4me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_M_H3K4me3_rep2.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -807,7 +807,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_M_H3K4me3_rep3
            longLabel E14.5_M_H3K4me3_rep3
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_M_H3K4me3_rep3.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E14.5_M_H3K4me3_rep3.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -815,7 +815,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_F_H3K4me3_rep1
            longLabel E15.5_F_H3K4me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_F_H3K4me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_F_H3K4me3_rep1.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -823,7 +823,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_F_H3K4me3_rep2
            longLabel E15.5_F_H3K4me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_F_H3K4me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_F_H3K4me3_rep2.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -831,7 +831,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_M_H3K4me3_rep1
            longLabel E15.5_M_H3K4me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_M_H3K4me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_M_H3K4me3_rep1.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -839,7 +839,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_M_H3K4me3_rep2
            longLabel E15.5_M_H3K4me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_M_H3K4me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_M_H3K4me3_rep2.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -847,7 +847,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_M_H3K4me3_rep3
            longLabel E15.5_M_H3K4me3_rep3
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_M_H3K4me3_rep3.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_M_H3K4me3_rep3.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -855,7 +855,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_M_H3K4me3_rep4
            longLabel E15.5_M_H3K4me3_rep4
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_M_H3K4me3_rep4.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E15.5_M_H3K4me3_rep4.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -863,7 +863,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_F_H3K4me3_rep1
            longLabel E16.5_F_H3K4me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E16.5_F_H3K4me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E16.5_F_H3K4me3_rep1.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -871,7 +871,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_F_H3K4me3_rep2
            longLabel E16.5_F_H3K4me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E16.5_F_H3K4me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E16.5_F_H3K4me3_rep2.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -879,7 +879,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_M_H3K4me3_rep1
            longLabel E16.5_M_H3K4me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E16.5_M_H3K4me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E16.5_M_H3K4me3_rep1.bw
            parent H3K4me3 on
            color 228,26,28
            
@@ -887,7 +887,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_M_H3K4me3_rep2
            longLabel E16.5_M_H3K4me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K4me3/E16.5_M_H3K4me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K4me3/E16.5_M_H3K4me3_rep2.bw
            parent H3K4me3 on
            color 228,26,28
 
@@ -904,7 +904,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_F_H3K36me3_rep1
            longLabel E13.5_F_H3K36me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E13.5_F_H3K36me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E13.5_F_H3K36me3_rep1.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -912,7 +912,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_M_H3K36me3_rep1
            longLabel E13.5_M_H3K36me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E13.5_M_H3K36me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E13.5_M_H3K36me3_rep1.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -920,7 +920,7 @@ visibility hide
            type bigWig
            shortLabel E13.5_M_H3K36me3_rep2
            longLabel E13.5_M_H3K36me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E13.5_M_H3K36me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E13.5_M_H3K36me3_rep2.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -928,7 +928,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_F_H3K36me3_rep1
            longLabel E14.5_F_H3K36me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E14.5_F_H3K36me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E14.5_F_H3K36me3_rep1.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -936,7 +936,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_F_H3K36me3_rep2
            longLabel E14.5_F_H3K36me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E14.5_F_H3K36me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E14.5_F_H3K36me3_rep2.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -944,7 +944,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_M_H3K36me3_rep1
            longLabel E14.5_M_H3K36me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E14.5_M_H3K36me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E14.5_M_H3K36me3_rep1.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -952,7 +952,7 @@ visibility hide
            type bigWig
            shortLabel E14.5_M_H3K36me3_rep2
            longLabel E14.5_M_H3K36me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E14.5_M_H3K36me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E14.5_M_H3K36me3_rep2.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -960,7 +960,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_F_H3K36me3_rep1
            longLabel E15.5_F_H3K36me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E15.5_F_H3K36me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E15.5_F_H3K36me3_rep1.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -968,7 +968,7 @@ visibility hide
            type bigWig
            shortLabel E15.5_M_H3K36me3_rep1
            longLabel E15.5_M_H3K36me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E15.5_M_H3K36me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E15.5_M_H3K36me3_rep1.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -976,7 +976,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_F_H3K36me3_rep1
            longLabel E16.5_F_H3K36me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E16.5_F_H3K36me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E16.5_F_H3K36me3_rep1.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -984,7 +984,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_F_H3K36me3_rep2
            longLabel E16.5_F_H3K36me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E16.5_F_H3K36me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E16.5_F_H3K36me3_rep2.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -992,7 +992,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_M_H3K36me3_rep1
            longLabel E16.5_M_H3K36me3_rep1
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E16.5_M_H3K36me3_rep1.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E16.5_M_H3K36me3_rep1.bw
            parent H3K36me3 on
            color 77,175,74
            
@@ -1000,7 +1000,7 @@ visibility hide
            type bigWig
            shortLabel E16.5_M_H3K36me3_rep2
            longLabel E16.5_M_H3K36me3_rep2
-           bigDataUrl http://zwdzwd.io/trackHubs/PGC_Epigenome/mm10/H3K36me3/E16.5_M_H3K36me3_rep2.bw
+           bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/PGC_Epigenome/mm10/H3K36me3/E16.5_M_H3K36me3_rep2.bw
            parent H3K36me3 on
            color 77,175,74
            
