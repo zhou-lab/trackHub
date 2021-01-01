@@ -32,7 +32,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track MouseArray
-bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/2019_04_04_reselection_merged.bb
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/mouse_manifest_final_track.bb
 shortLabel Mouse Array
 longLabel Mouse Array
 type bigBed
