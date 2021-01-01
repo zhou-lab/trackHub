@@ -149,11 +149,11 @@ visibility hide
          bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_E14ESCSerumTo2i7d.bw
          parent EmbryoGerm on
          
-         Habibi2013CellSC_E14ESC2iToSerum5d	Habibi2013Cel track
+         track Habibi2013CellSC_E14ESC2iToSerum5d
          type bigWig
-         shortLabel E14ESC2iToSerum5d	Habibi2013Cel track
-         longLabel E14ESC2iToSerum5d	Habibi2013Cel track
-         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/E14ESC2iToSerum5d	Habibi2013Cel track.bw
+         shortLabel Habibi2013CellSC_E14ESC2iToSerum5d
+         longLabel Habibi2013CellSC_E14ESC2iToSerum5d
+         bigDataUrl http://zwdzwd.io/trackHubs/Mouse_WGBS/mm10/EmbryoGerm/Habibi2013CellSC_E14ESC2iToSerum5d.bw
          parent EmbryoGerm on
 
          track Habibi2013CellSC_ESCRexGFP2i
