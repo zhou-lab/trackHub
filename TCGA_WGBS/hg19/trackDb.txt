@@ -18,7 +18,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BLCA_NA20V
          longLabel  BLCA_NA20V
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_NA20V.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BLCA_NA20V.bw
          priority 1
 
          track BLCA_A20V
@@ -29,7 +29,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BLCA_A20V
          longLabel  BLCA_A20V
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A20V.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BLCA_A20V.bw
          priority 1
 
          track BLCA_A13J
@@ -40,7 +40,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BLCA_A13J
          longLabel  BLCA_A13J
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A13J.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BLCA_A13J.bw
          priority 1
 
          track BLCA_A1AA
@@ -51,7 +51,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BLCA_A1AA
          longLabel  BLCA_A1AA
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A1AA.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BLCA_A1AA.bw
          priority 1
 
          track BLCA_A1AG
@@ -62,7 +62,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BLCA_A1AG
          longLabel  BLCA_A1AG
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A1AG.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BLCA_A1AG.bw
          priority 1
 
          track BLCA_A2HQ
@@ -73,7 +73,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BLCA_A2HQ
          longLabel  BLCA_A2HQ
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A2HQ.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BLCA_A2HQ.bw
          priority 1
 
          track BLCA_A2LA
@@ -84,7 +84,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BLCA_A2LA
          longLabel  BLCA_A2LA
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BLCA_A2LA.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BLCA_A2LA.bw
          priority 1
 
 track TCGA_BRCA_WGBS_CpG_Beta_Values
@@ -107,7 +107,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BRCA_NA0CE
          longLabel  BRCA_NA0CE
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_NA0CE.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BRCA_NA0CE.bw
          priority 1
 
          track BRCA_A0CE
@@ -118,7 +118,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BRCA_A0CE
          longLabel  BRCA_A0CE
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_A0CE.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BRCA_A0CE.bw
          priority 1
 
          track BRCA_A04X
@@ -129,7 +129,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BRCA_A04X
          longLabel  BRCA_A04X
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_A04X.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BRCA_A04X.bw
          priority 1
 
          track BRCA_A07I
@@ -140,7 +140,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BRCA_A07I
          longLabel  BRCA_A07I
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_A07I.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BRCA_A07I.bw
          priority 1
 
          track BRCA_A0YG
@@ -151,7 +151,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BRCA_A0YG
          longLabel  BRCA_A0YG
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_A0YG.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BRCA_A0YG.bw
          priority 1
 
          track BRCA_A15H
@@ -162,7 +162,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel BRCA_A15H
          longLabel  BRCA_A15H
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//BRCA_A15H.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/BRCA_A15H.bw
          priority 1
 
 track TCGA_COAD_WGBS_CpG_Beta_Values
@@ -185,7 +185,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel COAD_N3518
          longLabel  COAD_N3518
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//COAD_N3518.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/COAD_N3518.bw
          priority 1
          
          track COAD_3518
@@ -196,7 +196,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel COAD_3518
          longLabel  COAD_3518
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//COAD_3518.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/COAD_3518.bw
          priority 1
          
          track COAD_A00R
@@ -207,7 +207,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel COAD_A00R
          longLabel  COAD_A00R
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//COAD_A00R.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/COAD_A00R.bw
          priority 1
 
 track TCGA_GBM_WGBS_CpG_Beta_Values
@@ -230,7 +230,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel GBM_0128
          longLabel  GBM_0128
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//GBM_0128.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/GBM_0128.bw
          priority 1
 
          track GBM_1401
@@ -241,7 +241,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel GBM_1401
          longLabel  GBM_1401
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//GBM_1401.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/GBM_1401.bw
          priority 1
 
          track GBM_1454
@@ -252,7 +252,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel GBM_1454
          longLabel  GBM_1454
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//GBM_1454.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/GBM_1454.bw
          priority 1
 
          track GBM_1460
@@ -263,7 +263,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel GBM_1460
          longLabel  GBM_1460
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//GBM_1460.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/GBM_1460.bw
          priority 1
 
          track GBM_1788
@@ -274,7 +274,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel GBM_1788
          longLabel  GBM_1788
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//GBM_1788.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/GBM_1788.bw
          priority 1
 
          track GBM_3477
@@ -285,7 +285,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel GBM_3477
          longLabel  GBM_3477
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//GBM_3477.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/GBM_3477.bw
          priority 1
 
 track TCGA_LUAD_WGBS_CpG_Beta_Values
@@ -308,7 +308,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUAD_N6148
          longLabel  LUAD_N6148
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_N6148.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUAD_N6148.bw
          priority 1
 
          track LUAD_6148
@@ -319,7 +319,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUAD_6148
          longLabel  LUAD_6148
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_6148.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUAD_6148.bw
          priority 1
 
          track LUAD_4630
@@ -330,7 +330,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUAD_4630
          longLabel  LUAD_4630
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_4630.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUAD_4630.bw
          priority 1
 
          track LUAD_6215
@@ -341,7 +341,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUAD_6215
          longLabel  LUAD_6215
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_6215.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUAD_6215.bw
          priority 1
 
          track LUAD_6840
@@ -352,7 +352,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUAD_6840
          longLabel  LUAD_6840
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_6840.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUAD_6840.bw
          priority 1
 
          track LUAD_7156
@@ -363,7 +363,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUAD_7156
          longLabel  LUAD_7156
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUAD_7156.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUAD_7156.bw
          priority 1
 
 track TCGA_LUSC_WGBS_CpG_Beta_Values
@@ -386,7 +386,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUSC_N2722
          longLabel  LUSC_N2722
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_N2722.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUSC_N2722.bw
          priority 1
          
          track LUSC_2722
@@ -397,7 +397,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUSC_2722
          longLabel  LUSC_2722
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_2722.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUSC_2722.bw
          priority 1
          
          track LUSC_1078
@@ -408,7 +408,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUSC_1078
          longLabel  LUSC_1078
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_1078.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUSC_1078.bw
          priority 1
 
          track LUSC_2600
@@ -419,7 +419,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUSC_2600
          longLabel  LUSC_2600
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_2600.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUSC_2600.bw
          priority 1
 
          track LUSC_2695
@@ -430,7 +430,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel LUSC_2695
          longLabel  LUSC_2695
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//LUSC_2695.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/LUSC_2695.bw
          priority 1
 
 track TCGA_READ_WGBS_CpG_Beta_Values
@@ -453,7 +453,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel READ_N2689
          longLabel  READ_N2689
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//READ_N2689.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/READ_N2689.bw
          priority 1
 
          track READ_2689
@@ -464,7 +464,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel READ_2689
          longLabel  READ_2689
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//READ_2689.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/READ_2689.bw
          priority 1
 
          track READ_3593
@@ -475,7 +475,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel READ_3593
          longLabel  READ_3593
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//READ_3593.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/READ_3593.bw
          priority 1
 
 track TCGA_STAD_WGBS_CpG_Beta_Values
@@ -498,7 +498,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel STAD_N6452
          longLabel  STAD_N6452
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_N6452.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/STAD_N6452.bw
          priority 1
 
          track STAD_6452
@@ -509,7 +509,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel STAD_6452
          longLabel  STAD_6452
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_6452.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/STAD_6452.bw
          priority 1
 
          track STAD_5730
@@ -520,7 +520,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel STAD_5730
          longLabel  STAD_5730
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_5730.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/STAD_5730.bw
          priority 1
 
          track STAD_6177
@@ -531,7 +531,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel STAD_6177
          longLabel  STAD_6177
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_6177.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/STAD_6177.bw
          priority 1
 
          track STAD_6519
@@ -542,7 +542,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel STAD_6519
          longLabel  STAD_6519
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//STAD_6519.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/STAD_6519.bw
          priority 1
 
 track TCGA_UCEC_WGBS_CpG_Beta_Values
@@ -565,7 +565,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel UCEC_NA1CI
          longLabel  UCEC_NA1CI
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//UCEC_NA1CI.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/UCEC_NA1CI.bw
          priority 1
 
          track UCEC_A1CI
@@ -576,7 +576,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel UCEC_A1CI
          longLabel  UCEC_A1CI
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//UCEC_A1CI.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/UCEC_A1CI.bw
          priority 1
 
          track UCEC_A05J
@@ -587,7 +587,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel UCEC_A05J
          longLabel  UCEC_A05J
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//UCEC_A05J.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/UCEC_A05J.bw
          priority 1
 
          track UCEC_A0G2
@@ -598,7 +598,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel UCEC_A0G2
          longLabel  UCEC_A0G2
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//UCEC_A0G2.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/UCEC_A0G2.bw
          priority 1
 
          track UCEC_A0K6
@@ -609,7 +609,7 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel UCEC_A0K6
          longLabel  UCEC_A0K6
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//UCEC_A0K6.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/UCEC_A0K6.bw
          priority 1
 
          track UCEC_A1CK
@@ -620,6 +620,6 @@ priority 2
          viewLimits 0.0:1.0
          shortLabel UCEC_A1CK
          longLabel  UCEC_A1CK
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5//UCEC_A1CK.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg19/bw_mindepth5/UCEC_A1CK.bw
          priority 1
 
