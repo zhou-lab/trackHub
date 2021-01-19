@@ -1,0 +1,5 @@
+hub Mouse MM285
+shortLabel Mouse MM285
+longLabel Mouse MM285
+genomesFile genomes.txt
+email wanding.zhou@pennmedicine.upenn.edu

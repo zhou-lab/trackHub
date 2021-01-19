@@ -17,6 +17,10 @@
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/TCGA_HM450/hub.txt`
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/TCGA_HM450_Normal/hub.txt`
 
+- Mouse MM285 hub
+
+`https://raw.githubusercontent.com/zwdzwd/trackHub/master/Mouse_MM285/hub.txt`
+
 - PGC Epigenome hub
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/PGC_Epigenome/hub.txt`

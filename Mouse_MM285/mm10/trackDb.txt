@@ -1,0 +1,480 @@
+track Cecum
+type bigBed 9
+shortLabel Cecum
+longLabel Cecum
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R06C01
+    type bigBed 9
+    shortLabel 204875570008_R06C01
+    longLabel 204875570008_R06C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R06C01.bb
+    itemRgb on
+    parent Cecum on
+
+track Cecum
+type bigBed 9
+shortLabel Cecum
+longLabel Cecum
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570011_R02C02
+    type bigBed 9
+    shortLabel 204875570011_R02C02
+    longLabel 204875570011_R02C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570011_R02C02.bb
+    itemRgb on
+    parent Cecum on
+
+track Colon
+type bigBed 9
+shortLabel Colon
+longLabel Colon
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R02C02
+    type bigBed 9
+    shortLabel 204875570008_R02C02
+    longLabel 204875570008_R02C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R02C02.bb
+    itemRgb on
+    parent Colon on
+
+track Colon
+type bigBed 9
+shortLabel Colon
+longLabel Colon
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R03C02
+    type bigBed 9
+    shortLabel 204875570008_R03C02
+    longLabel 204875570008_R03C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R03C02.bb
+    itemRgb on
+    parent Colon on
+
+track Esophagus
+type bigBed 9
+shortLabel Esophagus
+longLabel Esophagus
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R05C01
+    type bigBed 9
+    shortLabel 204875570008_R05C01
+    longLabel 204875570008_R05C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R05C01.bb
+    itemRgb on
+    parent Esophagus on
+
+track Esophagus
+type bigBed 9
+shortLabel Esophagus
+longLabel Esophagus
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570011_R03C01
+    type bigBed 9
+    shortLabel 204875570011_R03C01
+    longLabel 204875570011_R03C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570011_R03C01.bb
+    itemRgb on
+    parent Esophagus on
+
+track Fat
+type bigBed 9
+shortLabel Fat
+longLabel Fat
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570011_R01C01
+    type bigBed 9
+    shortLabel 204875570011_R01C01
+    longLabel 204875570011_R01C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570011_R01C01.bb
+    itemRgb on
+    parent Fat on
+
+track Fat
+type bigBed 9
+shortLabel Fat
+longLabel Fat
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570022_R03C02
+    type bigBed 9
+    shortLabel 204875570022_R03C02
+    longLabel 204875570022_R03C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570022_R03C02.bb
+    itemRgb on
+    parent Fat on
+
+track Heart
+type bigBed 9
+shortLabel Heart
+longLabel Heart
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570011_R04C01
+    type bigBed 9
+    shortLabel 204875570011_R04C01
+    longLabel 204875570011_R04C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570011_R04C01.bb
+    itemRgb on
+    parent Heart on
+
+track Heart
+type bigBed 9
+shortLabel Heart
+longLabel Heart
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570014_R04C02
+    type bigBed 9
+    shortLabel 204875570014_R04C02
+    longLabel 204875570014_R04C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R04C02.bb
+    itemRgb on
+    parent Heart on
+
+track Kidney
+type bigBed 9
+shortLabel Kidney
+longLabel Kidney
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570014_R03C01
+    type bigBed 9
+    shortLabel 204875570014_R03C01
+    longLabel 204875570014_R03C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R03C01.bb
+    itemRgb on
+    parent Kidney on
+
+track Kidney
+type bigBed 9
+shortLabel Kidney
+longLabel Kidney
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570022_R01C02
+    type bigBed 9
+    shortLabel 204875570022_R01C02
+    longLabel 204875570022_R01C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570022_R01C02.bb
+    itemRgb on
+    parent Kidney on
+
+track Liver
+type bigBed 9
+shortLabel Liver
+longLabel Liver
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570014_R05C02
+    type bigBed 9
+    shortLabel 204875570014_R05C02
+    longLabel 204875570014_R05C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R05C02.bb
+    itemRgb on
+    parent Liver on
+
+track Liver
+type bigBed 9
+shortLabel Liver
+longLabel Liver
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570023_R06C01
+    type bigBed 9
+    shortLabel 204875570023_R06C01
+    longLabel 204875570023_R06C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570023_R06C01.bb
+    itemRgb on
+    parent Liver on
+
+track Lung
+type bigBed 9
+shortLabel Lung
+longLabel Lung
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R01C01
+    type bigBed 9
+    shortLabel 204875570008_R01C01
+    longLabel 204875570008_R01C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R01C01.bb
+    itemRgb on
+    parent Lung on
+
+track Lung
+type bigBed 9
+shortLabel Lung
+longLabel Lung
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570014_R03C02
+    type bigBed 9
+    shortLabel 204875570014_R03C02
+    longLabel 204875570014_R03C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R03C02.bb
+    itemRgb on
+    parent Lung on
+
+track Muscle
+type bigBed 9
+shortLabel Muscle
+longLabel Muscle
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R02C01
+    type bigBed 9
+    shortLabel 204875570008_R02C01
+    longLabel 204875570008_R02C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R02C01.bb
+    itemRgb on
+    parent Muscle on
+
+track Muscle
+type bigBed 9
+shortLabel Muscle
+longLabel Muscle
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570014_R02C02
+    type bigBed 9
+    shortLabel 204875570014_R02C02
+    longLabel 204875570014_R02C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R02C02.bb
+    itemRgb on
+    parent Muscle on
+
+track Brain
+type bigBed 9
+shortLabel Brain
+longLabel Brain
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R06C02
+    type bigBed 9
+    shortLabel 204875570008_R06C02
+    longLabel 204875570008_R06C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R06C02.bb
+    itemRgb on
+    parent Brain on
+
+track Brain
+type bigBed 9
+shortLabel Brain
+longLabel Brain
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570014_R01C02
+    type bigBed 9
+    shortLabel 204875570014_R01C02
+    longLabel 204875570014_R01C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R01C02.bb
+    itemRgb on
+    parent Brain on
+
+track Ovary
+type bigBed 9
+shortLabel Ovary
+longLabel Ovary
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570015_R06C01
+    type bigBed 9
+    shortLabel 204875570015_R06C01
+    longLabel 204875570015_R06C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570015_R06C01.bb
+    itemRgb on
+    parent Ovary on
+
+track Ovary
+type bigBed 9
+shortLabel Ovary
+longLabel Ovary
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570022_R05C02
+    type bigBed 9
+    shortLabel 204875570022_R05C02
+    longLabel 204875570022_R05C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570022_R05C02.bb
+    itemRgb on
+    parent Ovary on
+
+track Small_intestine
+type bigBed 9
+shortLabel Small_intestine
+longLabel Small_intestine
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R03C01
+    type bigBed 9
+    shortLabel 204875570008_R03C01
+    longLabel 204875570008_R03C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R03C01.bb
+    itemRgb on
+    parent Small_intestine on
+
+track Small_intestine
+type bigBed 9
+shortLabel Small_intestine
+longLabel Small_intestine
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R04C01
+    type bigBed 9
+    shortLabel 204875570008_R04C01
+    longLabel 204875570008_R04C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R04C01.bb
+    itemRgb on
+    parent Small_intestine on
+
+track Spleen
+type bigBed 9
+shortLabel Spleen
+longLabel Spleen
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570014_R04C01
+    type bigBed 9
+    shortLabel 204875570014_R04C01
+    longLabel 204875570014_R04C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R04C01.bb
+    itemRgb on
+    parent Spleen on
+
+track Spleen
+type bigBed 9
+shortLabel Spleen
+longLabel Spleen
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570023_R04C02
+    type bigBed 9
+    shortLabel 204875570023_R04C02
+    longLabel 204875570023_R04C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570023_R04C02.bb
+    itemRgb on
+    parent Spleen on
+
+track Stomach
+type bigBed 9
+shortLabel Stomach
+longLabel Stomach
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R01C02
+    type bigBed 9
+    shortLabel 204875570008_R01C02
+    longLabel 204875570008_R01C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R01C02.bb
+    itemRgb on
+    parent Stomach on
+
+track Stomach
+type bigBed 9
+shortLabel Stomach
+longLabel Stomach
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570011_R03C02
+    type bigBed 9
+    shortLabel 204875570011_R03C02
+    longLabel 204875570011_R03C02
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570011_R03C02.bb
+    itemRgb on
+    parent Stomach on
+
+track Testis
+type bigBed 9
+shortLabel Testis
+longLabel Testis
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570011_R02C01
+    type bigBed 9
+    shortLabel 204875570011_R02C01
+    longLabel 204875570011_R02C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570011_R02C01.bb
+    itemRgb on
+    parent Testis on
+
+track Testis
+type bigBed 9
+shortLabel Testis
+longLabel Testis
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570014_R02C01
+    type bigBed 9
+    shortLabel 204875570014_R02C01
+    longLabel 204875570014_R02C01
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R02C01.bb
+    itemRgb on
+    parent Testis on
+
