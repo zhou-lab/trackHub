@@ -40,3 +40,13 @@ visibility dense
 color 0,120,60
 maxHeightPixels 128:25:10
 priority 1
+
+track MouseArrayImprinting
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/imprinting.bb
+shortLabel Mouse Array Imprinting
+longLabel Mouse Array Imprinting
+type bigBed
+visibility dense
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
