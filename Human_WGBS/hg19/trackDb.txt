@@ -2075,22 +2075,22 @@ dragAndDrop on
     viewLimits 0.0:1.0
 
 
-    track REMC_E012_hESC_Derived_CD56+_Ectoderm_Cultured_Cells
+    track REMC_E012_hESC_Derived_CD56_Ectoderm_Cultured_Cells
     type bigWig
     shortLabel ESC.derived.ectoderm
-    longLabel REMC_E012_hESC_Derived_CD56+_Ectoderm_Cultured_Cells
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg19/REMC_E012_hESC_Derived_CD56+_Ectoderm_Cultured_Cells.bw
+    longLabel REMC_E012_hESC_Derived_CD56_Ectoderm_Cultured_Cells
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg19/REMC_E012_hESC_Derived_CD56_Ectoderm_Cultured_Cells.bw
     parent CellLine on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
 
-    track REMC_E011_hESC_Derived_CD184+_Endoderm_Cultured_Cells
+    track REMC_E011_hESC_Derived_CD184_Endoderm_Cultured_Cells
     type bigWig
     shortLabel ESC.derived.endoderm
-    longLabel REMC_E011_hESC_Derived_CD184+_Endoderm_Cultured_Cells
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg19/REMC_E011_hESC_Derived_CD184+_Endoderm_Cultured_Cells.bw
+    longLabel REMC_E011_hESC_Derived_CD184_Endoderm_Cultured_Cells
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg19/REMC_E011_hESC_Derived_CD184_Endoderm_Cultured_Cells.bw
     parent CellLine on
     color 0,102,255
     maxHeightPixels 128:25:10
@@ -2130,11 +2130,11 @@ dragAndDrop on
     viewLimits 0.0:1.0
 
 
-    track REMC_E013_hESC_Derived_CD56+_Mesoderm_Cultured_Cells
+    track REMC_E013_hESC_Derived_CD56_Mesoderm_Cultured_Cells
     type bigWig
     shortLabel ESC.derived.mesoderm
-    longLabel REMC_E013_hESC_Derived_CD56+_Mesoderm_Cultured_Cells
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg19/REMC_E013_hESC_Derived_CD56+_Mesoderm_Cultured_Cells.bw
+    longLabel REMC_E013_hESC_Derived_CD56_Mesoderm_Cultured_Cells
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg19/REMC_E013_hESC_Derived_CD56_Mesoderm_Cultured_Cells.bw
     parent CellLine on
     color 0,102,255
     maxHeightPixels 128:25:10
