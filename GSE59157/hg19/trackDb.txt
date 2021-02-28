@@ -1,0 +1,30 @@
+track Kidney
+type bigWig
+shortLabel Kidney
+longLabel Kidney
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track Myoepithelial_Donor1_3A3L_day38_rep1
+    type bigWig
+    shortLabel Myoepithelial
+    longLabel Myoepithelial_Donor1_3A3L_day38_rep1
+    bigDataUrl https://zhouserver.research.chop.edu/GSE59157/bw/Myoepithelial_Donor1_3A3L_day38_rep1.bw
+    parent Kidney on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Myoepithelial_Donor1_earlypassage_rep1
+    type bigWig
+    shortLabel Myoepithelial
+    longLabel Myoepithelial_Donor1_earlypassage_rep1
+    bigDataUrl https://zhouserver.research.chop.edu/GSE59157/bw/Myoepithelial_Donor1_earlypassage_rep1.bw
+    parent Kidney on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
