@@ -1,7 +1,7 @@
-track Kidney
+track GSE59157
 type bigWig
-shortLabel Kidney
-longLabel Kidney
+shortLabel GSE59157
+longLabel GSE59157 Kidney
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
