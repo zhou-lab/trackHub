@@ -33,6 +33,10 @@
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/Human_WGBS/hub.txt`
 
+- sample GEO hub (GSE59157)
+
+`https://raw.githubusercontent.com/zwdzwd/trackHub/master/GSE59157/hub.txt`
+
 # default colors:
 
 H3K4me3 228,26,28 (red)
