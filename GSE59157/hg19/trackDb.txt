@@ -14,7 +14,7 @@ dragAndDrop on
     shortLabel Myoepithelial
     longLabel Myoepithelial_Donor1_3A3L_day38_rep1
     bigDataUrl https://zhouserver.research.chop.edu/GSE59157/bw/Myoepithelial_Donor1_3A3L_day38_rep1.bw
-    parent Kidney on
+    parent GSE59157 on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -24,7 +24,7 @@ dragAndDrop on
     shortLabel Myoepithelial
     longLabel Myoepithelial_Donor1_earlypassage_rep1
     bigDataUrl https://zhouserver.research.chop.edu/GSE59157/bw/Myoepithelial_Donor1_earlypassage_rep1.bw
-    parent Kidney on
+    parent GSE59157 on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
