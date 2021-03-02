@@ -1,1 +1,20 @@
-# add here
+track liver
+type bigBed
+shortLabel liver
+longLabel liver
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track Ziller_liver_162_REMC3_null
+    type bigbed
+    shortLabel liver_162_REMC3
+    longLabel liver_162_REMC3
+    bigDataUrl https://de.cyverse.org/dl/d/2993E09F-AC80-4EE5-9B5C-C8F3DF73AD8E/Ziller_liver_162_REMC3_null.sorted.bed..bb
+    parent AdrenalGland on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
