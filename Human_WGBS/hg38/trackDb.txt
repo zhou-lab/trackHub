@@ -13,7 +13,7 @@ dragAndDrop on
     type bigBed
     shortLabel liver_162_REMC3
     longLabel liver_162_REMC3
-    bigDataUrl https://de.cyverse.org/dl/d/2993E09F-AC80-4EE5-9B5C-C8F3DF73AD8E/Ziller_liver_162_REMC3_null.sorted.bed..bb
+    bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/mwi468/Ziller_liver_162_REMC3_null.sorted.bed..bb
     parent liver on
     color 0,102,255
     maxHeightPixels 128:25:10
