@@ -9,7 +9,7 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track GSM4350063
+         track Test
          parent thyroid on
          type bigWig
          color 0,102,255
@@ -26,7 +26,7 @@ dragAndDrop on
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel GSM4350064
+         shortLabel Test
          longLabel  GSM4350064
          bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350064.bw
          priority 1
@@ -38,7 +38,7 @@ dragAndDrop on
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
          shortLabel GSM4350065
-         longLabel  GSM4350065
+         longLabel  Test
          bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350065.bw
          priority 1
 
