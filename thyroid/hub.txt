@@ -1,0 +1,5 @@
+hub thyroid
+shortLabel thyroid
+longLabel thyroid
+genomesFile genomes.txt
+email ejm374@drexel.edu
