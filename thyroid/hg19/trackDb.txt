@@ -17,7 +17,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350063
          longLabel  GSM4350063
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350063.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350063.bw
          priority 1
 
          track GSM4350064
@@ -28,7 +28,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350064
          longLabel  GSM4350064
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350064.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350064.bw
          priority 1
 
          track GSM4350065
@@ -39,7 +39,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350065
          longLabel  GSM4350065
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350065.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350065.bw
          priority 1
 
          track GSM4350066
@@ -50,7 +50,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350066
          longLabel  GSM4350066
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350066.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350066.bw
          priority 1
 
          track GSM4350067
@@ -61,7 +61,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350067
          longLabel  GSM4350067
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350067.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350067.bw
          priority 1
 
          track GSM4350068
@@ -72,7 +72,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350068
          longLabel  GSM4350068
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350068.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350068.bw
          priority 1
 
          track GSM4350069
@@ -83,7 +83,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350069
          longLabel  GSM4350069
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350069.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350069.bw
          priority 1
 
          track GSM4350070
@@ -94,7 +94,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350070
          longLabel  GSM4350070
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350070.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350070.bw
          priority 1
 
          track GSM4350071
@@ -105,7 +105,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350071
          longLabel  GSM4350071
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350071.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350071.bw
          priority 1
 
          track GSM4350072
@@ -116,7 +116,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350072
          longLabel  GSM4350072
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350072.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350072.bw
          priority 1
 
          track GSM4350073
@@ -127,7 +127,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350073
          longLabel  GSM4350073
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350073.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350073.bw
          priority 1
 
          track GSM4350074
@@ -138,7 +138,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350074
          longLabel  GSM4350074
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350074.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350074.bw
          priority 1
 
          track GSM4350075
@@ -149,7 +149,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350075
          longLabel  GSM4350075
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350075.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350075.bw
          priority 1
 
          track GSM4350076
@@ -160,7 +160,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM4350076
          longLabel  GSM4350076
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM4350076.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM4350076.bw
          priority 1
 
          track GSM3433504
@@ -171,7 +171,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433504
          longLabel  GSM3433504
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433504.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433504.bw
          priority 1
 
          track GSM3433505
@@ -182,7 +182,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433505
          longLabel  GSM3433505
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433505.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433505.bw
          priority 1
 
          track GSM3433506
@@ -193,7 +193,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433506
          longLabel  GSM3433506
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433506.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433506.bw
          priority 1
 
          track GSM3433507
@@ -204,7 +204,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433507
          longLabel  GSM3433507
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433507.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433507.bw
          priority 1
 
          track GSM3433508
@@ -215,7 +215,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433508
          longLabel  GSM3433508
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433508.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433508.bw
          priority 1
 
          track GSM3433509
@@ -226,7 +226,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433509
          longLabel  GSM3433509
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433509.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433509.bw
          priority 1
 
          track GSM3433510
@@ -237,7 +237,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433510
          longLabel  GSM3433510
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433510.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433510.bw
          priority 1
 
          track GSM3433511
@@ -248,7 +248,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433511
          longLabel  GSM3433511
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433511.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433511.bw
          priority 1
 
          track GSM3433512
@@ -259,7 +259,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433512
          longLabel  GSM3433512
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433512.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433512.bw
          priority 1
 
          track GSM3433513
@@ -270,7 +270,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433513
          longLabel  GSM3433513
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433513.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433513.bw
          priority 1
 
          track GSM3433514
@@ -281,7 +281,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433514
          longLabel  GSM3433514
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433514.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433514.bw
          priority 1
 
          track GSM3433515
@@ -292,7 +292,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433515
          longLabel  GSM3433515
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433515.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433515.bw
          priority 1
 
          track GSM3433516
@@ -303,7 +303,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433516
          longLabel  GSM3433516
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433516.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433516.bw
          priority 1
 
          track GSM3433517
@@ -314,7 +314,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433517
          longLabel  GSM3433517
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433517.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433517.bw
          priority 1
 
          track GSM3433518
@@ -325,7 +325,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433518
          longLabel  GSM3433518
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433518.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433518.bw
          priority 1
 
          track GSM3433519
@@ -336,7 +336,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433519
          longLabel  GSM3433519
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433519.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433519.bw
          priority 1
 
          track GSM3433520
@@ -347,7 +347,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433520
          longLabel  GSM3433520
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433520.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433520.bw
          priority 1
 
          track GSM3433521
@@ -358,7 +358,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433521
          longLabel  GSM3433521
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433521.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433521.bw
          priority 1
 
          track GSM3433522
@@ -369,7 +369,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433522
          longLabel  GSM3433522
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433522.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433522.bw
          priority 1
 
          track GSM3433523
@@ -380,7 +380,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433523
          longLabel  GSM3433523
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433523.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433523.bw
          priority 1
 
          track GSM3433524
@@ -391,7 +391,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433524
          longLabel  GSM3433524
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433524.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433524.bw
          priority 1
 
          track GSM3433525
@@ -402,7 +402,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433525
          longLabel  GSM3433525
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433525.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433525.bw
          priority 1
 
          track GSM3433526
@@ -413,7 +413,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433526
          longLabel  GSM3433526
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433526.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433526.bw
          priority 1
 
          track GSM3433527
@@ -424,7 +424,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433527
          longLabel  GSM3433527
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433527.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433527.bw
          priority 1
 
          track GSM3433528
@@ -435,7 +435,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433528
          longLabel  GSM3433528
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433528.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433528.bw
          priority 1
 
          track GSM3433529
@@ -446,7 +446,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433529
          longLabel  GSM3433529
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433529.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433529.bw
          priority 1
 
          track GSM3433530
@@ -457,7 +457,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433530
          longLabel  GSM3433530
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433530.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433530.bw
          priority 1
 
          track GSM3433531
@@ -468,7 +468,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433531
          longLabel  GSM3433531
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433531.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433531.bw
          priority 1
 
          track GSM3433532
@@ -479,7 +479,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433532
          longLabel  GSM3433532
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433532.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433532.bw
          priority 1
 
          track GSM3433533
@@ -490,7 +490,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433533
          longLabel  GSM3433533
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433533.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433533.bw
          priority 1
 
          track GSM3433534
@@ -501,7 +501,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433534
          longLabel  GSM3433534
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433534.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433534.bw
          priority 1
 
          track GSM3433535
@@ -512,7 +512,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433535
          longLabel  GSM3433535
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433535.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433535.bw
          priority 1
 
          track GSM3433536
@@ -523,7 +523,7 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433536
          longLabel  GSM3433536
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433536.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433536.bw
          priority 1
 
          track GSM3433537
@@ -534,5 +534,5 @@ dragAndDrop on
          viewLimits 0.0:1.0
          shortLabel GSM3433537
          longLabel  GSM3433537
-         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/bw/GSM3433537.bw
+         bigDataUrl https://zhouserver.research.chop.edu/GSE59157/thyroid/GSM3433537.bw
          priority 1
