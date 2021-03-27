@@ -1,0 +1,5 @@
+hub skin
+shortLabel skin
+longLabel skin
+genomesFile genomes.txt
+email ejm374@drexel.edu
