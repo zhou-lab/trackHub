@@ -1,0 +1,5202 @@
+track brain
+type bigWig
+shortLabel brain
+longLabel brain
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track GSM2430133
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel fetal.brain-derived.neural.stem/progenitor.cells
+         longLabel  GSM2430133
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM2430133.bw
+         priority 1
+
+         track GSM2430135
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel fetal.brain-derived.neural.stem/progenitor.cells
+         longLabel  GSM2430135
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM2430135.bw
+         priority 1
+
+         track GSM2430137
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel fetal.brain-derived.neural.stem/progenitor.cells
+         longLabel  GSM2430137
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM2430137.bw
+         priority 1
+
+         track GSM2430133
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel fetal.brain-derived.neural.stem/progenitor.cells
+         longLabel  GSM2430133
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM2430133.bw
+         priority 1
+
+         track GSM2430135
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel fetal.brain-derived.neural.stem/progenitor.cells
+         longLabel  GSM2430135
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM2430135.bw
+         priority 1
+
+         track GSM2430137
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel fetal.brain-derived.neural.stem/progenitor.cells
+         longLabel  GSM2430137
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM2430137.bw
+         priority 1
+
+         track GSM4729724
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729724
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729724.bw
+         priority 1
+
+         track GSM4729725
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729725
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729725.bw
+         priority 1
+
+         track GSM4729726
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729726
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729726.bw
+         priority 1
+
+         track GSM4729727
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729727
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729727.bw
+         priority 1
+
+         track GSM4729728
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729728
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729728.bw
+         priority 1
+
+         track GSM4729729
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729729
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729729.bw
+         priority 1
+
+         track GSM4729730
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729730
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729730.bw
+         priority 1
+
+         track GSM4729731
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729731
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729731.bw
+         priority 1
+
+         track GSM4729732
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729732
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729732.bw
+         priority 1
+
+         track GSM4729733
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729733
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729733.bw
+         priority 1
+
+         track GSM4729734
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729734
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729734.bw
+         priority 1
+
+         track GSM4729735
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729735
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729735.bw
+         priority 1
+
+         track GSM4729736
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729736
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729736.bw
+         priority 1
+
+         track GSM4729737
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729737
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729737.bw
+         priority 1
+
+         track GSM4729738
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729738
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729738.bw
+         priority 1
+
+         track GSM4729739
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729739
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729739.bw
+         priority 1
+
+         track GSM4729740
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729740
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729740.bw
+         priority 1
+
+         track GSM4729741
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729741
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729741.bw
+         priority 1
+
+         track GSM4729742
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729742
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729742.bw
+         priority 1
+
+         track GSM4729743
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729743
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729743.bw
+         priority 1
+
+         track GSM4729744
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729744
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729744.bw
+         priority 1
+
+         track GSM4729745
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729745
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729745.bw
+         priority 1
+
+         track GSM4729746
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729746
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729746.bw
+         priority 1
+
+         track GSM4729747
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729747
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729747.bw
+         priority 1
+
+         track GSM4729748
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729748
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729748.bw
+         priority 1
+
+         track GSM4729749
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729749
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729749.bw
+         priority 1
+
+         track GSM4729750
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729750
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729750.bw
+         priority 1
+
+         track GSM4729751
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729751
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729751.bw
+         priority 1
+
+         track GSM4729752
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729752
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729752.bw
+         priority 1
+
+         track GSM4729753
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729753
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729753.bw
+         priority 1
+
+         track GSM4729754
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729754
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729754.bw
+         priority 1
+
+         track GSM4729755
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729755
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729755.bw
+         priority 1
+
+         track GSM4729756
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729756
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729756.bw
+         priority 1
+
+         track GSM4729757
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel White.Matter
+         longLabel  GSM4729757
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729757.bw
+         priority 1
+
+         track GSM4729758
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel White.Matter
+         longLabel  GSM4729758
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729758.bw
+         priority 1
+
+         track GSM4729759
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel White.Matter
+         longLabel  GSM4729759
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729759.bw
+         priority 1
+
+         track GSM4729760
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel White.Matter
+         longLabel  GSM4729760
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729760.bw
+         priority 1
+
+         track GSM4729761
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel White.Matter
+         longLabel  GSM4729761
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729761.bw
+         priority 1
+
+         track GSM4729762
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel White.Matter
+         longLabel  GSM4729762
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729762.bw
+         priority 1
+
+         track GSM4729763
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel White.Matter
+         longLabel  GSM4729763
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729763.bw
+         priority 1
+
+         track GSM4729764
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729764
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729764.bw
+         priority 1
+
+         track GSM4729765
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729765
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729765.bw
+         priority 1
+
+         track GSM4729766
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729766
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729766.bw
+         priority 1
+
+         track GSM4729767
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729767
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729767.bw
+         priority 1
+
+         track GSM4729768
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729768
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729768.bw
+         priority 1
+
+         track GSM4729769
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729769
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729769.bw
+         priority 1
+
+         track GSM4729770
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729770
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729770.bw
+         priority 1
+
+         track GSM4729771
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729771
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729771.bw
+         priority 1
+
+         track GSM4729772
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729772
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729772.bw
+         priority 1
+
+         track GSM4729773
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729773
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729773.bw
+         priority 1
+
+         track GSM4729774
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729774
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729774.bw
+         priority 1
+
+         track GSM4729775
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729775
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729775.bw
+         priority 1
+
+         track GSM4729776
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729776
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729776.bw
+         priority 1
+
+         track GSM4729777
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729777
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729777.bw
+         priority 1
+
+         track GSM4729778
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729778
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729778.bw
+         priority 1
+
+         track GSM4729779
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729779
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729779.bw
+         priority 1
+
+         track GSM4729780
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729780
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729780.bw
+         priority 1
+
+         track GSM4729781
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729781
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729781.bw
+         priority 1
+
+         track GSM4729782
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729782
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729782.bw
+         priority 1
+
+         track GSM4729783
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729783
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729783.bw
+         priority 1
+
+         track GSM4729784
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729784
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729784.bw
+         priority 1
+
+         track GSM4729785
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729785
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729785.bw
+         priority 1
+
+         track GSM4729786
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729786
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729786.bw
+         priority 1
+
+         track GSM4729787
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729787
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729787.bw
+         priority 1
+
+         track GSM4729788
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729788
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729788.bw
+         priority 1
+
+         track GSM4729789
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729789
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729789.bw
+         priority 1
+
+         track GSM4729790
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729790
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729790.bw
+         priority 1
+
+         track GSM4729791
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729791
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729791.bw
+         priority 1
+
+         track GSM4729792
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729792
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729792.bw
+         priority 1
+
+         track GSM4729793
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729793
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729793.bw
+         priority 1
+
+         track GSM4729794
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729794
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729794.bw
+         priority 1
+
+         track GSM4729795
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729795
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729795.bw
+         priority 1
+
+         track GSM4729796
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729796
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729796.bw
+         priority 1
+
+         track GSM4729797
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729797
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729797.bw
+         priority 1
+
+         track GSM4729798
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729798
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729798.bw
+         priority 1
+
+         track GSM4729799
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729799
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729799.bw
+         priority 1
+
+         track GSM4729800
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729800
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729800.bw
+         priority 1
+
+         track GSM4729801
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729801
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729801.bw
+         priority 1
+
+         track GSM4729802
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729802
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729802.bw
+         priority 1
+
+         track GSM4729803
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729803
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729803.bw
+         priority 1
+
+         track GSM4729804
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729804
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729804.bw
+         priority 1
+
+         track GSM4729805
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729805
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729805.bw
+         priority 1
+
+         track GSM4729806
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729806
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729806.bw
+         priority 1
+
+         track GSM4729807
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729807
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729807.bw
+         priority 1
+
+         track GSM4729808
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729808
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729808.bw
+         priority 1
+
+         track GSM4729809
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729809
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729809.bw
+         priority 1
+
+         track GSM4729810
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729810
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729810.bw
+         priority 1
+
+         track GSM4729811
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729811
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729811.bw
+         priority 1
+
+         track GSM4729812
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729812
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729812.bw
+         priority 1
+
+         track GSM4729813
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729813
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729813.bw
+         priority 1
+
+         track GSM4729814
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729814
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729814.bw
+         priority 1
+
+         track GSM4729815
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729815
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729815.bw
+         priority 1
+
+         track GSM4729816
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729816
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729816.bw
+         priority 1
+
+         track GSM4729817
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729817
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729817.bw
+         priority 1
+
+         track GSM4729818
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729818
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729818.bw
+         priority 1
+
+         track GSM4729819
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Cortex
+         longLabel  GSM4729819
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4729819.bw
+         priority 1
+
+         track GSM4114048
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114048
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114048.bw
+         priority 1
+
+         track GSM4114049
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114049
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114049.bw
+         priority 1
+
+         track GSM4114050
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114050
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114050.bw
+         priority 1
+
+         track GSM4114051
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114051
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114051.bw
+         priority 1
+
+         track GSM4114052
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114052
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114052.bw
+         priority 1
+
+         track GSM4114053
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114053
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114053.bw
+         priority 1
+
+         track GSM4114054
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114054
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114054.bw
+         priority 1
+
+         track GSM4114055
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114055
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114055.bw
+         priority 1
+
+         track GSM4114056
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.bisulfite.treatment
+         longLabel  GSM4114056
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114056.bw
+         priority 1
+
+         track GSM4114057
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.parietal,.bisulfite.treatment
+         longLabel  GSM4114057
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114057.bw
+         priority 1
+
+         track GSM4114058
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.parietal,.bisulfite.treatment
+         longLabel  GSM4114058
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114058.bw
+         priority 1
+
+         track GSM4114059
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.parietal,.bisulfite.treatment
+         longLabel  GSM4114059
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114059.bw
+         priority 1
+
+         track GSM4114060
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.bisulfite.treatment
+         longLabel  GSM4114060
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114060.bw
+         priority 1
+
+         track GSM4114061
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.bisulfite.treatment
+         longLabel  GSM4114061
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114061.bw
+         priority 1
+
+         track GSM4114062
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.bisulfite.treatment
+         longLabel  GSM4114062
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114062.bw
+         priority 1
+
+         track GSM4114063
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.bisulfite.treatment
+         longLabel  GSM4114063
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114063.bw
+         priority 1
+
+         track GSM4114064
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.bisulfite.treatment
+         longLabel  GSM4114064
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114064.bw
+         priority 1
+
+         track GSM4114065
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.bisulfite.treatment
+         longLabel  GSM4114065
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114065.bw
+         priority 1
+
+         track GSM4114066
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114066
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114066.bw
+         priority 1
+
+         track GSM4114067
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114067
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114067.bw
+         priority 1
+
+         track GSM4114068
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114068
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114068.bw
+         priority 1
+
+         track GSM4114069
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114069
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114069.bw
+         priority 1
+
+         track GSM4114070
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114070
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114070.bw
+         priority 1
+
+         track GSM4114071
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114071
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114071.bw
+         priority 1
+
+         track GSM4114072
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114072
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114072.bw
+         priority 1
+
+         track GSM4114073
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114073
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114073.bw
+         priority 1
+
+         track GSM4114074
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.cingulate,.oxidative.bisulfite.treatment
+         longLabel  GSM4114074
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114074.bw
+         priority 1
+
+         track GSM4114075
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114075
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114075.bw
+         priority 1
+
+         track GSM4114076
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114076
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114076.bw
+         priority 1
+
+         track GSM4114077
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.control,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114077
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114077.bw
+         priority 1
+
+         track GSM4114078
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114078
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114078.bw
+         priority 1
+
+         track GSM4114079
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114079
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114079.bw
+         priority 1
+
+         track GSM4114080
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114080
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114080.bw
+         priority 1
+
+         track GSM4114081
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114081
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114081.bw
+         priority 1
+
+         track GSM4114082
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114082
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114082.bw
+         priority 1
+
+         track GSM4114083
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel postmortem.brain,.Parkinson's.disease,.parietal,.oxidative.bisulfite.treatment
+         longLabel  GSM4114083
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM4114083.bw
+         priority 1
+
+         track GSM3488378
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488378
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488378.bw
+         priority 1
+
+         track GSM3488379
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488379
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488379.bw
+         priority 1
+
+         track GSM3488380
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488380
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488380.bw
+         priority 1
+
+         track GSM3488381
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488381
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488381.bw
+         priority 1
+
+         track GSM3488382
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488382
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488382.bw
+         priority 1
+
+         track GSM3488383
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488383
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488383.bw
+         priority 1
+
+         track GSM3488384
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488384
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488384.bw
+         priority 1
+
+         track GSM3488385
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488385
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488385.bw
+         priority 1
+
+         track GSM3488386
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488386
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488386.bw
+         priority 1
+
+         track GSM3488387
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488387
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488387.bw
+         priority 1
+
+         track GSM3488388
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488388
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488388.bw
+         priority 1
+
+         track GSM3488389
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488389
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488389.bw
+         priority 1
+
+         track GSM3488390
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488390
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488390.bw
+         priority 1
+
+         track GSM3488391
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488391
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488391.bw
+         priority 1
+
+         track GSM3488392
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488392
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488392.bw
+         priority 1
+
+         track GSM3488393
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488393
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488393.bw
+         priority 1
+
+         track GSM3488394
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488394
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488394.bw
+         priority 1
+
+         track GSM3488395
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488395
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488395.bw
+         priority 1
+
+         track GSM3488397
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488397
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488397.bw
+         priority 1
+
+         track GSM3488400
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488400
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488400.bw
+         priority 1
+
+         track GSM3488401
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488401
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488401.bw
+         priority 1
+
+         track GSM3488402
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488402
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488402.bw
+         priority 1
+
+         track GSM3488403
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488403
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488403.bw
+         priority 1
+
+         track GSM3488404
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488404
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488404.bw
+         priority 1
+
+         track GSM3488405
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488405
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488405.bw
+         priority 1
+
+         track GSM3488406
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488406
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488406.bw
+         priority 1
+
+         track GSM3488407
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488407
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488407.bw
+         priority 1
+
+         track GSM3488408
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488408
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488408.bw
+         priority 1
+
+         track GSM3488409
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488409
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488409.bw
+         priority 1
+
+         track GSM3488410
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488410
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488410.bw
+         priority 1
+
+         track GSM3488411
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488411
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488411.bw
+         priority 1
+
+         track GSM3488414
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488414
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488414.bw
+         priority 1
+
+         track GSM3488415
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488415
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488415.bw
+         priority 1
+
+         track GSM3488418
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488418
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488418.bw
+         priority 1
+
+         track GSM3488419
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488419
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488419.bw
+         priority 1
+
+         track GSM3488420
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488420
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488420.bw
+         priority 1
+
+         track GSM3488421
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488421
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488421.bw
+         priority 1
+
+         track GSM3488422
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488422
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488422.bw
+         priority 1
+
+         track GSM3488423
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488423
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488423.bw
+         priority 1
+
+         track GSM3488424
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488424
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488424.bw
+         priority 1
+
+         track GSM3488425
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488425
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488425.bw
+         priority 1
+
+         track GSM3488426
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488426
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488426.bw
+         priority 1
+
+         track GSM3488427
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488427
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488427.bw
+         priority 1
+
+         track GSM3488428
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488428
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488428.bw
+         priority 1
+
+         track GSM3488429
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488429
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488429.bw
+         priority 1
+
+         track GSM3488431
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488431
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488431.bw
+         priority 1
+
+         track GSM3488432
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488432
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488432.bw
+         priority 1
+
+         track GSM3488433
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488433
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488433.bw
+         priority 1
+
+         track GSM3488435
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488435
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488435.bw
+         priority 1
+
+         track GSM3488437
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488437
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488437.bw
+         priority 1
+
+         track GSM3488439
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488439
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488439.bw
+         priority 1
+
+         track GSM3488441
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488441
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488441.bw
+         priority 1
+
+         track GSM3488442
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488442
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488442.bw
+         priority 1
+
+         track GSM3488443
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488443
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488443.bw
+         priority 1
+
+         track GSM3488444
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488444
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488444.bw
+         priority 1
+
+         track GSM3488445
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488445
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488445.bw
+         priority 1
+
+         track GSM3488446
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488446
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488446.bw
+         priority 1
+
+         track GSM3488447
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488447
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488447.bw
+         priority 1
+
+         track GSM3488448
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488448
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488448.bw
+         priority 1
+
+         track GSM3488449
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488449
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488449.bw
+         priority 1
+
+         track GSM3488450
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488450
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488450.bw
+         priority 1
+
+         track GSM3488451
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488451
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488451.bw
+         priority 1
+
+         track GSM3488452
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488452
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488452.bw
+         priority 1
+
+         track GSM3488453
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488453
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488453.bw
+         priority 1
+
+         track GSM3488454
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488454
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488454.bw
+         priority 1
+
+         track GSM3488455
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488455
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488455.bw
+         priority 1
+
+         track GSM3488456
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488456
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488456.bw
+         priority 1
+
+         track GSM3488457
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488457
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488457.bw
+         priority 1
+
+         track GSM3488458
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488458
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488458.bw
+         priority 1
+
+         track GSM3488459
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488459
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488459.bw
+         priority 1
+
+         track GSM3488460
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488460
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488460.bw
+         priority 1
+
+         track GSM3488461
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488461
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488461.bw
+         priority 1
+
+         track GSM3488462
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488462
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488462.bw
+         priority 1
+
+         track GSM3488463
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488463
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488463.bw
+         priority 1
+
+         track GSM3488464
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488464
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488464.bw
+         priority 1
+
+         track GSM3488465
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488465
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488465.bw
+         priority 1
+
+         track GSM3488466
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488466
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488466.bw
+         priority 1
+
+         track GSM3488467
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488467
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488467.bw
+         priority 1
+
+         track GSM3488470
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488470
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488470.bw
+         priority 1
+
+         track GSM3488471
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488471
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488471.bw
+         priority 1
+
+         track GSM3488473
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488473
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488473.bw
+         priority 1
+
+         track GSM3488474
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488474
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488474.bw
+         priority 1
+
+         track GSM3488476
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488476
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488476.bw
+         priority 1
+
+         track GSM3488477
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488477
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488477.bw
+         priority 1
+
+         track GSM3488478
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488478
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488478.bw
+         priority 1
+
+         track GSM3488479
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488479
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488479.bw
+         priority 1
+
+         track GSM3488480
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488480
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488480.bw
+         priority 1
+
+         track GSM3488481
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel malignant.glioma
+         longLabel  GSM3488481
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3488481.bw
+         priority 1
+
+         track GSM3177089
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain.astrocytes
+         longLabel  GSM3177089
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3177089.bw
+         priority 1
+
+         track GSM3177090
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain.astrocytes
+         longLabel  GSM3177090
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3177090.bw
+         priority 1
+
+         track GSM3177091
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain.astrocytes
+         longLabel  GSM3177091
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3177091.bw
+         priority 1
+
+         track GSM3177092
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain.astrocytes
+         longLabel  GSM3177092
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3177092.bw
+         priority 1
+
+         track GSM3177093
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain.astrocytes
+         longLabel  GSM3177093
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3177093.bw
+         priority 1
+
+         track GSM3177094
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain.astrocytes
+         longLabel  GSM3177094
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3177094.bw
+         priority 1
+
+         track GSM3177095
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain.astrocytes
+         longLabel  GSM3177095
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3177095.bw
+         priority 1
+
+         track GSM3177096
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain.astrocytes
+         longLabel  GSM3177096
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3177096.bw
+         priority 1
+
+         track GSM3059445
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059445
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059445.bw
+         priority 1
+
+         track GSM3059446
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059446
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059446.bw
+         priority 1
+
+         track GSM3059447
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059447
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059447.bw
+         priority 1
+
+         track GSM3059448
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059448
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059448.bw
+         priority 1
+
+         track GSM3059449
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059449
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059449.bw
+         priority 1
+
+         track GSM3059450
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059450
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059450.bw
+         priority 1
+
+         track GSM3059451
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059451
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059451.bw
+         priority 1
+
+         track GSM3059452
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059452
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059452.bw
+         priority 1
+
+         track GSM3059453
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059453
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059453.bw
+         priority 1
+
+         track GSM3059454
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059454
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059454.bw
+         priority 1
+
+         track GSM3059455
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059455
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059455.bw
+         priority 1
+
+         track GSM3059456
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059456
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059456.bw
+         priority 1
+
+         track GSM3059457
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059457
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059457.bw
+         priority 1
+
+         track GSM3059458
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059458
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059458.bw
+         priority 1
+
+         track GSM3059459
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059459
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059459.bw
+         priority 1
+
+         track GSM3059460
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059460
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059460.bw
+         priority 1
+
+         track GSM3059461
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059461
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059461.bw
+         priority 1
+
+         track GSM3059462
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059462
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059462.bw
+         priority 1
+
+         track GSM3059463
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059463
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059463.bw
+         priority 1
+
+         track GSM3059464
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059464
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059464.bw
+         priority 1
+
+         track GSM3059465
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059465
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059465.bw
+         priority 1
+
+         track GSM3059466
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059466
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059466.bw
+         priority 1
+
+         track GSM3059467
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059467
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059467.bw
+         priority 1
+
+         track GSM3059468
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059468
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059468.bw
+         priority 1
+
+         track GSM3059469
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059469
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059469.bw
+         priority 1
+
+         track GSM3059470
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059470
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059470.bw
+         priority 1
+
+         track GSM3059471
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059471
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059471.bw
+         priority 1
+
+         track GSM3059472
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059472
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059472.bw
+         priority 1
+
+         track GSM3059473
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059473
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059473.bw
+         priority 1
+
+         track GSM3059474
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059474
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059474.bw
+         priority 1
+
+         track GSM3059475
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059475
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059475.bw
+         priority 1
+
+         track GSM3059476
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059476
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059476.bw
+         priority 1
+
+         track GSM3059477
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059477
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059477.bw
+         priority 1
+
+         track GSM3059478
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059478
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059478.bw
+         priority 1
+
+         track GSM3059479
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059479
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059479.bw
+         priority 1
+
+         track GSM3059480
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059480
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059480.bw
+         priority 1
+
+         track GSM3059481
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059481
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059481.bw
+         priority 1
+
+         track GSM3059482
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059482
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059482.bw
+         priority 1
+
+         track GSM3059483
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059483
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059483.bw
+         priority 1
+
+         track GSM3059484
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059484
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059484.bw
+         priority 1
+
+         track GSM3059485
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059485
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059485.bw
+         priority 1
+
+         track GSM3059486
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059486
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059486.bw
+         priority 1
+
+         track GSM3059487
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059487
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059487.bw
+         priority 1
+
+         track GSM3059488
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059488
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059488.bw
+         priority 1
+
+         track GSM3059489
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059489
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059489.bw
+         priority 1
+
+         track GSM3059490
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059490
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059490.bw
+         priority 1
+
+         track GSM3059491
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059491
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059491.bw
+         priority 1
+
+         track GSM3059492
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059492
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059492.bw
+         priority 1
+
+         track GSM3059493
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059493
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059493.bw
+         priority 1
+
+         track GSM3059494
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059494
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059494.bw
+         priority 1
+
+         track GSM3059495
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059495
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059495.bw
+         priority 1
+
+         track GSM3059496
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059496
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059496.bw
+         priority 1
+
+         track GSM3059497
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059497
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059497.bw
+         priority 1
+
+         track GSM3059498
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059498
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059498.bw
+         priority 1
+
+         track GSM3059499
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059499
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059499.bw
+         priority 1
+
+         track GSM3059500
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059500
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059500.bw
+         priority 1
+
+         track GSM3059501
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059501
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059501.bw
+         priority 1
+
+         track GSM3059502
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059502
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059502.bw
+         priority 1
+
+         track GSM3059503
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059503
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059503.bw
+         priority 1
+
+         track GSM3059504
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059504
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059504.bw
+         priority 1
+
+         track GSM3059505
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059505
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059505.bw
+         priority 1
+
+         track GSM3059506
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059506
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059506.bw
+         priority 1
+
+         track GSM3059507
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059507
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059507.bw
+         priority 1
+
+         track GSM3059508
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059508
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059508.bw
+         priority 1
+
+         track GSM3059509
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059509
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059509.bw
+         priority 1
+
+         track GSM3059510
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059510
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059510.bw
+         priority 1
+
+         track GSM3059511
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059511
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059511.bw
+         priority 1
+
+         track GSM3059512
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059512
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059512.bw
+         priority 1
+
+         track GSM3059513
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059513
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059513.bw
+         priority 1
+
+         track GSM3059514
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059514
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059514.bw
+         priority 1
+
+         track GSM3059515
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059515
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059515.bw
+         priority 1
+
+         track GSM3059516
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059516
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059516.bw
+         priority 1
+
+         track GSM3059517
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059517
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059517.bw
+         priority 1
+
+         track GSM3059518
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059518
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059518.bw
+         priority 1
+
+         track GSM3059519
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059519
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059519.bw
+         priority 1
+
+         track GSM3059520
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059520
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059520.bw
+         priority 1
+
+         track GSM3059521
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059521
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059521.bw
+         priority 1
+
+         track GSM3059522
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059522
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059522.bw
+         priority 1
+
+         track GSM3059523
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059523
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059523.bw
+         priority 1
+
+         track GSM3059524
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059524
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059524.bw
+         priority 1
+
+         track GSM3059525
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059525
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059525.bw
+         priority 1
+
+         track GSM3059526
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059526
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059526.bw
+         priority 1
+
+         track GSM3059527
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059527
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059527.bw
+         priority 1
+
+         track GSM3059528
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059528
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059528.bw
+         priority 1
+
+         track GSM3059529
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059529
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059529.bw
+         priority 1
+
+         track GSM3059530
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059530
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059530.bw
+         priority 1
+
+         track GSM3059531
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059531
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059531.bw
+         priority 1
+
+         track GSM3059532
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059532
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059532.bw
+         priority 1
+
+         track GSM3059533
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059533
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059533.bw
+         priority 1
+
+         track GSM3059534
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059534
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059534.bw
+         priority 1
+
+         track GSM3059535
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059535
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059535.bw
+         priority 1
+
+         track GSM3059536
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059536
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059536.bw
+         priority 1
+
+         track GSM3059537
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059537
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059537.bw
+         priority 1
+
+         track GSM3059538
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059538
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059538.bw
+         priority 1
+
+         track GSM3059539
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059539
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059539.bw
+         priority 1
+
+         track GSM3059540
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059540
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059540.bw
+         priority 1
+
+         track GSM3059541
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059541
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059541.bw
+         priority 1
+
+         track GSM3059542
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059542
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059542.bw
+         priority 1
+
+         track GSM3059543
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059543
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059543.bw
+         priority 1
+
+         track GSM3059544
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059544
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059544.bw
+         priority 1
+
+         track GSM3059445
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059445
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059445.bw
+         priority 1
+
+         track GSM3059446
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059446
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059446.bw
+         priority 1
+
+         track GSM3059447
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059447
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059447.bw
+         priority 1
+
+         track GSM3059448
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059448
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059448.bw
+         priority 1
+
+         track GSM3059449
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059449
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059449.bw
+         priority 1
+
+         track GSM3059450
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059450
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059450.bw
+         priority 1
+
+         track GSM3059451
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059451
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059451.bw
+         priority 1
+
+         track GSM3059452
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059452
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059452.bw
+         priority 1
+
+         track GSM3059453
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059453
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059453.bw
+         priority 1
+
+         track GSM3059454
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059454
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059454.bw
+         priority 1
+
+         track GSM3059455
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059455
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059455.bw
+         priority 1
+
+         track GSM3059456
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059456
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059456.bw
+         priority 1
+
+         track GSM3059457
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059457
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059457.bw
+         priority 1
+
+         track GSM3059458
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059458
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059458.bw
+         priority 1
+
+         track GSM3059459
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059459
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059459.bw
+         priority 1
+
+         track GSM3059460
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059460
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059460.bw
+         priority 1
+
+         track GSM3059461
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059461
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059461.bw
+         priority 1
+
+         track GSM3059462
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059462
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059462.bw
+         priority 1
+
+         track GSM3059463
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059463
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059463.bw
+         priority 1
+
+         track GSM3059464
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059464
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059464.bw
+         priority 1
+
+         track GSM3059465
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059465
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059465.bw
+         priority 1
+
+         track GSM3059466
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059466
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059466.bw
+         priority 1
+
+         track GSM3059467
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059467
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059467.bw
+         priority 1
+
+         track GSM3059468
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059468
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059468.bw
+         priority 1
+
+         track GSM3059469
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059469
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059469.bw
+         priority 1
+
+         track GSM3059470
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059470
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059470.bw
+         priority 1
+
+         track GSM3059471
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059471
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059471.bw
+         priority 1
+
+         track GSM3059472
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059472
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059472.bw
+         priority 1
+
+         track GSM3059473
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059473
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059473.bw
+         priority 1
+
+         track GSM3059474
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059474
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059474.bw
+         priority 1
+
+         track GSM3059475
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059475
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059475.bw
+         priority 1
+
+         track GSM3059476
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059476
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059476.bw
+         priority 1
+
+         track GSM3059477
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059477
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059477.bw
+         priority 1
+
+         track GSM3059478
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059478
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059478.bw
+         priority 1
+
+         track GSM3059479
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059479
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059479.bw
+         priority 1
+
+         track GSM3059480
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059480
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059480.bw
+         priority 1
+
+         track GSM3059481
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059481
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059481.bw
+         priority 1
+
+         track GSM3059482
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059482
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059482.bw
+         priority 1
+
+         track GSM3059483
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059483
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059483.bw
+         priority 1
+
+         track GSM3059484
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059484
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059484.bw
+         priority 1
+
+         track GSM3059485
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059485
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059485.bw
+         priority 1
+
+         track GSM3059486
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059486
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059486.bw
+         priority 1
+
+         track GSM3059487
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059487
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059487.bw
+         priority 1
+
+         track GSM3059488
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059488
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059488.bw
+         priority 1
+
+         track GSM3059489
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059489
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059489.bw
+         priority 1
+
+         track GSM3059490
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059490
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059490.bw
+         priority 1
+
+         track GSM3059491
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059491
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059491.bw
+         priority 1
+
+         track GSM3059492
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059492
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059492.bw
+         priority 1
+
+         track GSM3059493
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059493
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059493.bw
+         priority 1
+
+         track GSM3059494
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059494
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059494.bw
+         priority 1
+
+         track GSM3059495
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059495
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059495.bw
+         priority 1
+
+         track GSM3059496
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059496
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059496.bw
+         priority 1
+
+         track GSM3059497
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059497
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059497.bw
+         priority 1
+
+         track GSM3059498
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059498
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059498.bw
+         priority 1
+
+         track GSM3059499
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059499
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059499.bw
+         priority 1
+
+         track GSM3059500
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059500
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059500.bw
+         priority 1
+
+         track GSM3059501
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059501
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059501.bw
+         priority 1
+
+         track GSM3059502
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059502
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059502.bw
+         priority 1
+
+         track GSM3059503
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059503
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059503.bw
+         priority 1
+
+         track GSM3059504
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059504
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059504.bw
+         priority 1
+
+         track GSM3059505
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059505
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059505.bw
+         priority 1
+
+         track GSM3059506
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059506
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059506.bw
+         priority 1
+
+         track GSM3059507
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059507
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059507.bw
+         priority 1
+
+         track GSM3059508
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059508
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059508.bw
+         priority 1
+
+         track GSM3059509
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059509
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059509.bw
+         priority 1
+
+         track GSM3059510
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059510
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059510.bw
+         priority 1
+
+         track GSM3059511
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059511
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059511.bw
+         priority 1
+
+         track GSM3059512
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059512
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059512.bw
+         priority 1
+
+         track GSM3059513
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059513
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059513.bw
+         priority 1
+
+         track GSM3059514
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059514
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059514.bw
+         priority 1
+
+         track GSM3059515
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059515
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059515.bw
+         priority 1
+
+         track GSM3059516
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059516
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059516.bw
+         priority 1
+
+         track GSM3059517
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059517
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059517.bw
+         priority 1
+
+         track GSM3059518
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059518
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059518.bw
+         priority 1
+
+         track GSM3059519
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059519
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059519.bw
+         priority 1
+
+         track GSM3059520
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059520
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059520.bw
+         priority 1
+
+         track GSM3059521
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059521
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059521.bw
+         priority 1
+
+         track GSM3059522
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059522
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059522.bw
+         priority 1
+
+         track GSM3059523
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059523
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059523.bw
+         priority 1
+
+         track GSM3059524
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059524
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059524.bw
+         priority 1
+
+         track GSM3059525
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059525
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059525.bw
+         priority 1
+
+         track GSM3059526
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059526
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059526.bw
+         priority 1
+
+         track GSM3059527
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059527
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059527.bw
+         priority 1
+
+         track GSM3059528
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059528
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059528.bw
+         priority 1
+
+         track GSM3059529
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059529
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059529.bw
+         priority 1
+
+         track GSM3059530
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059530
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059530.bw
+         priority 1
+
+         track GSM3059531
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059531
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059531.bw
+         priority 1
+
+         track GSM3059532
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059532
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059532.bw
+         priority 1
+
+         track GSM3059533
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059533
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059533.bw
+         priority 1
+
+         track GSM3059534
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059534
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059534.bw
+         priority 1
+
+         track GSM3059535
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059535
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059535.bw
+         priority 1
+
+         track GSM3059536
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059536
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059536.bw
+         priority 1
+
+         track GSM3059537
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059537
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059537.bw
+         priority 1
+
+         track GSM3059538
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059538
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059538.bw
+         priority 1
+
+         track GSM3059539
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059539
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059539.bw
+         priority 1
+
+         track GSM3059540
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059540
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059540.bw
+         priority 1
+
+         track GSM3059541
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059541
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059541.bw
+         priority 1
+
+         track GSM3059542
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059542
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059542.bw
+         priority 1
+
+         track GSM3059543
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059543
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059543.bw
+         priority 1
+
+         track GSM3059544
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FACS-sorted.neurons.from.the.frontal.cortex.of.the.human.brain
+         longLabel  GSM3059544
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3059544.bw
+         priority 1
+
+         track GSM3024443
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.101
+         longLabel  GSM3024443
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024443.bw
+         priority 1
+
+         track GSM3024444
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.102
+         longLabel  GSM3024444
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024444.bw
+         priority 1
+
+         track GSM3024445
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.103
+         longLabel  GSM3024445
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024445.bw
+         priority 1
+
+         track GSM3024446
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.104
+         longLabel  GSM3024446
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024446.bw
+         priority 1
+
+         track GSM3024447
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.105
+         longLabel  GSM3024447
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024447.bw
+         priority 1
+
+         track GSM3024448
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.106
+         longLabel  GSM3024448
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024448.bw
+         priority 1
+
+         track GSM3024449
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.107
+         longLabel  GSM3024449
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024449.bw
+         priority 1
+
+         track GSM3024450
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.108
+         longLabel  GSM3024450
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024450.bw
+         priority 1
+
+         track GSM3024451
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.109
+         longLabel  GSM3024451
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024451.bw
+         priority 1
+
+         track GSM3024452
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.110
+         longLabel  GSM3024452
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024452.bw
+         priority 1
+
+         track GSM3024453
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.111
+         longLabel  GSM3024453
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024453.bw
+         priority 1
+
+         track GSM3024454
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.112
+         longLabel  GSM3024454
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024454.bw
+         priority 1
+
+         track GSM3024455
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.113
+         longLabel  GSM3024455
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024455.bw
+         priority 1
+
+         track GSM3024456
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.114
+         longLabel  GSM3024456
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024456.bw
+         priority 1
+
+         track GSM3024457
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.115
+         longLabel  GSM3024457
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024457.bw
+         priority 1
+
+         track GSM3024458
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.116
+         longLabel  GSM3024458
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024458.bw
+         priority 1
+
+         track GSM3024459
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.117
+         longLabel  GSM3024459
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024459.bw
+         priority 1
+
+         track GSM3024460
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.118
+         longLabel  GSM3024460
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024460.bw
+         priority 1
+
+         track GSM3024461
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.119
+         longLabel  GSM3024461
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024461.bw
+         priority 1
+
+         track GSM3024462
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.120
+         longLabel  GSM3024462
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024462.bw
+         priority 1
+
+         track GSM3024463
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_whole.from.subject.121
+         longLabel  GSM3024463
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024463.bw
+         priority 1
+
+         track GSM3024464
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.101
+         longLabel  GSM3024464
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024464.bw
+         priority 1
+
+         track GSM3024465
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.104
+         longLabel  GSM3024465
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024465.bw
+         priority 1
+
+         track GSM3024466
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.105
+         longLabel  GSM3024466
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024466.bw
+         priority 1
+
+         track GSM3024467
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.106
+         longLabel  GSM3024467
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024467.bw
+         priority 1
+
+         track GSM3024468
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.109
+         longLabel  GSM3024468
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024468.bw
+         priority 1
+
+         track GSM3024469
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.110
+         longLabel  GSM3024469
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024469.bw
+         priority 1
+
+         track GSM3024470
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.111
+         longLabel  GSM3024470
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024470.bw
+         priority 1
+
+         track GSM3024471
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.113
+         longLabel  GSM3024471
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024471.bw
+         priority 1
+
+         track GSM3024472
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.114
+         longLabel  GSM3024472
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024472.bw
+         priority 1
+
+         track GSM3024473
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.115
+         longLabel  GSM3024473
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024473.bw
+         priority 1
+
+         track GSM3024474
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.119
+         longLabel  GSM3024474
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024474.bw
+         priority 1
+
+         track GSM3024475
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_neg.from.subject.120
+         longLabel  GSM3024475
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024475.bw
+         priority 1
+
+         track GSM3024476
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_pos.from.subject.109
+         longLabel  GSM3024476
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024476.bw
+         priority 1
+
+         track GSM3024477
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_pos.from.subject.110
+         longLabel  GSM3024477
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024477.bw
+         priority 1
+
+         track GSM3024478
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_pos.from.subject.111
+         longLabel  GSM3024478
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024478.bw
+         priority 1
+
+         track GSM3024479
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_pos.from.subject.113
+         longLabel  GSM3024479
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024479.bw
+         priority 1
+
+         track GSM3024480
+         parent brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel brain_pos.from.subject.120
+         longLabel  GSM3024480
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/brain/bw/GSM3024480.bw
+         priority 1
