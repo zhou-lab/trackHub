@@ -1,0 +1,5 @@
+hub ES-Epithelial
+shortLabel ES-Epithelial
+longLabel ES-Epithelial
+genomesFile genomes.txt
+email ejm374@drexel.edu

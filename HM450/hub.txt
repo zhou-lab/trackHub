@@ -1,0 +1,5 @@
+hub HM450
+shortLabel HM450
+longLabel HM450
+genomesFile genomes.txt
+email ejm374@drexel.edu

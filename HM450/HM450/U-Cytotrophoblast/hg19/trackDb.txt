@@ -1,0 +1,66 @@
+track U-Cytotrophoblast
+type bigWig
+shortLabel U-Cytotrophoblast
+longLabel U-Cytotrophoblast
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track hCTB.(2).cultured.3h,.exposed.to.0.1%.DMSO.for.24h.1
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.3h_exposed.to.0.1%.DMSO.for.24h
+         longLabel  hCTB.(2).cultured.3h,.exposed.to.0.1%.DMSO.for.24h.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177408.bw
+         priority 1
+
+         track hCTB.(2).cultured.3h,.exposed.to.1¬¨¬µM.BDE-47.for.24h.2
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.3h_exposed.to.1¬¨¬µM.BDE-47.for.24h
+         longLabel  hCTB.(2).cultured.3h,.exposed.to.1¬¨¬µM.BDE-47.for.24h.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177409.bw
+         priority 1
+
+         track hCTB.(2).cultured.15h,.exposed.to.0.1%.DMSO.for.24h.3
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.15h_exposed.to.0.1%.DMSO.for.24h
+         longLabel  hCTB.(2).cultured.15h,.exposed.to.0.1%.DMSO.for.24h.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177410.bw
+         priority 1
+
+         track hCTB.(2).cultured.15h,.exposed.to.1¬¨¬µM.BDE-47.for.24h.4
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.15h_exposed.to.1¬¨¬µM.BDE-47.for.24h
+         longLabel  hCTB.(2).cultured.15h,.exposed.to.1¬¨¬µM.BDE-47.for.24h.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177411.bw
+         priority 1
+
+         track hCTB.(3).cultured.3h,.exposed.to.0.1%.DMSO.for.24h.5
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.3h_exposed.to.0.1%.DMSO.for.24h
+         longLabel  hCTB.(3).cultured.3h,.exposed.to.0.1%.DMSO.for.24h.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177412.bw
+         priority 1
+

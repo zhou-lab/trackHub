@@ -1,0 +1,5 @@
+hub MP-Adipocyte
+shortLabel MP-Adipocyte
+longLabel MP-Adipocyte
+genomesFile genomes.txt
+email ejm374@drexel.edu

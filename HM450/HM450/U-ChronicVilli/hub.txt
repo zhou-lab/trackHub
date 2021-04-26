@@ -1,0 +1,5 @@
+hub U-ChronicVilli
+shortLabel U-ChronicVilli
+longLabel U-ChronicVilli
+genomesFile genomes.txt
+email ejm374@drexel.edu

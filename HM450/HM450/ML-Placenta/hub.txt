@@ -1,0 +1,5 @@
+hub ML-Placenta
+shortLabel ML-Placenta
+longLabel ML-Placenta
+genomesFile genomes.txt
+email ejm374@drexel.edu

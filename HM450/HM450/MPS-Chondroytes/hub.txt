@@ -1,0 +1,5 @@
+hub MPS-Chondroytes
+shortLabel MPS-Chondroytes
+longLabel MPS-Chondroytes
+genomesFile genomes.txt
+email ejm374@drexel.edu

@@ -1,0 +1,66 @@
+track MI-Kidney
+type bigWig
+shortLabel MI-Kidney
+longLabel MI-Kidney
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.2014ccRCC06N.1
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC06Normal
+         longLabel  genomic.DNA.from.2014ccRCC06N.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504819.bw
+         priority 1
+
+         track genomic.DNA.from.2014ccRCC07T.2
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC07Tumor
+         longLabel  genomic.DNA.from.2014ccRCC07T.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504820.bw
+         priority 1
+
+         track genomic.DNA.from.2014ccRCC07N.3
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC07Normal
+         longLabel  genomic.DNA.from.2014ccRCC07N.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504821.bw
+         priority 1
+
+         track genomic.DNA.from.2014ccRCC08T.4
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC08Tumor
+         longLabel  genomic.DNA.from.2014ccRCC08T.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504822.bw
+         priority 1
+
+         track genomic.DNA.from.2014ccRCC08N.5
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC08Normal
+         longLabel  genomic.DNA.from.2014ccRCC08N.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504823.bw
+         priority 1
+

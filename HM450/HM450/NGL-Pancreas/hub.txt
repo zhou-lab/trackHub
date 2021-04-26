@@ -1,0 +1,5 @@
+hub NGL-Pancreas
+shortLabel NGL-Pancreas
+longLabel NGL-Pancreas
+genomesFile genomes.txt
+email ejm374@drexel.edu

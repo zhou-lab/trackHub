@@ -1,0 +1,5 @@
+hub MP-Osteoblast
+shortLabel MP-Osteoblast
+longLabel MP-Osteoblast
+genomesFile genomes.txt
+email ejm374@drexel.edu
