@@ -1,5 +1,0 @@
-hub NG-Stomach
-shortLabel NG-Stomach
-longLabel NG-Stomach
-genomesFile genomes.txt
-email ejm374@drexel.edu

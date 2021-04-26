@@ -1,5 +1,0 @@
-hub NG-SalivaryGland
-shortLabel NG-SalivaryGland
-longLabel NG-SalivaryGland
-genomesFile genomes.txt
-email ejm374@drexel.edu

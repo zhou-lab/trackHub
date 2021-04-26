@@ -1,5 +1,0 @@
-hub U-Eye
-shortLabel U-Eye
-longLabel U-Eye
-genomesFile genomes.txt
-email ejm374@drexel.edu

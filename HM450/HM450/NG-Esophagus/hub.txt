@@ -1,5 +1,0 @@
-hub NG-Esophagus
-shortLabel NG-Esophagus
-longLabel NG-Esophagus
-genomesFile genomes.txt
-email ejm374@drexel.edu

@@ -1,5 +1,0 @@
-hub MLH-HSC
-shortLabel MLH-HSC
-longLabel MLH-HSC
-genomesFile genomes.txt
-email ejm374@drexel.edu

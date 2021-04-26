@@ -1,5 +1,0 @@
-hub MLHMG-Neutrophil
-shortLabel MLHMG-Neutrophil
-longLabel MLHMG-Neutrophil
-genomesFile genomes.txt
-email ejm374@drexel.edu

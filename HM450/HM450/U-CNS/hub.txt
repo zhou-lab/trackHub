@@ -1,5 +1,0 @@
-hub U-CNS
-shortLabel U-CNS
-longLabel U-CNS
-genomesFile genomes.txt
-email ejm374@drexel.edu
