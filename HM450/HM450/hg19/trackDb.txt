@@ -1,0 +1,4160 @@
+track E-Brain
+type bigWig
+shortLabel E-Brain
+longLabel E-Brain
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.Craniotomy.for.Epilepsy.NTB-2900
+         parent E-Brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Craniotomy.for.Epilepsy.NTB-2900
+         longLabel  genomic.DNA.from.Craniotomy.for.Epilepsy.NTB-2900
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Brain/bw/GSM1469037.bw
+         priority 1
+
+         track genomic.DNA.from.cultured.glioma.spheres.LN-2207GS
+         parent E-Brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel cultured.glioma.spheres.LN-2207GS
+         longLabel  genomic.DNA.from.cultured.glioma.spheres.LN-2207GS
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Brain/bw/GSM1469038.bw
+         priority 1
+
+         track genomic.DNA.from.cultured.glioma.spheres.LN-2540GS
+         parent E-Brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel cultured.glioma.spheres.LN-2540GS
+         longLabel  genomic.DNA.from.cultured.glioma.spheres.LN-2540GS
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Brain/bw/GSM1469039.bw
+         priority 1
+
+         track genomic.DNA.from.cultured.glioma.spheres.LN-2669GS
+         parent E-Brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel cultured.glioma.spheres.LN-2669GS
+         longLabel  genomic.DNA.from.cultured.glioma.spheres.LN-2669GS
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Brain/bw/GSM1469040.bw
+         priority 1
+
+         track genomic.DNA.from.cultured.glioma.spheres.LN-2683GS
+         parent E-Brain on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel cultured.glioma.spheres.LN-2683GS
+         longLabel  genomic.DNA.from.cultured.glioma.spheres.LN-2683GS
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Brain/bw/GSM1469041.bw
+         priority 1
+track E-Breast
+type bigWig
+shortLabel E-Breast
+longLabel E-Breast
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track GS0005630
+         parent E-Breast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel breast.cancer.tissue
+         longLabel  GS0005630
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466944.bw
+         priority 1
+
+         track GS0005638
+         parent E-Breast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel breast.cancer.tissue
+         longLabel  GS0005638
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466945.bw
+         priority 1
+
+         track GS0005643
+         parent E-Breast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel breast.cancer.tissue
+         longLabel  GS0005643
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466946.bw
+         priority 1
+
+         track GS0005646
+         parent E-Breast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel breast.cancer.tissue
+         longLabel  GS0005646
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466947.bw
+         priority 1
+
+         track GS0005650
+         parent E-Breast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel breast.cancer.tissue
+         longLabel  GS0005650
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466948.bw
+         priority 1
+track E-Skin
+type bigWig
+shortLabel E-Skin
+longLabel E-Skin
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA_sporadic.melanoma.5
+         parent E-Skin on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel sporadic.melanoma.5
+         longLabel  genomic.DNA_sporadic.melanoma.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Skin/bw/GSM1326834.bw
+         priority 1
+
+         track genomic.DNA_sporadic.melanoma.6
+         parent E-Skin on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel sporadic.melanoma.6
+         longLabel  genomic.DNA_sporadic.melanoma.6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Skin/bw/GSM1326835.bw
+         priority 1
+
+         track genomic.DNA_sporadic.melanoma.7
+         parent E-Skin on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel sporadic.melanoma.7
+         longLabel  genomic.DNA_sporadic.melanoma.7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Skin/bw/GSM1326836.bw
+         priority 1
+
+         track genomic.DNA_sporadic.melanoma.8
+         parent E-Skin on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel sporadic.melanoma.8
+         longLabel  genomic.DNA_sporadic.melanoma.8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Skin/bw/GSM1326837.bw
+         priority 1
+
+         track Pt1-baseline-1
+         parent E-Skin on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel tumor.biopsy
+         longLabel  Pt1-baseline-1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Skin/bw/GSM1588704.bw
+         priority 1
+track EC-Neuron
+type bigWig
+shortLabel EC-Neuron
+longLabel EC-Neuron
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Neuroblastoma_1_Relapse_methylation
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Relapse
+         longLabel  Neuroblastoma_1_Relapse_methylation
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592146.bw
+         priority 1
+
+         track Neuroblastoma_1_Relapse_methylation
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Relapse
+         longLabel  Neuroblastoma_1_Relapse_methylation
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592147.bw
+         priority 1
+
+         track Neuroblastoma_1_Tumour_methylation
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumour
+         longLabel  Neuroblastoma_1_Tumour_methylation
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592148.bw
+         priority 1
+
+         track Neuroblastoma_1_Tumour_methylation
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumour
+         longLabel  Neuroblastoma_1_Tumour_methylation
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592149.bw
+         priority 1
+
+         track Neuroblastoma_11_Relapse_methylation
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Relapse
+         longLabel  Neuroblastoma_11_Relapse_methylation
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592150.bw
+         priority 1
+track ECG-Schwann
+type bigWig
+shortLabel ECG-Schwann
+longLabel ECG-Schwann
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track VestibularSchwannoma_Sporadic_3
+         parent ECG-Schwann on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Vestibular.Schwannoma.(Sporadic)
+         longLabel  VestibularSchwannoma_Sporadic_3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ECG-Schwann/bw/GSM1365154.bw
+         priority 1
+
+         track VestibularSchwannoma_Sporadic_3
+         parent ECG-Schwann on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Vestibular.Schwannoma.(Sporadic)
+         longLabel  VestibularSchwannoma_Sporadic_3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ECG-Schwann/bw/GSM1365155.bw
+         priority 1
+
+         track VestibularSchwannoma_Sporadic_4
+         parent ECG-Schwann on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Vestibular.Schwannoma.(Sporadic)
+         longLabel  VestibularSchwannoma_Sporadic_4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ECG-Schwann/bw/GSM1365156.bw
+         priority 1
+
+         track VestibularSchwannoma_Sporadic_4
+         parent ECG-Schwann on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Vestibular.Schwannoma.(Sporadic)
+         longLabel  VestibularSchwannoma_Sporadic_4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ECG-Schwann/bw/GSM1365157.bw
+         priority 1
+
+         track VestibularSchwannoma_Sporadic_5
+         parent ECG-Schwann on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Vestibular.Schwannoma.(Sporadic)
+         longLabel  VestibularSchwannoma_Sporadic_5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ECG-Schwann/bw/GSM1365158.bw
+         priority 1
+track ER-Bronchus
+type bigWig
+shortLabel ER-Bronchus
+longLabel ER-Bronchus
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 204_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R03C01
+         longLabel  204_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800976.bw
+         priority 1
+
+         track 204_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R03C01
+         longLabel  204_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800977.bw
+         priority 1
+
+         track 214_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R03C02
+         longLabel  214_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800978.bw
+         priority 1
+
+         track 214_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R03C02
+         longLabel  214_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800979.bw
+         priority 1
+
+         track 206_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R04C01
+         longLabel  206_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800980.bw
+         priority 1
+track ER-Lung
+type bigWig
+shortLabel ER-Lung
+longLabel ER-Lung
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Sample98_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample98_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632977.bw
+         priority 1
+
+         track Sample102_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample102_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632981.bw
+         priority 1
+
+         track Sample104_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample104_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632983.bw
+         priority 1
+
+         track Sample106_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample106_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632985.bw
+         priority 1
+
+         track Sample108_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample108_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632987.bw
+         priority 1
+track ES-Epithelial
+type bigWig
+shortLabel ES-Epithelial
+longLabel ES-Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track PatientA_FFPE_250ng_BS_LIG_8ul
+         parent ES-Epithelial on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel colon.adenocarcinoma,.FFPE.from.Patient.A
+         longLabel  PatientA_FFPE_250ng_BS_LIG_8ul
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424801.bw
+         priority 1
+
+         track PatientA_FFPE_500ng_BS_RES_8ul
+         parent ES-Epithelial on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel colon.adenocarcinoma,.FFPE.from.Patient.A
+         longLabel  PatientA_FFPE_500ng_BS_RES_8ul
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424802.bw
+         priority 1
+
+         track PatientA_FFPE_250ng_BS_RES_8ul
+         parent ES-Epithelial on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel colon.adenocarcinoma,.FFPE.from.Patient.A
+         longLabel  PatientA_FFPE_250ng_BS_RES_8ul
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424803.bw
+         priority 1
+
+         track PatientA_FFPE_250ng_BS_RES_8ul,.rep2
+         parent ES-Epithelial on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel colon.adenocarcinoma,.FFPE.from.Patient.A
+         longLabel  PatientA_FFPE_250ng_BS_RES_8ul,.rep2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424804.bw
+         priority 1
+
+         track PatientB_FF_500ng_BS_4ul
+         parent ES-Epithelial on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel colon.adenocarcinoma,.fresh.frozen.from.Patient.B
+         longLabel  PatientB_FF_500ng_BS_4ul
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424805.bw
+         priority 1
+track ES-Mouth
+type bigWig
+shortLabel ES-Mouth
+longLabel ES-Mouth
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Buccal_PT5
+         parent ES-Mouth on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Healthy.individuals
+         longLabel  Buccal_PT5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Mouth/bw/GSM1179542.bw
+         priority 1
+
+         track genomic.DNA.from.OC48
+         parent ES-Mouth on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OC48
+         longLabel  genomic.DNA.from.OC48
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Mouth/bw/GSM1498781.bw
+         priority 1
+
+         track genomic.DNA.from.OC49
+         parent ES-Mouth on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OC49
+         longLabel  genomic.DNA.from.OC49
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Mouth/bw/GSM1498782.bw
+         priority 1
+
+         track genomic.DNA.from.OC50
+         parent ES-Mouth on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OC50
+         longLabel  genomic.DNA.from.OC50
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Mouth/bw/GSM1498783.bw
+         priority 1
+
+         track genomic.DNA.from.OC51
+         parent ES-Mouth on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OC51
+         longLabel  genomic.DNA.from.OC51
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Mouth/bw/GSM1498784.bw
+         priority 1
+track ES-Nose
+type bigWig
+shortLabel ES-Nose
+longLabel ES-Nose
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track PSP,.histologically.confirmed.diagnose,.case.204
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.204
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964436.bw
+         priority 1
+
+         track PSP,.histologically.confirmed.diagnose,.case.205
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.205
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964437.bw
+         priority 1
+
+         track PSP,.histologically.confirmed.diagnose,.case.206
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.206
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964438.bw
+         priority 1
+
+         track PSP,.histologically.confirmed.diagnose,.case.207
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.207
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964439.bw
+         priority 1
+
+         track PSP,.histologically.confirmed.diagnose,.case.208
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.208
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964440.bw
+         priority 1
+track ESE-Keratinocyte
+type bigWig
+shortLabel ESE-Keratinocyte
+longLabel ESE-Keratinocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track FK16Ap220
+         parent ESE-Keratinocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HPV16-transfected.human.foreskin.keratinocytes_line.A
+         longLabel  FK16Ap220
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ESE-Keratinocyte/bw/GSM2071076.bw
+         priority 1
+
+         track FK16Ap220
+         parent ESE-Keratinocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HPV16-transfected.human.foreskin.keratinocytes_line.A
+         longLabel  FK16Ap220
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ESE-Keratinocyte/bw/GSM2071077.bw
+         priority 1
+
+         track FK16Bp142
+         parent ESE-Keratinocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HPV-16-transfected.human.foreskin.keratinocytes_line.B
+         longLabel  FK16Bp142
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ESE-Keratinocyte/bw/GSM2071078.bw
+         priority 1
+
+         track FK16Bp142
+         parent ESE-Keratinocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HPV-16-transfected.human.foreskin.keratinocytes_line.B
+         longLabel  FK16Bp142
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ESE-Keratinocyte/bw/GSM2071079.bw
+         priority 1
+
+         track FK18Ap162
+         parent ESE-Keratinocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HPV-18-transfected.human.foreskin.keratinocytes_line.A
+         longLabel  FK18Ap162
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ESE-Keratinocyte/bw/GSM2197784.bw
+         priority 1
+track ET-Glia
+type bigWig
+shortLabel ET-Glia
+longLabel ET-Glia
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.OGA.21
+         parent ET-Glia on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OGA21
+         longLabel  genomic.DNA.from.OGA.21
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Glia/bw/GSM1498739.bw
+         priority 1
+
+         track genomic.DNA.from.OGA.22
+         parent ET-Glia on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OGA22
+         longLabel  genomic.DNA.from.OGA.22
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Glia/bw/GSM1498740.bw
+         priority 1
+
+         track genomic.DNA.from.OGA.23
+         parent ET-Glia on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OGA23
+         longLabel  genomic.DNA.from.OGA.23
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Glia/bw/GSM1498741.bw
+         priority 1
+
+         track genomic.DNA.from.OGA.24
+         parent ET-Glia on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OGA24
+         longLabel  genomic.DNA.from.OGA.24
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Glia/bw/GSM1498742.bw
+         priority 1
+
+         track genomic.DNA.from.OGA.25
+         parent ET-Glia on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel OGA25
+         longLabel  genomic.DNA.from.OGA.25
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Glia/bw/GSM1498743.bw
+         priority 1
+track ET-Neuron
+type bigWig
+shortLabel ET-Neuron
+longLabel ET-Neuron
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Lu-ty15.Typical.Carcinoids.(TCs)
+         parent ET-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Lung.Carcinoids
+         longLabel  Lu-ty15.Typical.Carcinoids.(TCs)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Neuron/bw/GSM3319214.bw
+         priority 1
+
+         track Lu-ty15.Typical.Carcinoids.(TCs)
+         parent ET-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Lung.Carcinoids
+         longLabel  Lu-ty15.Typical.Carcinoids.(TCs)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Neuron/bw/GSM3319215.bw
+         priority 1
+
+         track Lu-ty5.Typical.Carcinoids.(TCs)
+         parent ET-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Lung.Carcinoids
+         longLabel  Lu-ty5.Typical.Carcinoids.(TCs)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Neuron/bw/GSM3319216.bw
+         priority 1
+
+         track Lu-ty5.Typical.Carcinoids.(TCs)
+         parent ET-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Lung.Carcinoids
+         longLabel  Lu-ty5.Typical.Carcinoids.(TCs)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Neuron/bw/GSM3319217.bw
+         priority 1
+
+         track Lu-Aty7.Atypical.Carcinoids.(ACs)
+         parent ET-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Lung.Carcinoids
+         longLabel  Lu-Aty7.Atypical.Carcinoids.(ACs)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Neuron/bw/GSM3319218.bw
+         priority 1
+track MI-Kidney
+type bigWig
+shortLabel MI-Kidney
+longLabel MI-Kidney
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.2014ccRCC06N
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC06Normal
+         longLabel  genomic.DNA.from.2014ccRCC06N
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504819.bw
+         priority 1
+
+         track genomic.DNA.from.2014ccRCC07T
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC07Tumor
+         longLabel  genomic.DNA.from.2014ccRCC07T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504820.bw
+         priority 1
+
+         track genomic.DNA.from.2014ccRCC07N
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC07Normal
+         longLabel  genomic.DNA.from.2014ccRCC07N
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504821.bw
+         priority 1
+
+         track genomic.DNA.from.2014ccRCC08T
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC08Tumor
+         longLabel  genomic.DNA.from.2014ccRCC08T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504822.bw
+         priority 1
+
+         track genomic.DNA.from.2014ccRCC08N
+         parent MI-Kidney on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 2014ccRCC08Normal
+         longLabel  genomic.DNA.from.2014ccRCC08N
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MI-Kidney/bw/GSM1504823.bw
+         priority 1
+track MIR-FallopianTubes
+type bigWig
+shortLabel MIR-FallopianTubes
+longLabel MIR-FallopianTubes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track fallopian.tube.epithelial.cells.(FTE21)
+         parent MIR-FallopianTubes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh-frozen.normal.fallopian.tube.epithelial.cells
+         longLabel  fallopian.tube.epithelial.cells.(FTE21)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM2146825.bw
+         priority 1
+
+         track fallopian.tube.epithelial.cells.(FTE21)
+         parent MIR-FallopianTubes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh-frozen.normal.fallopian.tube.epithelial.cells
+         longLabel  fallopian.tube.epithelial.cells.(FTE21)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM2146826.bw
+         priority 1
+
+         track fallopian.tube.epithelial.cells.(FTE22)
+         parent MIR-FallopianTubes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh-frozen.normal.fallopian.tube.epithelial.cells
+         longLabel  fallopian.tube.epithelial.cells.(FTE22)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM4392132.bw
+         priority 1
+
+         track fallopian.tube.epithelial.cells.(FTE22)
+         parent MIR-FallopianTubes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh-frozen.normal.fallopian.tube.epithelial.cells
+         longLabel  fallopian.tube.epithelial.cells.(FTE22)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM4392133.bw
+         priority 1
+
+         track FTE11:.Epithelial.layer.by.mechanical.scraping.of.resected.fimbriae.fallopian.tubes
+         parent MIR-FallopianTubes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Epithelial.layer.by.mechanical.scraping.of.resected.fimbriae.fallopian.tubes
+         longLabel  FTE11:.Epithelial.layer.by.mechanical.scraping.of.resected.fimbriae.fallopian.tubes
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM4392134.bw
+         priority 1
+track MIR-Ovary
+type bigWig
+shortLabel MIR-Ovary
+longLabel MIR-Ovary
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track AOCS_034_ICGC_DBPC_20130205_009
+         parent MIR-Ovary on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PrimaryTumour
+         longLabel  AOCS_034_ICGC_DBPC_20130205_009
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Ovary/bw/GSM1606859.bw
+         priority 1
+
+         track AOCS_034_ICGC_DBPC_20130205_009
+         parent MIR-Ovary on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PrimaryTumour
+         longLabel  AOCS_034_ICGC_DBPC_20130205_009
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Ovary/bw/GSM1606860.bw
+         priority 1
+
+         track AOCS_055_ICGC_DBPC_20130205_011
+         parent MIR-Ovary on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PrimaryTumour
+         longLabel  AOCS_055_ICGC_DBPC_20130205_011
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Ovary/bw/GSM1606861.bw
+         priority 1
+
+         track AOCS_055_ICGC_DBPC_20130205_011
+         parent MIR-Ovary on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PrimaryTumour
+         longLabel  AOCS_055_ICGC_DBPC_20130205_011
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Ovary/bw/GSM1606862.bw
+         priority 1
+
+         track AOCS_056_ICGC_DBPC_20130205_013
+         parent MIR-Ovary on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PrimaryTumour
+         longLabel  AOCS_056_ICGC_DBPC_20130205_013
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Ovary/bw/GSM1606863.bw
+         priority 1
+track MIR-Penile
+type bigWig
+shortLabel MIR-Penile
+longLabel MIR-Penile
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 200400320044_R01C02
+         parent MIR-Penile on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel penile.cancer
+         longLabel  200400320044_R01C02
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Penile/bw/GSM4156616.bw
+         priority 1
+
+         track 200400320126_R01C02
+         parent MIR-Penile on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel penile.cancer
+         longLabel  200400320126_R01C02
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Penile/bw/GSM4156617.bw
+         priority 1
+
+         track 200397870078_R01C01
+         parent MIR-Penile on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel penile.cancer
+         longLabel  200397870078_R01C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Penile/bw/GSM4156618.bw
+         priority 1
+
+         track 200397870078_R06C02
+         parent MIR-Penile on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel penile.cancer
+         longLabel  200397870078_R06C02
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Penile/bw/GSM4156619.bw
+         priority 1
+
+         track 200397870078_R06C01
+         parent MIR-Penile on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel penile.cancer
+         longLabel  200397870078_R06C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Penile/bw/GSM4156620.bw
+         priority 1
+track MIR-Testis
+type bigWig
+shortLabel MIR-Testis
+longLabel MIR-Testis
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track sperm.genomic.DNA.from.Donor.C.(0.9.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.C
+         longLabel  sperm.genomic.DNA.from.Donor.C.(0.9.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564245.bw
+         priority 1
+
+         track sperm.genomic.DNA.from.Donor.C.(0.35.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.C
+         longLabel  sperm.genomic.DNA.from.Donor.C.(0.35.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564246.bw
+         priority 1
+
+         track sperm.genomic.DNA.from.Donor.D.(0.9.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.D
+         longLabel  sperm.genomic.DNA.from.Donor.D.(0.9.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564247.bw
+         priority 1
+
+         track sperm.genomic.DNA.from.Donor.D.(0.35.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.D
+         longLabel  sperm.genomic.DNA.from.Donor.D.(0.35.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564248.bw
+         priority 1
+
+         track sperm.genomic.DNA.from.Donor.E.(0.9.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.E
+         longLabel  sperm.genomic.DNA.from.Donor.E.(0.9.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564249.bw
+         priority 1
+track MIR-Uterus
+type bigWig
+shortLabel MIR-Uterus
+longLabel MIR-Uterus
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Genomic.DNA.from.Endo.I.eSF.sample.2,.treated.with.E2
+         parent MIR-Uterus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Endo.I-2.E2
+         longLabel  Genomic.DNA.from.Endo.I.eSF.sample.2,.treated.with.E2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Uterus/bw/GSM3730369.bw
+         priority 1
+
+         track Genomic.DNA.from.Endo.I.eSF.sample.2,.treated.with.E2
+         parent MIR-Uterus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Endo.I-2.E2
+         longLabel  Genomic.DNA.from.Endo.I.eSF.sample.2,.treated.with.E2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Uterus/bw/GSM3730370.bw
+         priority 1
+
+         track Genomic.DNA.from.Endo.I.eSF.sample.2.treated.with.P4
+         parent MIR-Uterus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Endo.I-2.P4
+         longLabel  Genomic.DNA.from.Endo.I.eSF.sample.2.treated.with.P4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Uterus/bw/GSM3730371.bw
+         priority 1
+
+         track Genomic.DNA.from.Endo.I.eSF.sample.2.treated.with.P4
+         parent MIR-Uterus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Endo.I-2.P4
+         longLabel  Genomic.DNA.from.Endo.I.eSF.sample.2.treated.with.P4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Uterus/bw/GSM3730372.bw
+         priority 1
+
+         track Genomic.DNA.from.Endo.I.eSF.sample.2,.treated.with.E2+P4
+         parent MIR-Uterus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Endo.I-2.E2+P4
+         longLabel  Genomic.DNA.from.Endo.I.eSF.sample.2,.treated.with.E2+P4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Uterus/bw/GSM3730373.bw
+         priority 1
+track ML-Hematopoiesis
+type bigWig
+shortLabel ML-Hematopoiesis
+longLabel ML-Hematopoiesis
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track PB_30
+         parent ML-Hematopoiesis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Peripheral.blood
+         longLabel  PB_30
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Hematopoiesis/bw/GSM1075844.bw
+         priority 1
+
+         track PB_26
+         parent ML-Hematopoiesis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Peripheral.blood
+         longLabel  PB_26
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Hematopoiesis/bw/GSM1075846.bw
+         priority 1
+
+         track PB_39
+         parent ML-Hematopoiesis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Peripheral.blood
+         longLabel  PB_39
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Hematopoiesis/bw/GSM1075847.bw
+         priority 1
+
+         track PB_13_r
+         parent ML-Hematopoiesis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Peripheral.blood
+         longLabel  PB_13_r
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Hematopoiesis/bw/GSM1075851.bw
+         priority 1
+
+         track PB_4
+         parent ML-Hematopoiesis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Peripheral.blood
+         longLabel  PB_4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Hematopoiesis/bw/GSM1075852.bw
+         priority 1
+track ML-Placenta
+type bigWig
+shortLabel ML-Placenta
+longLabel ML-Placenta
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Genomic.DNA.from.human.placenta.5
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842808.bw
+         priority 1
+
+         track Genomic.DNA.from.human.placenta.6
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842809.bw
+         priority 1
+
+         track Genomic.DNA.from.human.placenta.7
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842810.bw
+         priority 1
+
+         track Genomic.DNA.from.human.placenta.8
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842811.bw
+         priority 1
+
+         track Genomic.DNA.from.human.placenta.9
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842812.bw
+         priority 1
+track MLC-BloodVessel
+type bigWig
+shortLabel MLC-BloodVessel
+longLabel MLC-BloodVessel
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA_aorta_AD_5
+         parent MLC-BloodVessel on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ascending.aorta
+         longLabel  genomic.DNA_aorta_AD_5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLC-BloodVessel/bw/GSM2230665.bw
+         priority 1
+
+         track genomic.DNA_aorta_AD_6
+         parent MLC-BloodVessel on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ascending.aorta
+         longLabel  genomic.DNA_aorta_AD_6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLC-BloodVessel/bw/GSM2230666.bw
+         priority 1
+
+         track genomic.DNA_aorta_AD_7
+         parent MLC-BloodVessel on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ascending.aorta
+         longLabel  genomic.DNA_aorta_AD_7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLC-BloodVessel/bw/GSM2230668.bw
+         priority 1
+
+         track genomic.DNA_aorta_AD_8
+         parent MLC-BloodVessel on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ascending.aorta
+         longLabel  genomic.DNA_aorta_AD_8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLC-BloodVessel/bw/GSM2230670.bw
+         priority 1
+
+         track genomic.DNA_aorta_AD_9
+         parent MLC-BloodVessel on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ascending.aorta
+         longLabel  genomic.DNA_aorta_AD_9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLC-BloodVessel/bw/GSM2230671.bw
+         priority 1
+track MLH-HSC
+type bigWig
+shortLabel MLH-HSC
+longLabel MLH-HSC
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.HSC.of.normal.bone.marrow.ID2627
+         parent MLH-HSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HSC.of.normal.bone.marrow
+         longLabel  genomic.DNA.from.HSC.of.normal.bone.marrow.ID2627
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-HSC/bw/GSM1548174.bw
+         priority 1
+
+         track CellLine_HSC-2
+         parent MLH-HSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HSC-2
+         longLabel  CellLine_HSC-2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-HSC/bw/GSM1669903.bw
+         priority 1
+
+         track CellLine_HSC-3
+         parent MLH-HSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HSC-3
+         longLabel  CellLine_HSC-3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-HSC/bw/GSM1669904.bw
+         priority 1
+
+         track CellLine_HSC-39
+         parent MLH-HSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HSC-39
+         longLabel  CellLine_HSC-39
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-HSC/bw/GSM1669905.bw
+         priority 1
+
+         track CellLine_HSC-4
+         parent MLH-HSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HSC-4
+         longLabel  CellLine_HSC-4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-HSC/bw/GSM1669906.bw
+         priority 1
+track MLH-Lymphoid
+type bigWig
+shortLabel MLH-Lymphoid
+longLabel MLH-Lymphoid
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.at.diagnosis.from.BCP-ALL.patient.ALL_5
+         parent MLH-Lymphoid on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow
+         longLabel  genomic.DNA.at.diagnosis.from.BCP-ALL.patient.ALL_5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203376.bw
+         priority 1
+
+         track genomic.DNA.at.diagnosis.from.BCP-ALL.patient.ALL_5
+         parent MLH-Lymphoid on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow
+         longLabel  genomic.DNA.at.diagnosis.from.BCP-ALL.patient.ALL_5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203377.bw
+         priority 1
+
+         track genomic.DNA.at.first.relapse.from.patient.ALL_5r1
+         parent MLH-Lymphoid on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow
+         longLabel  genomic.DNA.at.first.relapse.from.patient.ALL_5r1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203378.bw
+         priority 1
+
+         track genomic.DNA.at.first.relapse.from.patient.ALL_5r1
+         parent MLH-Lymphoid on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow
+         longLabel  genomic.DNA.at.first.relapse.from.patient.ALL_5r1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203379.bw
+         priority 1
+
+         track genomic.DNA.at.second.relapse.from.patient.ALL_5r2
+         parent MLH-Lymphoid on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow
+         longLabel  genomic.DNA.at.second.relapse.from.patient.ALL_5r2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203380.bw
+         priority 1
+track MLHL-B
+type bigWig
+shortLabel MLHL-B
+longLabel MLHL-B
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Patient.genomic.DNA.from.sample.5
+         parent MLHL-B on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PBL
+         longLabel  Patient.genomic.DNA.from.sample.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-B/bw/GSM1051529.bw
+         priority 1
+
+         track Patient.genomic.DNA.from.sample.6
+         parent MLHL-B on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PBL
+         longLabel  Patient.genomic.DNA.from.sample.6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-B/bw/GSM1051530.bw
+         priority 1
+
+         track Patient.genomic.DNA.from.sample.7
+         parent MLHL-B on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PBL
+         longLabel  Patient.genomic.DNA.from.sample.7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-B/bw/GSM1051531.bw
+         priority 1
+
+         track Patient.genomic.DNA.from.sample.8
+         parent MLHL-B on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PBL
+         longLabel  Patient.genomic.DNA.from.sample.8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-B/bw/GSM1051532.bw
+         priority 1
+
+         track Normal.genomic.DNA.from.sample.9
+         parent MLHL-B on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PBL
+         longLabel  Normal.genomic.DNA.from.sample.9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-B/bw/GSM1051533.bw
+         priority 1
+track MLHL-NK
+type bigWig
+shortLabel MLHL-NK
+longLabel MLHL-NK
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.Donor.2.CD3-CD56+CD57-.canonical.NK.cells
+         parent MLHL-NK on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD3-CD56+CD57-.canonical.NK.cells
+         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57-.canonical.NK.cells
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625000.bw
+         priority 1
+
+         track genomic.DNA.from.Donor.2.CD3-CD56+CD57-.canonical.NK.cells
+         parent MLHL-NK on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD3-CD56+CD57-.canonical.NK.cells
+         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57-.canonical.NK.cells
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625002.bw
+         priority 1
+
+         track genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2+.canonical.NK.cells
+         parent MLHL-NK on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD3-CD56+CD57+EAT-2+.canonical.NK.cells
+         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2+.canonical.NK.cells
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625003.bw
+         priority 1
+
+         track genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2+.canonical.NK.cells
+         parent MLHL-NK on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD3-CD56+CD57+EAT-2+.canonical.NK.cells
+         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2+.canonical.NK.cells
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625004.bw
+         priority 1
+
+         track genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2-.adaptive.NK.cells
+         parent MLHL-NK on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD3-CD56+CD57+EAT-2-.adaptive.NK.cells
+         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2-.adaptive.NK.cells
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625006.bw
+         priority 1
+track MLHL-T
+type bigWig
+shortLabel MLHL-T
+longLabel MLHL-T
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 1018.fibroblasts
+         parent MLHL-T on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ID.1018.fibroblast.cell.line
+         longLabel  1018.fibroblasts
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-T/bw/GSM1505331.bw
+         priority 1
+
+         track 1018.fibroblasts
+         parent MLHL-T on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ID.1018.fibroblast.cell.line
+         longLabel  1018.fibroblasts
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-T/bw/GSM1641098.bw
+         priority 1
+
+         track Tcell-ctrl1
+         parent MLHL-T on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.T.cell
+         longLabel  Tcell-ctrl1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-T/bw/GSM1641099.bw
+         priority 1
+
+         track Tcell-ctrl7
+         parent MLHL-T on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.T.cell
+         longLabel  Tcell-ctrl7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-T/bw/GSM1641100.bw
+         priority 1
+
+         track Tcell-ctrl2
+         parent MLHL-T on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.T.cell
+         longLabel  Tcell-ctrl2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-T/bw/GSM1641101.bw
+         priority 1
+track MLHLT-CD4
+type bigWig
+shortLabel MLHLT-CD4
+longLabel MLHLT-CD4
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SAMPLE_7_CD4
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD4
+         longLabel  SAMPLE_7_CD4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425480.bw
+         priority 1
+
+         track SAMPLE_8_CD4
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD4
+         longLabel  SAMPLE_8_CD4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425483.bw
+         priority 1
+
+         track SAMPLE_9_CD4
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Female_Old_CD4
+         longLabel  SAMPLE_9_CD4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425486.bw
+         priority 1
+
+         track SAMPLE_10_CD4
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Female_Old_CD4
+         longLabel  SAMPLE_10_CD4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425489.bw
+         priority 1
+
+         track SAMPLE_11_CD4
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD4
+         longLabel  SAMPLE_11_CD4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425492.bw
+         priority 1
+track MLHLT-CD8
+type bigWig
+shortLabel MLHLT-CD8
+longLabel MLHLT-CD8
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SAMPLE_6_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Old_CD8
+         longLabel  SAMPLE_6_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425476.bw
+         priority 1
+
+         track SAMPLE_7_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD8
+         longLabel  SAMPLE_7_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425479.bw
+         priority 1
+
+         track SAMPLE_8_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD8
+         longLabel  SAMPLE_8_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425482.bw
+         priority 1
+
+         track SAMPLE_9_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Female_Old_CD8
+         longLabel  SAMPLE_9_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425485.bw
+         priority 1
+
+         track SAMPLE_10_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Female_Old_CD8
+         longLabel  SAMPLE_10_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425488.bw
+         priority 1
+track MLHM-AML
+type bigWig
+shortLabel MLHM-AML
+longLabel MLHM-AML
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.AML.patient.4.[AML-4.PBS.treated]
+         parent MLHM-AML on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel AML.patient.4
+         longLabel  genomic.DNA.from.AML.patient.4.[AML-4.PBS.treated]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-AML/bw/GSM1092179.bw
+         priority 1
+
+         track genomic.DNA.from.AML.patient.4.[AML-4.DAC.treated]
+         parent MLHM-AML on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel AML.patient.4
+         longLabel  genomic.DNA.from.AML.patient.4.[AML-4.DAC.treated]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-AML/bw/GSM1092180.bw
+         priority 1
+
+         track genomic.DNA.from.AML.patient.5.[AML-5.PBS.treated]
+         parent MLHM-AML on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel AML.patient.5
+         longLabel  genomic.DNA.from.AML.patient.5.[AML-5.PBS.treated]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-AML/bw/GSM1092181.bw
+         priority 1
+
+         track genomic.DNA.from.AML.patient.5.[AML-5.DAC.treated]
+         parent MLHM-AML on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel AML.patient.5
+         longLabel  genomic.DNA.from.AML.patient.5.[AML-5.DAC.treated]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-AML/bw/GSM1092182.bw
+         priority 1
+
+         track genomic.DNA.from.AML.patient.6.[AML-6.PBS.treated]
+         parent MLHM-AML on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel AML.patient.6
+         longLabel  genomic.DNA.from.AML.patient.6.[AML-6.PBS.treated]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-AML/bw/GSM1092183.bw
+         priority 1
+track MLHM-Granulocyte
+type bigWig
+shortLabel MLHM-Granulocyte
+longLabel MLHM-Granulocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 7.18.PMN
+         parent MLHM-Granulocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow.cells
+         longLabel  7.18.PMN
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Granulocyte/bw/GSM1185599.bw
+         priority 1
+
+         track 7.25.PMN
+         parent MLHM-Granulocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow.cells
+         longLabel  7.25.PMN
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Granulocyte/bw/GSM1185602.bw
+         priority 1
+
+         track Granulocyte_preterm_indB
+         parent MLHM-Granulocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel preterm.cord.blood,.granulocyte,.B
+         longLabel  Granulocyte_preterm_indB
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Granulocyte/bw/GSM2183267.bw
+         priority 1
+
+         track Granulocyte_preterm_indC
+         parent MLHM-Granulocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel preterm.cord.blood,.granulocyte,.C
+         longLabel  Granulocyte_preterm_indC
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Granulocyte/bw/GSM2183270.bw
+         priority 1
+
+         track Granulocyte_preterm_indE
+         parent MLHM-Granulocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel preterm.cord.blood,.granulocyte,.E
+         longLabel  Granulocyte_preterm_indE
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Granulocyte/bw/GSM2183277.bw
+         priority 1
+track MLHM-Macrophage
+type bigWig
+shortLabel MLHM-Macrophage
+longLabel MLHM-Macrophage
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track U937_inf_T4_1
+         parent MLHM-Macrophage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Experiment.1.U937.macrophages.infected.with.Burkholderia.pseudomallei.K96243.4.hours.(T4)
+         longLabel  U937_inf_T4_1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Macrophage/bw/GSM2200426.bw
+         priority 1
+
+         track U937_inf_T4_2
+         parent MLHM-Macrophage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Experiment.1.U937.macrophages.infected.with.Burkholderia.pseudomallei.K96243.4.hours.(T4)
+         longLabel  U937_inf_T4_2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Macrophage/bw/GSM2200427.bw
+         priority 1
+
+         track U937_inf_T4_3
+         parent MLHM-Macrophage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Experiment.1.U937.macrophages.infected.with.Burkholderia.pseudomallei.K96243.4.hours.(T4)
+         longLabel  U937_inf_T4_3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Macrophage/bw/GSM2200428.bw
+         priority 1
+
+         track U937_inf_T4_4
+         parent MLHM-Macrophage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Experiment.1.U937.macrophages.infected.with.Burkholderia.pseudomallei.K96243.4.hours.(T4)
+         longLabel  U937_inf_T4_4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Macrophage/bw/GSM2200429.bw
+         priority 1
+
+         track U937_un_T4_1
+         parent MLHM-Macrophage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Experiment.1.uninfected.U937.macrophages.4.hours.(T4)
+         longLabel  U937_un_T4_1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Macrophage/bw/GSM2200430.bw
+         priority 1
+track MLHM-Monocyte
+type bigWig
+shortLabel MLHM-Monocyte
+longLabel MLHM-Monocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Monocytes_39_r2
+         parent MLHM-Monocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD14+.monocytes
+         longLabel  Monocytes_39_r2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Monocyte/bw/GSM1075849.bw
+         priority 1
+
+         track Monocytes_33
+         parent MLHM-Monocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD14+.monocytes
+         longLabel  Monocytes_33
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Monocyte/bw/GSM1075850.bw
+         priority 1
+
+         track Monocytes_2
+         parent MLHM-Monocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD14+.monocytes
+         longLabel  Monocytes_2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Monocyte/bw/GSM1075854.bw
+         priority 1
+
+         track Monocytes_12
+         parent MLHM-Monocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD14+.monocytes
+         longLabel  Monocytes_12
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Monocyte/bw/GSM1075855.bw
+         priority 1
+
+         track Monocytes_22
+         parent MLHM-Monocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CD14+.monocytes
+         longLabel  Monocytes_22
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHM-Monocyte/bw/GSM1075858.bw
+         priority 1
+track MLHMG-Neutrophil
+type bigWig
+shortLabel MLHMG-Neutrophil
+longLabel MLHMG-Neutrophil
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Neutrophil_female_22_HHC
+         parent MLHMG-Neutrophil on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Neutrophil,female,22,HHC
+         longLabel  Neutrophil_female_22_HHC
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHMG-Neutrophil/bw/GSM1860470.bw
+         priority 1
+
+         track Neutrophil_female_22_HHC
+         parent MLHMG-Neutrophil on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Neutrophil,female,22,HHC
+         longLabel  Neutrophil_female_22_HHC
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHMG-Neutrophil/bw/GSM1860472.bw
+         priority 1
+
+         track Neutrophil_male_24_HHC
+         parent MLHMG-Neutrophil on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Neutrophil,male,24,HHC
+         longLabel  Neutrophil_male_24_HHC
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHMG-Neutrophil/bw/GSM1860474.bw
+         priority 1
+
+         track Neutrophil_male_24_HHC
+         parent MLHMG-Neutrophil on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Neutrophil,male,24,HHC
+         longLabel  Neutrophil_male_24_HHC
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHMG-Neutrophil/bw/GSM1860476.bw
+         priority 1
+
+         track Neutrophil_male_42_HHC
+         parent MLHMG-Neutrophil on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Neutrophil,male,42,HHC
+         longLabel  Neutrophil_male_42_HHC
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHMG-Neutrophil/bw/GSM1860478.bw
+         priority 1
+track MP-Adipocyte
+type bigWig
+shortLabel MP-Adipocyte
+longLabel MP-Adipocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Omentum_IT16
+         parent MP-Adipocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Autopsy
+         longLabel  Omentum_IT16
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Adipocyte/bw/GSM1179518.bw
+         priority 1
+
+         track Omentum_IT17
+         parent MP-Adipocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Autopsy
+         longLabel  Omentum_IT17
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Adipocyte/bw/GSM1179519.bw
+         priority 1
+
+         track SC_Fat_IT9
+         parent MP-Adipocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Autopsy
+         longLabel  SC_Fat_IT9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Adipocyte/bw/GSM1179524.bw
+         priority 1
+
+         track SC_Fat_IT13
+         parent MP-Adipocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Autopsy
+         longLabel  SC_Fat_IT13
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Adipocyte/bw/GSM1179525.bw
+         priority 1
+
+         track SC_Fat_IT10
+         parent MP-Adipocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Autopsy
+         longLabel  SC_Fat_IT10
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Adipocyte/bw/GSM1179526.bw
+         priority 1
+track MP-Fibroblast
+type bigWig
+shortLabel MP-Fibroblast
+longLabel MP-Fibroblast
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track GM02640
+         parent MP-Fibroblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.GM02640
+         longLabel  GM02640
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Fibroblast/bw/GSM1257673.bw
+         priority 1
+
+         track GM02640
+         parent MP-Fibroblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.GM02640
+         longLabel  GM02640
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Fibroblast/bw/GSM1257674.bw
+         priority 1
+
+         track GM02641
+         parent MP-Fibroblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.GM02641
+         longLabel  GM02641
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Fibroblast/bw/GSM1257675.bw
+         priority 1
+
+         track GM02641
+         parent MP-Fibroblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.GM02641
+         longLabel  GM02641
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Fibroblast/bw/GSM1257676.bw
+         priority 1
+
+         track WG2414
+         parent MP-Fibroblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.WG2414
+         longLabel  WG2414
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Fibroblast/bw/GSM1257677.bw
+         priority 1
+track MP-Heart
+type bigWig
+shortLabel MP-Heart
+longLabel MP-Heart
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track heart_atrial.fibrilation_rep5.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,atrial.fibrillation,permanent
+         longLabel  heart_atrial.fibrilation_rep5.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532423.bw
+         priority 1
+
+         track heart_atrial.fibrilation_rep6.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,atrial.fibrillation,permanent
+         longLabel  heart_atrial.fibrilation_rep6.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532424.bw
+         priority 1
+
+         track heart_atrial.fibrilation_rep7.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,atrial.fibrillation,permanent
+         longLabel  heart_atrial.fibrilation_rep7.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532425.bw
+         priority 1
+
+         track heart_normal_rep1.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,normal
+         longLabel  heart_normal_rep1.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532426.bw
+         priority 1
+
+         track heart_normal_rep2.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,normal
+         longLabel  heart_normal_rep2.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532427.bw
+         priority 1
+track MP-Osteoblast
+type bigWig
+shortLabel MP-Osteoblast
+longLabel MP-Osteoblast
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Osteoblastoma_5
+         parent MP-Osteoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh.frozen.tumour
+         longLabel  Osteoblastoma_5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Osteoblast/bw/GSM3375030.bw
+         priority 1
+
+         track Osteoblastoma_6
+         parent MP-Osteoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh.frozen.tumour
+         longLabel  Osteoblastoma_6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Osteoblast/bw/GSM3375031.bw
+         priority 1
+
+         track Osteoblastoma_7
+         parent MP-Osteoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh.frozen.tumour
+         longLabel  Osteoblastoma_7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Osteoblast/bw/GSM3375032.bw
+         priority 1
+
+         track Osteoblastoma_8
+         parent MP-Osteoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh.frozen.tumour
+         longLabel  Osteoblastoma_8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Osteoblast/bw/GSM3375033.bw
+         priority 1
+
+         track Osteoblastoma_9
+         parent MP-Osteoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Fresh.frozen.tumour
+         longLabel  Osteoblastoma_9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Osteoblast/bw/GSM3375034.bw
+         priority 1
+track MPS-Chondroytes
+type bigWig
+shortLabel MPS-Chondroytes
+longLabel MPS-Chondroytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.human.articular.chondrocytes.5
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598108.bw
+         priority 1
+
+         track genomic.DNA.from.human.articular.chondrocytes.6
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598109.bw
+         priority 1
+
+         track genomic.DNA.from.human.articular.chondrocytes.7
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598110.bw
+         priority 1
+
+         track genomic.DNA.from.human.articular.chondrocytes.8
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598111.bw
+         priority 1
+
+         track genomic.DNA.from.human.articular.chondrocytes.9
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598112.bw
+         priority 1
+track MPS-Muscle
+type bigWig
+shortLabel MPS-Muscle
+longLabel MPS-Muscle
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Muscle_IT16
+         parent MPS-Muscle on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Autopsy
+         longLabel  Muscle_IT16
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Muscle/bw/GSM1179512.bw
+         priority 1
+
+         track Muscle_IT17
+         parent MPS-Muscle on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Autopsy
+         longLabel  Muscle_IT17
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Muscle/bw/GSM1179513.bw
+         priority 1
+
+         track muscle_T1_1_rep1
+         parent MPS-Muscle on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel vastus.lateralis.muscle,.before.training,.subject.1
+         longLabel  muscle_T1_1_rep1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Muscle/bw/GSM1484233.bw
+         priority 1
+
+         track muscle_T2_1_rep1
+         parent MPS-Muscle on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel vastus.lateralis.muscle,.after.training,.subject.1
+         longLabel  muscle_T2_1_rep1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Muscle/bw/GSM1484234.bw
+         priority 1
+
+         track muscle_T1_4_rep1
+         parent MPS-Muscle on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel vastus.lateralis.muscle,.before.training,.subject.4
+         longLabel  muscle_T1_4_rep1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Muscle/bw/GSM1484235.bw
+         priority 1
+track NG-Colon
+type bigWig
+shortLabel NG-Colon
+longLabel NG-Colon
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.R0007T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel rectal.cancer
+         longLabel  genomic.DNA.from.R0007T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM1958877.bw
+         priority 1
+
+         track genomic.DNA.from.R0007T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel rectal.cancer
+         longLabel  genomic.DNA.from.R0007T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM1958879.bw
+         priority 1
+
+         track genomic.DNA.from.C0028T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel rectal.cancer
+         longLabel  genomic.DNA.from.C0028T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062665.bw
+         priority 1
+
+         track genomic.DNA.from.C0028T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel rectal.cancer
+         longLabel  genomic.DNA.from.C0028T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062666.bw
+         priority 1
+
+         track 1T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel colorectal.cancer
+         longLabel  1T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062667.bw
+         priority 1
+track NG-Esophagus
+type bigWig
+shortLabel NG-Esophagus
+longLabel NG-Esophagus
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 4241
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4241
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360030.bw
+         priority 1
+
+         track 4245
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4245
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360031.bw
+         priority 1
+
+         track 4256
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4256
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360032.bw
+         priority 1
+
+         track 4233
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4233
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360033.bw
+         priority 1
+
+         track 4281
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4281
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360034.bw
+         priority 1
+track NG-SalivaryGland
+type bigWig
+shortLabel NG-SalivaryGland
+longLabel NG-SalivaryGland
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Saliva_PT5
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Healthy.individuals
+         longLabel  Saliva_PT5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1179552.bw
+         priority 1
+
+         track 4220:.Saliva-full_term-rep1
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel saliva,.full.term
+         longLabel  4220:.Saliva-full_term-rep1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1855609.bw
+         priority 1
+
+         track 4229:.Saliva-full_term-rep2
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel saliva,.full.term
+         longLabel  4229:.Saliva-full_term-rep2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1855610.bw
+         priority 1
+
+         track 4249:.Saliva-full_term-rep3
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel saliva,.full.term
+         longLabel  4249:.Saliva-full_term-rep3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1855611.bw
+         priority 1
+
+         track 4239:.Saliva-full_term-rep4
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel saliva,.full.term
+         longLabel  4239:.Saliva-full_term-rep4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1855612.bw
+         priority 1
+track NG-SmallIntestine
+type bigWig
+shortLabel NG-SmallIntestine
+longLabel NG-SmallIntestine
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 28039
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.celiac.disease
+         longLabel  28039
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249591.bw
+         priority 1
+
+         track 28039
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.celiac.disease
+         longLabel  28039
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249592.bw
+         priority 1
+
+         track 211086
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.control
+         longLabel  211086
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249595.bw
+         priority 1
+
+         track 211086
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.control
+         longLabel  211086
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249596.bw
+         priority 1
+
+         track 211073
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.control
+         longLabel  211073
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249597.bw
+         priority 1
+track NG-Stomach
+type bigWig
+shortLabel NG-Stomach
+longLabel NG-Stomach
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SOG065.3999875096_R05C01
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG065.3999875096_R05C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873692.bw
+         priority 1
+
+         track SOG065.3999875096_R05C01
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG065.3999875096_R05C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873699.bw
+         priority 1
+
+         track SOG093.3999876020_R02C02
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG093.3999876020_R02C02
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873700.bw
+         priority 1
+
+         track SOG093.3999876020_R02C02
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG093.3999876020_R02C02
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873705.bw
+         priority 1
+
+         track SOG085.3999876020_R03C01
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG085.3999876020_R03C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873708.bw
+         priority 1
+track NGL-FetalLiver
+type bigWig
+shortLabel NGL-FetalLiver
+longLabel NGL-FetalLiver
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SAMPLE_5_Fetal
+         parent NGL-FetalLiver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_5_Fetal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-FetalLiver/bw/GSM1501406.bw
+         priority 1
+
+         track SAMPLE_5_Fetal
+         parent NGL-FetalLiver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_5_Fetal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-FetalLiver/bw/GSM1501407.bw
+         priority 1
+
+         track SAMPLE_6_Fetal
+         parent NGL-FetalLiver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_6_Fetal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-FetalLiver/bw/GSM1501408.bw
+         priority 1
+
+         track SAMPLE_6_Fetal
+         parent NGL-FetalLiver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_6_Fetal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-FetalLiver/bw/GSM1501409.bw
+         priority 1
+
+         track SAMPLE_7_Fetal
+         parent NGL-FetalLiver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_7_Fetal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-FetalLiver/bw/GSM1501410.bw
+         priority 1
+track NGL-Liver
+type bigWig
+shortLabel NGL-Liver
+longLabel NGL-Liver
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SAMPLE_22_Adult
+         parent NGL-Liver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_22_Adult
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501423.bw
+         priority 1
+
+         track SAMPLE_22_Adult
+         parent NGL-Liver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_22_Adult
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501424.bw
+         priority 1
+
+         track SAMPLE_23_Adult
+         parent NGL-Liver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_23_Adult
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501425.bw
+         priority 1
+
+         track SAMPLE_23_Adult
+         parent NGL-Liver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_23_Adult
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501426.bw
+         priority 1
+
+         track SAMPLE_24_Adult
+         parent NGL-Liver on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Liver
+         longLabel  SAMPLE_24_Adult
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501427.bw
+         priority 1
+track NGL-Pancreas
+type bigWig
+shortLabel NGL-Pancreas
+longLabel NGL-Pancreas
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 6042324127_R01C01
+         parent NGL-Pancreas on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumor
+         longLabel  6042324127_R01C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Pancreas/bw/GSM1194354.bw
+         priority 1
+
+         track 6042324127_R02C01
+         parent NGL-Pancreas on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumor
+         longLabel  6042324127_R02C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Pancreas/bw/GSM1194355.bw
+         priority 1
+
+         track 6042324127_R03C01
+         parent NGL-Pancreas on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Adjacent
+         longLabel  6042324127_R03C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Pancreas/bw/GSM1194356.bw
+         priority 1
+
+         track 6042324127_R03C02
+         parent NGL-Pancreas on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumor
+         longLabel  6042324127_R03C02
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Pancreas/bw/GSM1194357.bw
+         priority 1
+
+         track 6042324127_R04C01
+         parent NGL-Pancreas on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumor
+         longLabel  6042324127_R04C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Pancreas/bw/GSM1194358.bw
+         priority 1
+track NNP-Thymus
+type bigWig
+shortLabel NNP-Thymus
+longLabel NNP-Thymus
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track C.3
+         parent NNP-Thymus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel human.thymus
+         longLabel  C.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482673.bw
+         priority 1
+
+         track C.5
+         parent NNP-Thymus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel human.thymus
+         longLabel  C.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482674.bw
+         priority 1
+
+         track C.6
+         parent NNP-Thymus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel human.thymus
+         longLabel  C.6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482675.bw
+         priority 1
+
+         track C.7
+         parent NNP-Thymus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel human.thymus
+         longLabel  C.7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482676.bw
+         priority 1
+
+         track C.8
+         parent NNP-Thymus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel human.thymus
+         longLabel  C.8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482677.bw
+         priority 1
+track NU-Prostate
+type bigWig
+shortLabel NU-Prostate
+longLabel NU-Prostate
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 6264509130_4_Tumor_prostate_cancer_Gleason6_HM450K
+         parent NU-Prostate on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Prostate.5
+         longLabel  6264509130_4_Tumor_prostate_cancer_Gleason6_HM450K
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1162375.bw
+         priority 1
+
+         track 6285609104._Benign_prostate_cancer_HM450K
+         parent NU-Prostate on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Prostate.6
+         longLabel  6285609104._Benign_prostate_cancer_HM450K
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1162380.bw
+         priority 1
+
+         track 6285650040._Benign_prostate_cancer_HM450K
+         parent NU-Prostate on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Prostate.7
+         longLabel  6285650040._Benign_prostate_cancer_HM450K
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1162381.bw
+         priority 1
+
+         track 6285650050_Benign_prostate_cancer_HM450K
+         parent NU-Prostate on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Prostate.8
+         longLabel  6285650050_Benign_prostate_cancer_HM450K
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1162382.bw
+         priority 1
+
+         track PC3.cells.treated.with.vehicle.control.(SAH),.biological.replicate.1
+         parent NU-Prostate on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PC3.cells.treated.with.vehicle.control.(SAH)
+         longLabel  PC3.cells.treated.with.vehicle.control.(SAH),.biological.replicate.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1519011.bw
+         priority 1
+track U-Bone
+type bigWig
+shortLabel U-Bone
+longLabel U-Bone
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 7.18.PROS
+         parent U-Bone on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow.cells
+         longLabel  7.18.PROS
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Bone/bw/GSM1185597.bw
+         priority 1
+
+         track 7.25.PROS
+         parent U-Bone on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow.cells
+         longLabel  7.25.PROS
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Bone/bw/GSM1185600.bw
+         priority 1
+
+         track genomic.DNA.at.remission.from.patient.Constitutional_106
+         parent U-Bone on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow
+         longLabel  genomic.DNA.at.remission.from.patient.Constitutional_106
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Bone/bw/GSM1204170.bw
+         priority 1
+
+         track genomic.DNA.at.remission.from.patient.Constitutional_106
+         parent U-Bone on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow
+         longLabel  genomic.DNA.at.remission.from.patient.Constitutional_106
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Bone/bw/GSM1204171.bw
+         priority 1
+
+         track genomic.DNA.at.remission.from.patient.Constitutional_108
+         parent U-Bone on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone.marrow
+         longLabel  genomic.DNA.at.remission.from.patient.Constitutional_108
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Bone/bw/GSM1204172.bw
+         priority 1
+track U-CNS
+type bigWig
+shortLabel U-CNS
+longLabel U-CNS
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track CNS:SNB-19
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Central.nervous.system
+         longLabel  CNS:SNB-19
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM2087428.bw
+         priority 1
+
+         track CNS:U251
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Central.nervous.system
+         longLabel  CNS:U251
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM2087429.bw
+         priority 1
+
+         track tumor.biopsy.PCNSL_1
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel cryo-preserved.tumor
+         longLabel  tumor.biopsy.PCNSL_1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM3398832.bw
+         priority 1
+
+         track tumor.biopsy.PCNSL_2
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FFPE.tumor
+         longLabel  tumor.biopsy.PCNSL_2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM3398833.bw
+         priority 1
+
+         track tumor.biopsy.PCNSL_3
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FFPE.tumor
+         longLabel  tumor.biopsy.PCNSL_3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM3398834.bw
+         priority 1
+track U-ChronicVilli
+type bigWig
+shortLabel U-ChronicVilli
+longLabel U-ChronicVilli
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track chorionic_villus_normal_rep5
+         parent U-ChronicVilli on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel chorionic.villus
+         longLabel  chorionic_villus_normal_rep5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-ChronicVilli/bw/GSM1617002.bw
+         priority 1
+
+         track chorionic_villus_normal_rep6
+         parent U-ChronicVilli on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel chorionic.villus
+         longLabel  chorionic_villus_normal_rep6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-ChronicVilli/bw/GSM1617003.bw
+         priority 1
+
+         track chorionic_villus_normal_rep7
+         parent U-ChronicVilli on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel chorionic.villus
+         longLabel  chorionic_villus_normal_rep7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-ChronicVilli/bw/GSM1617004.bw
+         priority 1
+
+         track chorionic_villus_normal_rep8
+         parent U-ChronicVilli on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel chorionic.villus
+         longLabel  chorionic_villus_normal_rep8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-ChronicVilli/bw/GSM1617005.bw
+         priority 1
+
+         track chorionic_villus_normal_rep9
+         parent U-ChronicVilli on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel chorionic.villus
+         longLabel  chorionic_villus_normal_rep9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-ChronicVilli/bw/GSM1617006.bw
+         priority 1
+track U-Cytotrophoblast
+type bigWig
+shortLabel U-Cytotrophoblast
+longLabel U-Cytotrophoblast
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track hCTB.(2).cultured.3h,.exposed.to.0.1%.DMSO.for.24h
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.3h_exposed.to.0.1%.DMSO.for.24h
+         longLabel  hCTB.(2).cultured.3h,.exposed.to.0.1%.DMSO.for.24h
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177408.bw
+         priority 1
+
+         track hCTB.(2).cultured.3h,.exposed.to.1¬¨¬µM.BDE-47.for.24h
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.3h_exposed.to.1¬¨¬µM.BDE-47.for.24h
+         longLabel  hCTB.(2).cultured.3h,.exposed.to.1¬¨¬µM.BDE-47.for.24h
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177409.bw
+         priority 1
+
+         track hCTB.(2).cultured.15h,.exposed.to.0.1%.DMSO.for.24h
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.15h_exposed.to.0.1%.DMSO.for.24h
+         longLabel  hCTB.(2).cultured.15h,.exposed.to.0.1%.DMSO.for.24h
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177410.bw
+         priority 1
+
+         track hCTB.(2).cultured.15h,.exposed.to.1¬¨¬µM.BDE-47.for.24h
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.15h_exposed.to.1¬¨¬µM.BDE-47.for.24h
+         longLabel  hCTB.(2).cultured.15h,.exposed.to.1¬¨¬µM.BDE-47.for.24h
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177411.bw
+         priority 1
+
+         track hCTB.(3).cultured.3h,.exposed.to.0.1%.DMSO.for.24h
+         parent U-Cytotrophoblast on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hCTB.cultured.3h_exposed.to.0.1%.DMSO.for.24h
+         longLabel  hCTB.(3).cultured.3h,.exposed.to.0.1%.DMSO.for.24h
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Cytotrophoblast/bw/GSM3177412.bw
+         priority 1
+track U-Eye
+type bigWig
+shortLabel U-Eye
+longLabel U-Eye
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Sample5.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-26765
+         parent U-Eye on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.fetal.retina
+         longLabel  Sample5.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-26765
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Eye/bw/GSM3536904.bw
+         priority 1
+
+         track Sample5.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-26765
+         parent U-Eye on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.fetal.retina
+         longLabel  Sample5.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-26765
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Eye/bw/GSM3536905.bw
+         priority 1
+
+         track Sample6.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-26723
+         parent U-Eye on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.fetal.retina
+         longLabel  Sample6.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-26723
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Eye/bw/GSM3536906.bw
+         priority 1
+
+         track Sample6.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-26723
+         parent U-Eye on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.fetal.retina
+         longLabel  Sample6.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-26723
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Eye/bw/GSM3536907.bw
+         priority 1
+
+         track Sample7.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-25699
+         parent U-Eye on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.fetal.retina
+         longLabel  Sample7.Human.Fetal.retina.Location:whole.Cultured:NotCultured.H-25699
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Eye/bw/GSM3536908.bw
+         priority 1
+track U-Leukem
+type bigWig
+shortLabel U-Leukem
+longLabel U-Leukem
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track LE:RPMI-8226
+         parent U-Leukem on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Leukemia
+         longLabel  LE:RPMI-8226
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Leukem/bw/GSM2087441.bw
+         priority 1
+
+         track LE:SR
+         parent U-Leukem on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Leukemia
+         longLabel  LE:SR
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Leukem/bw/GSM2087442.bw
+         priority 1
+
+         track 101231000061_R03C01
+         parent U-Leukem on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumor.resection
+         longLabel  101231000061_R03C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Leukem/bw/GSM2973566.bw
+         priority 1
+
+         track CLL_A_del17p_untreated_1
+         parent U-Leukem on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CLL,.group.A.(del(17p).and/or.TP53mut,.untreated)
+         longLabel  CLL_A_del17p_untreated_1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Leukem/bw/GSM4056697.bw
+         priority 1
+
+         track CLL_B_del17p_relapsed_1
+         parent U-Leukem on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel CLL,.group.B.(del(17p).and/or.TP53mut,.relapsed)
+         longLabel  CLL_B_del17p_relapsed_1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-Leukem/bw/GSM4056698.bw
+         priority 1
+track U-blastocyst
+type bigWig
+shortLabel U-blastocyst
+longLabel U-blastocyst
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SC11-015.SC.[6264488102_R04C01]
+         parent U-blastocyst on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel inner.cell.mass.from.blastocyst
+         longLabel  SC11-015.SC.[6264488102_R04C01]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-blastocyst/bw/GSM2285127.bw
+         priority 1
+
+         track H9.SC.[7970368067_R04C01]
+         parent U-blastocyst on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel inner.cell.mass.from.blastocyst
+         longLabel  H9.SC.[7970368067_R04C01]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-blastocyst/bw/GSM2285135.bw
+         priority 1
+
+         track H9.EB.[9341679025_R04C02]
+         parent U-blastocyst on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel inner.cell.mass.from.blastocyst
+         longLabel  H9.EB.[9341679025_R04C02]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-blastocyst/bw/GSM2285163.bw
+         priority 1
+
+         track SC12-038.EB.[9422493050_R02C02]
+         parent U-blastocyst on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel inner.cell.mass.from.blastocyst
+         longLabel  SC12-038.EB.[9422493050_R02C02]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-blastocyst/bw/GSM2285170.bw
+         priority 1
+
+         track SC12-038.SC.[9422493050_R03C01]
+         parent U-blastocyst on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel inner.cell.mass.from.blastocyst
+         longLabel  SC12-038.SC.[9422493050_R03C01]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-blastocyst/bw/GSM2285171.bw
+         priority 1
+track U-cartilage
+type bigWig
+shortLabel U-cartilage
+longLabel U-cartilage
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 233_preserved
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Preserved.cartilage
+         longLabel  233_preserved
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541313.bw
+         priority 1
+
+         track 237_preserved
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Preserved.cartilage
+         longLabel  237_preserved
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541314.bw
+         priority 1
+
+         track 77_preserved
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Preserved.cartilage
+         longLabel  77_preserved
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541315.bw
+         priority 1
+
+         track 77_lesioned
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Lesioned.cartilage
+         longLabel  77_lesioned
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541316.bw
+         priority 1
+
+         track 159_preserved
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Preserved.cartilage
+         longLabel  159_preserved
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541317.bw
+         priority 1
+track U-cell-line
+type bigWig
+shortLabel U-cell-line
+longLabel U-cell-line
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track mutant2.[methylation]
+         parent U-cell-line on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HCT116.mutant.derived.cell.line.with.altered.DNA.methylation
+         longLabel  mutant2.[methylation]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cell-line/bw/GSM1038312.bw
+         priority 1
+
+         track mutant2.[methylation]
+         parent U-cell-line on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HCT116.mutant.derived.cell.line.with.altered.DNA.methylation
+         longLabel  mutant2.[methylation]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cell-line/bw/GSM1038313.bw
+         priority 1
+
+         track mutant3.[methylation]
+         parent U-cell-line on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HCT116.mutant.derived.cell.line.with.altered.DNA.methylation
+         longLabel  mutant3.[methylation]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cell-line/bw/GSM1048217.bw
+         priority 1
+
+         track mutant3.[methylation]
+         parent U-cell-line on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HCT116.mutant.derived.cell.line.with.altered.DNA.methylation
+         longLabel  mutant3.[methylation]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cell-line/bw/GSM1092189.bw
+         priority 1
+
+         track 450k
+         parent U-cell-line on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel HES-2
+         longLabel  450k
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cell-line/bw/GSM1092190.bw
+         priority 1
+track U-cord
+type bigWig
+shortLabel U-cord
+longLabel U-cord
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track FT28_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT28.control.spinal.cord
+         longLabel  FT28_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702100.bw
+         priority 1
+
+         track FT38_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT38.control.spinal.cord
+         longLabel  FT38_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702105.bw
+         priority 1
+
+         track FT33_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT33.control.spinal.cord
+         longLabel  FT33_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702111.bw
+         priority 1
+
+         track FT36_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT36.control.spinal.cord
+         longLabel  FT36_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702114.bw
+         priority 1
+
+         track FT57_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT57.spina.bifida.spinal.cord
+         longLabel  FT57_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702115.bw
+         priority 1
+track U-hESC
+type bigWig
+shortLabel U-hESC
+longLabel U-hESC
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track ESCT004
+         parent U-hESC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel conventional.ESP
+         longLabel  ESCT004
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-hESC/bw/GSM1662017.bw
+         priority 1
+
+         track ESCT043
+         parent U-hESC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel conventional.ESP
+         longLabel  ESCT043
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-hESC/bw/GSM1662019.bw
+         priority 1
+
+         track ESCT034
+         parent U-hESC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel conventional.ESP
+         longLabel  ESCT034
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-hESC/bw/GSM1662021.bw
+         priority 1
+
+         track ESCN008
+         parent U-hESC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel conventional.normal.ESP
+         longLabel  ESCN008
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-hESC/bw/GSM1662031.bw
+         priority 1
+
+         track ESCT013
+         parent U-hESC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel conventional.ESP
+         longLabel  ESCT013
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-hESC/bw/GSM1662032.bw
+         priority 1
+track U-iPSC
+type bigWig
+shortLabel U-iPSC
+longLabel U-iPSC
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track FF-IPS-1
+         parent U-iPSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ips
+         longLabel  FF-IPS-1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-iPSC/bw/GSM1399281.bw
+         priority 1
+
+         track FF-IPS-3
+         parent U-iPSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel ips
+         longLabel  FF-IPS-3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-iPSC/bw/GSM1399282.bw
+         priority 1
+
+         track Ind1_F-iPSC.[Methylation]
+         parent U-iPSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel iPSC
+         longLabel  Ind1_F-iPSC.[Methylation]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-iPSC/bw/GSM1586887.bw
+         priority 1
+
+         track Ind1_F-iPSC.[Methylation]
+         parent U-iPSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel iPSC
+         longLabel  Ind1_F-iPSC.[Methylation]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-iPSC/bw/GSM1586888.bw
+         priority 1
+
+         track Ind2_L-iPSC_repC.[Methylation]
+         parent U-iPSC on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel iPSC
+         longLabel  Ind2_L-iPSC_repC.[Methylation]
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-iPSC/bw/GSM1586889.bw
+         priority 1
+track U-mesenchymal
+type bigWig
+shortLabel U-mesenchymal
+longLabel U-mesenchymal
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Sample3_DMSO_D10_n4
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample3_DMSO_D10_n4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943748.bw
+         priority 1
+
+         track Sample4_TCDD_D10_n1
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample4_TCDD_D10_n1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943749.bw
+         priority 1
+
+         track Sample5_TCDD_D10_n2
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample5_TCDD_D10_n2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943750.bw
+         priority 1
+
+         track Sample6_TCDD_D10_n3
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample6_TCDD_D10_n3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943751.bw
+         priority 1
+
+         track Sample7_TCDD_D10_n4
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample7_TCDD_D10_n4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943752.bw
+         priority 1
+track U-sputum
+type bigWig
+shortLabel U-sputum
+longLabel U-sputum
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track DNA.from.sputum.sample.COPD_2
+         parent U-sputum on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COPD.sputum.sample
+         longLabel  DNA.from.sputum.sample.COPD_2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-sputum/bw/GSM4452050.bw
+         priority 1
+
+         track DNA.from.sputum.sample.COPD_3
+         parent U-sputum on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COPD.sputum.sample
+         longLabel  DNA.from.sputum.sample.COPD_3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-sputum/bw/GSM4452051.bw
+         priority 1
+
+         track DNA.from.sputum.sample.COPD_4
+         parent U-sputum on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COPD.sputum.sample
+         longLabel  DNA.from.sputum.sample.COPD_4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-sputum/bw/GSM4452052.bw
+         priority 1
+
+         track DNA.from.sputum.sample.COPD_5
+         parent U-sputum on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COPD.sputum.sample
+         longLabel  DNA.from.sputum.sample.COPD_5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-sputum/bw/GSM4452053.bw
+         priority 1
+
+         track DNA.from.sputum.sample.COPD_6
+         parent U-sputum on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel COPD.sputum.sample
+         longLabel  DNA.from.sputum.sample.COPD_6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-sputum/bw/GSM4452054.bw
+         priority 1
