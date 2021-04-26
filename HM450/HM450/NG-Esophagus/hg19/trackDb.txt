@@ -1,0 +1,65 @@
+track NG-Esophagus
+type bigWig
+shortLabel NG-Esophagus
+longLabel NG-Esophagus
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 4241
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4241
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360030.bw
+         priority 1
+
+         track 4245
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4245
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360031.bw
+         priority 1
+
+         track 4256
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4256
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360032.bw
+         priority 1
+
+         track 4233
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4233
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360033.bw
+         priority 1
+
+         track 4281
+         parent NG-Esophagus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel esophagus
+         longLabel  4281
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Esophagus/bw/GSM2360034.bw
+         priority 1

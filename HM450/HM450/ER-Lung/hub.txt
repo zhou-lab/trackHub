@@ -1,0 +1,5 @@
+hub ER-Lung
+shortLabel ER-Lung
+longLabel ER-Lung
+genomesFile genomes.txt
+email ejm374@drexel.edu

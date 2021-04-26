@@ -1,0 +1,65 @@
+track NG-Stomach
+type bigWig
+shortLabel NG-Stomach
+longLabel NG-Stomach
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SOG065.3999875096_R05C01
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG065.3999875096_R05C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873692.bw
+         priority 1
+
+         track SOG065.3999875096_R05C01
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG065.3999875096_R05C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873699.bw
+         priority 1
+
+         track SOG093.3999876020_R02C02
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG093.3999876020_R02C02
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873700.bw
+         priority 1
+
+         track SOG093.3999876020_R02C02
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG093.3999876020_R02C02
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873705.bw
+         priority 1
+
+         track SOG085.3999876020_R03C01
+         parent NG-Stomach on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Stomach
+         longLabel  SOG085.3999876020_R03C01
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Stomach/bw/GSM1873708.bw
+         priority 1

@@ -1,0 +1,65 @@
+track ER-Bronchus
+type bigWig
+shortLabel ER-Bronchus
+longLabel ER-Bronchus
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 204_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R03C01
+         longLabel  204_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800976.bw
+         priority 1
+
+         track 204_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R03C01
+         longLabel  204_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800977.bw
+         priority 1
+
+         track 214_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R03C02
+         longLabel  214_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800978.bw
+         priority 1
+
+         track 214_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R03C02
+         longLabel  214_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800979.bw
+         priority 1
+
+         track 206_bronch.(meth)
+         parent ER-Bronchus on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel 3999120134_R04C01
+         longLabel  206_bronch.(meth)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Bronchus/bw/GSM2800980.bw
+         priority 1

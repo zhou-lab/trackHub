@@ -1,0 +1,65 @@
+track ML-Placenta
+type bigWig
+shortLabel ML-Placenta
+longLabel ML-Placenta
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Genomic.DNA.from.human.placenta.5
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842808.bw
+         priority 1
+
+         track Genomic.DNA.from.human.placenta.6
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842809.bw
+         priority 1
+
+         track Genomic.DNA.from.human.placenta.7
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842810.bw
+         priority 1
+
+         track Genomic.DNA.from.human.placenta.8
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842811.bw
+         priority 1
+
+         track Genomic.DNA.from.human.placenta.9
+         parent ML-Placenta on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Human.placenta
+         longLabel  Genomic.DNA.from.human.placenta.9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ML-Placenta/bw/GSM1842812.bw
+         priority 1

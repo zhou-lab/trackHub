@@ -1,0 +1,65 @@
+track ER-Lung
+type bigWig
+shortLabel ER-Lung
+longLabel ER-Lung
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Sample98_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample98_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632977.bw
+         priority 1
+
+         track Sample102_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample102_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632981.bw
+         priority 1
+
+         track Sample104_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample104_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632983.bw
+         priority 1
+
+         track Sample106_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample106_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632985.bw
+         priority 1
+
+         track Sample108_Normal
+         parent ER-Lung on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.lung
+         longLabel  Sample108_Normal
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632987.bw
+         priority 1

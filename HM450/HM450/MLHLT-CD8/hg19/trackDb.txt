@@ -1,0 +1,65 @@
+track MLHLT-CD8
+type bigWig
+shortLabel MLHLT-CD8
+longLabel MLHLT-CD8
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SAMPLE_6_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Old_CD8
+         longLabel  SAMPLE_6_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425476.bw
+         priority 1
+
+         track SAMPLE_7_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD8
+         longLabel  SAMPLE_7_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425479.bw
+         priority 1
+
+         track SAMPLE_8_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD8
+         longLabel  SAMPLE_8_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425482.bw
+         priority 1
+
+         track SAMPLE_9_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Female_Old_CD8
+         longLabel  SAMPLE_9_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425485.bw
+         priority 1
+
+         track SAMPLE_10_CD8
+         parent MLHLT-CD8 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Female_Old_CD8
+         longLabel  SAMPLE_10_CD8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD8/bw/GSM1425488.bw
+         priority 1

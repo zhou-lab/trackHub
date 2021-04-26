@@ -1,5 +1,0 @@
-hub esophagus
-shortLabel esophagus
-longLabel esophagus
-genomesFile genomes.txt
-email ejm374@drexel.edu

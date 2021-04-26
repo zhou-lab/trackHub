@@ -1,0 +1,65 @@
+track MPS-Chondroytes
+type bigWig
+shortLabel MPS-Chondroytes
+longLabel MPS-Chondroytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.human.articular.chondrocytes.5
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598108.bw
+         priority 1
+
+         track genomic.DNA.from.human.articular.chondrocytes.6
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.6
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598109.bw
+         priority 1
+
+         track genomic.DNA.from.human.articular.chondrocytes.7
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.7
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598110.bw
+         priority 1
+
+         track genomic.DNA.from.human.articular.chondrocytes.8
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.8
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598111.bw
+         priority 1
+
+         track genomic.DNA.from.human.articular.chondrocytes.9
+         parent MPS-Chondroytes on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel normal.human.articular.chondroytes
+         longLabel  genomic.DNA.from.human.articular.chondrocytes.9
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MPS-Chondroytes/bw/GSM1598112.bw
+         priority 1

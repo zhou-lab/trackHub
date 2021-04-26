@@ -1,0 +1,5 @@
+hub MLHLT-CD8
+shortLabel MLHLT-CD8
+longLabel MLHLT-CD8
+genomesFile genomes.txt
+email ejm374@drexel.edu

@@ -1,5 +1,0 @@
-hub brain
-shortLabel brain
-longLabel brain
-genomesFile genomes.txt
-email ejm374@drexel.edu

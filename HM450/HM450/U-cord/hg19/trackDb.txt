@@ -1,0 +1,65 @@
+track U-cord
+type bigWig
+shortLabel U-cord
+longLabel U-cord
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track FT28_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT28.control.spinal.cord
+         longLabel  FT28_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702100.bw
+         priority 1
+
+         track FT38_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT38.control.spinal.cord
+         longLabel  FT38_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702105.bw
+         priority 1
+
+         track FT33_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT33.control.spinal.cord
+         longLabel  FT33_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702111.bw
+         priority 1
+
+         track FT36_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT36.control.spinal.cord
+         longLabel  FT36_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702114.bw
+         priority 1
+
+         track FT57_sc
+         parent U-cord on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel genomic.DNA.from.FT57.spina.bifida.spinal.cord
+         longLabel  FT57_sc
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cord/bw/GSM1702115.bw
+         priority 1

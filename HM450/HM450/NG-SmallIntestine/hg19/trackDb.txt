@@ -1,0 +1,65 @@
+track NG-SmallIntestine
+type bigWig
+shortLabel NG-SmallIntestine
+longLabel NG-SmallIntestine
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 28039
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.celiac.disease
+         longLabel  28039
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249591.bw
+         priority 1
+
+         track 28039
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.celiac.disease
+         longLabel  28039
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249592.bw
+         priority 1
+
+         track 211086
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.control
+         longLabel  211086
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249595.bw
+         priority 1
+
+         track 211086
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.control
+         longLabel  211086
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249596.bw
+         priority 1
+
+         track 211073
+         parent NG-SmallIntestine on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel duodenum.biopsy,.complete,.control
+         longLabel  211073
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249597.bw
+         priority 1

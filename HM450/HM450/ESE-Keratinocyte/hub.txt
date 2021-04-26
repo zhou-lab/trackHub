@@ -1,0 +1,5 @@
+hub ESE-Keratinocyte
+shortLabel ESE-Keratinocyte
+longLabel ESE-Keratinocyte
+genomesFile genomes.txt
+email ejm374@drexel.edu

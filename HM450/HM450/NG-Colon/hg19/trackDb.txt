@@ -1,0 +1,65 @@
+track NG-Colon
+type bigWig
+shortLabel NG-Colon
+longLabel NG-Colon
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track genomic.DNA.from.R0007T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel rectal.cancer
+         longLabel  genomic.DNA.from.R0007T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM1958877.bw
+         priority 1
+
+         track genomic.DNA.from.R0007T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel rectal.cancer
+         longLabel  genomic.DNA.from.R0007T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM1958879.bw
+         priority 1
+
+         track genomic.DNA.from.C0028T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel rectal.cancer
+         longLabel  genomic.DNA.from.C0028T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062665.bw
+         priority 1
+
+         track genomic.DNA.from.C0028T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel rectal.cancer
+         longLabel  genomic.DNA.from.C0028T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062666.bw
+         priority 1
+
+         track 1T
+         parent NG-Colon on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel colorectal.cancer
+         longLabel  1T
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062667.bw
+         priority 1

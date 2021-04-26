@@ -1,5 +1,0 @@
-hub GSE59157
-shortLabel GSE59157
-longLabel GSE59157
-genomesFile genomes.txt
-email ejm374@drexel.edu

@@ -1,5 +1,0 @@
-hub kidney
-shortLabel kidney
-longLabel kidney
-genomesFile genomes.txt
-email ejm374@drexel.edu

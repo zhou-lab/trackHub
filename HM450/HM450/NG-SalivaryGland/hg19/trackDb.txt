@@ -1,0 +1,65 @@
+track NG-SalivaryGland
+type bigWig
+shortLabel NG-SalivaryGland
+longLabel NG-SalivaryGland
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Saliva_PT5
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Healthy.individuals
+         longLabel  Saliva_PT5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1179552.bw
+         priority 1
+
+         track 4220:.Saliva-full_term-rep1
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel saliva,.full.term
+         longLabel  4220:.Saliva-full_term-rep1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1855609.bw
+         priority 1
+
+         track 4229:.Saliva-full_term-rep2
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel saliva,.full.term
+         longLabel  4229:.Saliva-full_term-rep2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1855610.bw
+         priority 1
+
+         track 4249:.Saliva-full_term-rep3
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel saliva,.full.term
+         longLabel  4249:.Saliva-full_term-rep3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1855611.bw
+         priority 1
+
+         track 4239:.Saliva-full_term-rep4
+         parent NG-SalivaryGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel saliva,.full.term
+         longLabel  4239:.Saliva-full_term-rep4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SalivaryGland/bw/GSM1855612.bw
+         priority 1

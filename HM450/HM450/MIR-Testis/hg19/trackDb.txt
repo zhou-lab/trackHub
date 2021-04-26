@@ -1,0 +1,65 @@
+track MIR-Testis
+type bigWig
+shortLabel MIR-Testis
+longLabel MIR-Testis
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track sperm.genomic.DNA.from.Donor.C.(0.9.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.C
+         longLabel  sperm.genomic.DNA.from.Donor.C.(0.9.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564245.bw
+         priority 1
+
+         track sperm.genomic.DNA.from.Donor.C.(0.35.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.C
+         longLabel  sperm.genomic.DNA.from.Donor.C.(0.35.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564246.bw
+         priority 1
+
+         track sperm.genomic.DNA.from.Donor.D.(0.9.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.D
+         longLabel  sperm.genomic.DNA.from.Donor.D.(0.9.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564247.bw
+         priority 1
+
+         track sperm.genomic.DNA.from.Donor.D.(0.35.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.D
+         longLabel  sperm.genomic.DNA.from.Donor.D.(0.35.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564248.bw
+         priority 1
+
+         track sperm.genomic.DNA.from.Donor.E.(0.9.subpopulatoin)
+         parent MIR-Testis on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Donor.E
+         longLabel  sperm.genomic.DNA.from.Donor.E.(0.9.subpopulatoin)
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-Testis/bw/GSM1564249.bw
+         priority 1

@@ -1,0 +1,65 @@
+track MP-Heart
+type bigWig
+shortLabel MP-Heart
+longLabel MP-Heart
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track heart_atrial.fibrilation_rep5.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,atrial.fibrillation,permanent
+         longLabel  heart_atrial.fibrilation_rep5.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532423.bw
+         priority 1
+
+         track heart_atrial.fibrilation_rep6.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,atrial.fibrillation,permanent
+         longLabel  heart_atrial.fibrilation_rep6.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532424.bw
+         priority 1
+
+         track heart_atrial.fibrilation_rep7.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,atrial.fibrillation,permanent
+         longLabel  heart_atrial.fibrilation_rep7.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532425.bw
+         priority 1
+
+         track heart_normal_rep1.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,normal
+         longLabel  heart_normal_rep1.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532426.bw
+         priority 1
+
+         track heart_normal_rep2.
+         parent MP-Heart on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel left.atrium,normal
+         longLabel  heart_normal_rep2.
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MP-Heart/bw/GSM1532427.bw
+         priority 1

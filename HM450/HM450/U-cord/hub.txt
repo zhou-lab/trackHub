@@ -1,0 +1,5 @@
+hub U-cord
+shortLabel U-cord
+longLabel U-cord
+genomesFile genomes.txt
+email ejm374@drexel.edu

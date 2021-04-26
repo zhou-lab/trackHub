@@ -1,0 +1,5 @@
+hub NNP-Thymus
+shortLabel NNP-Thymus
+longLabel NNP-Thymus
+genomesFile genomes.txt
+email ejm374@drexel.edu
