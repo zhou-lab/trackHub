@@ -1,0 +1,5 @@
+hub ES-Mouth
+shortLabel ES-Mouth
+longLabel ES-Mouth
+genomesFile genomes.txt
+email ejm374@drexel.edu

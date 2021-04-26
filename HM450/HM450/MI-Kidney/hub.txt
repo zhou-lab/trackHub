@@ -1,0 +1,5 @@
+hub MI-Kidney
+shortLabel MI-Kidney
+longLabel MI-Kidney
+genomesFile genomes.txt
+email ejm374@drexel.edu

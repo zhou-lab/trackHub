@@ -1,0 +1,5 @@
+hub EC-Neuron
+shortLabel EC-Neuron
+longLabel EC-Neuron
+genomesFile genomes.txt
+email ejm374@drexel.edu

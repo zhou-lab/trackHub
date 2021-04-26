@@ -1,0 +1,5 @@
+hub MIR-Testis
+shortLabel MIR-Testis
+longLabel MIR-Testis
+genomesFile genomes.txt
+email ejm374@drexel.edu

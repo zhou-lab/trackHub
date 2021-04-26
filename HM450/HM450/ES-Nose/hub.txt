@@ -1,0 +1,5 @@
+hub ES-Nose
+shortLabel ES-Nose
+longLabel ES-Nose
+genomesFile genomes.txt
+email ejm374@drexel.edu

@@ -1,0 +1,65 @@
+track ES-Nose
+type bigWig
+shortLabel ES-Nose
+longLabel ES-Nose
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track PSP,.histologically.confirmed.diagnose,.case.204.1
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.204.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964436.bw
+         priority 1
+
+         track PSP,.histologically.confirmed.diagnose,.case.205.2
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.205.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964437.bw
+         priority 1
+
+         track PSP,.histologically.confirmed.diagnose,.case.206.3
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.206.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964438.bw
+         priority 1
+
+         track PSP,.histologically.confirmed.diagnose,.case.207.4
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.207.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964439.bw
+         priority 1
+
+         track PSP,.histologically.confirmed.diagnose,.case.208.5
+         parent ES-Nose on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel PSP_frontal.cortex,.post.mortem.tissue
+         longLabel  PSP,.histologically.confirmed.diagnose,.case.208.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Nose/bw/GSM1964440.bw
+         priority 1

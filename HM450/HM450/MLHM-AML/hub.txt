@@ -1,0 +1,5 @@
+hub MLHM-AML
+shortLabel MLHM-AML
+longLabel MLHM-AML
+genomesFile genomes.txt
+email ejm374@drexel.edu
