@@ -1,5 +1,0 @@
-hub NGL-FetalLiver
-shortLabel NGL-FetalLiver
-longLabel NGL-FetalLiver
-genomesFile genomes.txt
-email ejm374@drexel.edu

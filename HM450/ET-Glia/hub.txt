@@ -1,5 +1,0 @@
-hub ET-Glia
-shortLabel ET-Glia
-longLabel ET-Glia
-genomesFile genomes.txt
-email ejm374@drexel.edu

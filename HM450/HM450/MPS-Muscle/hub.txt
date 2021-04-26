@@ -1,5 +1,0 @@
-hub MPS-Muscle
-shortLabel MPS-Muscle
-longLabel MPS-Muscle
-genomesFile genomes.txt
-email ejm374@drexel.edu

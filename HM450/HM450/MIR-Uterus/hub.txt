@@ -1,5 +1,0 @@
-hub MIR-Uterus
-shortLabel MIR-Uterus
-longLabel MIR-Uterus
-genomesFile genomes.txt
-email ejm374@drexel.edu

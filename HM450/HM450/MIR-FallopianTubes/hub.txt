@@ -1,5 +1,0 @@
-hub MIR-FallopianTubes
-shortLabel MIR-FallopianTubes
-longLabel MIR-FallopianTubes
-genomesFile genomes.txt
-email ejm374@drexel.edu

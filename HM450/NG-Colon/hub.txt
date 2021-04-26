@@ -1,5 +1,0 @@
-hub NG-Colon
-shortLabel NG-Colon
-longLabel NG-Colon
-genomesFile genomes.txt
-email ejm374@drexel.edu

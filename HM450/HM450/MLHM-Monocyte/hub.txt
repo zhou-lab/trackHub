@@ -1,5 +1,0 @@
-hub MLHM-Monocyte
-shortLabel MLHM-Monocyte
-longLabel MLHM-Monocyte
-genomesFile genomes.txt
-email ejm374@drexel.edu

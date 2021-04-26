@@ -1,5 +1,0 @@
-hub MP-Fibroblast
-shortLabel MP-Fibroblast
-longLabel MP-Fibroblast
-genomesFile genomes.txt
-email ejm374@drexel.edu

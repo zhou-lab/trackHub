@@ -1,5 +1,0 @@
-hub U-iPSC
-shortLabel U-iPSC
-longLabel U-iPSC
-genomesFile genomes.txt
-email ejm374@drexel.edu

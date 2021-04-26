@@ -1,5 +1,0 @@
-hub MLH-Lymphoid
-shortLabel MLH-Lymphoid
-longLabel MLH-Lymphoid
-genomesFile genomes.txt
-email ejm374@drexel.edu

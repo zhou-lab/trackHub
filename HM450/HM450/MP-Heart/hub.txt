@@ -1,5 +1,0 @@
-hub MP-Heart
-shortLabel MP-Heart
-longLabel MP-Heart
-genomesFile genomes.txt
-email ejm374@drexel.edu

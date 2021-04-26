@@ -1,5 +1,0 @@
-hub NU-Prostate
-shortLabel NU-Prostate
-longLabel NU-Prostate
-genomesFile genomes.txt
-email ejm374@drexel.edu

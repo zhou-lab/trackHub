@@ -1,5 +1,0 @@
-hub NG-SmallIntestine
-shortLabel NG-SmallIntestine
-longLabel NG-SmallIntestine
-genomesFile genomes.txt
-email ejm374@drexel.edu

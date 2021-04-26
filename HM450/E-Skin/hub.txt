@@ -1,5 +1,0 @@
-hub E-Skin
-shortLabel E-Skin
-longLabel E-Skin
-genomesFile genomes.txt
-email ejm374@drexel.edu

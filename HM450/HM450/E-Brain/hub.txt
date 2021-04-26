@@ -1,5 +1,0 @@
-hub E-Brain
-shortLabel E-Brain
-longLabel E-Brain
-genomesFile genomes.txt
-email ejm374@drexel.edu

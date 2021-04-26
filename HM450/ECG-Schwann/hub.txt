@@ -1,5 +1,0 @@
-hub ECG-Schwann
-shortLabel ECG-Schwann
-longLabel ECG-Schwann
-genomesFile genomes.txt
-email ejm374@drexel.edu

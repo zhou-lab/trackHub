@@ -1,5 +1,0 @@
-hub U-Leukem
-shortLabel U-Leukem
-longLabel U-Leukem
-genomesFile genomes.txt
-email ejm374@drexel.edu

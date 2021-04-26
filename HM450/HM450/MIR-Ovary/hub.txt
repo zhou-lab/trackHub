@@ -1,5 +1,0 @@
-hub MIR-Ovary
-shortLabel MIR-Ovary
-longLabel MIR-Ovary
-genomesFile genomes.txt
-email ejm374@drexel.edu

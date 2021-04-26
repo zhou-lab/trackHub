@@ -1,5 +1,0 @@
-hub E-Breast
-shortLabel E-Breast
-longLabel E-Breast
-genomesFile genomes.txt
-email ejm374@drexel.edu

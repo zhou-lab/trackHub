@@ -1,5 +1,0 @@
-hub U-mesenchymal
-shortLabel U-mesenchymal
-longLabel U-mesenchymal
-genomesFile genomes.txt
-email ejm374@drexel.edu

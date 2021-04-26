@@ -1,5 +1,0 @@
-hub U-Bone
-shortLabel U-Bone
-longLabel U-Bone
-genomesFile genomes.txt
-email ejm374@drexel.edu

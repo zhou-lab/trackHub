@@ -1,5 +1,0 @@
-hub MLHL-NK
-shortLabel MLHL-NK
-longLabel MLHL-NK
-genomesFile genomes.txt
-email ejm374@drexel.edu

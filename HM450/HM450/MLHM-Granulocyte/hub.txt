@@ -1,5 +1,0 @@
-hub MLHM-Granulocyte
-shortLabel MLHM-Granulocyte
-longLabel MLHM-Granulocyte
-genomesFile genomes.txt
-email ejm374@drexel.edu

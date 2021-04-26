@@ -1,5 +1,0 @@
-hub MLHLT-CD4
-shortLabel MLHLT-CD4
-longLabel MLHLT-CD4
-genomesFile genomes.txt
-email ejm374@drexel.edu

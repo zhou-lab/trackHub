@@ -1,5 +1,0 @@
-hub U-blastocyst
-shortLabel U-blastocyst
-longLabel U-blastocyst
-genomesFile genomes.txt
-email ejm374@drexel.edu

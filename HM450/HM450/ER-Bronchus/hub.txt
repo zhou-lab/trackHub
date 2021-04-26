@@ -1,5 +1,0 @@
-hub ER-Bronchus
-shortLabel ER-Bronchus
-longLabel ER-Bronchus
-genomesFile genomes.txt
-email ejm374@drexel.edu
