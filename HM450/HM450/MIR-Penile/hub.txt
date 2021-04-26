@@ -1,0 +1,5 @@
+hub MIR-Penile
+shortLabel MIR-Penile
+longLabel MIR-Penile
+genomesFile genomes.txt
+email ejm374@drexel.edu

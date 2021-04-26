@@ -1,0 +1,65 @@
+track U-CNS
+type bigWig
+shortLabel U-CNS
+longLabel U-CNS
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track CNS:SNB-19.1
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Central.nervous.system
+         longLabel  CNS:SNB-19.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM2087428.bw
+         priority 1
+
+         track CNS:U251.2
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Central.nervous.system
+         longLabel  CNS:U251.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM2087429.bw
+         priority 1
+
+         track tumor.biopsy.PCNSL_1.3
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel cryo-preserved.tumor
+         longLabel  tumor.biopsy.PCNSL_1.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM3398832.bw
+         priority 1
+
+         track tumor.biopsy.PCNSL_2.4
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FFPE.tumor
+         longLabel  tumor.biopsy.PCNSL_2.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM3398833.bw
+         priority 1
+
+         track tumor.biopsy.PCNSL_3.5
+         parent U-CNS on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel FFPE.tumor
+         longLabel  tumor.biopsy.PCNSL_3.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-CNS/bw/GSM3398834.bw
+         priority 1

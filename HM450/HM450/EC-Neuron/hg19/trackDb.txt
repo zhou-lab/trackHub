@@ -1,0 +1,65 @@
+track EC-Neuron
+type bigWig
+shortLabel EC-Neuron
+longLabel EC-Neuron
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Neuroblastoma_1_Relapse_methylation.1
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Relapse
+         longLabel  Neuroblastoma_1_Relapse_methylation.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592146.bw
+         priority 1
+
+         track Neuroblastoma_1_Relapse_methylation.2
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Relapse
+         longLabel  Neuroblastoma_1_Relapse_methylation.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592147.bw
+         priority 1
+
+         track Neuroblastoma_1_Tumour_methylation.3
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumour
+         longLabel  Neuroblastoma_1_Tumour_methylation.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592148.bw
+         priority 1
+
+         track Neuroblastoma_1_Tumour_methylation.4
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Tumour
+         longLabel  Neuroblastoma_1_Tumour_methylation.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592149.bw
+         priority 1
+
+         track Neuroblastoma_11_Relapse_methylation.5
+         parent EC-Neuron on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Relapse
+         longLabel  Neuroblastoma_11_Relapse_methylation.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592150.bw
+         priority 1

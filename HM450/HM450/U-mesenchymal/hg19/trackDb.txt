@@ -1,0 +1,65 @@
+track U-mesenchymal
+type bigWig
+shortLabel U-mesenchymal
+longLabel U-mesenchymal
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Sample3_DMSO_D10_n4.1
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample3_DMSO_D10_n4.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943748.bw
+         priority 1
+
+         track Sample4_TCDD_D10_n1.2
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample4_TCDD_D10_n1.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943749.bw
+         priority 1
+
+         track Sample5_TCDD_D10_n2.3
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample5_TCDD_D10_n2.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943750.bw
+         priority 1
+
+         track Sample6_TCDD_D10_n3.4
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample6_TCDD_D10_n3.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943751.bw
+         priority 1
+
+         track Sample7_TCDD_D10_n4.5
+         parent U-mesenchymal on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Bone-marrow.derived.hMSCs.from.43-years-old.black.male
+         longLabel  Sample7_TCDD_D10_n4.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-mesenchymal/bw/GSM1943752.bw
+         priority 1

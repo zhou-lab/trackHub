@@ -1,0 +1,65 @@
+track MLHLT-CD4
+type bigWig
+shortLabel MLHLT-CD4
+longLabel MLHLT-CD4
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track SAMPLE_7_CD4.1
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD4
+         longLabel  SAMPLE_7_CD4.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425480.bw
+         priority 1
+
+         track SAMPLE_8_CD4.2
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD4
+         longLabel  SAMPLE_8_CD4.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425483.bw
+         priority 1
+
+         track SAMPLE_9_CD4.3
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Female_Old_CD4
+         longLabel  SAMPLE_9_CD4.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425486.bw
+         priority 1
+
+         track SAMPLE_10_CD4.4
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Female_Old_CD4
+         longLabel  SAMPLE_10_CD4.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425489.bw
+         priority 1
+
+         track SAMPLE_11_CD4.5
+         parent MLHLT-CD4 on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Male_Young_CD4
+         longLabel  SAMPLE_11_CD4.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLT-CD4/bw/GSM1425492.bw
+         priority 1

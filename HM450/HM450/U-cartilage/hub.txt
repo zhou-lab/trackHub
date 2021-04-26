@@ -1,0 +1,5 @@
+hub U-cartilage
+shortLabel U-cartilage
+longLabel U-cartilage
+genomesFile genomes.txt
+email ejm374@drexel.edu

@@ -1,0 +1,65 @@
+track U-cartilage
+type bigWig
+shortLabel U-cartilage
+longLabel U-cartilage
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track 233_preserved.1
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Preserved.cartilage
+         longLabel  233_preserved.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541313.bw
+         priority 1
+
+         track 237_preserved.2
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Preserved.cartilage
+         longLabel  237_preserved.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541314.bw
+         priority 1
+
+         track 77_preserved.3
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Preserved.cartilage
+         longLabel  77_preserved.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541315.bw
+         priority 1
+
+         track 77_lesioned.4
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Lesioned.cartilage
+         longLabel  77_lesioned.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541316.bw
+         priority 1
+
+         track 159_preserved.5
+         parent U-cartilage on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Preserved.cartilage
+         longLabel  159_preserved.5
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-cartilage/bw/GSM1541317.bw
+         priority 1

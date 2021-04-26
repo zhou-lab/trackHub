@@ -1,0 +1,5 @@
+hub MLHL-B
+shortLabel MLHL-B
+longLabel MLHL-B
+genomesFile genomes.txt
+email ejm374@drexel.edu

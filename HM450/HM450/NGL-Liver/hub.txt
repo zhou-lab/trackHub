@@ -1,0 +1,5 @@
+hub NGL-Liver
+shortLabel NGL-Liver
+longLabel NGL-Liver
+genomesFile genomes.txt
+email ejm374@drexel.edu
