@@ -1,0 +1,55 @@
+track EC-Melanocyte
+type bigWig
+shortLabel EC-Melanocyte
+longLabel EC-Melanocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Genomic.DNA.from.melanocyte.1.1
+         parent EC-Melanocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.melanocytes
+         longLabel  Genomic.DNA.from.melanocyte.1.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Melanocyte/bw/GSM1088514.bw
+         priority 1
+
+         track Genomic.DNA.from.melanocyte.2.2
+         parent EC-Melanocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.melanocytes
+         longLabel  Genomic.DNA.from.melanocyte.2.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Melanocyte/bw/GSM1088515.bw
+         priority 1
+
+         track Genomic.DNA.from.melanocyte.3.3
+         parent EC-Melanocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.melanocytes
+         longLabel  Genomic.DNA.from.melanocyte.3.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Melanocyte/bw/GSM1088516.bw
+         priority 1
+
+         track genomic.DNA.from.melanocyte.[1].4
+         parent EC-Melanocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel melanocyte
+         longLabel  genomic.DNA.from.melanocyte.[1].4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Melanocyte/bw/GSM3487970.bw
+         priority 1
+

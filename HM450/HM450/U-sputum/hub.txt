@@ -1,5 +1,0 @@
-hub U-sputum
-shortLabel U-sputum
-longLabel U-sputum
-genomesFile genomes.txt
-email ejm374@drexel.edu

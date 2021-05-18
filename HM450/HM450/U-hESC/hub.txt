@@ -1,5 +1,0 @@
-hub U-hESC
-shortLabel U-hESC
-longLabel U-hESC
-genomesFile genomes.txt
-email ejm374@drexel.edu

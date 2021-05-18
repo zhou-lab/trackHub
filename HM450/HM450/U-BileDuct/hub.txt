@@ -1,0 +1,5 @@
+hub U-BileDuct
+shortLabel U-BileDuct
+longLabel U-BileDuct
+genomesFile genomes.txt
+email ejm374@drexel.edu

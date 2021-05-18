@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track Neuroblastoma_1_Relapse_methylation.1
+         track cortical_neurons_rep1.1
          parent EC-Neuron on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Relapse
-         longLabel  Neuroblastoma_1_Relapse_methylation.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592146.bw
+         shortLabel cortical.neurons
+         longLabel  cortical_neurons_rep1.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM3455773.bw
          priority 1
 
-         track Neuroblastoma_1_Relapse_methylation.2
+         track SUBJ1_NEUR_EXPER1.2
          parent EC-Neuron on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Relapse
-         longLabel  Neuroblastoma_1_Relapse_methylation.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592147.bw
+         shortLabel genomic.DNA.from.neuronal.cells
+         longLabel  SUBJ1_NEUR_EXPER1.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1229465.bw
          priority 1
 
-         track Neuroblastoma_1_Tumour_methylation.3
+         track SUBJ2_NEUR_EXPER1.3
          parent EC-Neuron on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Tumour
-         longLabel  Neuroblastoma_1_Tumour_methylation.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592148.bw
+         shortLabel genomic.DNA.from.neuronal.cells
+         longLabel  SUBJ2_NEUR_EXPER1.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1229466.bw
          priority 1
 
-         track Neuroblastoma_1_Tumour_methylation.4
+         track SUBJ3_NEUR_EXPER1.4
          parent EC-Neuron on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Tumour
-         longLabel  Neuroblastoma_1_Tumour_methylation.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592149.bw
-         priority 1
-
-         track Neuroblastoma_11_Relapse_methylation.5
-         parent EC-Neuron on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel Relapse
-         longLabel  Neuroblastoma_11_Relapse_methylation.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1592150.bw
+         shortLabel genomic.DNA.from.neuronal.cells
+         longLabel  SUBJ3_NEUR_EXPER1.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/EC-Neuron/bw/GSM1229467.bw
          priority 1
 

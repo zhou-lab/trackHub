@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track 28039.1
+         track SI9333.1
          parent NG-SmallIntestine on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel duodenum.biopsy,.complete,.celiac.disease
-         longLabel  28039.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249591.bw
+         shortLabel small.intestine
+         longLabel  SI9333.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM1219854.bw
          priority 1
 
-         track 28039.2
+         track SI9307.2
          parent NG-SmallIntestine on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel duodenum.biopsy,.complete,.celiac.disease
-         longLabel  28039.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249592.bw
+         shortLabel small.intestine
+         longLabel  SI9307.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM1219851.bw
          priority 1
 
-         track 211086.3
+         track SI9000.3
          parent NG-SmallIntestine on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel duodenum.biopsy,.complete,.control
-         longLabel  211086.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249595.bw
+         shortLabel small.intestine
+         longLabel  SI9000.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM1219847.bw
          priority 1
 
-         track 211086.4
+         track SI9037.4
          parent NG-SmallIntestine on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel duodenum.biopsy,.complete,.control
-         longLabel  211086.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249596.bw
-         priority 1
-
-         track 211073.5
-         parent NG-SmallIntestine on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel duodenum.biopsy,.complete,.control
-         longLabel  211073.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM2249597.bw
+         shortLabel small.intestine
+         longLabel  SI9037.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-SmallIntestine/bw/GSM1219849.bw
          priority 1
 

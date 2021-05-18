@@ -1,5 +1,0 @@
-hub MLHM-Macrophage
-shortLabel MLHM-Macrophage
-longLabel MLHM-Macrophage
-genomesFile genomes.txt
-email ejm374@drexel.edu

@@ -1,0 +1,5 @@
+hub EC-Melanocyte
+shortLabel EC-Melanocyte
+longLabel EC-Melanocyte
+genomesFile genomes.txt
+email ejm374@drexel.edu

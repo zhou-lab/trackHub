@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track PatientA_FFPE_250ng_BS_LIG_8ul.1
+         track 7220.genomic.DNA.1
          parent ES-Epithelial on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel colon.adenocarcinoma,.FFPE.from.Patient.A
-         longLabel  PatientA_FFPE_250ng_BS_LIG_8ul.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424801.bw
+         shortLabel Airway.Epithelial.Cell
+         longLabel  7220.genomic.DNA.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM4085554.bw
          priority 1
 
-         track PatientA_FFPE_500ng_BS_RES_8ul.2
+         track 7259.genomic.DNA.2
          parent ES-Epithelial on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel colon.adenocarcinoma,.FFPE.from.Patient.A
-         longLabel  PatientA_FFPE_500ng_BS_RES_8ul.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424802.bw
+         shortLabel Airway.Epithelial.Cell
+         longLabel  7259.genomic.DNA.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM4085555.bw
          priority 1
 
-         track PatientA_FFPE_250ng_BS_RES_8ul.3
+         track 7293.genomic.DNA.3
          parent ES-Epithelial on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel colon.adenocarcinoma,.FFPE.from.Patient.A
-         longLabel  PatientA_FFPE_250ng_BS_RES_8ul.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424803.bw
+         shortLabel Airway.Epithelial.Cell
+         longLabel  7293.genomic.DNA.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM4085556.bw
          priority 1
 
-         track PatientA_FFPE_250ng_BS_RES_8ul,.rep2.4
+         track 7296.genomic.DNA.4
          parent ES-Epithelial on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel colon.adenocarcinoma,.FFPE.from.Patient.A
-         longLabel  PatientA_FFPE_250ng_BS_RES_8ul,.rep2.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424804.bw
-         priority 1
-
-         track PatientB_FF_500ng_BS_4ul.5
-         parent ES-Epithelial on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel colon.adenocarcinoma,.fresh.frozen.from.Patient.B
-         longLabel  PatientB_FF_500ng_BS_4ul.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM1424805.bw
+         shortLabel Airway.Epithelial.Cell
+         longLabel  7296.genomic.DNA.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ES-Epithelial/bw/GSM4085557.bw
          priority 1
 

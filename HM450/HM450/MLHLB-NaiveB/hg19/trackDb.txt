@@ -1,0 +1,44 @@
+track MLHLB-NaiveB
+type bigWig
+shortLabel MLHLB-NaiveB
+longLabel MLHLB-NaiveB
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Bcell01.1
+         parent MLHLB-NaiveB on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Naive.B-cells
+         longLabel  Bcell01.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLB-NaiveB/bw/GSM1052426.bw
+         priority 1
+
+         track Bcell02.2
+         parent MLHLB-NaiveB on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Naive.B-cells
+         longLabel  Bcell02.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLB-NaiveB/bw/GSM1052427.bw
+         priority 1
+
+         track Bcell01.3
+         parent MLHLB-NaiveB on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Naive.B-cells
+         longLabel  Bcell01.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHLB-NaiveB/bw/GSM1052426.bw
+         priority 1
+

@@ -1,5 +1,0 @@
-hub U-cell-line
-shortLabel U-cell-line
-longLabel U-cell-line
-genomesFile genomes.txt
-email ejm374@drexel.edu

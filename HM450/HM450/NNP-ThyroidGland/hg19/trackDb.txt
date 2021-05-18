@@ -1,0 +1,55 @@
+track NNP-ThyroidGland
+type bigWig
+shortLabel NNP-ThyroidGland
+longLabel NNP-ThyroidGland
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Thyroid_Normal_7.1
+         parent NNP-ThyroidGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel thyroid
+         longLabel  Thyroid_Normal_7.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-ThyroidGland/bw/GSM1281102.bw
+         priority 1
+
+         track Thyroid_Normal_8.2
+         parent NNP-ThyroidGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel thyroid
+         longLabel  Thyroid_Normal_8.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-ThyroidGland/bw/GSM1281121.bw
+         priority 1
+
+         track Thyroid_Normal_9.3
+         parent NNP-ThyroidGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel thyroid
+         longLabel  Thyroid_Normal_9.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-ThyroidGland/bw/GSM1281138.bw
+         priority 1
+
+         track Thyroid_Normal_10.4
+         parent NNP-ThyroidGland on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel thyroid
+         longLabel  Thyroid_Normal_10.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-ThyroidGland/bw/GSM1281154.bw
+         priority 1
+

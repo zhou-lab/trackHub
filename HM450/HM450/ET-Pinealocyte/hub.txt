@@ -1,0 +1,5 @@
+hub ET-Pinealocyte
+shortLabel ET-Pinealocyte
+longLabel ET-Pinealocyte
+genomesFile genomes.txt
+email ejm374@drexel.edu

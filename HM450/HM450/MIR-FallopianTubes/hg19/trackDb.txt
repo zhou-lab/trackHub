@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track fallopian.tube.epithelial.cells.(FTE21).1
+         track AOCS_172.1
          parent MIR-FallopianTubes on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Fresh-frozen.normal.fallopian.tube.epithelial.cells
-         longLabel  fallopian.tube.epithelial.cells.(FTE21).1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM2146825.bw
+         shortLabel Fallopian.Tube.Cells
+         longLabel  AOCS_172.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM1606969.bw
          priority 1
 
-         track fallopian.tube.epithelial.cells.(FTE21).2
+         track AOCS_173.2
          parent MIR-FallopianTubes on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Fresh-frozen.normal.fallopian.tube.epithelial.cells
-         longLabel  fallopian.tube.epithelial.cells.(FTE21).2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM2146826.bw
+         shortLabel Fallopian.Tube.Cells
+         longLabel  AOCS_173.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM1606970.bw
          priority 1
 
-         track fallopian.tube.epithelial.cells.(FTE22).3
+         track AOCS_174.3
          parent MIR-FallopianTubes on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Fresh-frozen.normal.fallopian.tube.epithelial.cells
-         longLabel  fallopian.tube.epithelial.cells.(FTE22).3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM4392132.bw
+         shortLabel Fallopian.Tube.Cells
+         longLabel  AOCS_174.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM1606971.bw
          priority 1
 
-         track fallopian.tube.epithelial.cells.(FTE22).4
+         track AOCS_175.4
          parent MIR-FallopianTubes on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Fresh-frozen.normal.fallopian.tube.epithelial.cells
-         longLabel  fallopian.tube.epithelial.cells.(FTE22).4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM4392133.bw
-         priority 1
-
-         track FTE11:.Epithelial.layer.by.mechanical.scraping.of.resected.fimbriae.fallopian.tubes.5
-         parent MIR-FallopianTubes on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel Epithelial.layer.by.mechanical.scraping.of.resected.fimbriae.fallopian.tubes
-         longLabel  FTE11:.Epithelial.layer.by.mechanical.scraping.of.resected.fimbriae.fallopian.tubes.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM4392134.bw
+         shortLabel Fallopian.Tube.Cells
+         longLabel  AOCS_175.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MIR-FallopianTubes/bw/GSM1606972.bw
          priority 1
 

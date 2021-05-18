@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track Sample98_Normal.1
+         track Sample2_Normal.1
          parent ER-Lung on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
          shortLabel normal.lung
-         longLabel  Sample98_Normal.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632977.bw
+         longLabel  Sample2_Normal.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632881.bw
          priority 1
 
-         track Sample102_Normal.2
+         track Sample5_Normal.2
          parent ER-Lung on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
          shortLabel normal.lung
-         longLabel  Sample102_Normal.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632981.bw
+         longLabel  Sample5_Normal.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632884.bw
          priority 1
 
-         track Sample104_Normal.3
+         track Sample94_Normal.3
          parent ER-Lung on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
          shortLabel normal.lung
-         longLabel  Sample104_Normal.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632983.bw
+         longLabel  Sample94_Normal.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632973.bw
          priority 1
 
-         track Sample106_Normal.4
+         track Sample96_Normal.4
          parent ER-Lung on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
          shortLabel normal.lung
-         longLabel  Sample106_Normal.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632985.bw
-         priority 1
-
-         track Sample108_Normal.5
-         parent ER-Lung on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel normal.lung
-         longLabel  Sample108_Normal.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632987.bw
+         longLabel  Sample96_Normal.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ER-Lung/bw/GSM1632975.bw
          priority 1
 

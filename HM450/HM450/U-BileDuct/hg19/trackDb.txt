@@ -1,0 +1,55 @@
+track U-BileDuct
+type bigWig
+shortLabel U-BileDuct
+longLabel U-BileDuct
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Normal.Bile.Duct.[210776N].1
+         parent U-BileDuct on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.Bile.Duct
+         longLabel  Normal.Bile.Duct.[210776N].1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-BileDuct/bw/GSM1204501.bw
+         priority 1
+
+         track Normal.Bile.Duct.[31823989N].2
+         parent U-BileDuct on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.Bile.Duct
+         longLabel  Normal.Bile.Duct.[31823989N].2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-BileDuct/bw/GSM1204503.bw
+         priority 1
+
+         track Normal.Bile.Duct.[37417607N].3
+         parent U-BileDuct on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.Bile.Duct
+         longLabel  Normal.Bile.Duct.[37417607N].3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-BileDuct/bw/GSM1204504.bw
+         priority 1
+
+         track Normal.Bile.Duct.[Z1102N].4
+         parent U-BileDuct on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.Bile.Duct
+         longLabel  Normal.Bile.Duct.[Z1102N].4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/U-BileDuct/bw/GSM1204506.bw
+         priority 1
+

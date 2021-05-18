@@ -1,0 +1,22 @@
+track ET-Pinealocyte
+type bigWig
+shortLabel ET-Pinealocyte
+longLabel ET-Pinealocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Pineal.gland.1
+         parent ET-Pinealocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Pineal.gland
+         longLabel  Pineal.gland.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/ET-Pinealocyte/bw/GSM1818390.bw
+         priority 1
+

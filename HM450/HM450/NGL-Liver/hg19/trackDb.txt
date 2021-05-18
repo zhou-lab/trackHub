@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track SAMPLE_22_Adult.1
+         track L_1.1
          parent NGL-Liver on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Liver
-         longLabel  SAMPLE_22_Adult.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501423.bw
+         shortLabel liver.tissue,.adult
+         longLabel  L_1.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1647885.bw
          priority 1
 
-         track SAMPLE_22_Adult.2
+         track L_2.2
          parent NGL-Liver on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Liver
-         longLabel  SAMPLE_22_Adult.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501424.bw
+         shortLabel liver.tissue,.adult
+         longLabel  L_2.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1647887.bw
          priority 1
 
-         track SAMPLE_23_Adult.3
+         track HCC8257-N.3
          parent NGL-Liver on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Liver
-         longLabel  SAMPLE_23_Adult.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501425.bw
+         shortLabel Frozen.tissues
+         longLabel  HCC8257-N.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM2212784.bw
          priority 1
 
-         track SAMPLE_23_Adult.4
+         track HCC6952-N.4
          parent NGL-Liver on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Liver
-         longLabel  SAMPLE_23_Adult.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501426.bw
-         priority 1
-
-         track SAMPLE_24_Adult.5
-         parent NGL-Liver on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel Liver
-         longLabel  SAMPLE_24_Adult.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM1501427.bw
+         shortLabel Frozen.tissues
+         longLabel  HCC6952-N.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Liver/bw/GSM2212794.bw
          priority 1
 

@@ -1,0 +1,5 @@
+hub NNP-ThyroidGland
+shortLabel NNP-ThyroidGland
+longLabel NNP-ThyroidGland
+genomesFile genomes.txt
+email ejm374@drexel.edu

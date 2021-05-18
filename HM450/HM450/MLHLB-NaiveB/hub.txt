@@ -1,0 +1,5 @@
+hub MLHLB-NaiveB
+shortLabel MLHLB-NaiveB
+longLabel MLHLB-NaiveB
+genomesFile genomes.txt
+email ejm374@drexel.edu

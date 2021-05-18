@@ -1,5 +1,0 @@
-hub ET-Neuron
-shortLabel ET-Neuron
-longLabel ET-Neuron
-genomesFile genomes.txt
-email ejm374@drexel.edu

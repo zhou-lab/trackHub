@@ -1,0 +1,22 @@
+track NGL-Hepatocyte
+type bigWig
+shortLabel NGL-Hepatocyte
+longLabel NGL-Hepatocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track hepatocytes_rep1.1
+         parent NGL-Hepatocyte on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel hepatocytes
+         longLabel  hepatocytes_rep1.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NGL-Hepatocyte/bw/GSM3455774.bw
+         priority 1
+

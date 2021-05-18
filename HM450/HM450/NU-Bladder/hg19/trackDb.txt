@@ -1,0 +1,55 @@
+track NU-Bladder
+type bigWig
+shortLabel NU-Bladder
+longLabel NU-Bladder
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track NB4.1
+         parent NU-Bladder on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.Bladder
+         longLabel  NB4.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Bladder/bw/GSM1278535.bw
+         priority 1
+
+         track NB6.2
+         parent NU-Bladder on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.Bladder
+         longLabel  NB6.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Bladder/bw/GSM1278532.bw
+         priority 1
+
+         track NB5.3
+         parent NU-Bladder on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.Bladder
+         longLabel  NB5.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Bladder/bw/GSM1278533.bw
+         priority 1
+
+         track NB8.4
+         parent NU-Bladder on
+         type bigWig
+         color 0,102,255
+         maxHeightPixels 128:25:10
+         viewLimits 0.0:1.0
+         shortLabel Normal.Bladder
+         longLabel  NB8.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Bladder/bw/GSM1278534.bw
+         priority 1
+

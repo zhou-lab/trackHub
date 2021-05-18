@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track C.3.1
+         track C.2N.1
          parent NNP-Thymus on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
          shortLabel human.thymus
-         longLabel  C.3.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482673.bw
+         longLabel  C.2N.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482690.bw
          priority 1
 
-         track C.5.2
+         track CD34+/CD1a-.1.2
          parent NNP-Thymus on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel human.thymus
-         longLabel  C.5.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482674.bw
+         shortLabel thymus.biopsy
+         longLabel  CD34+/CD1a-.1.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM1329730.bw
          priority 1
 
-         track C.6.3
+         track CD34+/CD1a-.2.3
          parent NNP-Thymus on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel human.thymus
-         longLabel  C.6.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482675.bw
+         shortLabel thymus.biopsy
+         longLabel  CD34+/CD1a-.2.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM1329731.bw
          priority 1
 
-         track C.7.4
+         track CD34+/CD1a+.4
          parent NNP-Thymus on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel human.thymus
-         longLabel  C.7.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482676.bw
-         priority 1
-
-         track C.8.5
-         parent NNP-Thymus on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel human.thymus
-         longLabel  C.8.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM2482677.bw
+         shortLabel thymus.biopsy
+         longLabel  CD34+/CD1a+.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NNP-Thymus/bw/GSM1329732.bw
          priority 1
 

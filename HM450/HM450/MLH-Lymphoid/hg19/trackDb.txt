@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track genomic.DNA.at.diagnosis.from.BCP-ALL.patient.ALL_5.1
+         track P24_NL.1
          parent MLH-Lymphoid on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Bone.marrow
-         longLabel  genomic.DNA.at.diagnosis.from.BCP-ALL.patient.ALL_5.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203376.bw
+         shortLabel norm_lymphnode_FFPE_patient.24
+         longLabel  P24_NL.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1897644.bw
          priority 1
 
-         track genomic.DNA.at.diagnosis.from.BCP-ALL.patient.ALL_5.2
+         track P41_NL.2
          parent MLH-Lymphoid on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Bone.marrow
-         longLabel  genomic.DNA.at.diagnosis.from.BCP-ALL.patient.ALL_5.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203377.bw
+         shortLabel norm_lymphnode_FFPE_patient.41
+         longLabel  P41_NL.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1897665.bw
          priority 1
 
-         track genomic.DNA.at.first.relapse.from.patient.ALL_5r1.3
+         track P85_NL.3
          parent MLH-Lymphoid on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Bone.marrow
-         longLabel  genomic.DNA.at.first.relapse.from.patient.ALL_5r1.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203378.bw
+         shortLabel norm_lymphnode_FFPE_patient.85
+         longLabel  P85_NL.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1897700.bw
          priority 1
 
-         track genomic.DNA.at.first.relapse.from.patient.ALL_5r1.4
+         track SAMPLE.17:.Genomic.DNA.of.N1.from.Health.control.group.4
          parent MLH-Lymphoid on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Bone.marrow
-         longLabel  genomic.DNA.at.first.relapse.from.patient.ALL_5r1.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203379.bw
-         priority 1
-
-         track genomic.DNA.at.second.relapse.from.patient.ALL_5r2.5
-         parent MLH-Lymphoid on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel Bone.marrow
-         longLabel  genomic.DNA.at.second.relapse.from.patient.ALL_5r2.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM1203380.bw
+         shortLabel N1.from.Health.control.group
+         longLabel  SAMPLE.17:.Genomic.DNA.of.N1.from.Health.control.group.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLH-Lymphoid/bw/GSM4685235.bw
          priority 1
 

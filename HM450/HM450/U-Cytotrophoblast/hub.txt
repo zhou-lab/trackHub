@@ -1,5 +1,0 @@
-hub U-Cytotrophoblast
-shortLabel U-Cytotrophoblast
-longLabel U-Cytotrophoblast
-genomesFile genomes.txt
-email ejm374@drexel.edu

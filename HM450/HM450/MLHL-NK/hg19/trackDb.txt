@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track genomic.DNA.from.Donor.2.CD3-CD56+CD57-.canonical.NK.cells.1
+         track NKcell-Control-L1.1
          parent MLHL-NK on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel CD3-CD56+CD57-.canonical.NK.cells
-         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57-.canonical.NK.cells.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625000.bw
+         shortLabel Control-NKcell
+         longLabel  NKcell-Control-L1.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM2349438.bw
          priority 1
 
-         track genomic.DNA.from.Donor.2.CD3-CD56+CD57-.canonical.NK.cells.2
+         track NKcell-Control-L2.2
          parent MLHL-NK on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel CD3-CD56+CD57-.canonical.NK.cells
-         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57-.canonical.NK.cells.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625002.bw
+         shortLabel Control-NKcell
+         longLabel  NKcell-Control-L2.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM2349447.bw
          priority 1
 
-         track genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2+.canonical.NK.cells.3
+         track NKcell-Control-L3.3
          parent MLHL-NK on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel CD3-CD56+CD57+EAT-2+.canonical.NK.cells
-         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2+.canonical.NK.cells.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625003.bw
+         shortLabel Control-NKcell
+         longLabel  NKcell-Control-L3.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM2349456.bw
          priority 1
 
-         track genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2+.canonical.NK.cells.4
+         track NKcell-Control-L4.4
          parent MLHL-NK on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel CD3-CD56+CD57+EAT-2+.canonical.NK.cells
-         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2+.canonical.NK.cells.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625004.bw
-         priority 1
-
-         track genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2-.adaptive.NK.cells.5
-         parent MLHL-NK on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel CD3-CD56+CD57+EAT-2-.adaptive.NK.cells
-         longLabel  genomic.DNA.from.Donor.2.CD3-CD56+CD57+EAT-2-.adaptive.NK.cells.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM1625006.bw
+         shortLabel Control-NKcell
+         longLabel  NKcell-Control-L4.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/MLHL-NK/bw/GSM2349465.bw
          priority 1
 

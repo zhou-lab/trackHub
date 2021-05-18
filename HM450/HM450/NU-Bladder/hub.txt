@@ -1,0 +1,5 @@
+hub NU-Bladder
+shortLabel NU-Bladder
+longLabel NU-Bladder
+genomesFile genomes.txt
+email ejm374@drexel.edu

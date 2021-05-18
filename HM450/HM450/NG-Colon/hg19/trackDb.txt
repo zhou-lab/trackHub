@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track genomic.DNA.from.R0007T.1
+         track 1N.1
          parent NG-Colon on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel rectal.cancer
-         longLabel  genomic.DNA.from.R0007T.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM1958877.bw
+         shortLabel adjacent.normal.colon.tissue
+         longLabel  1N.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062671.bw
          priority 1
 
-         track genomic.DNA.from.R0007T.2
+         track 2N.2
          parent NG-Colon on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel rectal.cancer
-         longLabel  genomic.DNA.from.R0007T.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM1958879.bw
+         shortLabel adjacent.normal.colon.tissue
+         longLabel  2N.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062672.bw
          priority 1
 
-         track genomic.DNA.from.C0028T.3
+         track 3N.3
          parent NG-Colon on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel rectal.cancer
-         longLabel  genomic.DNA.from.C0028T.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062665.bw
+         shortLabel adjacent.normal.colon.tissue
+         longLabel  3N.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062673.bw
          priority 1
 
-         track genomic.DNA.from.C0028T.4
+         track 4N.4
          parent NG-Colon on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel rectal.cancer
-         longLabel  genomic.DNA.from.C0028T.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062666.bw
-         priority 1
-
-         track 1T.5
-         parent NG-Colon on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel colorectal.cancer
-         longLabel  1T.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062667.bw
+         shortLabel adjacent.normal.colon.tissue
+         longLabel  4N.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NG-Colon/bw/GSM2062674.bw
          priority 1
 

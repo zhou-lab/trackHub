@@ -1,0 +1,5 @@
+hub NGL-Hepatocyte
+shortLabel NGL-Hepatocyte
+longLabel NGL-Hepatocyte
+genomesFile genomes.txt
+email ejm374@drexel.edu

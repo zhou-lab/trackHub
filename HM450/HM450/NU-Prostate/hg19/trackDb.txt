@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track 6264509130_4_Tumor_prostate_cancer_Gleason6_HM450K.1
+         track P14_AN.1
          parent NU-Prostate on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Prostate.5
-         longLabel  6264509130_4_Tumor_prostate_cancer_Gleason6_HM450K.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1162375.bw
+         shortLabel norm_prostate_FFPE_patient.14
+         longLabel  P14_AN.1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1897624.bw
          priority 1
 
-         track 6285609104._Benign_prostate_cancer_HM450K.2
+         track P15_AN.2
          parent NU-Prostate on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Prostate.6
-         longLabel  6285609104._Benign_prostate_cancer_HM450K.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1162380.bw
+         shortLabel norm_prostate_FFPE_patient.15
+         longLabel  P15_AN.2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1897628.bw
          priority 1
 
-         track 6285650040._Benign_prostate_cancer_HM450K.3
+         track P17_AN.3
          parent NU-Prostate on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Prostate.7
-         longLabel  6285650040._Benign_prostate_cancer_HM450K.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1162381.bw
+         shortLabel norm_prostate_FFPE_patient.17
+         longLabel  P17_AN.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1897633.bw
          priority 1
 
-         track 6285650050_Benign_prostate_cancer_HM450K.4
+         track P23_AN.4
          parent NU-Prostate on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel Prostate.8
-         longLabel  6285650050_Benign_prostate_cancer_HM450K.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1162382.bw
-         priority 1
-
-         track PC3.cells.treated.with.vehicle.control.(SAH),.biological.replicate.1.5
-         parent NU-Prostate on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel PC3.cells.treated.with.vehicle.control.(SAH)
-         longLabel  PC3.cells.treated.with.vehicle.control.(SAH),.biological.replicate.1.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1519011.bw
+         shortLabel norm_prostate_FFPE_patient.23
+         longLabel  P23_AN.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/NU-Prostate/bw/GSM1897638.bw
          priority 1
 

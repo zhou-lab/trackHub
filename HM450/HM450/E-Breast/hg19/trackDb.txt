@@ -9,58 +9,47 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-         track GS0005630.1
+         track Human.normal.breast.tissue.[TAX577589].1
          parent E-Breast on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel breast.cancer.tissue
-         longLabel  GS0005630.1
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466944.bw
+         shortLabel normal.breast.tissue
+         longLabel  Human.normal.breast.tissue.[TAX577589].1
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1936941.bw
          priority 1
 
-         track GS0005638.2
+         track Human.normal.breast.tissue.[TAX577591].2
          parent E-Breast on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel breast.cancer.tissue
-         longLabel  GS0005638.2
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466945.bw
+         shortLabel normal.breast.tissue
+         longLabel  Human.normal.breast.tissue.[TAX577591].2
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1936953.bw
          priority 1
 
-         track GS0005643.3
+         track Genomic.DNA.from.normal.healthy.human.tissue.NB1.3
          parent E-Breast on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel breast.cancer.tissue
-         longLabel  GS0005643.3
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466946.bw
+         shortLabel Normal.breast
+         longLabel  Genomic.DNA.from.normal.healthy.human.tissue.NB1.3
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM3530494.bw
          priority 1
 
-         track GS0005646.4
+         track Genomic.DNA.from.normal.healthy.human.tissue.NB2.4
          parent E-Breast on
          type bigWig
          color 0,102,255
          maxHeightPixels 128:25:10
          viewLimits 0.0:1.0
-         shortLabel breast.cancer.tissue
-         longLabel  GS0005646.4
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466947.bw
-         priority 1
-
-         track GS0005650.5
-         parent E-Breast on
-         type bigWig
-         color 0,102,255
-         maxHeightPixels 128:25:10
-         viewLimits 0.0:1.0
-         shortLabel breast.cancer.tissue
-         longLabel  GS0005650.5
-         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM1466948.bw
+         shortLabel Normal.breast
+         longLabel  Genomic.DNA.from.normal.healthy.human.tissue.NB2.4
+         bigDataUrl https://zhouserver.research.chop.edu/moyerej/trackhubs/HM450/E-Breast/bw/GSM3530495.bw
          priority 1
 

@@ -1,5 +1,0 @@
-hub MLC-BloodVessel
-shortLabel MLC-BloodVessel
-longLabel MLC-BloodVessel
-genomesFile genomes.txt
-email ejm374@drexel.edu
