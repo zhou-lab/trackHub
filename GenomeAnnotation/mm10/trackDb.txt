@@ -61,7 +61,15 @@ color 0,120,60
 maxHeightPixels 128:25:10
 priority 1
 
-
+track ICR_Tomizawa2011
+bigDataUrl http://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/ICRDMR/mm10/20210526_Tomizawa2011Development_ICR_PMID21247965.bb
+shortLabel ICR Tomizawa et al. 2011 Development PMID 21247965
+longLabel ICR Tomizawa et al. 2011 Development PMID 21247965
+type bigBed
+visibility dense
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
 
 
 
