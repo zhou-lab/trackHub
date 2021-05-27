@@ -119,28 +119,28 @@ dragAndDrop on
          type bigWig
          shortLabel Kobayashi2012PLoSG_Oocyte.bw
          longLabel Kobayashi2012PLoSG_Oocyte.bw
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Kobayashi2012PLoSG_Oocyte.bw.bw
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Kobayashi2012PLoSG_Oocyte.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-DNMT1KO.bw
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-DNMT1KO.bw
          longLabel Shirane2013PLoSG_Oocyte-DNMT1KO.bw
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT1KO.bw.bw
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT1KO.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-DNMT3BKO.bw
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-DNMT3BKO.bw
          longLabel Shirane2013PLoSG_Oocyte-DNMT3BKO.bw
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3BKO.bw.bw
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3BKO.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-DNMT3LKO.bw
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-DNMT3LKO.bw
          longLabel Shirane2013PLoSG_Oocyte-DNMT3LKO.bw
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3LKO.bw.bw
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3LKO.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-GV.bw
