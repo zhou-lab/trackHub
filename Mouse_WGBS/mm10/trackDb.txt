@@ -147,14 +147,14 @@ dragAndDrop on
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-GV.bw
          longLabel Shirane2013PLoSG_Oocyte-GV.bw
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-GV.bw.bw
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-GV.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-NG.bw
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-NG.bw
          longLabel Shirane2013PLoSG_Oocyte-NG.bw
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-NG.bw.bw
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-NG.bw
          parent EmbryoGerm on
          
          track Wang2014Cell_PGC-male
