@@ -146,16 +146,24 @@ dragAndDrop on
          track Shirane2013PLoSG_Oocyte-GV.bw
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-GV.bw
-         longLabel Shirane2013PLoSG_Oocyte-GV.bw
+         longLabel Shirane2013PLoSG_Oocyte-GV
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-GV.bw
          parent EmbryoGerm on
          
-         track Shirane2013PLoSG_Oocyte-NG.bw
+         track Shirane2013PLoSG_Oocyte-NG
          type bigWig
-         shortLabel Shirane2013PLoSG_Oocyte-NG.bw
-         longLabel Shirane2013PLoSG_Oocyte-NG.bw
+         shortLabel Shirane2013PLoSG_Oocyte-NG
+         longLabel Shirane2013PLoSG_Oocyte-NG
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-NG.bw
          parent EmbryoGerm on
+         
+         track GSM1370534_MII_oocytes_bulk
+         type bigWig
+         shortLabel GSM1370534_MII_oocytes_bulk
+         longLabel GSM1370534_MII_oocytes_bulk
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-NG.bw
+         parent EmbryoGerm on
+         http://zhouserver.research.chop.edu/server/trackHub/Mouse_WGBS/mm10/depth0/GSM1370534_MII_oocytes_bulk.mm10_liftOver.bw
          
          track Wang2014Cell_PGC-male
          type bigWig
