@@ -114,7 +114,6 @@ dragAndDrop on
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3AKO.bw
          parent EmbryoGerm on
          
-         
          track Kobayashi2012PLoSG_Oocyte
          type bigWig
          shortLabel Kobayashi2012PLoSG_Oocyte
@@ -166,15 +165,15 @@ dragAndDrop on
 
          track Smallwood2014_GSM1413827_MII_2_deeper.mm10_liftOver
          type bigWig
-         shortLabel Smallwood2014_GSM1370534_MII_oocytes_bulk
-         longLabel Smallwood2014_GSM1370534_MII_oocytes_bulk
+         shortLabel Smallwood2014_GSM1413827_MII_2_deeper
+         longLabel Smallwood2014_GSM1413827_MII_2_deeper
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413827_MII_2_deeper.mm10_liftOver.bw
          parent EmbryoGerm on
          
          track Smallwood2014_GSM1413828_MII_5_deeper.mm10_liftOver
          type bigWig
-         shortLabel Smallwood2014_GSM1413828_MII_5_deeper.mm10_liftOver
-         longLabel Smallwood2014_GSM1413828_MII_5_deeper.mm10_liftOver
+         shortLabel Smallwood2014_GSM1413828_MII_5_deeper
+         longLabel Smallwood2014_GSM1413828_MII_5_deeper
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413828_MII_5_deeper.mm10_liftOver.bw
          parent EmbryoGerm on
 
