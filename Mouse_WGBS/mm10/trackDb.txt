@@ -111,70 +111,70 @@ dragAndDrop on
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-DNMT3AKO
          longLabel Shirane2013PLoSG_Oocyte-DNMT3AKO
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3AKO.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3AKO.bw
          parent EmbryoGerm on
          
          track Kobayashi2012PLoSG_Oocyte
          type bigWig
          shortLabel Kobayashi2012PLoSG_Oocyte
          longLabel Kobayashi2012PLoSG_Oocyte
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Kobayashi2012PLoSG_Oocyte.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/Kobayashi2012PLoSG_Oocyte.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-DNMT1KO
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-DNMT1KO
          longLabel Shirane2013PLoSG_Oocyte-DNMT1KO
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT1KO.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT1KO.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-DNMT3BKO
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-DNMT3BKO
          longLabel Shirane2013PLoSG_Oocyte-DNMT3BKO
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3BKO.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3BKO.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-DNMT3LKO
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-DNMT3LKO
          longLabel Shirane2013PLoSG_Oocyte-DNMT3LKO
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3LKO.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-DNMT3LKO.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-GV
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-GV
          longLabel Shirane2013PLoSG_Oocyte-GV
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-GV.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-GV.bw
          parent EmbryoGerm on
          
          track Shirane2013PLoSG_Oocyte-NG
          type bigWig
          shortLabel Shirane2013PLoSG_Oocyte-NG
          longLabel Shirane2013PLoSG_Oocyte-NG
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-NG.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-NG.bw
          parent EmbryoGerm on
          
          track Smallwood2014_GSM1370534_MII_oocytes_bulk
          type bigWig
          shortLabel Smallwood2014_GSM1370534_MII_oocytes_bulk
          longLabel Smallwood2014_GSM1370534_MII_oocytes_bulk
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1370534_MII_oocytes_bulk.mm10_liftOver.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/GSM1370534_MII_oocytes_bulk.mm10_liftOver.bw
          parent EmbryoGerm on
 
          track Smallwood2014_GSM1413827_MII_2_deeper.mm10_liftOver
          type bigWig
          shortLabel Smallwood2014_GSM1413827_MII_2_deeper
          longLabel Smallwood2014_GSM1413827_MII_2_deeper
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413827_MII_2_deeper.mm10_liftOver.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/GSM1413827_MII_2_deeper.mm10_liftOver.bw
          parent EmbryoGerm on
          
          track Smallwood2014_GSM1413828_MII_5_deeper.mm10_liftOver
          type bigWig
          shortLabel Smallwood2014_GSM1413828_MII_5_deeper
          longLabel Smallwood2014_GSM1413828_MII_5_deeper
-         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413828_MII_5_deeper.mm10_liftOver.bw
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/depth0/GSM1413828_MII_5_deeper.mm10_liftOver.bw
          parent EmbryoGerm on
 
          track Wang2014Cell_PGC-male
