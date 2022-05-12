@@ -1,0 +1,788 @@
+track ActivatedBcells
+shortLabel ActivatedBcells
+longLabel Cusanovich2018_ATAC ActivatedBcellsn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters4
+    shortLabel clusters4
+    longLabel Activated_B_cells-clusters_4-cluster_4
+    parent ActivatedBcells on
+
+track Alveolarmacrophages
+shortLabel Alveolarmacrophages
+longLabel Cusanovich2018_ATAC Alveolarmacrophagesn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters17
+    shortLabel clusters17
+    longLabel Alveolar_macrophages-clusters_17-cluster_2
+    parent Alveolarmacrophages on
+
+track Astrocytes
+shortLabel Astrocytes
+longLabel Cusanovich2018_ATAC Astrocytesn=(4)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters19
+    shortLabel clusters19
+    longLabel Astrocytes-clusters_19-cluster_1
+    parent Astrocytes on
+
+    track clusters19
+    shortLabel clusters19
+    longLabel Astrocytes-clusters_19-cluster_2
+    parent Astrocytes on
+
+    track clusters19
+    shortLabel clusters19
+    longLabel Astrocytes-clusters_19-cluster_3
+    parent Astrocytes on
+
+    track clusters19
+    shortLabel clusters19
+    longLabel Astrocytes-clusters_19-cluster_4
+    parent Astrocytes on
+
+track Bcells
+shortLabel Bcells
+longLabel Cusanovich2018_ATAC Bcellsn=(4)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters16
+    shortLabel clusters16
+    longLabel B_cells-clusters_16-cluster_1
+    parent Bcells on
+
+    track clusters4
+    shortLabel clusters4
+    longLabel B_cells-clusters_4-cluster_1
+    parent Bcells on
+
+    track clusters4
+    shortLabel clusters4
+    longLabel B_cells-clusters_4-cluster_2
+    parent Bcells on
+
+    track clusters4
+    shortLabel clusters4
+    longLabel B_cells-clusters_4-cluster_3
+    parent Bcells on
+
+track Cardiomyocytes
+shortLabel Cardiomyocytes
+longLabel Cusanovich2018_ATAC Cardiomyocytesn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters7
+    shortLabel clusters7
+    longLabel Cardiomyocytes-clusters_7-cluster_1
+    parent Cardiomyocytes on
+
+track Cerebellargranulecells
+shortLabel Cerebellargranulecells
+longLabel Cusanovich2018_ATAC Cerebellargranulecellsn=(2)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters8
+    shortLabel clusters8
+    longLabel Cerebellar_granule_cells-clusters_8-cluster_1
+    parent Cerebellargranulecells on
+
+    track clusters8
+    shortLabel clusters8
+    longLabel Cerebellar_granule_cells-clusters_8-cluster_2
+    parent Cerebellargranulecells on
+
+track Collectingduct
+shortLabel Collectingduct
+longLabel Cusanovich2018_ATAC Collectingductn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters18
+    shortLabel clusters18
+    longLabel Collecting_duct-clusters_18-cluster_5
+    parent Collectingduct on
+
+track Collisions
+shortLabel Collisions
+longLabel Cusanovich2018_ATAC Collisionsn=(7)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters17
+    shortLabel clusters17
+    longLabel Collisions-clusters_17-cluster_4
+    parent Collisions on
+
+    track clusters17
+    shortLabel clusters17
+    longLabel Collisions-clusters_17-cluster_5
+    parent Collisions on
+
+    track clusters26
+    shortLabel clusters26
+    longLabel Collisions-clusters_26-cluster_2
+    parent Collisions on
+
+    track clusters26
+    shortLabel clusters26
+    longLabel Collisions-clusters_26-cluster_3
+    parent Collisions on
+
+    track clusters27
+    shortLabel clusters27
+    longLabel Collisions-clusters_27-cluster_2
+    parent Collisions on
+
+    track clusters27
+    shortLabel clusters27
+    longLabel Collisions-clusters_27-cluster_3
+    parent Collisions on
+
+    track clusters30
+    shortLabel clusters30
+    longLabel Collisions-clusters_30-cluster_3
+    parent Collisions on
+
+track DCTCD
+shortLabel DCTCD
+longLabel Cusanovich2018_ATAC DCTCDn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters18
+    shortLabel clusters18
+    longLabel DCT_CD-clusters_18-cluster_1
+    parent DCTCD on
+
+track Dendriticcells
+shortLabel Dendriticcells
+longLabel Cusanovich2018_ATAC Dendriticcellsn=(2)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters17
+    shortLabel clusters17
+    longLabel Dendritic_cells-clusters_17-cluster_1
+    parent Dendriticcells on
+
+    track clusters17
+    shortLabel clusters17
+    longLabel Dendritic_cells-clusters_17-cluster_3
+    parent Dendriticcells on
+
+track Distalconvolutedtubule
+shortLabel Distalconvolutedtubule
+longLabel Cusanovich2018_ATAC Distalconvolutedtubulen=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters18
+    shortLabel clusters18
+    longLabel Distal_convoluted_tubule-clusters_18-cluster_4
+    parent Distalconvolutedtubule on
+
+track EndothelialIIcells
+shortLabel EndothelialIIcells
+longLabel Cusanovich2018_ATAC EndothelialIIcellsn=(5)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters23
+    shortLabel clusters23
+    longLabel Endothelial_II_cells-clusters_23-cluster_1
+    parent EndothelialIIcells on
+
+    track clusters25
+    shortLabel clusters25
+    longLabel Endothelial_II_cells-clusters_25-cluster_2
+    parent EndothelialIIcells on
+
+    track clusters25
+    shortLabel clusters25
+    longLabel Endothelial_II_cells-clusters_25-cluster_3
+    parent EndothelialIIcells on
+
+    track clusters9
+    shortLabel clusters9
+    longLabel Endothelial_II_cells-clusters_9-cluster_2
+    parent EndothelialIIcells on
+
+    track clusters9
+    shortLabel clusters9
+    longLabel Endothelial_II_cells-clusters_9-cluster_3
+    parent EndothelialIIcells on
+
+track EndothelialIcells
+shortLabel EndothelialIcells
+longLabel Cusanovich2018_ATAC EndothelialIcellsn=(3)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters22
+    shortLabel clusters22
+    longLabel Endothelial_I_cells-clusters_22-cluster_1
+    parent EndothelialIcells on
+
+    track clusters22
+    shortLabel clusters22
+    longLabel Endothelial_I_cells-clusters_22-cluster_3
+    parent EndothelialIcells on
+
+    track clusters22
+    shortLabel clusters22
+    longLabel Endothelial_I_cells-clusters_22-cluster_4
+    parent EndothelialIcells on
+
+track EndothelialIglomerular
+shortLabel EndothelialIglomerular
+longLabel Cusanovich2018_ATAC EndothelialIglomerularn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters22
+    shortLabel clusters22
+    longLabel Endothelial_I_glomerular-clusters_22-cluster_2
+    parent EndothelialIglomerular on
+
+track Enterocytes
+shortLabel Enterocytes
+longLabel Cusanovich2018_ATAC Enterocytesn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters6
+    shortLabel clusters6
+    longLabel Enterocytes-clusters_6-cluster_1
+    parent Enterocytes on
+
+track Erythroblasts
+shortLabel Erythroblasts
+longLabel Cusanovich2018_ATAC Erythroblastsn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters13
+    shortLabel clusters13
+    longLabel Erythroblasts-clusters_13-cluster_1
+    parent Erythroblasts on
+
+track ExneuronsCPN
+shortLabel ExneuronsCPN
+longLabel Cusanovich2018_ATAC ExneuronsCPNn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters5
+    shortLabel clusters5
+    longLabel Ex_neurons_CPN-clusters_5-cluster_1
+    parent ExneuronsCPN on
+
+track ExneuronsCThPN
+shortLabel ExneuronsCThPN
+longLabel Cusanovich2018_ATAC ExneuronsCThPNn=(2)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters5
+    shortLabel clusters5
+    longLabel Ex_neurons_CThPN-clusters_5-cluster_3
+    parent ExneuronsCThPN on
+
+    track clusters5
+    shortLabel clusters5
+    longLabel Ex_neurons_CThPN-clusters_5-cluster_4
+    parent ExneuronsCThPN on
+
+track ExneuronsSCPN
+shortLabel ExneuronsSCPN
+longLabel Cusanovich2018_ATAC ExneuronsSCPNn=(2)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters29
+    shortLabel clusters29
+    longLabel Ex_neurons_SCPN-clusters_29-cluster_1
+    parent ExneuronsSCPN on
+
+    track clusters5
+    shortLabel clusters5
+    longLabel Ex_neurons_SCPN-clusters_5-cluster_2
+    parent ExneuronsSCPN on
+
+track Hematopoieticprogenitors
+shortLabel Hematopoieticprogenitors
+longLabel Cusanovich2018_ATAC Hematopoieticprogenitorsn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters10
+    shortLabel clusters10
+    longLabel Hematopoietic_progenitors-clusters_10-cluster_1
+    parent Hematopoieticprogenitors on
+
+track Hepatocytes
+shortLabel Hepatocytes
+longLabel Cusanovich2018_ATAC Hepatocytesn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters3
+    shortLabel clusters3
+    longLabel Hepatocytes-clusters_3-cluster_1
+    parent Hepatocytes on
+
+track ImmatureBcells
+shortLabel ImmatureBcells
+longLabel Cusanovich2018_ATAC ImmatureBcellsn=(2)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters28
+    shortLabel clusters28
+    longLabel Immature_B_cells-clusters_28-cluster_1
+    parent ImmatureBcells on
+
+    track clusters28
+    shortLabel clusters28
+    longLabel Immature_B_cells-clusters_28-cluster_2
+    parent ImmatureBcells on
+
+track Inhibitoryneurons
+shortLabel Inhibitoryneurons
+longLabel Cusanovich2018_ATAC Inhibitoryneuronsn=(3)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters15
+    shortLabel clusters15
+    longLabel Inhibitory_neurons-clusters_15-cluster_1
+    parent Inhibitoryneurons on
+
+    track clusters15
+    shortLabel clusters15
+    longLabel Inhibitory_neurons-clusters_15-cluster_2
+    parent Inhibitoryneurons on
+
+    track clusters5
+    shortLabel clusters5
+    longLabel Inhibitory_neurons-clusters_5-cluster_5
+    parent Inhibitoryneurons on
+
+track Loopofhenle
+shortLabel Loopofhenle
+longLabel Cusanovich2018_ATAC Loopofhenlen=(2)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters18
+    shortLabel clusters18
+    longLabel Loop_of_henle-clusters_18-cluster_2
+    parent Loopofhenle on
+
+    track clusters18
+    shortLabel clusters18
+    longLabel Loop_of_henle-clusters_18-cluster_3
+    parent Loopofhenle on
+
+track Macrophages
+shortLabel Macrophages
+longLabel Cusanovich2018_ATAC Macrophagesn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters16
+    shortLabel clusters16
+    longLabel Macrophages-clusters_16-cluster_2
+    parent Macrophages on
+
+track Microglia
+shortLabel Microglia
+longLabel Cusanovich2018_ATAC Microglian=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters16
+    shortLabel clusters16
+    longLabel Microglia-clusters_16-cluster_3
+    parent Microglia on
+
+track Monocytes
+shortLabel Monocytes
+longLabel Cusanovich2018_ATAC Monocytesn=(2)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters24
+    shortLabel clusters24
+    longLabel Monocytes-clusters_24-cluster_1
+    parent Monocytes on
+
+    track clusters24
+    shortLabel clusters24
+    longLabel Monocytes-clusters_24-cluster_2
+    parent Monocytes on
+
+track NKcells
+shortLabel NKcells
+longLabel Cusanovich2018_ATAC NKcellsn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters12
+    shortLabel clusters12
+    longLabel NK_cells-clusters_12-cluster_3
+    parent NKcells on
+
+track Oligodendrocytes
+shortLabel Oligodendrocytes
+longLabel Cusanovich2018_ATAC Oligodendrocytesn=(2)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters21
+    shortLabel clusters21
+    longLabel Oligodendrocytes-clusters_21-cluster_1
+    parent Oligodendrocytes on
+
+    track clusters21
+    shortLabel clusters21
+    longLabel Oligodendrocytes-clusters_21-cluster_2
+    parent Oligodendrocytes on
+
+track Podocytes
+shortLabel Podocytes
+longLabel Cusanovich2018_ATAC Podocytesn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters25
+    shortLabel clusters25
+    longLabel Podocytes-clusters_25-cluster_1
+    parent Podocytes on
+
+track Proximaltubule
+shortLabel Proximaltubule
+longLabel Cusanovich2018_ATAC Proximaltubulen=(4)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters11
+    shortLabel clusters11
+    longLabel Proximal_tubule-clusters_11-cluster_1
+    parent Proximaltubule on
+
+    track clusters11
+    shortLabel clusters11
+    longLabel Proximal_tubule-clusters_11-cluster_2
+    parent Proximaltubule on
+
+    track clusters11
+    shortLabel clusters11
+    longLabel Proximal_tubule-clusters_11-cluster_3
+    parent Proximaltubule on
+
+    track clusters11
+    shortLabel clusters11
+    longLabel Proximal_tubule-clusters_11-cluster_5
+    parent Proximaltubule on
+
+track ProximaltubuleS3
+shortLabel ProximaltubuleS3
+longLabel Cusanovich2018_ATAC ProximaltubuleS3n=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters11
+    shortLabel clusters11
+    longLabel Proximal_tubule_S3-clusters_11-cluster_4
+    parent ProximaltubuleS3 on
+
+track Purkinjecells
+shortLabel Purkinjecells
+longLabel Cusanovich2018_ATAC Purkinjecellsn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters27
+    shortLabel clusters27
+    longLabel Purkinje_cells-clusters_27-cluster_1
+    parent Purkinjecells on
+
+track RegulatoryTcells
+shortLabel RegulatoryTcells
+longLabel Cusanovich2018_ATAC RegulatoryTcellsn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters12
+    shortLabel clusters12
+    longLabel Regulatory_T_cells-clusters_12-cluster_2
+    parent RegulatoryTcells on
+
+track SOMInterneurons
+shortLabel SOMInterneurons
+longLabel Cusanovich2018_ATAC SOMInterneuronsn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters15
+    shortLabel clusters15
+    longLabel SOM+_Interneurons-clusters_15-cluster_3
+    parent SOMInterneurons on
+
+track Sperm
+shortLabel Sperm
+longLabel Cusanovich2018_ATAC Spermn=(3)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters14
+    shortLabel clusters14
+    longLabel Sperm-clusters_14-cluster_1
+    parent Sperm on
+
+    track clusters14
+    shortLabel clusters14
+    longLabel Sperm-clusters_14-cluster_2
+    parent Sperm on
+
+    track clusters14
+    shortLabel clusters14
+    longLabel Sperm-clusters_14-cluster_3
+    parent Sperm on
+
+track Tcells
+shortLabel Tcells
+longLabel Cusanovich2018_ATAC Tcellsn=(4)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters12
+    shortLabel clusters12
+    longLabel T_cells-clusters_12-cluster_1
+    parent Tcells on
+
+    track clusters12
+    shortLabel clusters12
+    longLabel T_cells-clusters_12-cluster_4
+    parent Tcells on
+
+    track clusters12
+    shortLabel clusters12
+    longLabel T_cells-clusters_12-cluster_5
+    parent Tcells on
+
+    track clusters26
+    shortLabel clusters26
+    longLabel T_cells-clusters_26-cluster_1
+    parent Tcells on
+
+track TypeIIpneumocytes
+shortLabel TypeIIpneumocytes
+longLabel Cusanovich2018_ATAC TypeIIpneumocytesn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters30
+    shortLabel clusters30
+    longLabel Type_II_pneumocytes-clusters_30-cluster_1
+    parent TypeIIpneumocytes on
+
+track TypeIpneumocytes
+shortLabel TypeIpneumocytes
+longLabel Cusanovich2018_ATAC TypeIpneumocytesn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters20
+    shortLabel clusters20
+    longLabel Type_I_pneumocytes-clusters_20-cluster_1
+    parent TypeIpneumocytes on
+
+track Unknown
+shortLabel Unknown
+longLabel Cusanovich2018_ATAC Unknownn=(8)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track clusters1
+    shortLabel clusters1
+    longLabel Unknown-clusters_1-cluster_2
+    parent Unknown on
+
+    track clusters1
+    shortLabel clusters1
+    longLabel Unknown-clusters_1-cluster_3
+    parent Unknown on
+
+    track clusters23
+    shortLabel clusters23
+    longLabel Unknown-clusters_23-cluster_2
+    parent Unknown on
+
+    track clusters30
+    shortLabel clusters30
+    longLabel Unknown-clusters_30-cluster_2
+    parent Unknown on
+
+    track clusters30
+    shortLabel clusters30
+    longLabel Unknown-clusters_30-cluster_4
+    parent Unknown on
+
+    track clusters5
+    shortLabel clusters5
+    longLabel Unknown-clusters_5-cluster_6
+    parent Unknown on
+
+    track clusters7
+    shortLabel clusters7
+    longLabel Unknown-clusters_7-cluster_2
+    parent Unknown on
+
+    track clusters9
+    shortLabel clusters9
+    longLabel Unknown-clusters_9-cluster_1
+    parent Unknown on
+
+track MasterPeaks
+shortLabel MasterPeaks
+longLabel Cusanovich2018_ATAC MasterPeaksn=(1)
+type bigWig
+visibility hide
+maxHeightPixels 50:30:10
+viewLimits 0:4
+compositeTrack on
+
+    track masterpeakstrack
+    shortLabel masterpeakstrack
+    longLabel master_peaks_track
+    parent MasterPeaks on

@@ -1,0 +1,5 @@
+hub hub
+shortLabel mouse_atac
+longLabel Cusanovich2018_ATAC single cell mouse ATAC
+genomesFile MouseATAC.genomes.txt
+email dingw1@chop.edu
