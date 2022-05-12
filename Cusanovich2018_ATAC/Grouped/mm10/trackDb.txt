@@ -7,9 +7,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters4
-    shortLabel clusters4
-    longLabel Activated_B_cells-clusters_4-cluster_4
+    track clusters4cluster4
+    shortLabel clusters4cluster4
+    longLabel ActivatedBcellsclusters4cluster4
     parent ActivatedBcells on
 
 track Alveolarmacrophages
@@ -21,9 +21,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters17
-    shortLabel clusters17
-    longLabel Alveolar_macrophages-clusters_17-cluster_2
+    track clusters17cluster2
+    shortLabel clusters17cluster2
+    longLabel Alveolarmacrophagesclusters17cluster2
     parent Alveolarmacrophages on
 
 track Astrocytes
@@ -35,24 +35,24 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters19
-    shortLabel clusters19
-    longLabel Astrocytes-clusters_19-cluster_1
+    track clusters19cluster1
+    shortLabel clusters19cluster1
+    longLabel Astrocytesclusters19cluster1
     parent Astrocytes on
 
-    track clusters19
-    shortLabel clusters19
-    longLabel Astrocytes-clusters_19-cluster_2
+    track clusters19cluster2
+    shortLabel clusters19cluster2
+    longLabel Astrocytesclusters19cluster2
     parent Astrocytes on
 
-    track clusters19
-    shortLabel clusters19
-    longLabel Astrocytes-clusters_19-cluster_3
+    track clusters19cluster3
+    shortLabel clusters19cluster3
+    longLabel Astrocytesclusters19cluster3
     parent Astrocytes on
 
-    track clusters19
-    shortLabel clusters19
-    longLabel Astrocytes-clusters_19-cluster_4
+    track clusters19cluster4
+    shortLabel clusters19cluster4
+    longLabel Astrocytesclusters19cluster4
     parent Astrocytes on
 
 track Bcells
@@ -64,24 +64,24 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters16
-    shortLabel clusters16
-    longLabel B_cells-clusters_16-cluster_1
+    track clusters16cluster1
+    shortLabel clusters16cluster1
+    longLabel Bcellsclusters16cluster1
     parent Bcells on
 
-    track clusters4
-    shortLabel clusters4
-    longLabel B_cells-clusters_4-cluster_1
+    track clusters4cluster1
+    shortLabel clusters4cluster1
+    longLabel Bcellsclusters4cluster1
     parent Bcells on
 
-    track clusters4
-    shortLabel clusters4
-    longLabel B_cells-clusters_4-cluster_2
+    track clusters4cluster2
+    shortLabel clusters4cluster2
+    longLabel Bcellsclusters4cluster2
     parent Bcells on
 
-    track clusters4
-    shortLabel clusters4
-    longLabel B_cells-clusters_4-cluster_3
+    track clusters4cluster3
+    shortLabel clusters4cluster3
+    longLabel Bcellsclusters4cluster3
     parent Bcells on
 
 track Cardiomyocytes
@@ -93,9 +93,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters7
-    shortLabel clusters7
-    longLabel Cardiomyocytes-clusters_7-cluster_1
+    track clusters7cluster1
+    shortLabel clusters7cluster1
+    longLabel Cardiomyocytesclusters7cluster1
     parent Cardiomyocytes on
 
 track Cerebellargranulecells
@@ -107,14 +107,14 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters8
-    shortLabel clusters8
-    longLabel Cerebellar_granule_cells-clusters_8-cluster_1
+    track clusters8cluster1
+    shortLabel clusters8cluster1
+    longLabel Cerebellargranulecellsclusters8cluster1
     parent Cerebellargranulecells on
 
-    track clusters8
-    shortLabel clusters8
-    longLabel Cerebellar_granule_cells-clusters_8-cluster_2
+    track clusters8cluster2
+    shortLabel clusters8cluster2
+    longLabel Cerebellargranulecellsclusters8cluster2
     parent Cerebellargranulecells on
 
 track Collectingduct
@@ -126,9 +126,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters18
-    shortLabel clusters18
-    longLabel Collecting_duct-clusters_18-cluster_5
+    track clusters18cluster5
+    shortLabel clusters18cluster5
+    longLabel Collectingductclusters18cluster5
     parent Collectingduct on
 
 track Collisions
@@ -140,39 +140,39 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters17
-    shortLabel clusters17
-    longLabel Collisions-clusters_17-cluster_4
+    track clusters17cluster4
+    shortLabel clusters17cluster4
+    longLabel Collisionsclusters17cluster4
     parent Collisions on
 
-    track clusters17
-    shortLabel clusters17
-    longLabel Collisions-clusters_17-cluster_5
+    track clusters17cluster5
+    shortLabel clusters17cluster5
+    longLabel Collisionsclusters17cluster5
     parent Collisions on
 
-    track clusters26
-    shortLabel clusters26
-    longLabel Collisions-clusters_26-cluster_2
+    track clusters26cluster2
+    shortLabel clusters26cluster2
+    longLabel Collisionsclusters26cluster2
     parent Collisions on
 
-    track clusters26
-    shortLabel clusters26
-    longLabel Collisions-clusters_26-cluster_3
+    track clusters26cluster3
+    shortLabel clusters26cluster3
+    longLabel Collisionsclusters26cluster3
     parent Collisions on
 
-    track clusters27
-    shortLabel clusters27
-    longLabel Collisions-clusters_27-cluster_2
+    track clusters27cluster2
+    shortLabel clusters27cluster2
+    longLabel Collisionsclusters27cluster2
     parent Collisions on
 
-    track clusters27
-    shortLabel clusters27
-    longLabel Collisions-clusters_27-cluster_3
+    track clusters27cluster3
+    shortLabel clusters27cluster3
+    longLabel Collisionsclusters27cluster3
     parent Collisions on
 
-    track clusters30
-    shortLabel clusters30
-    longLabel Collisions-clusters_30-cluster_3
+    track clusters30cluster3
+    shortLabel clusters30cluster3
+    longLabel Collisionsclusters30cluster3
     parent Collisions on
 
 track DCTCD
@@ -184,9 +184,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters18
-    shortLabel clusters18
-    longLabel DCT_CD-clusters_18-cluster_1
+    track clusters18cluster1
+    shortLabel clusters18cluster1
+    longLabel DCTCDclusters18cluster1
     parent DCTCD on
 
 track Dendriticcells
@@ -198,14 +198,14 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters17
-    shortLabel clusters17
-    longLabel Dendritic_cells-clusters_17-cluster_1
+    track clusters17cluster1
+    shortLabel clusters17cluster1
+    longLabel Dendriticcellsclusters17cluster1
     parent Dendriticcells on
 
-    track clusters17
-    shortLabel clusters17
-    longLabel Dendritic_cells-clusters_17-cluster_3
+    track clusters17cluster3
+    shortLabel clusters17cluster3
+    longLabel Dendriticcellsclusters17cluster3
     parent Dendriticcells on
 
 track Distalconvolutedtubule
@@ -217,9 +217,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters18
-    shortLabel clusters18
-    longLabel Distal_convoluted_tubule-clusters_18-cluster_4
+    track clusters18cluster4
+    shortLabel clusters18cluster4
+    longLabel Distalconvolutedtubuleclusters18cluster4
     parent Distalconvolutedtubule on
 
 track EndothelialIIcells
@@ -231,29 +231,29 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters23
-    shortLabel clusters23
-    longLabel Endothelial_II_cells-clusters_23-cluster_1
+    track clusters23cluster1
+    shortLabel clusters23cluster1
+    longLabel EndothelialIIcellsclusters23cluster1
     parent EndothelialIIcells on
 
-    track clusters25
-    shortLabel clusters25
-    longLabel Endothelial_II_cells-clusters_25-cluster_2
+    track clusters25cluster2
+    shortLabel clusters25cluster2
+    longLabel EndothelialIIcellsclusters25cluster2
     parent EndothelialIIcells on
 
-    track clusters25
-    shortLabel clusters25
-    longLabel Endothelial_II_cells-clusters_25-cluster_3
+    track clusters25cluster3
+    shortLabel clusters25cluster3
+    longLabel EndothelialIIcellsclusters25cluster3
     parent EndothelialIIcells on
 
-    track clusters9
-    shortLabel clusters9
-    longLabel Endothelial_II_cells-clusters_9-cluster_2
+    track clusters9cluster2
+    shortLabel clusters9cluster2
+    longLabel EndothelialIIcellsclusters9cluster2
     parent EndothelialIIcells on
 
-    track clusters9
-    shortLabel clusters9
-    longLabel Endothelial_II_cells-clusters_9-cluster_3
+    track clusters9cluster3
+    shortLabel clusters9cluster3
+    longLabel EndothelialIIcellsclusters9cluster3
     parent EndothelialIIcells on
 
 track EndothelialIcells
@@ -265,19 +265,19 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters22
-    shortLabel clusters22
-    longLabel Endothelial_I_cells-clusters_22-cluster_1
+    track clusters22cluster1
+    shortLabel clusters22cluster1
+    longLabel EndothelialIcellsclusters22cluster1
     parent EndothelialIcells on
 
-    track clusters22
-    shortLabel clusters22
-    longLabel Endothelial_I_cells-clusters_22-cluster_3
+    track clusters22cluster3
+    shortLabel clusters22cluster3
+    longLabel EndothelialIcellsclusters22cluster3
     parent EndothelialIcells on
 
-    track clusters22
-    shortLabel clusters22
-    longLabel Endothelial_I_cells-clusters_22-cluster_4
+    track clusters22cluster4
+    shortLabel clusters22cluster4
+    longLabel EndothelialIcellsclusters22cluster4
     parent EndothelialIcells on
 
 track EndothelialIglomerular
@@ -289,9 +289,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters22
-    shortLabel clusters22
-    longLabel Endothelial_I_glomerular-clusters_22-cluster_2
+    track clusters22cluster2
+    shortLabel clusters22cluster2
+    longLabel EndothelialIglomerularclusters22cluster2
     parent EndothelialIglomerular on
 
 track Enterocytes
@@ -303,9 +303,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters6
-    shortLabel clusters6
-    longLabel Enterocytes-clusters_6-cluster_1
+    track clusters6cluster1
+    shortLabel clusters6cluster1
+    longLabel Enterocytesclusters6cluster1
     parent Enterocytes on
 
 track Erythroblasts
@@ -317,9 +317,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters13
-    shortLabel clusters13
-    longLabel Erythroblasts-clusters_13-cluster_1
+    track clusters13cluster1
+    shortLabel clusters13cluster1
+    longLabel Erythroblastsclusters13cluster1
     parent Erythroblasts on
 
 track ExneuronsCPN
@@ -331,9 +331,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters5
-    shortLabel clusters5
-    longLabel Ex_neurons_CPN-clusters_5-cluster_1
+    track clusters5cluster1
+    shortLabel clusters5cluster1
+    longLabel ExneuronsCPNclusters5cluster1
     parent ExneuronsCPN on
 
 track ExneuronsCThPN
@@ -345,14 +345,14 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters5
-    shortLabel clusters5
-    longLabel Ex_neurons_CThPN-clusters_5-cluster_3
+    track clusters5cluster3
+    shortLabel clusters5cluster3
+    longLabel ExneuronsCThPNclusters5cluster3
     parent ExneuronsCThPN on
 
-    track clusters5
-    shortLabel clusters5
-    longLabel Ex_neurons_CThPN-clusters_5-cluster_4
+    track clusters5cluster4
+    shortLabel clusters5cluster4
+    longLabel ExneuronsCThPNclusters5cluster4
     parent ExneuronsCThPN on
 
 track ExneuronsSCPN
@@ -364,14 +364,14 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters29
-    shortLabel clusters29
-    longLabel Ex_neurons_SCPN-clusters_29-cluster_1
+    track clusters29cluster1
+    shortLabel clusters29cluster1
+    longLabel ExneuronsSCPNclusters29cluster1
     parent ExneuronsSCPN on
 
-    track clusters5
-    shortLabel clusters5
-    longLabel Ex_neurons_SCPN-clusters_5-cluster_2
+    track clusters5cluster2
+    shortLabel clusters5cluster2
+    longLabel ExneuronsSCPNclusters5cluster2
     parent ExneuronsSCPN on
 
 track Hematopoieticprogenitors
@@ -383,9 +383,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters10
-    shortLabel clusters10
-    longLabel Hematopoietic_progenitors-clusters_10-cluster_1
+    track clusters10cluster1
+    shortLabel clusters10cluster1
+    longLabel Hematopoieticprogenitorsclusters10cluster1
     parent Hematopoieticprogenitors on
 
 track Hepatocytes
@@ -397,9 +397,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters3
-    shortLabel clusters3
-    longLabel Hepatocytes-clusters_3-cluster_1
+    track clusters3cluster1
+    shortLabel clusters3cluster1
+    longLabel Hepatocytesclusters3cluster1
     parent Hepatocytes on
 
 track ImmatureBcells
@@ -411,14 +411,14 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters28
-    shortLabel clusters28
-    longLabel Immature_B_cells-clusters_28-cluster_1
+    track clusters28cluster1
+    shortLabel clusters28cluster1
+    longLabel ImmatureBcellsclusters28cluster1
     parent ImmatureBcells on
 
-    track clusters28
-    shortLabel clusters28
-    longLabel Immature_B_cells-clusters_28-cluster_2
+    track clusters28cluster2
+    shortLabel clusters28cluster2
+    longLabel ImmatureBcellsclusters28cluster2
     parent ImmatureBcells on
 
 track Inhibitoryneurons
@@ -430,19 +430,19 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters15
-    shortLabel clusters15
-    longLabel Inhibitory_neurons-clusters_15-cluster_1
+    track clusters15cluster1
+    shortLabel clusters15cluster1
+    longLabel Inhibitoryneuronsclusters15cluster1
     parent Inhibitoryneurons on
 
-    track clusters15
-    shortLabel clusters15
-    longLabel Inhibitory_neurons-clusters_15-cluster_2
+    track clusters15cluster2
+    shortLabel clusters15cluster2
+    longLabel Inhibitoryneuronsclusters15cluster2
     parent Inhibitoryneurons on
 
-    track clusters5
-    shortLabel clusters5
-    longLabel Inhibitory_neurons-clusters_5-cluster_5
+    track clusters5cluster5
+    shortLabel clusters5cluster5
+    longLabel Inhibitoryneuronsclusters5cluster5
     parent Inhibitoryneurons on
 
 track Loopofhenle
@@ -454,14 +454,14 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters18
-    shortLabel clusters18
-    longLabel Loop_of_henle-clusters_18-cluster_2
+    track clusters18cluster2
+    shortLabel clusters18cluster2
+    longLabel Loopofhenleclusters18cluster2
     parent Loopofhenle on
 
-    track clusters18
-    shortLabel clusters18
-    longLabel Loop_of_henle-clusters_18-cluster_3
+    track clusters18cluster3
+    shortLabel clusters18cluster3
+    longLabel Loopofhenleclusters18cluster3
     parent Loopofhenle on
 
 track Macrophages
@@ -473,9 +473,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters16
-    shortLabel clusters16
-    longLabel Macrophages-clusters_16-cluster_2
+    track clusters16cluster2
+    shortLabel clusters16cluster2
+    longLabel Macrophagesclusters16cluster2
     parent Macrophages on
 
 track Microglia
@@ -487,9 +487,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters16
-    shortLabel clusters16
-    longLabel Microglia-clusters_16-cluster_3
+    track clusters16cluster3
+    shortLabel clusters16cluster3
+    longLabel Microgliaclusters16cluster3
     parent Microglia on
 
 track Monocytes
@@ -501,14 +501,14 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters24
-    shortLabel clusters24
-    longLabel Monocytes-clusters_24-cluster_1
+    track clusters24cluster1
+    shortLabel clusters24cluster1
+    longLabel Monocytesclusters24cluster1
     parent Monocytes on
 
-    track clusters24
-    shortLabel clusters24
-    longLabel Monocytes-clusters_24-cluster_2
+    track clusters24cluster2
+    shortLabel clusters24cluster2
+    longLabel Monocytesclusters24cluster2
     parent Monocytes on
 
 track NKcells
@@ -520,9 +520,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters12
-    shortLabel clusters12
-    longLabel NK_cells-clusters_12-cluster_3
+    track clusters12cluster3
+    shortLabel clusters12cluster3
+    longLabel NKcellsclusters12cluster3
     parent NKcells on
 
 track Oligodendrocytes
@@ -534,14 +534,14 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters21
-    shortLabel clusters21
-    longLabel Oligodendrocytes-clusters_21-cluster_1
+    track clusters21cluster1
+    shortLabel clusters21cluster1
+    longLabel Oligodendrocytesclusters21cluster1
     parent Oligodendrocytes on
 
-    track clusters21
-    shortLabel clusters21
-    longLabel Oligodendrocytes-clusters_21-cluster_2
+    track clusters21cluster2
+    shortLabel clusters21cluster2
+    longLabel Oligodendrocytesclusters21cluster2
     parent Oligodendrocytes on
 
 track Podocytes
@@ -553,9 +553,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters25
-    shortLabel clusters25
-    longLabel Podocytes-clusters_25-cluster_1
+    track clusters25cluster1
+    shortLabel clusters25cluster1
+    longLabel Podocytesclusters25cluster1
     parent Podocytes on
 
 track Proximaltubule
@@ -567,24 +567,24 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters11
-    shortLabel clusters11
-    longLabel Proximal_tubule-clusters_11-cluster_1
+    track clusters11cluster1
+    shortLabel clusters11cluster1
+    longLabel Proximaltubuleclusters11cluster1
     parent Proximaltubule on
 
-    track clusters11
-    shortLabel clusters11
-    longLabel Proximal_tubule-clusters_11-cluster_2
+    track clusters11cluster2
+    shortLabel clusters11cluster2
+    longLabel Proximaltubuleclusters11cluster2
     parent Proximaltubule on
 
-    track clusters11
-    shortLabel clusters11
-    longLabel Proximal_tubule-clusters_11-cluster_3
+    track clusters11cluster3
+    shortLabel clusters11cluster3
+    longLabel Proximaltubuleclusters11cluster3
     parent Proximaltubule on
 
-    track clusters11
-    shortLabel clusters11
-    longLabel Proximal_tubule-clusters_11-cluster_5
+    track clusters11cluster5
+    shortLabel clusters11cluster5
+    longLabel Proximaltubuleclusters11cluster5
     parent Proximaltubule on
 
 track ProximaltubuleS3
@@ -596,9 +596,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters11
-    shortLabel clusters11
-    longLabel Proximal_tubule_S3-clusters_11-cluster_4
+    track clusters11cluster4
+    shortLabel clusters11cluster4
+    longLabel ProximaltubuleS3clusters11cluster4
     parent ProximaltubuleS3 on
 
 track Purkinjecells
@@ -610,9 +610,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters27
-    shortLabel clusters27
-    longLabel Purkinje_cells-clusters_27-cluster_1
+    track clusters27cluster1
+    shortLabel clusters27cluster1
+    longLabel Purkinjecellsclusters27cluster1
     parent Purkinjecells on
 
 track RegulatoryTcells
@@ -624,9 +624,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters12
-    shortLabel clusters12
-    longLabel Regulatory_T_cells-clusters_12-cluster_2
+    track clusters12cluster2
+    shortLabel clusters12cluster2
+    longLabel RegulatoryTcellsclusters12cluster2
     parent RegulatoryTcells on
 
 track SOMInterneurons
@@ -638,9 +638,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters15
-    shortLabel clusters15
-    longLabel SOM+_Interneurons-clusters_15-cluster_3
+    track clusters15cluster3
+    shortLabel clusters15cluster3
+    longLabel SOMInterneuronsclusters15cluster3
     parent SOMInterneurons on
 
 track Sperm
@@ -652,19 +652,19 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters14
-    shortLabel clusters14
-    longLabel Sperm-clusters_14-cluster_1
+    track clusters14cluster1
+    shortLabel clusters14cluster1
+    longLabel Spermclusters14cluster1
     parent Sperm on
 
-    track clusters14
-    shortLabel clusters14
-    longLabel Sperm-clusters_14-cluster_2
+    track clusters14cluster2
+    shortLabel clusters14cluster2
+    longLabel Spermclusters14cluster2
     parent Sperm on
 
-    track clusters14
-    shortLabel clusters14
-    longLabel Sperm-clusters_14-cluster_3
+    track clusters14cluster3
+    shortLabel clusters14cluster3
+    longLabel Spermclusters14cluster3
     parent Sperm on
 
 track Tcells
@@ -676,24 +676,24 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters12
-    shortLabel clusters12
-    longLabel T_cells-clusters_12-cluster_1
+    track clusters12cluster1
+    shortLabel clusters12cluster1
+    longLabel Tcellsclusters12cluster1
     parent Tcells on
 
-    track clusters12
-    shortLabel clusters12
-    longLabel T_cells-clusters_12-cluster_4
+    track clusters12cluster4
+    shortLabel clusters12cluster4
+    longLabel Tcellsclusters12cluster4
     parent Tcells on
 
-    track clusters12
-    shortLabel clusters12
-    longLabel T_cells-clusters_12-cluster_5
+    track clusters12cluster5
+    shortLabel clusters12cluster5
+    longLabel Tcellsclusters12cluster5
     parent Tcells on
 
-    track clusters26
-    shortLabel clusters26
-    longLabel T_cells-clusters_26-cluster_1
+    track clusters26cluster1
+    shortLabel clusters26cluster1
+    longLabel Tcellsclusters26cluster1
     parent Tcells on
 
 track TypeIIpneumocytes
@@ -705,9 +705,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters30
-    shortLabel clusters30
-    longLabel Type_II_pneumocytes-clusters_30-cluster_1
+    track clusters30cluster1
+    shortLabel clusters30cluster1
+    longLabel TypeIIpneumocytesclusters30cluster1
     parent TypeIIpneumocytes on
 
 track TypeIpneumocytes
@@ -719,9 +719,9 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters20
-    shortLabel clusters20
-    longLabel Type_I_pneumocytes-clusters_20-cluster_1
+    track clusters20cluster1
+    shortLabel clusters20cluster1
+    longLabel TypeIpneumocytesclusters20cluster1
     parent TypeIpneumocytes on
 
 track Unknown
@@ -733,44 +733,44 @@ maxHeightPixels 50:30:10
 viewLimits 0:4
 compositeTrack on
 
-    track clusters1
-    shortLabel clusters1
-    longLabel Unknown-clusters_1-cluster_2
+    track clusters1cluster2
+    shortLabel clusters1cluster2
+    longLabel Unknownclusters1cluster2
     parent Unknown on
 
-    track clusters1
-    shortLabel clusters1
-    longLabel Unknown-clusters_1-cluster_3
+    track clusters1cluster3
+    shortLabel clusters1cluster3
+    longLabel Unknownclusters1cluster3
     parent Unknown on
 
-    track clusters23
-    shortLabel clusters23
-    longLabel Unknown-clusters_23-cluster_2
+    track clusters23cluster2
+    shortLabel clusters23cluster2
+    longLabel Unknownclusters23cluster2
     parent Unknown on
 
-    track clusters30
-    shortLabel clusters30
-    longLabel Unknown-clusters_30-cluster_2
+    track clusters30cluster2
+    shortLabel clusters30cluster2
+    longLabel Unknownclusters30cluster2
     parent Unknown on
 
-    track clusters30
-    shortLabel clusters30
-    longLabel Unknown-clusters_30-cluster_4
+    track clusters30cluster4
+    shortLabel clusters30cluster4
+    longLabel Unknownclusters30cluster4
     parent Unknown on
 
-    track clusters5
-    shortLabel clusters5
-    longLabel Unknown-clusters_5-cluster_6
+    track clusters5cluster6
+    shortLabel clusters5cluster6
+    longLabel Unknownclusters5cluster6
     parent Unknown on
 
-    track clusters7
-    shortLabel clusters7
-    longLabel Unknown-clusters_7-cluster_2
+    track clusters7cluster2
+    shortLabel clusters7cluster2
+    longLabel Unknownclusters7cluster2
     parent Unknown on
 
-    track clusters9
-    shortLabel clusters9
-    longLabel Unknown-clusters_9-cluster_1
+    track clusters9cluster1
+    shortLabel clusters9cluster1
+    longLabel Unknownclusters9cluster1
     parent Unknown on
 
 track MasterPeaks
@@ -784,5 +784,5 @@ compositeTrack on
 
     track masterpeakstrack
     shortLabel masterpeakstrack
-    longLabel master_peaks_track
+    longLabel masterpeakstrack
     parent MasterPeaks on
