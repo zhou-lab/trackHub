@@ -596,7 +596,7 @@ track Activated_B_cells-clusters_4-cluster_4
 type bigWig
 bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Activated_B_cells-clusters_4-cluster_4.bw
 bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Activated_B_cells-clusters_4-cluster_4.bw
-shortLabel Activated_B_cells-clusters_4-cluster_4
+shortLabel Activated_B_cells
 longLabel Activated_B_cells-clusters_4-cluster_4
 visibility full
 autoScale off
