@@ -2,10 +2,11 @@ track ActivatedBcells
 shortLabel ActivatedBcells
 longLabel Cusanovich2018_ATAC ActivatedBcells(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters4cluster4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Activated_B_cells-clusters_4-cluster_4.bw
@@ -19,10 +20,11 @@ track Alveolarmacrophages
 shortLabel Alveolarmacrophages
 longLabel Cusanovich2018_ATAC Alveolarmacrophages(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters17cluster2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Alveolar_macrophages-clusters_17-cluster_2.bw
@@ -36,10 +38,11 @@ track Astrocytes
 shortLabel Astrocytes
 longLabel Cusanovich2018_ATAC Astrocytes(4)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters19cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Astrocytes-clusters_19-cluster_1.bw
@@ -77,10 +80,11 @@ track Bcells
 shortLabel Bcells
 longLabel Cusanovich2018_ATAC Bcells(4)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters16cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/B_cells-clusters_16-cluster_1.bw
@@ -118,10 +122,11 @@ track Cardiomyocytes
 shortLabel Cardiomyocytes
 longLabel Cusanovich2018_ATAC Cardiomyocytes(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters7cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Cardiomyocytes-clusters_7-cluster_1.bw
@@ -135,10 +140,11 @@ track Cerebellargranulecells
 shortLabel Cerebellargranulecells
 longLabel Cusanovich2018_ATAC Cerebellargranulecells(2)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters8cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Cerebellar_granule_cells-clusters_8-cluster_1.bw
@@ -160,10 +166,11 @@ track Collectingduct
 shortLabel Collectingduct
 longLabel Cusanovich2018_ATAC Collectingduct(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters18cluster5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Collecting_duct-clusters_18-cluster_5.bw
@@ -177,10 +184,11 @@ track Collisions
 shortLabel Collisions
 longLabel Cusanovich2018_ATAC Collisions(7)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters17cluster4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Collisions-clusters_17-cluster_4.bw
@@ -242,10 +250,11 @@ track DCTCD
 shortLabel DCTCD
 longLabel Cusanovich2018_ATAC DCTCD(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters18cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/DCT_CD-clusters_18-cluster_1.bw
@@ -259,10 +268,11 @@ track Dendriticcells
 shortLabel Dendriticcells
 longLabel Cusanovich2018_ATAC Dendriticcells(2)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters17cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Dendritic_cells-clusters_17-cluster_1.bw
@@ -284,10 +294,11 @@ track Distalconvolutedtubule
 shortLabel Distalconvolutedtubule
 longLabel Cusanovich2018_ATAC Distalconvolutedtubule(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters18cluster4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Distal_convoluted_tubule-clusters_18-cluster_4.bw
@@ -301,10 +312,11 @@ track EndothelialIIcells
 shortLabel EndothelialIIcells
 longLabel Cusanovich2018_ATAC EndothelialIIcells(5)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters23cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Endothelial_II_cells-clusters_23-cluster_1.bw
@@ -350,10 +362,11 @@ track EndothelialIcells
 shortLabel EndothelialIcells
 longLabel Cusanovich2018_ATAC EndothelialIcells(3)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters22cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Endothelial_I_cells-clusters_22-cluster_1.bw
@@ -383,10 +396,11 @@ track EndothelialIglomerular
 shortLabel EndothelialIglomerular
 longLabel Cusanovich2018_ATAC EndothelialIglomerular(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters22cluster2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Endothelial_I_glomerular-clusters_22-cluster_2.bw
@@ -400,10 +414,11 @@ track Enterocytes
 shortLabel Enterocytes
 longLabel Cusanovich2018_ATAC Enterocytes(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters6cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Enterocytes-clusters_6-cluster_1.bw
@@ -417,10 +432,11 @@ track Erythroblasts
 shortLabel Erythroblasts
 longLabel Cusanovich2018_ATAC Erythroblasts(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters13cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Erythroblasts-clusters_13-cluster_1.bw
@@ -434,10 +450,11 @@ track ExneuronsCPN
 shortLabel ExneuronsCPN
 longLabel Cusanovich2018_ATAC ExneuronsCPN(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters5cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Ex_neurons_CPN-clusters_5-cluster_1.bw
@@ -451,10 +468,11 @@ track ExneuronsCThPN
 shortLabel ExneuronsCThPN
 longLabel Cusanovich2018_ATAC ExneuronsCThPN(2)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters5cluster3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Ex_neurons_CThPN-clusters_5-cluster_3.bw
@@ -476,10 +494,11 @@ track ExneuronsSCPN
 shortLabel ExneuronsSCPN
 longLabel Cusanovich2018_ATAC ExneuronsSCPN(2)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters29cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Ex_neurons_SCPN-clusters_29-cluster_1.bw
@@ -501,10 +520,11 @@ track Hematopoieticprogenitors
 shortLabel Hematopoieticprogenitors
 longLabel Cusanovich2018_ATAC Hematopoieticprogenitors(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters10cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Hematopoietic_progenitors-clusters_10-cluster_1.bw
@@ -518,10 +538,11 @@ track Hepatocytes
 shortLabel Hepatocytes
 longLabel Cusanovich2018_ATAC Hepatocytes(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters3cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Hepatocytes-clusters_3-cluster_1.bw
@@ -535,10 +556,11 @@ track ImmatureBcells
 shortLabel ImmatureBcells
 longLabel Cusanovich2018_ATAC ImmatureBcells(2)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters28cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Immature_B_cells-clusters_28-cluster_1.bw
@@ -560,10 +582,11 @@ track Inhibitoryneurons
 shortLabel Inhibitoryneurons
 longLabel Cusanovich2018_ATAC Inhibitoryneurons(3)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters15cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Inhibitory_neurons-clusters_15-cluster_1.bw
@@ -593,10 +616,11 @@ track Loopofhenle
 shortLabel Loopofhenle
 longLabel Cusanovich2018_ATAC Loopofhenle(2)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters18cluster2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Loop_of_henle-clusters_18-cluster_2.bw
@@ -618,10 +642,11 @@ track Macrophages
 shortLabel Macrophages
 longLabel Cusanovich2018_ATAC Macrophages(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters16cluster2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Macrophages-clusters_16-cluster_2.bw
@@ -635,10 +660,11 @@ track Microglia
 shortLabel Microglia
 longLabel Cusanovich2018_ATAC Microglia(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters16cluster3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Microglia-clusters_16-cluster_3.bw
@@ -652,10 +678,11 @@ track Monocytes
 shortLabel Monocytes
 longLabel Cusanovich2018_ATAC Monocytes(2)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters24cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Monocytes-clusters_24-cluster_1.bw
@@ -677,10 +704,11 @@ track NKcells
 shortLabel NKcells
 longLabel Cusanovich2018_ATAC NKcells(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters12cluster3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/NK_cells-clusters_12-cluster_3.bw
@@ -694,10 +722,11 @@ track Oligodendrocytes
 shortLabel Oligodendrocytes
 longLabel Cusanovich2018_ATAC Oligodendrocytes(2)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters21cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Oligodendrocytes-clusters_21-cluster_1.bw
@@ -719,10 +748,11 @@ track Podocytes
 shortLabel Podocytes
 longLabel Cusanovich2018_ATAC Podocytes(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters25cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Podocytes-clusters_25-cluster_1.bw
@@ -736,10 +766,11 @@ track Proximaltubule
 shortLabel Proximaltubule
 longLabel Cusanovich2018_ATAC Proximaltubule(4)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters11cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Proximal_tubule-clusters_11-cluster_1.bw
@@ -777,10 +808,11 @@ track ProximaltubuleS3
 shortLabel ProximaltubuleS3
 longLabel Cusanovich2018_ATAC ProximaltubuleS3(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters11cluster4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Proximal_tubule_S3-clusters_11-cluster_4.bw
@@ -794,10 +826,11 @@ track Purkinjecells
 shortLabel Purkinjecells
 longLabel Cusanovich2018_ATAC Purkinjecells(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters27cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Purkinje_cells-clusters_27-cluster_1.bw
@@ -811,10 +844,11 @@ track RegulatoryTcells
 shortLabel RegulatoryTcells
 longLabel Cusanovich2018_ATAC RegulatoryTcells(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters12cluster2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Regulatory_T_cells-clusters_12-cluster_2.bw
@@ -828,10 +862,11 @@ track SOMInterneurons
 shortLabel SOMInterneurons
 longLabel Cusanovich2018_ATAC SOMInterneurons(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters15cluster3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/SOM+_Interneurons-clusters_15-cluster_3.bw
@@ -845,10 +880,11 @@ track Sperm
 shortLabel Sperm
 longLabel Cusanovich2018_ATAC Sperm(3)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters14cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Sperm-clusters_14-cluster_1.bw
@@ -878,10 +914,11 @@ track Tcells
 shortLabel Tcells
 longLabel Cusanovich2018_ATAC Tcells(4)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters12cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/T_cells-clusters_12-cluster_1.bw
@@ -919,10 +956,11 @@ track TypeIIpneumocytes
 shortLabel TypeIIpneumocytes
 longLabel Cusanovich2018_ATAC TypeIIpneumocytes(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters30cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Type_II_pneumocytes-clusters_30-cluster_1.bw
@@ -936,10 +974,11 @@ track TypeIpneumocytes
 shortLabel TypeIpneumocytes
 longLabel Cusanovich2018_ATAC TypeIpneumocytes(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters20cluster1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Type_I_pneumocytes-clusters_20-cluster_1.bw
@@ -953,10 +992,11 @@ track Unknown
 shortLabel Unknown
 longLabel Cusanovich2018_ATAC Unknown(8)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track clusters1cluster2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/Unknown-clusters_1-cluster_2.bw
@@ -1026,10 +1066,11 @@ track MasterPeaks
 shortLabel MasterPeaks
 longLabel Cusanovich2018_ATAC MasterPeaks(1)
 type bigWig
+compositeTrack off
 maxHeightPixels 50:30:10
 viewLimits 0:4
 visibility hide
-compositeTrack on
+
 
     track masterpeakstrack
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/master_peaks_track.bw
