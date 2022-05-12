@@ -913,9 +913,9 @@ maxHeightPixels 50
 
 
 track _All_Peak_Calls
-type bigBed
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/master_peaks_track.bb
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/master_peaks_track.bb
+type bigWig
+bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/master_peaks_track.bw
+bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Cusanovich2018/master_peaks_track.bw
 shortLabel _All_Peak_Calls
 longLabel _All_Peak_Calls
 visibility full
