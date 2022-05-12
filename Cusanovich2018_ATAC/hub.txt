@@ -1,0 +1,5 @@
+hub Mouse sci-ATAC-seq Atlas
+shortLabel Mouse sci-ATAC-seq Atlas
+longLabel Pseudo-bulk profiles for each of the 85 clusters defined mouse sci-ATAC-seq atlas (Cusanovich and Hill, Cell 2018)
+genomesFile genomes.txt
+email ajh24@uw.edu & wanding.zhou@pennmedicine.upenn.edu
