@@ -1,5 +1,5 @@
-hub hub
-shortLabel Brain Sc-WGBS
+hub Brain Sc WGBS
+shortLabel Brain Sc WGBS
 longLabel Liu2021 Brain Single Cell WGBS data (GSE132489)
 genomesFile Liu2021BrainWGBS.genomes.txt
 email dingw1@chop.edu
