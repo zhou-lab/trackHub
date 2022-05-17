@@ -6,7 +6,7 @@ visibility hide
 compositeTrack on
 
     track CA1Ak5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA1__CA1_Ak5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Ak5.bb
     shortLabel CA1Ak5
     longLabel ExcCA1CA1Ak5
     type bigBed 3
@@ -14,7 +14,7 @@ compositeTrack on
     parent ExcCA1 on
 
     track CA1Chrm3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA1__CA1_Chrm3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Chrm3.bb
     shortLabel CA1Chrm3
     longLabel ExcCA1CA1Chrm3
     type bigBed 3
@@ -22,7 +22,7 @@ compositeTrack on
     parent ExcCA1 on
 
     track CA1Kif26a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA1__CA1_Kif26a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Kif26a.bb
     shortLabel CA1Kif26a
     longLabel ExcCA1CA1Kif26a
     type bigBed 3
@@ -30,7 +30,7 @@ compositeTrack on
     parent ExcCA1 on
 
     track CA1Lingo2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA1__CA1_Lingo2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Lingo2.bb
     shortLabel CA1Lingo2
     longLabel ExcCA1CA1Lingo2
     type bigBed 3
@@ -38,7 +38,7 @@ compositeTrack on
     parent ExcCA1 on
 
     track CA1Outlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA1__CA1_Outlier.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Outlier.bb
     shortLabel CA1Outlier
     longLabel ExcCA1CA1Outlier
     type bigBed 3
@@ -46,7 +46,7 @@ compositeTrack on
     parent ExcCA1 on
 
     track CA1Ptprg
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA1__CA1_Ptprg.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Ptprg.bb
     shortLabel CA1Ptprg
     longLabel ExcCA1CA1Ptprg
     type bigBed 3
@@ -61,7 +61,7 @@ visibility hide
 compositeTrack on
 
     track CA3St18Epha5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA3-St18__CA3-St18_Epha5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3-St18__CA3-St18_Epha5.bb
     shortLabel CA3St18Epha5
     longLabel ExcCA3St18CA3St18Epha5
     type bigBed 3
@@ -69,7 +69,7 @@ compositeTrack on
     parent ExcCA3St18 on
 
     track CA3St18Nuak1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA3-St18__CA3-St18_Nuak1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3-St18__CA3-St18_Nuak1.bb
     shortLabel CA3St18Nuak1
     longLabel ExcCA3St18CA3St18Nuak1
     type bigBed 3
@@ -77,7 +77,7 @@ compositeTrack on
     parent ExcCA3St18 on
 
     track CA3St18Tead1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA3-St18__CA3-St18_Tead1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3-St18__CA3-St18_Tead1.bb
     shortLabel CA3St18Tead1
     longLabel ExcCA3St18CA3St18Tead1
     type bigBed 3
@@ -92,7 +92,7 @@ visibility hide
 compositeTrack on
 
     track CA3Cadm2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA3__CA3_Cadm2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3__CA3_Cadm2.bb
     shortLabel CA3Cadm2
     longLabel ExcCA3CA3Cadm2
     type bigBed 3
@@ -100,7 +100,7 @@ compositeTrack on
     parent ExcCA3 on
 
     track CA3Efnb2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CA3__CA3_Efnb2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3__CA3_Efnb2.bb
     shortLabel CA3Efnb2
     longLabel ExcCA3CA3Efnb2
     type bigBed 3
@@ -115,7 +115,7 @@ visibility hide
 compositeTrack on
 
     track CLABcl11a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CLA__CLA_Bcl11a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CLA__CLA_Bcl11a.bb
     shortLabel CLABcl11a
     longLabel ExcCLACLABcl11a
     type bigBed 3
@@ -123,7 +123,7 @@ compositeTrack on
     parent ExcCLA on
 
     track CLACdh8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CLA__CLA_Cdh8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CLA__CLA_Cdh8.bb
     shortLabel CLACdh8
     longLabel ExcCLACLACdh8
     type bigBed 3
@@ -131,7 +131,7 @@ compositeTrack on
     parent ExcCLA on
 
     track CLANrp2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CLA__CLA_Nrp2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CLA__CLA_Nrp2.bb
     shortLabel CLANrp2
     longLabel ExcCLACLANrp2
     type bigBed 3
@@ -146,7 +146,7 @@ visibility hide
 compositeTrack on
 
     track CTL6Hcrtr2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CT-L6__CT-L6_Hcrtr2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CT-L6__CT-L6_Hcrtr2.bb
     shortLabel CTL6Hcrtr2
     longLabel ExcCTL6CTL6Hcrtr2
     type bigBed 3
@@ -154,7 +154,7 @@ compositeTrack on
     parent ExcCTL6 on
 
     track CTL6Il1rap
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CT-L6__CT-L6_Il1rap.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CT-L6__CT-L6_Il1rap.bb
     shortLabel CTL6Il1rap
     longLabel ExcCTL6CTL6Il1rap
     type bigBed 3
@@ -162,7 +162,7 @@ compositeTrack on
     parent ExcCTL6 on
 
     track CTL6Map4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CT-L6__CT-L6_Map4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CT-L6__CT-L6_Map4.bb
     shortLabel CTL6Map4
     longLabel ExcCTL6CTL6Map4
     type bigBed 3
@@ -170,7 +170,7 @@ compositeTrack on
     parent ExcCTL6 on
 
     track CTL6Megf9
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__CT-L6__CT-L6_Megf9.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CT-L6__CT-L6_Megf9.bb
     shortLabel CTL6Megf9
     longLabel ExcCTL6CTL6Megf9
     type bigBed 3
@@ -185,7 +185,7 @@ visibility hide
 compositeTrack on
 
     track DGpoBcl11a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__DG-po__DG-po_Bcl11a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__DG-po__DG-po_Bcl11a.bb
     shortLabel DGpoBcl11a
     longLabel ExcDGpoDGpoBcl11a
     type bigBed 3
@@ -193,7 +193,7 @@ compositeTrack on
     parent ExcDGpo on
 
     track DGpoCalb2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__DG-po__DG-po_Calb2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__DG-po__DG-po_Calb2.bb
     shortLabel DGpoCalb2
     longLabel ExcDGpoDGpoCalb2
     type bigBed 3
@@ -201,7 +201,7 @@ compositeTrack on
     parent ExcDGpo on
 
     track DGpoKctd8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__DG-po__DG-po_Kctd8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__DG-po__DG-po_Kctd8.bb
     shortLabel DGpoKctd8
     longLabel ExcDGpoDGpoKctd8
     type bigBed 3
@@ -216,7 +216,7 @@ visibility hide
 compositeTrack on
 
     track DGdgall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__DG__DG_dg-all.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__DG__DG_dg-all.bb
     shortLabel DGdgall
     longLabel ExcDGDGdgall
     type bigBed 3
@@ -231,7 +231,7 @@ visibility hide
 compositeTrack on
 
     track EPAdcy8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__EP__EP_Adcy8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__EP__EP_Adcy8.bb
     shortLabel EPAdcy8
     longLabel ExcEPEPAdcy8
     type bigBed 3
@@ -239,7 +239,7 @@ compositeTrack on
     parent ExcEP on
 
     track EPRgs8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__EP__EP_Rgs8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__EP__EP_Rgs8.bb
     shortLabel EPRgs8
     longLabel ExcEPEPRgs8
     type bigBed 3
@@ -247,7 +247,7 @@ compositeTrack on
     parent ExcEP on
 
     track EPTspan5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__EP__EP_Tspan5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__EP__EP_Tspan5.bb
     shortLabel EPTspan5
     longLabel ExcEPEPTspan5
     type bigBed 3
@@ -262,7 +262,7 @@ visibility hide
 compositeTrack on
 
     track Gfra1Gfra1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__Gfra1__Gfra1_Gfra1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__Gfra1__Gfra1_Gfra1.bb
     shortLabel Gfra1Gfra1
     longLabel ExcGfra1Gfra1Gfra1
     type bigBed 3
@@ -277,7 +277,7 @@ visibility hide
 compositeTrack on
 
     track IGCA2Chrm3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IG-CA2__IG-CA2_Chrm3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IG-CA2__IG-CA2_Chrm3.bb
     shortLabel IGCA2Chrm3
     longLabel ExcIGCA2IGCA2Chrm3
     type bigBed 3
@@ -285,7 +285,7 @@ compositeTrack on
     parent ExcIGCA2 on
 
     track IGCA2Peak1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IG-CA2__IG-CA2_Peak1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IG-CA2__IG-CA2_Peak1.bb
     shortLabel IGCA2Peak1
     longLabel ExcIGCA2IGCA2Peak1
     type bigBed 3
@@ -293,7 +293,7 @@ compositeTrack on
     parent ExcIGCA2 on
 
     track IGCA2Xpr1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IG-CA2__IG-CA2_Xpr1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IG-CA2__IG-CA2_Xpr1.bb
     shortLabel IGCA2Xpr1
     longLabel ExcIGCA2IGCA2Xpr1
     type bigBed 3
@@ -308,7 +308,7 @@ visibility hide
 compositeTrack on
 
     track ITL23Cux1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L23__IT-L23_Cux1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L23__IT-L23_Cux1.bb
     shortLabel ITL23Cux1
     longLabel ExcITL23ITL23Cux1
     type bigBed 3
@@ -316,7 +316,7 @@ compositeTrack on
     parent ExcITL23 on
 
     track ITL23Foxp1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L23__IT-L23_Foxp1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L23__IT-L23_Foxp1.bb
     shortLabel ITL23Foxp1
     longLabel ExcITL23ITL23Foxp1
     type bigBed 3
@@ -324,7 +324,7 @@ compositeTrack on
     parent ExcITL23 on
 
     track ITL23Ptprt
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L23__IT-L23_Ptprt.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L23__IT-L23_Ptprt.bb
     shortLabel ITL23Ptprt
     longLabel ExcITL23ITL23Ptprt
     type bigBed 3
@@ -332,7 +332,7 @@ compositeTrack on
     parent ExcITL23 on
 
     track ITL23Tenm2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L23__IT-L23_Tenm2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L23__IT-L23_Tenm2.bb
     shortLabel ITL23Tenm2
     longLabel ExcITL23ITL23Tenm2
     type bigBed 3
@@ -347,7 +347,7 @@ visibility hide
 compositeTrack on
 
     track ITL4Astn2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L4__IT-L4_Astn2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L4__IT-L4_Astn2.bb
     shortLabel ITL4Astn2
     longLabel ExcITL4ITL4Astn2
     type bigBed 3
@@ -355,7 +355,7 @@ compositeTrack on
     parent ExcITL4 on
 
     track ITL4Shc3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L4__IT-L4_Shc3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L4__IT-L4_Shc3.bb
     shortLabel ITL4Shc3
     longLabel ExcITL4ITL4Shc3
     type bigBed 3
@@ -370,7 +370,7 @@ visibility hide
 compositeTrack on
 
     track ITL5Cdh8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L5__IT-L5_Cdh8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L5__IT-L5_Cdh8.bb
     shortLabel ITL5Cdh8
     longLabel ExcITL5ITL5Cdh8
     type bigBed 3
@@ -378,7 +378,7 @@ compositeTrack on
     parent ExcITL5 on
 
     track ITL5Etv1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L5__IT-L5_Etv1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L5__IT-L5_Etv1.bb
     shortLabel ITL5Etv1
     longLabel ExcITL5ITL5Etv1
     type bigBed 3
@@ -386,7 +386,7 @@ compositeTrack on
     parent ExcITL5 on
 
     track ITL5Grik3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L5__IT-L5_Grik3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L5__IT-L5_Grik3.bb
     shortLabel ITL5Grik3
     longLabel ExcITL5ITL5Grik3
     type bigBed 3
@@ -401,7 +401,7 @@ visibility hide
 compositeTrack on
 
     track ITL6Cadps2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L6__IT-L6_Cadps2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L6__IT-L6_Cadps2.bb
     shortLabel ITL6Cadps2
     longLabel ExcITL6ITL6Cadps2
     type bigBed 3
@@ -409,7 +409,7 @@ compositeTrack on
     parent ExcITL6 on
 
     track ITL6Fstl4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L6__IT-L6_Fstl4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L6__IT-L6_Fstl4.bb
     shortLabel ITL6Fstl4
     longLabel ExcITL6ITL6Fstl4
     type bigBed 3
@@ -417,7 +417,7 @@ compositeTrack on
     parent ExcITL6 on
 
     track ITL6Man1c1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L6__IT-L6_Man1c1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L6__IT-L6_Man1c1.bb
     shortLabel ITL6Man1c1
     longLabel ExcITL6ITL6Man1c1
     type bigBed 3
@@ -425,7 +425,7 @@ compositeTrack on
     parent ExcITL6 on
 
     track ITL6Oxr1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__IT-L6__IT-L6_Oxr1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L6__IT-L6_Oxr1.bb
     shortLabel ITL6Oxr1
     longLabel ExcITL6ITL6Oxr1
     type bigBed 3
@@ -440,7 +440,7 @@ visibility hide
 compositeTrack on
 
     track L6bAdcy8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__L6b__L6b_Adcy8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__L6b__L6b_Adcy8.bb
     shortLabel L6bAdcy8
     longLabel ExcL6bL6bAdcy8
     type bigBed 3
@@ -448,7 +448,7 @@ compositeTrack on
     parent ExcL6b on
 
     track L6bKcnk2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__L6b__L6b_Kcnk2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__L6b__L6b_Kcnk2.bb
     shortLabel L6bKcnk2
     longLabel ExcL6bL6bKcnk2
     type bigBed 3
@@ -456,7 +456,7 @@ compositeTrack on
     parent ExcL6b on
 
     track L6bNrp2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__L6b__L6b_Nrp2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__L6b__L6b_Nrp2.bb
     shortLabel L6bNrp2
     longLabel ExcL6bL6bNrp2
     type bigBed 3
@@ -464,7 +464,7 @@ compositeTrack on
     parent ExcL6b on
 
     track L6bPkhd1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__L6b__L6b_Pkhd1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__L6b__L6b_Pkhd1.bb
     shortLabel L6bPkhd1
     longLabel ExcL6bL6bPkhd1
     type bigBed 3
@@ -479,7 +479,7 @@ visibility hide
 compositeTrack on
 
     track NPL6Boc
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__NP-L6__NP-L6_Boc.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Boc.bb
     shortLabel NPL6Boc
     longLabel ExcNPL6NPL6Boc
     type bigBed 3
@@ -487,7 +487,7 @@ compositeTrack on
     parent ExcNPL6 on
 
     track NPL6Cntnap4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__NP-L6__NP-L6_Cntnap4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Cntnap4.bb
     shortLabel NPL6Cntnap4
     longLabel ExcNPL6NPL6Cntnap4
     type bigBed 3
@@ -495,7 +495,7 @@ compositeTrack on
     parent ExcNPL6 on
 
     track NPL6Cntnap5a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__NP-L6__NP-L6_Cntnap5a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Cntnap5a.bb
     shortLabel NPL6Cntnap5a
     longLabel ExcNPL6NPL6Cntnap5a
     type bigBed 3
@@ -503,7 +503,7 @@ compositeTrack on
     parent ExcNPL6 on
 
     track NPL6Cyp7b1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__NP-L6__NP-L6_Cyp7b1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Cyp7b1.bb
     shortLabel NPL6Cyp7b1
     longLabel ExcNPL6NPL6Cyp7b1
     type bigBed 3
@@ -511,7 +511,7 @@ compositeTrack on
     parent ExcNPL6 on
 
     track NPL6Kcnab1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__NP-L6__NP-L6_Kcnab1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Kcnab1.bb
     shortLabel NPL6Kcnab1
     longLabel ExcNPL6NPL6Kcnab1
     type bigBed 3
@@ -519,7 +519,7 @@ compositeTrack on
     parent ExcNPL6 on
 
     track NPL6Olfml2b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__NP-L6__NP-L6_Olfml2b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Olfml2b.bb
     shortLabel NPL6Olfml2b
     longLabel ExcNPL6NPL6Olfml2b
     type bigBed 3
@@ -534,7 +534,7 @@ visibility hide
 compositeTrack on
 
     track OLFExcBmpr1b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Bmpr1b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Bmpr1b.bb
     shortLabel OLFExcBmpr1b
     longLabel ExcOLFExcOLFExcBmpr1b
     type bigBed 3
@@ -542,7 +542,7 @@ compositeTrack on
     parent ExcOLFExc on
 
     track OLFExcCdh9
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Cdh9.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Cdh9.bb
     shortLabel OLFExcCdh9
     longLabel ExcOLFExcOLFExcCdh9
     type bigBed 3
@@ -550,7 +550,7 @@ compositeTrack on
     parent ExcOLFExc on
 
     track OLFExcCux2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Cux2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Cux2.bb
     shortLabel OLFExcCux2
     longLabel ExcOLFExcOLFExcCux2
     type bigBed 3
@@ -558,7 +558,7 @@ compositeTrack on
     parent ExcOLFExc on
 
     track OLFExcLrrtm3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Lrrtm3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Lrrtm3.bb
     shortLabel OLFExcLrrtm3
     longLabel ExcOLFExcOLFExcLrrtm3
     type bigBed 3
@@ -566,7 +566,7 @@ compositeTrack on
     parent ExcOLFExc on
 
     track OLFExcOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Outlier.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Outlier.bb
     shortLabel OLFExcOutlier
     longLabel ExcOLFExcOLFExcOutlier
     type bigBed 3
@@ -574,7 +574,7 @@ compositeTrack on
     parent ExcOLFExc on
 
     track OLFExcPld5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Pld5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Pld5.bb
     shortLabel OLFExcPld5
     longLabel ExcOLFExcOLFExcPld5
     type bigBed 3
@@ -582,7 +582,7 @@ compositeTrack on
     parent ExcOLFExc on
 
     track OLFExcRmst
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Rmst.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Rmst.bb
     shortLabel OLFExcRmst
     longLabel ExcOLFExcOLFExcRmst
     type bigBed 3
@@ -590,7 +590,7 @@ compositeTrack on
     parent ExcOLFExc on
 
     track OLFExcSgcd
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Sgcd.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Sgcd.bb
     shortLabel OLFExcSgcd
     longLabel ExcOLFExcOLFExcSgcd
     type bigBed 3
@@ -598,7 +598,7 @@ compositeTrack on
     parent ExcOLFExc on
 
     track OLFExcUnc13c
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__OLF-Exc__OLF-Exc_Unc13c.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Unc13c.bb
     shortLabel OLFExcUnc13c
     longLabel ExcOLFExcOLFExcUnc13c
     type bigBed 3
@@ -613,7 +613,7 @@ visibility hide
 compositeTrack on
 
     track PTL5Abca12
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Abca12.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Abca12.bb
     shortLabel PTL5Abca12
     longLabel ExcPTL5PTL5Abca12
     type bigBed 3
@@ -621,7 +621,7 @@ compositeTrack on
     parent ExcPTL5 on
 
     track PTL5Astn2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Astn2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Astn2.bb
     shortLabel PTL5Astn2
     longLabel ExcPTL5PTL5Astn2
     type bigBed 3
@@ -629,7 +629,7 @@ compositeTrack on
     parent ExcPTL5 on
 
     track PTL5Kcnh1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Kcnh1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Kcnh1.bb
     shortLabel PTL5Kcnh1
     longLabel ExcPTL5PTL5Kcnh1
     type bigBed 3
@@ -637,7 +637,7 @@ compositeTrack on
     parent ExcPTL5 on
 
     track PTL5Nectin1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Nectin1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Nectin1.bb
     shortLabel PTL5Nectin1
     longLabel ExcPTL5PTL5Nectin1
     type bigBed 3
@@ -645,7 +645,7 @@ compositeTrack on
     parent ExcPTL5 on
 
     track PTL5Plcb4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Plcb4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Plcb4.bb
     shortLabel PTL5Plcb4
     longLabel ExcPTL5PTL5Plcb4
     type bigBed 3
@@ -653,7 +653,7 @@ compositeTrack on
     parent ExcPTL5 on
 
     track PTL5Ptprt
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Ptprt.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Ptprt.bb
     shortLabel PTL5Ptprt
     longLabel ExcPTL5PTL5Ptprt
     type bigBed 3
@@ -661,7 +661,7 @@ compositeTrack on
     parent ExcPTL5 on
 
     track PTL5Tenm2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Tenm2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Tenm2.bb
     shortLabel PTL5Tenm2
     longLabel ExcPTL5PTL5Tenm2
     type bigBed 3
@@ -669,7 +669,7 @@ compositeTrack on
     parent ExcPTL5 on
 
     track PTL5Tmtc2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Tmtc2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Tmtc2.bb
     shortLabel PTL5Tmtc2
     longLabel ExcPTL5PTL5Tmtc2
     type bigBed 3
@@ -677,7 +677,7 @@ compositeTrack on
     parent ExcPTL5 on
 
     track PTL5Unc5b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Exc__PT-L5__PT-L5_Unc5b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Unc5b.bb
     shortLabel PTL5Unc5b
     longLabel ExcPTL5PTL5Unc5b
     type bigBed 3
@@ -692,7 +692,7 @@ visibility hide
 compositeTrack on
 
     track CGELamp5Dock5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Lamp5__CGE-Lamp5_Dock5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Dock5.bb
     shortLabel CGELamp5Dock5
     longLabel InhCGELamp5CGELamp5Dock5
     type bigBed 3
@@ -700,7 +700,7 @@ compositeTrack on
     parent InhCGELamp5 on
 
     track CGELamp5Grid1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Lamp5__CGE-Lamp5_Grid1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Grid1.bb
     shortLabel CGELamp5Grid1
     longLabel InhCGELamp5CGELamp5Grid1
     type bigBed 3
@@ -708,7 +708,7 @@ compositeTrack on
     parent InhCGELamp5 on
 
     track CGELamp5Grk5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Lamp5__CGE-Lamp5_Grk5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Grk5.bb
     shortLabel CGELamp5Grk5
     longLabel InhCGELamp5CGELamp5Grk5
     type bigBed 3
@@ -716,7 +716,7 @@ compositeTrack on
     parent InhCGELamp5 on
 
     track CGELamp5Nrxn3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Lamp5__CGE-Lamp5_Nrxn3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Nrxn3.bb
     shortLabel CGELamp5Nrxn3
     longLabel InhCGELamp5CGELamp5Nrxn3
     type bigBed 3
@@ -724,7 +724,7 @@ compositeTrack on
     parent InhCGELamp5 on
 
     track CGELamp5Sorcs1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Lamp5__CGE-Lamp5_Sorcs1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Sorcs1.bb
     shortLabel CGELamp5Sorcs1
     longLabel InhCGELamp5CGELamp5Sorcs1
     type bigBed 3
@@ -739,7 +739,7 @@ visibility hide
 compositeTrack on
 
     track CGEVipCcser1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Vip__CGE-Vip_Ccser1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Ccser1.bb
     shortLabel CGEVipCcser1
     longLabel InhCGEVipCGEVipCcser1
     type bigBed 3
@@ -747,7 +747,7 @@ compositeTrack on
     parent InhCGEVip on
 
     track CGEVipClstn2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Vip__CGE-Vip_Clstn2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Clstn2.bb
     shortLabel CGEVipClstn2
     longLabel InhCGEVipCGEVipClstn2
     type bigBed 3
@@ -755,7 +755,7 @@ compositeTrack on
     parent InhCGEVip on
 
     track CGEVipFstl4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Vip__CGE-Vip_Fstl4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Fstl4.bb
     shortLabel CGEVipFstl4
     longLabel InhCGEVipCGEVipFstl4
     type bigBed 3
@@ -763,7 +763,7 @@ compositeTrack on
     parent InhCGEVip on
 
     track CGEVipGalnt17
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Vip__CGE-Vip_Galnt17.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Galnt17.bb
     shortLabel CGEVipGalnt17
     longLabel InhCGEVipCGEVipGalnt17
     type bigBed 3
@@ -771,7 +771,7 @@ compositeTrack on
     parent InhCGEVip on
 
     track CGEVipGrm8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Vip__CGE-Vip_Grm8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Grm8.bb
     shortLabel CGEVipGrm8
     longLabel InhCGEVipCGEVipGrm8
     type bigBed 3
@@ -779,7 +779,7 @@ compositeTrack on
     parent InhCGEVip on
 
     track CGEVipNtng1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Vip__CGE-Vip_Ntng1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Ntng1.bb
     shortLabel CGEVipNtng1
     longLabel InhCGEVipCGEVipNtng1
     type bigBed 3
@@ -787,7 +787,7 @@ compositeTrack on
     parent InhCGEVip on
 
     track CGEVipPtprm
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Vip__CGE-Vip_Ptprm.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Ptprm.bb
     shortLabel CGEVipPtprm
     longLabel InhCGEVipCGEVipPtprm
     type bigBed 3
@@ -795,7 +795,7 @@ compositeTrack on
     parent InhCGEVip on
 
     track CGEVipRobo1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__CGE-Vip__CGE-Vip_Robo1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Robo1.bb
     shortLabel CGEVipRobo1
     longLabel InhCGEVipCGEVipRobo1
     type bigBed 3
@@ -810,7 +810,7 @@ visibility hide
 compositeTrack on
 
     track Chd7Kcnc2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__Chd7__Chd7_Kcnc2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Chd7__Chd7_Kcnc2.bb
     shortLabel Chd7Kcnc2
     longLabel InhChd7Chd7Kcnc2
     type bigBed 3
@@ -818,7 +818,7 @@ compositeTrack on
     parent InhChd7 on
 
     track Chd7Megf11
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__Chd7__Chd7_Megf11.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Chd7__Chd7_Megf11.bb
     shortLabel Chd7Megf11
     longLabel InhChd7Chd7Megf11
     type bigBed 3
@@ -826,7 +826,7 @@ compositeTrack on
     parent InhChd7 on
 
     track Chd7Trpc7
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__Chd7__Chd7_Trpc7.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Chd7__Chd7_Trpc7.bb
     shortLabel Chd7Trpc7
     longLabel InhChd7Chd7Trpc7
     type bigBed 3
@@ -841,7 +841,7 @@ visibility hide
 compositeTrack on
 
     track D1LFstl4Cadm1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__D1L-Fstl4__D1L-Fstl4_Cadm1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Cadm1.bb
     shortLabel D1LFstl4Cadm1
     longLabel InhD1LFstl4D1LFstl4Cadm1
     type bigBed 3
@@ -849,7 +849,7 @@ compositeTrack on
     parent InhD1LFstl4 on
 
     track D1LFstl4Crim1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__D1L-Fstl4__D1L-Fstl4_Crim1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Crim1.bb
     shortLabel D1LFstl4Crim1
     longLabel InhD1LFstl4D1LFstl4Crim1
     type bigBed 3
@@ -857,7 +857,7 @@ compositeTrack on
     parent InhD1LFstl4 on
 
     track D1LFstl4Grm3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__D1L-Fstl4__D1L-Fstl4_Grm3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Grm3.bb
     shortLabel D1LFstl4Grm3
     longLabel InhD1LFstl4D1LFstl4Grm3
     type bigBed 3
@@ -865,7 +865,7 @@ compositeTrack on
     parent InhD1LFstl4 on
 
     track D1LFstl4Sipa1l2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__D1L-Fstl4__D1L-Fstl4_Sipa1l2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Sipa1l2.bb
     shortLabel D1LFstl4Sipa1l2
     longLabel InhD1LFstl4D1LFstl4Sipa1l2
     type bigBed 3
@@ -873,7 +873,7 @@ compositeTrack on
     parent InhD1LFstl4 on
 
     track D1LFstl4Trps1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__D1L-Fstl4__D1L-Fstl4_Trps1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Trps1.bb
     shortLabel D1LFstl4Trps1
     longLabel InhD1LFstl4D1LFstl4Trps1
     type bigBed 3
@@ -888,7 +888,7 @@ visibility hide
 compositeTrack on
 
     track D1LPALFlrt2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__D1L-PAL__D1L-PAL_Flrt2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-PAL__D1L-PAL_Flrt2.bb
     shortLabel D1LPALFlrt2
     longLabel InhD1LPALD1LPALFlrt2
     type bigBed 3
@@ -896,7 +896,7 @@ compositeTrack on
     parent InhD1LPAL on
 
     track D1LPALPlcxd3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__D1L-PAL__D1L-PAL_Plcxd3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-PAL__D1L-PAL_Plcxd3.bb
     shortLabel D1LPALPlcxd3
     longLabel InhD1LPALD1LPALPlcxd3
     type bigBed 3
@@ -911,7 +911,7 @@ visibility hide
 compositeTrack on
 
     track Foxp2Dchs2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__Foxp2__Foxp2_Dchs2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Foxp2__Foxp2_Dchs2.bb
     shortLabel Foxp2Dchs2
     longLabel InhFoxp2Foxp2Dchs2
     type bigBed 3
@@ -919,7 +919,7 @@ compositeTrack on
     parent InhFoxp2 on
 
     track Foxp2Homer2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__Foxp2__Foxp2_Homer2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Foxp2__Foxp2_Homer2.bb
     shortLabel Foxp2Homer2
     longLabel InhFoxp2Foxp2Homer2
     type bigBed 3
@@ -927,7 +927,7 @@ compositeTrack on
     parent InhFoxp2 on
 
     track Foxp2Inpp4b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__Foxp2__Foxp2_Inpp4b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Foxp2__Foxp2_Inpp4b.bb
     shortLabel Foxp2Inpp4b
     longLabel InhFoxp2Foxp2Inpp4b
     type bigBed 3
@@ -935,7 +935,7 @@ compositeTrack on
     parent InhFoxp2 on
 
     track Foxp2Trpc7
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__Foxp2__Foxp2_Trpc7.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Foxp2__Foxp2_Trpc7.bb
     shortLabel Foxp2Trpc7
     longLabel InhFoxp2Foxp2Trpc7
     type bigBed 3
@@ -950,7 +950,7 @@ visibility hide
 compositeTrack on
 
     track LSXInhCacna1i
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__LSX-Inh__LSX-Inh_Cacna1i.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Cacna1i.bb
     shortLabel LSXInhCacna1i
     longLabel InhLSXInhLSXInhCacna1i
     type bigBed 3
@@ -958,7 +958,7 @@ compositeTrack on
     parent InhLSXInh on
 
     track LSXInhDock10
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__LSX-Inh__LSX-Inh_Dock10.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Dock10.bb
     shortLabel LSXInhDock10
     longLabel InhLSXInhLSXInhDock10
     type bigBed 3
@@ -966,7 +966,7 @@ compositeTrack on
     parent InhLSXInh on
 
     track LSXInhEnox1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__LSX-Inh__LSX-Inh_Enox1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Enox1.bb
     shortLabel LSXInhEnox1
     longLabel InhLSXInhLSXInhEnox1
     type bigBed 3
@@ -974,7 +974,7 @@ compositeTrack on
     parent InhLSXInh on
 
     track LSXInhFoxp2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__LSX-Inh__LSX-Inh_Foxp2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Foxp2.bb
     shortLabel LSXInhFoxp2
     longLabel InhLSXInhLSXInhFoxp2
     type bigBed 3
@@ -982,7 +982,7 @@ compositeTrack on
     parent InhLSXInh on
 
     track LSXInhLats2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__LSX-Inh__LSX-Inh_Lats2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Lats2.bb
     shortLabel LSXInhLats2
     longLabel InhLSXInhLSXInhLats2
     type bigBed 3
@@ -990,7 +990,7 @@ compositeTrack on
     parent InhLSXInh on
 
     track LSXInhNxph1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__LSX-Inh__LSX-Inh_Nxph1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Nxph1.bb
     shortLabel LSXInhNxph1
     longLabel InhLSXInhLSXInhNxph1
     type bigBed 3
@@ -998,7 +998,7 @@ compositeTrack on
     parent InhLSXInh on
 
     track LSXInhZeb2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__LSX-Inh__LSX-Inh_Zeb2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Zeb2.bb
     shortLabel LSXInhZeb2
     longLabel InhLSXInhLSXInhZeb2
     type bigBed 3
@@ -1013,7 +1013,7 @@ visibility hide
 compositeTrack on
 
     track MGEPvalbCacna1i
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Pvalb__MGE-Pvalb_Cacna1i.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Cacna1i.bb
     shortLabel MGEPvalbCacna1i
     longLabel InhMGEPvalbMGEPvalbCacna1i
     type bigBed 3
@@ -1021,7 +1021,7 @@ compositeTrack on
     parent InhMGEPvalb on
 
     track MGEPvalbCnih3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Pvalb__MGE-Pvalb_Cnih3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Cnih3.bb
     shortLabel MGEPvalbCnih3
     longLabel InhMGEPvalbMGEPvalbCnih3
     type bigBed 3
@@ -1029,7 +1029,7 @@ compositeTrack on
     parent InhMGEPvalb on
 
     track MGEPvalbEntpd3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Pvalb__MGE-Pvalb_Entpd3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Entpd3.bb
     shortLabel MGEPvalbEntpd3
     longLabel InhMGEPvalbMGEPvalbEntpd3
     type bigBed 3
@@ -1037,7 +1037,7 @@ compositeTrack on
     parent InhMGEPvalb on
 
     track MGEPvalbGfra2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Pvalb__MGE-Pvalb_Gfra2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Gfra2.bb
     shortLabel MGEPvalbGfra2
     longLabel InhMGEPvalbMGEPvalbGfra2
     type bigBed 3
@@ -1045,7 +1045,7 @@ compositeTrack on
     parent InhMGEPvalb on
 
     track MGEPvalbPtprk
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Pvalb__MGE-Pvalb_Ptprk.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Ptprk.bb
     shortLabel MGEPvalbPtprk
     longLabel InhMGEPvalbMGEPvalbPtprk
     type bigBed 3
@@ -1053,7 +1053,7 @@ compositeTrack on
     parent InhMGEPvalb on
 
     track MGEPvalbSema5a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Pvalb__MGE-Pvalb_Sema5a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Sema5a.bb
     shortLabel MGEPvalbSema5a
     longLabel InhMGEPvalbMGEPvalbSema5a
     type bigBed 3
@@ -1061,7 +1061,7 @@ compositeTrack on
     parent InhMGEPvalb on
 
     track MGEPvalbThsd7a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Pvalb__MGE-Pvalb_Thsd7a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Thsd7a.bb
     shortLabel MGEPvalbThsd7a
     longLabel InhMGEPvalbMGEPvalbThsd7a
     type bigBed 3
@@ -1076,7 +1076,7 @@ visibility hide
 compositeTrack on
 
     track MGESstBmper
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Bmper.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Bmper.bb
     shortLabel MGESstBmper
     longLabel InhMGESstMGESstBmper
     type bigBed 3
@@ -1084,7 +1084,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstChodl
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Chodl.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Chodl.bb
     shortLabel MGESstChodl
     longLabel InhMGESstMGESstChodl
     type bigBed 3
@@ -1092,7 +1092,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstDock4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Dock4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Dock4.bb
     shortLabel MGESstDock4
     longLabel InhMGESstMGESstDock4
     type bigBed 3
@@ -1100,7 +1100,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstEtv1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Etv1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Etv1.bb
     shortLabel MGESstEtv1
     longLabel InhMGESstMGESstEtv1
     type bigBed 3
@@ -1108,7 +1108,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstFrmd6
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Frmd6.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Frmd6.bb
     shortLabel MGESstFrmd6
     longLabel InhMGESstMGESstFrmd6
     type bigBed 3
@@ -1116,7 +1116,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstKcnip4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Kcnip4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Kcnip4.bb
     shortLabel MGESstKcnip4
     longLabel InhMGESstMGESstKcnip4
     type bigBed 3
@@ -1124,7 +1124,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstPtpre
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Ptpre.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Ptpre.bb
     shortLabel MGESstPtpre
     longLabel InhMGESstMGESstPtpre
     type bigBed 3
@@ -1132,7 +1132,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstRerg
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Rerg.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Rerg.bb
     shortLabel MGESstRerg
     longLabel InhMGESstMGESstRerg
     type bigBed 3
@@ -1140,7 +1140,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstRxra
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Rxra.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Rxra.bb
     shortLabel MGESstRxra
     longLabel InhMGESstMGESstRxra
     type bigBed 3
@@ -1148,7 +1148,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstUbtd1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Ubtd1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Ubtd1.bb
     shortLabel MGESstUbtd1
     longLabel InhMGESstMGESstUbtd1
     type bigBed 3
@@ -1156,7 +1156,7 @@ compositeTrack on
     parent InhMGESst on
 
     track MGESstUnc5b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MGE-Sst__MGE-Sst_Unc5b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Unc5b.bb
     shortLabel MGESstUnc5b
     longLabel InhMGESstMGESstUnc5b
     type bigBed 3
@@ -1171,7 +1171,7 @@ visibility hide
 compositeTrack on
 
     track MSND1Hrh1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MSN-D1__MSN-D1_Hrh1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D1__MSN-D1_Hrh1.bb
     shortLabel MSND1Hrh1
     longLabel InhMSND1MSND1Hrh1
     type bigBed 3
@@ -1179,7 +1179,7 @@ compositeTrack on
     parent InhMSND1 on
 
     track MSND1Khdrbs3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MSN-D1__MSN-D1_Khdrbs3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D1__MSN-D1_Khdrbs3.bb
     shortLabel MSND1Khdrbs3
     longLabel InhMSND1MSND1Khdrbs3
     type bigBed 3
@@ -1187,7 +1187,7 @@ compositeTrack on
     parent InhMSND1 on
 
     track MSND1Ntn1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MSN-D1__MSN-D1_Ntn1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D1__MSN-D1_Ntn1.bb
     shortLabel MSND1Ntn1
     longLabel InhMSND1MSND1Ntn1
     type bigBed 3
@@ -1195,7 +1195,7 @@ compositeTrack on
     parent InhMSND1 on
 
     track MSND1Plxnc1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MSN-D1__MSN-D1_Plxnc1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D1__MSN-D1_Plxnc1.bb
     shortLabel MSND1Plxnc1
     longLabel InhMSND1MSND1Plxnc1
     type bigBed 3
@@ -1210,7 +1210,7 @@ visibility hide
 compositeTrack on
 
     track MSND2Casz1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MSN-D2__MSN-D2_Casz1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D2__MSN-D2_Casz1.bb
     shortLabel MSND2Casz1
     longLabel InhMSND2MSND2Casz1
     type bigBed 3
@@ -1218,7 +1218,7 @@ compositeTrack on
     parent InhMSND2 on
 
     track MSND2Col14a1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MSN-D2__MSN-D2_Col14a1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D2__MSN-D2_Col14a1.bb
     shortLabel MSND2Col14a1
     longLabel InhMSND2MSND2Col14a1
     type bigBed 3
@@ -1226,7 +1226,7 @@ compositeTrack on
     parent InhMSND2 on
 
     track MSND2Nrp2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MSN-D2__MSN-D2_Nrp2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D2__MSN-D2_Nrp2.bb
     shortLabel MSND2Nrp2
     longLabel InhMSND2MSND2Nrp2
     type bigBed 3
@@ -1234,7 +1234,7 @@ compositeTrack on
     parent InhMSND2 on
 
     track MSND2Slc24a2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__MSN-D2__MSN-D2_Slc24a2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D2__MSN-D2_Slc24a2.bb
     shortLabel MSND2Slc24a2
     longLabel InhMSND2MSND2Slc24a2
     type bigBed 3
@@ -1249,7 +1249,7 @@ visibility hide
 compositeTrack on
 
     track OLFGabbr2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__OLF__OLF_Gabbr2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Gabbr2.bb
     shortLabel OLFGabbr2
     longLabel InhOLFOLFGabbr2
     type bigBed 3
@@ -1257,7 +1257,7 @@ compositeTrack on
     parent InhOLF on
 
     track OLFKcnd3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__OLF__OLF_Kcnd3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Kcnd3.bb
     shortLabel OLFKcnd3
     longLabel InhOLFOLFKcnd3
     type bigBed 3
@@ -1265,7 +1265,7 @@ compositeTrack on
     parent InhOLF on
 
     track OLFMapk10
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__OLF__OLF_Mapk10.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Mapk10.bb
     shortLabel OLFMapk10
     longLabel InhOLFOLFMapk10
     type bigBed 3
@@ -1273,7 +1273,7 @@ compositeTrack on
     parent InhOLF on
 
     track OLFOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__OLF__OLF_Outlier.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Outlier.bb
     shortLabel OLFOutlier
     longLabel InhOLFOLFOutlier
     type bigBed 3
@@ -1281,7 +1281,7 @@ compositeTrack on
     parent InhOLF on
 
     track OLFPag1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__OLF__OLF_Pag1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Pag1.bb
     shortLabel OLFPag1
     longLabel InhOLFOLFPag1
     type bigBed 3
@@ -1289,7 +1289,7 @@ compositeTrack on
     parent InhOLF on
 
     track OLFTrpc4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__OLF__OLF_Trpc4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Trpc4.bb
     shortLabel OLFTrpc4
     longLabel InhOLFOLFTrpc4
     type bigBed 3
@@ -1297,7 +1297,7 @@ compositeTrack on
     parent InhOLF on
 
     track OLFXkr6
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__OLF__OLF_Xkr6.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Xkr6.bb
     shortLabel OLFXkr6
     longLabel InhOLFOLFXkr6
     type bigBed 3
@@ -1312,7 +1312,7 @@ visibility hide
 compositeTrack on
 
     track PALInhChat
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Chat.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Chat.bb
     shortLabel PALInhChat
     longLabel InhPALInhPALInhChat
     type bigBed 3
@@ -1320,7 +1320,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhDeptor
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Deptor.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Deptor.bb
     shortLabel PALInhDeptor
     longLabel InhPALInhPALInhDeptor
     type bigBed 3
@@ -1328,7 +1328,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhIgdcc3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Igdcc3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Igdcc3.bb
     shortLabel PALInhIgdcc3
     longLabel InhPALInhPALInhIgdcc3
     type bigBed 3
@@ -1336,7 +1336,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhMeis1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Meis1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Meis1.bb
     shortLabel PALInhMeis1
     longLabel InhPALInhPALInhMeis1
     type bigBed 3
@@ -1344,7 +1344,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhMeis2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Meis2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Meis2.bb
     shortLabel PALInhMeis2
     longLabel InhPALInhPALInhMeis2
     type bigBed 3
@@ -1352,7 +1352,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhOnecut2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Onecut2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Onecut2.bb
     shortLabel PALInhOnecut2
     longLabel InhPALInhPALInhOnecut2
     type bigBed 3
@@ -1360,7 +1360,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Outlier.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Outlier.bb
     shortLabel PALInhOutlier
     longLabel InhPALInhPALInhOutlier
     type bigBed 3
@@ -1368,7 +1368,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhPtprd
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Ptprd.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Ptprd.bb
     shortLabel PALInhPtprd
     longLabel InhPALInhPALInhPtprd
     type bigBed 3
@@ -1376,7 +1376,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhRarb
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Rarb.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Rarb.bb
     shortLabel PALInhRarb
     longLabel InhPALInhPALInhRarb
     type bigBed 3
@@ -1384,7 +1384,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhTcf7l2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Tcf7l2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Tcf7l2.bb
     shortLabel PALInhTcf7l2
     longLabel InhPALInhPALInhTcf7l2
     type bigBed 3
@@ -1392,7 +1392,7 @@ compositeTrack on
     parent InhPALInh on
 
     track PALInhTmem178
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__PAL-Inh__PAL-Inh_Tmem178.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Tmem178.bb
     shortLabel PALInhTmem178
     longLabel InhPALInhPALInhTmem178
     type bigBed 3
@@ -1407,7 +1407,7 @@ visibility hide
 compositeTrack on
 
     track Unc5cUnc5c
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/Inh__Unc5c__Unc5c_Unc5c.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Unc5c__Unc5c_Unc5c.bb
     shortLabel Unc5cUnc5c
     longLabel InhUnc5cUnc5cUnc5c
     type bigBed 3
@@ -1422,7 +1422,7 @@ visibility hide
 compositeTrack on
 
     track ANPanpdg
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__ANP__ANP_anp-dg.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ANP__ANP_anp-dg.bb
     shortLabel ANPanpdg
     longLabel NonNANPANPanpdg
     type bigBed 3
@@ -1430,7 +1430,7 @@ compositeTrack on
     parent NonNANP on
 
     track ANPanpolfcnu
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__ANP__ANP_anp-olf-cnu.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ANP__ANP_anp-olf-cnu.bb
     shortLabel ANPanpolfcnu
     longLabel NonNANPANPanpolfcnu
     type bigBed 3
@@ -1445,7 +1445,7 @@ visibility hide
 compositeTrack on
 
     track ASCcortexolf
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__ASC__ASC_cortex-olf.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ASC__ASC_cortex-olf.bb
     shortLabel ASCcortexolf
     longLabel NonNASCASCcortexolf
     type bigBed 3
@@ -1453,7 +1453,7 @@ compositeTrack on
     parent NonNASC on
 
     track ASCmid
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__ASC__ASC_mid.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ASC__ASC_mid.bb
     shortLabel ASCmid
     longLabel NonNASCASCmid
     type bigBed 3
@@ -1461,7 +1461,7 @@ compositeTrack on
     parent NonNASC on
 
     track ASCstrhpf
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__ASC__ASC_str-hpf.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ASC__ASC_str-hpf.bb
     shortLabel ASCstrhpf
     longLabel NonNASCASCstrhpf
     type bigBed 3
@@ -1476,7 +1476,7 @@ visibility hide
 compositeTrack on
 
     track ECAbhd2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__EC__EC_Abhd2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__EC__EC_Abhd2.bb
     shortLabel ECAbhd2
     longLabel NonNECECAbhd2
     type bigBed 3
@@ -1484,7 +1484,7 @@ compositeTrack on
     parent NonNEC on
 
     track ECSema3g
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__EC__EC_Sema3g.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__EC__EC_Sema3g.bb
     shortLabel ECSema3g
     longLabel NonNECECSema3g
     type bigBed 3
@@ -1499,7 +1499,7 @@ visibility hide
 compositeTrack on
 
     track MGCmgcall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__MGC__MGC_mgc-all.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__MGC__MGC_mgc-all.bb
     shortLabel MGCmgcall
     longLabel NonNMGCMGCmgcall
     type bigBed 3
@@ -1514,7 +1514,7 @@ visibility hide
 compositeTrack on
 
     track ODCodclarge
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__ODC__ODC_odc-large.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ODC__ODC_odc-large.bb
     shortLabel ODCodclarge
     longLabel NonNODCODCodclarge
     type bigBed 3
@@ -1522,7 +1522,7 @@ compositeTrack on
     parent NonNODC on
 
     track ODCodcsmall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__ODC__ODC_odc-small.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ODC__ODC_odc-small.bb
     shortLabel ODCodcsmall
     longLabel NonNODCODCodcsmall
     type bigBed 3
@@ -1537,7 +1537,7 @@ visibility hide
 compositeTrack on
 
     track OPCopclarge
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__OPC__OPC_opc-large.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__OPC__OPC_opc-large.bb
     shortLabel OPCopclarge
     longLabel NonNOPCOPCopclarge
     type bigBed 3
@@ -1545,7 +1545,7 @@ compositeTrack on
     parent NonNOPC on
 
     track OPCopcsmall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__OPC__OPC_opc-small.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__OPC__OPC_opc-small.bb
     shortLabel OPCopcsmall
     longLabel NonNOPCOPCopcsmall
     type bigBed 3
@@ -1560,7 +1560,7 @@ visibility hide
 compositeTrack on
 
     track PCpcall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__PC__PC_pc-all.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__PC__PC_pc-all.bb
     shortLabel PCpcall
     longLabel NonNPCPCpcall
     type bigBed 3
@@ -1575,7 +1575,7 @@ visibility hide
 compositeTrack on
 
     track VLMCPiavlmcpiaall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__VLMC-Pia__VLMC-Pia_vlmc-pia-all.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__VLMC-Pia__VLMC-Pia_vlmc-pia-all.bb
     shortLabel VLMCPiavlmcpiaall
     longLabel NonNVLMCPiaVLMCPiavlmcpiaall
     type bigBed 3
@@ -1590,7 +1590,7 @@ visibility hide
 compositeTrack on
 
     track VLMCCol4a1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__VLMC__VLMC_Col4a1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__VLMC__VLMC_Col4a1.bb
     shortLabel VLMCCol4a1
     longLabel NonNVLMCVLMCCol4a1
     type bigBed 3
@@ -1598,7 +1598,7 @@ compositeTrack on
     parent NonNVLMC on
 
     track VLMCMapk4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/NonN__VLMC__VLMC_Mapk4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__VLMC__VLMC_Mapk4.bb
     shortLabel VLMCMapk4
     longLabel NonNVLMCVLMCMapk4
     type bigBed 3
