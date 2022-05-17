@@ -1944,20 +1944,3 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonNVLMC on
     viewLimits 0:1
-
-track
-shortLabel
-longLabel (1)
-type bigWig
-visibility hide
-compositeTrack on
-
-    track
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/____.bw
-    shortLabel
-    longLabel
-    type bigWig
-    autoScale off
-    maxHeightPixels 100:15:5
-    parent  on
-    viewLimits 0:1
