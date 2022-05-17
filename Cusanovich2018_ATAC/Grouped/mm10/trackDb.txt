@@ -10,7 +10,7 @@ compositeTrack on
     shortLabel clusters4cluster4
     longLabel ActivatedBcellsclusters4cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ActivatedBcells on
     viewLimits 0:4
@@ -27,7 +27,7 @@ compositeTrack on
     shortLabel clusters17cluster2
     longLabel Alveolarmacrophagesclusters17cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Alveolarmacrophages on
     viewLimits 0:4
@@ -44,7 +44,7 @@ compositeTrack on
     shortLabel clusters19cluster1
     longLabel Astrocytesclusters19cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Astrocytes on
     viewLimits 0:4
@@ -54,7 +54,7 @@ compositeTrack on
     shortLabel clusters19cluster2
     longLabel Astrocytesclusters19cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Astrocytes on
     viewLimits 0:4
@@ -64,7 +64,7 @@ compositeTrack on
     shortLabel clusters19cluster3
     longLabel Astrocytesclusters19cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Astrocytes on
     viewLimits 0:4
@@ -74,7 +74,7 @@ compositeTrack on
     shortLabel clusters19cluster4
     longLabel Astrocytesclusters19cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Astrocytes on
     viewLimits 0:4
@@ -91,7 +91,7 @@ compositeTrack on
     shortLabel clusters16cluster1
     longLabel Bcellsclusters16cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Bcells on
     viewLimits 0:4
@@ -101,7 +101,7 @@ compositeTrack on
     shortLabel clusters4cluster1
     longLabel Bcellsclusters4cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Bcells on
     viewLimits 0:4
@@ -111,7 +111,7 @@ compositeTrack on
     shortLabel clusters4cluster2
     longLabel Bcellsclusters4cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Bcells on
     viewLimits 0:4
@@ -121,7 +121,7 @@ compositeTrack on
     shortLabel clusters4cluster3
     longLabel Bcellsclusters4cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Bcells on
     viewLimits 0:4
@@ -138,7 +138,7 @@ compositeTrack on
     shortLabel clusters7cluster1
     longLabel Cardiomyocytesclusters7cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Cardiomyocytes on
     viewLimits 0:4
@@ -155,7 +155,7 @@ compositeTrack on
     shortLabel clusters8cluster1
     longLabel Cerebellargranulecellsclusters8cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Cerebellargranulecells on
     viewLimits 0:4
@@ -165,7 +165,7 @@ compositeTrack on
     shortLabel clusters8cluster2
     longLabel Cerebellargranulecellsclusters8cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Cerebellargranulecells on
     viewLimits 0:4
@@ -182,7 +182,7 @@ compositeTrack on
     shortLabel clusters18cluster5
     longLabel Collectingductclusters18cluster5
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Collectingduct on
     viewLimits 0:4
@@ -199,7 +199,7 @@ compositeTrack on
     shortLabel clusters17cluster4
     longLabel Collisionsclusters17cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Collisions on
     viewLimits 0:4
@@ -209,7 +209,7 @@ compositeTrack on
     shortLabel clusters17cluster5
     longLabel Collisionsclusters17cluster5
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Collisions on
     viewLimits 0:4
@@ -219,7 +219,7 @@ compositeTrack on
     shortLabel clusters26cluster2
     longLabel Collisionsclusters26cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Collisions on
     viewLimits 0:4
@@ -229,7 +229,7 @@ compositeTrack on
     shortLabel clusters26cluster3
     longLabel Collisionsclusters26cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Collisions on
     viewLimits 0:4
@@ -239,7 +239,7 @@ compositeTrack on
     shortLabel clusters27cluster2
     longLabel Collisionsclusters27cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Collisions on
     viewLimits 0:4
@@ -249,7 +249,7 @@ compositeTrack on
     shortLabel clusters27cluster3
     longLabel Collisionsclusters27cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Collisions on
     viewLimits 0:4
@@ -259,7 +259,7 @@ compositeTrack on
     shortLabel clusters30cluster3
     longLabel Collisionsclusters30cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Collisions on
     viewLimits 0:4
@@ -276,7 +276,7 @@ compositeTrack on
     shortLabel clusters18cluster1
     longLabel DCTCDclusters18cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent DCTCD on
     viewLimits 0:4
@@ -293,7 +293,7 @@ compositeTrack on
     shortLabel clusters17cluster1
     longLabel Dendriticcellsclusters17cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Dendriticcells on
     viewLimits 0:4
@@ -303,7 +303,7 @@ compositeTrack on
     shortLabel clusters17cluster3
     longLabel Dendriticcellsclusters17cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Dendriticcells on
     viewLimits 0:4
@@ -320,7 +320,7 @@ compositeTrack on
     shortLabel clusters18cluster4
     longLabel Distalconvolutedtubuleclusters18cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Distalconvolutedtubule on
     viewLimits 0:4
@@ -337,7 +337,7 @@ compositeTrack on
     shortLabel clusters23cluster1
     longLabel EndothelialIIcellsclusters23cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIIcells on
     viewLimits 0:4
@@ -347,7 +347,7 @@ compositeTrack on
     shortLabel clusters25cluster2
     longLabel EndothelialIIcellsclusters25cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIIcells on
     viewLimits 0:4
@@ -357,7 +357,7 @@ compositeTrack on
     shortLabel clusters25cluster3
     longLabel EndothelialIIcellsclusters25cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIIcells on
     viewLimits 0:4
@@ -367,7 +367,7 @@ compositeTrack on
     shortLabel clusters9cluster2
     longLabel EndothelialIIcellsclusters9cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIIcells on
     viewLimits 0:4
@@ -377,7 +377,7 @@ compositeTrack on
     shortLabel clusters9cluster3
     longLabel EndothelialIIcellsclusters9cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIIcells on
     viewLimits 0:4
@@ -394,7 +394,7 @@ compositeTrack on
     shortLabel clusters22cluster1
     longLabel EndothelialIcellsclusters22cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIcells on
     viewLimits 0:4
@@ -404,7 +404,7 @@ compositeTrack on
     shortLabel clusters22cluster3
     longLabel EndothelialIcellsclusters22cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIcells on
     viewLimits 0:4
@@ -414,7 +414,7 @@ compositeTrack on
     shortLabel clusters22cluster4
     longLabel EndothelialIcellsclusters22cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIcells on
     viewLimits 0:4
@@ -431,7 +431,7 @@ compositeTrack on
     shortLabel clusters22cluster2
     longLabel EndothelialIglomerularclusters22cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent EndothelialIglomerular on
     viewLimits 0:4
@@ -448,7 +448,7 @@ compositeTrack on
     shortLabel clusters6cluster1
     longLabel Enterocytesclusters6cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Enterocytes on
     viewLimits 0:4
@@ -465,7 +465,7 @@ compositeTrack on
     shortLabel clusters13cluster1
     longLabel Erythroblastsclusters13cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Erythroblasts on
     viewLimits 0:4
@@ -482,7 +482,7 @@ compositeTrack on
     shortLabel clusters5cluster1
     longLabel ExneuronsCPNclusters5cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ExneuronsCPN on
     viewLimits 0:4
@@ -499,7 +499,7 @@ compositeTrack on
     shortLabel clusters5cluster3
     longLabel ExneuronsCThPNclusters5cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ExneuronsCThPN on
     viewLimits 0:4
@@ -509,7 +509,7 @@ compositeTrack on
     shortLabel clusters5cluster4
     longLabel ExneuronsCThPNclusters5cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ExneuronsCThPN on
     viewLimits 0:4
@@ -526,7 +526,7 @@ compositeTrack on
     shortLabel clusters29cluster1
     longLabel ExneuronsSCPNclusters29cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ExneuronsSCPN on
     viewLimits 0:4
@@ -536,7 +536,7 @@ compositeTrack on
     shortLabel clusters5cluster2
     longLabel ExneuronsSCPNclusters5cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ExneuronsSCPN on
     viewLimits 0:4
@@ -553,7 +553,7 @@ compositeTrack on
     shortLabel clusters10cluster1
     longLabel Hematopoieticprogenitorsclusters10cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Hematopoieticprogenitors on
     viewLimits 0:4
@@ -570,7 +570,7 @@ compositeTrack on
     shortLabel clusters3cluster1
     longLabel Hepatocytesclusters3cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Hepatocytes on
     viewLimits 0:4
@@ -587,7 +587,7 @@ compositeTrack on
     shortLabel clusters28cluster1
     longLabel ImmatureBcellsclusters28cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ImmatureBcells on
     viewLimits 0:4
@@ -597,7 +597,7 @@ compositeTrack on
     shortLabel clusters28cluster2
     longLabel ImmatureBcellsclusters28cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ImmatureBcells on
     viewLimits 0:4
@@ -614,7 +614,7 @@ compositeTrack on
     shortLabel clusters15cluster1
     longLabel Inhibitoryneuronsclusters15cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Inhibitoryneurons on
     viewLimits 0:4
@@ -624,7 +624,7 @@ compositeTrack on
     shortLabel clusters15cluster2
     longLabel Inhibitoryneuronsclusters15cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Inhibitoryneurons on
     viewLimits 0:4
@@ -634,7 +634,7 @@ compositeTrack on
     shortLabel clusters5cluster5
     longLabel Inhibitoryneuronsclusters5cluster5
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Inhibitoryneurons on
     viewLimits 0:4
@@ -651,7 +651,7 @@ compositeTrack on
     shortLabel clusters18cluster2
     longLabel Loopofhenleclusters18cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Loopofhenle on
     viewLimits 0:4
@@ -661,7 +661,7 @@ compositeTrack on
     shortLabel clusters18cluster3
     longLabel Loopofhenleclusters18cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Loopofhenle on
     viewLimits 0:4
@@ -678,7 +678,7 @@ compositeTrack on
     shortLabel clusters16cluster2
     longLabel Macrophagesclusters16cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Macrophages on
     viewLimits 0:4
@@ -695,7 +695,7 @@ compositeTrack on
     shortLabel clusters16cluster3
     longLabel Microgliaclusters16cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Microglia on
     viewLimits 0:4
@@ -712,7 +712,7 @@ compositeTrack on
     shortLabel clusters24cluster1
     longLabel Monocytesclusters24cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Monocytes on
     viewLimits 0:4
@@ -722,7 +722,7 @@ compositeTrack on
     shortLabel clusters24cluster2
     longLabel Monocytesclusters24cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Monocytes on
     viewLimits 0:4
@@ -739,7 +739,7 @@ compositeTrack on
     shortLabel clusters12cluster3
     longLabel NKcellsclusters12cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent NKcells on
     viewLimits 0:4
@@ -756,7 +756,7 @@ compositeTrack on
     shortLabel clusters21cluster1
     longLabel Oligodendrocytesclusters21cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Oligodendrocytes on
     viewLimits 0:4
@@ -766,7 +766,7 @@ compositeTrack on
     shortLabel clusters21cluster2
     longLabel Oligodendrocytesclusters21cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Oligodendrocytes on
     viewLimits 0:4
@@ -783,7 +783,7 @@ compositeTrack on
     shortLabel clusters25cluster1
     longLabel Podocytesclusters25cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Podocytes on
     viewLimits 0:4
@@ -800,7 +800,7 @@ compositeTrack on
     shortLabel clusters11cluster1
     longLabel Proximaltubuleclusters11cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Proximaltubule on
     viewLimits 0:4
@@ -810,7 +810,7 @@ compositeTrack on
     shortLabel clusters11cluster2
     longLabel Proximaltubuleclusters11cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Proximaltubule on
     viewLimits 0:4
@@ -820,7 +820,7 @@ compositeTrack on
     shortLabel clusters11cluster3
     longLabel Proximaltubuleclusters11cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Proximaltubule on
     viewLimits 0:4
@@ -830,7 +830,7 @@ compositeTrack on
     shortLabel clusters11cluster5
     longLabel Proximaltubuleclusters11cluster5
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Proximaltubule on
     viewLimits 0:4
@@ -847,7 +847,7 @@ compositeTrack on
     shortLabel clusters11cluster4
     longLabel ProximaltubuleS3clusters11cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent ProximaltubuleS3 on
     viewLimits 0:4
@@ -864,7 +864,7 @@ compositeTrack on
     shortLabel clusters27cluster1
     longLabel Purkinjecellsclusters27cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Purkinjecells on
     viewLimits 0:4
@@ -881,7 +881,7 @@ compositeTrack on
     shortLabel clusters12cluster2
     longLabel RegulatoryTcellsclusters12cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent RegulatoryTcells on
     viewLimits 0:4
@@ -898,7 +898,7 @@ compositeTrack on
     shortLabel clusters15cluster3
     longLabel SOMInterneuronsclusters15cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent SOMInterneurons on
     viewLimits 0:4
@@ -915,7 +915,7 @@ compositeTrack on
     shortLabel clusters14cluster1
     longLabel Spermclusters14cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Sperm on
     viewLimits 0:4
@@ -925,7 +925,7 @@ compositeTrack on
     shortLabel clusters14cluster2
     longLabel Spermclusters14cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Sperm on
     viewLimits 0:4
@@ -935,7 +935,7 @@ compositeTrack on
     shortLabel clusters14cluster3
     longLabel Spermclusters14cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Sperm on
     viewLimits 0:4
@@ -952,7 +952,7 @@ compositeTrack on
     shortLabel clusters12cluster1
     longLabel Tcellsclusters12cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Tcells on
     viewLimits 0:4
@@ -962,7 +962,7 @@ compositeTrack on
     shortLabel clusters12cluster4
     longLabel Tcellsclusters12cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Tcells on
     viewLimits 0:4
@@ -972,7 +972,7 @@ compositeTrack on
     shortLabel clusters12cluster5
     longLabel Tcellsclusters12cluster5
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Tcells on
     viewLimits 0:4
@@ -982,7 +982,7 @@ compositeTrack on
     shortLabel clusters26cluster1
     longLabel Tcellsclusters26cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Tcells on
     viewLimits 0:4
@@ -999,7 +999,7 @@ compositeTrack on
     shortLabel clusters30cluster1
     longLabel TypeIIpneumocytesclusters30cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent TypeIIpneumocytes on
     viewLimits 0:4
@@ -1016,7 +1016,7 @@ compositeTrack on
     shortLabel clusters20cluster1
     longLabel TypeIpneumocytesclusters20cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent TypeIpneumocytes on
     viewLimits 0:4
@@ -1033,7 +1033,7 @@ compositeTrack on
     shortLabel clusters1cluster2
     longLabel Unknownclusters1cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Unknown on
     viewLimits 0:4
@@ -1043,7 +1043,7 @@ compositeTrack on
     shortLabel clusters1cluster3
     longLabel Unknownclusters1cluster3
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Unknown on
     viewLimits 0:4
@@ -1053,7 +1053,7 @@ compositeTrack on
     shortLabel clusters23cluster2
     longLabel Unknownclusters23cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Unknown on
     viewLimits 0:4
@@ -1063,7 +1063,7 @@ compositeTrack on
     shortLabel clusters30cluster2
     longLabel Unknownclusters30cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Unknown on
     viewLimits 0:4
@@ -1073,7 +1073,7 @@ compositeTrack on
     shortLabel clusters30cluster4
     longLabel Unknownclusters30cluster4
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Unknown on
     viewLimits 0:4
@@ -1083,7 +1083,7 @@ compositeTrack on
     shortLabel clusters5cluster6
     longLabel Unknownclusters5cluster6
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Unknown on
     viewLimits 0:4
@@ -1093,7 +1093,7 @@ compositeTrack on
     shortLabel clusters7cluster2
     longLabel Unknownclusters7cluster2
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Unknown on
     viewLimits 0:4
@@ -1103,7 +1103,7 @@ compositeTrack on
     shortLabel clusters9cluster1
     longLabel Unknownclusters9cluster1
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent Unknown on
     viewLimits 0:4
@@ -1120,7 +1120,7 @@ compositeTrack on
     shortLabel masterpeakstrack
     longLabel masterpeakstrack
     type bigWig
-    autoScale on
+    autoScale off
     maxHeightPixels 100:50:10
     parent MasterPeaks on
     viewLimits 0:4
