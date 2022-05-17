@@ -1,0 +1,5 @@
+hub hub
+shortLabel mouse_atac
+longLabel Liu2021 Brain Single Cell WGBS data (GSE132489)
+genomesFile Liu2021BrainWGBS.genomes.txt
+email dingw1@chop.edu
