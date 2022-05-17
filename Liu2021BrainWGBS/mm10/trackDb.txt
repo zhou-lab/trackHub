@@ -1,1606 +1,1963 @@
 track ExcCA1
 shortLabel ExcCA1
 longLabel ExcCA1(6)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track CA1Ak5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Ak5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Ak5.bw
     shortLabel CA1Ak5
     longLabel ExcCA1CA1Ak5
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA1 on
+    viewLimits 0:1
 
     track CA1Chrm3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Chrm3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Chrm3.bw
     shortLabel CA1Chrm3
     longLabel ExcCA1CA1Chrm3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA1 on
+    viewLimits 0:1
 
     track CA1Kif26a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Kif26a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Kif26a.bw
     shortLabel CA1Kif26a
     longLabel ExcCA1CA1Kif26a
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA1 on
+    viewLimits 0:1
 
     track CA1Lingo2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Lingo2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Lingo2.bw
     shortLabel CA1Lingo2
     longLabel ExcCA1CA1Lingo2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA1 on
+    viewLimits 0:1
 
     track CA1Outlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Outlier.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Outlier.bw
     shortLabel CA1Outlier
     longLabel ExcCA1CA1Outlier
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA1 on
+    viewLimits 0:1
 
     track CA1Ptprg
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA1__CA1_Ptprg.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Ptprg.bw
     shortLabel CA1Ptprg
     longLabel ExcCA1CA1Ptprg
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA1 on
+    viewLimits 0:1
 
 track ExcCA3St18
 shortLabel ExcCA3St18
 longLabel ExcCA3St18(3)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track CA3St18Epha5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3-St18__CA3-St18_Epha5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3-St18__CA3-St18_Epha5.bw
     shortLabel CA3St18Epha5
     longLabel ExcCA3St18CA3St18Epha5
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA3St18 on
+    viewLimits 0:1
 
     track CA3St18Nuak1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3-St18__CA3-St18_Nuak1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3-St18__CA3-St18_Nuak1.bw
     shortLabel CA3St18Nuak1
     longLabel ExcCA3St18CA3St18Nuak1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA3St18 on
+    viewLimits 0:1
 
     track CA3St18Tead1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3-St18__CA3-St18_Tead1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3-St18__CA3-St18_Tead1.bw
     shortLabel CA3St18Tead1
     longLabel ExcCA3St18CA3St18Tead1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA3St18 on
+    viewLimits 0:1
 
 track ExcCA3
 shortLabel ExcCA3
 longLabel ExcCA3(2)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track CA3Cadm2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3__CA3_Cadm2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3__CA3_Cadm2.bw
     shortLabel CA3Cadm2
     longLabel ExcCA3CA3Cadm2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA3 on
+    viewLimits 0:1
 
     track CA3Efnb2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CA3__CA3_Efnb2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3__CA3_Efnb2.bw
     shortLabel CA3Efnb2
     longLabel ExcCA3CA3Efnb2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCA3 on
+    viewLimits 0:1
 
 track ExcCLA
 shortLabel ExcCLA
 longLabel ExcCLA(3)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track CLABcl11a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CLA__CLA_Bcl11a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CLA__CLA_Bcl11a.bw
     shortLabel CLABcl11a
     longLabel ExcCLACLABcl11a
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCLA on
+    viewLimits 0:1
 
     track CLACdh8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CLA__CLA_Cdh8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CLA__CLA_Cdh8.bw
     shortLabel CLACdh8
     longLabel ExcCLACLACdh8
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCLA on
+    viewLimits 0:1
 
     track CLANrp2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CLA__CLA_Nrp2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CLA__CLA_Nrp2.bw
     shortLabel CLANrp2
     longLabel ExcCLACLANrp2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCLA on
+    viewLimits 0:1
 
 track ExcCTL6
 shortLabel ExcCTL6
 longLabel ExcCTL6(4)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track CTL6Hcrtr2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CT-L6__CT-L6_Hcrtr2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Hcrtr2.bw
     shortLabel CTL6Hcrtr2
     longLabel ExcCTL6CTL6Hcrtr2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCTL6 on
+    viewLimits 0:1
 
     track CTL6Il1rap
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CT-L6__CT-L6_Il1rap.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Il1rap.bw
     shortLabel CTL6Il1rap
     longLabel ExcCTL6CTL6Il1rap
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCTL6 on
+    viewLimits 0:1
 
     track CTL6Map4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CT-L6__CT-L6_Map4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Map4.bw
     shortLabel CTL6Map4
     longLabel ExcCTL6CTL6Map4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCTL6 on
+    viewLimits 0:1
 
     track CTL6Megf9
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__CT-L6__CT-L6_Megf9.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Megf9.bw
     shortLabel CTL6Megf9
     longLabel ExcCTL6CTL6Megf9
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcCTL6 on
+    viewLimits 0:1
 
 track ExcDGpo
 shortLabel ExcDGpo
 longLabel ExcDGpo(3)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track DGpoBcl11a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__DG-po__DG-po_Bcl11a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG-po__DG-po_Bcl11a.bw
     shortLabel DGpoBcl11a
     longLabel ExcDGpoDGpoBcl11a
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcDGpo on
+    viewLimits 0:1
 
     track DGpoCalb2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__DG-po__DG-po_Calb2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG-po__DG-po_Calb2.bw
     shortLabel DGpoCalb2
     longLabel ExcDGpoDGpoCalb2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcDGpo on
+    viewLimits 0:1
 
     track DGpoKctd8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__DG-po__DG-po_Kctd8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG-po__DG-po_Kctd8.bw
     shortLabel DGpoKctd8
     longLabel ExcDGpoDGpoKctd8
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcDGpo on
+    viewLimits 0:1
 
 track ExcDG
 shortLabel ExcDG
 longLabel ExcDG(1)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track DGdgall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__DG__DG_dg-all.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG__DG_dg-all.bw
     shortLabel DGdgall
     longLabel ExcDGDGdgall
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcDG on
+    viewLimits 0:1
 
 track ExcEP
 shortLabel ExcEP
 longLabel ExcEP(3)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track EPAdcy8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__EP__EP_Adcy8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__EP__EP_Adcy8.bw
     shortLabel EPAdcy8
     longLabel ExcEPEPAdcy8
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcEP on
+    viewLimits 0:1
 
     track EPRgs8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__EP__EP_Rgs8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__EP__EP_Rgs8.bw
     shortLabel EPRgs8
     longLabel ExcEPEPRgs8
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcEP on
+    viewLimits 0:1
 
     track EPTspan5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__EP__EP_Tspan5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__EP__EP_Tspan5.bw
     shortLabel EPTspan5
     longLabel ExcEPEPTspan5
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcEP on
+    viewLimits 0:1
 
 track ExcGfra1
 shortLabel ExcGfra1
 longLabel ExcGfra1(1)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track Gfra1Gfra1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__Gfra1__Gfra1_Gfra1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__Gfra1__Gfra1_Gfra1.bw
     shortLabel Gfra1Gfra1
     longLabel ExcGfra1Gfra1Gfra1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcGfra1 on
+    viewLimits 0:1
 
 track ExcIGCA2
 shortLabel ExcIGCA2
 longLabel ExcIGCA2(3)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track IGCA2Chrm3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IG-CA2__IG-CA2_Chrm3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IG-CA2__IG-CA2_Chrm3.bw
     shortLabel IGCA2Chrm3
     longLabel ExcIGCA2IGCA2Chrm3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcIGCA2 on
+    viewLimits 0:1
 
     track IGCA2Peak1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IG-CA2__IG-CA2_Peak1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IG-CA2__IG-CA2_Peak1.bw
     shortLabel IGCA2Peak1
     longLabel ExcIGCA2IGCA2Peak1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcIGCA2 on
+    viewLimits 0:1
 
     track IGCA2Xpr1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IG-CA2__IG-CA2_Xpr1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IG-CA2__IG-CA2_Xpr1.bw
     shortLabel IGCA2Xpr1
     longLabel ExcIGCA2IGCA2Xpr1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcIGCA2 on
+    viewLimits 0:1
 
 track ExcITL23
 shortLabel ExcITL23
 longLabel ExcITL23(4)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track ITL23Cux1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L23__IT-L23_Cux1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Cux1.bw
     shortLabel ITL23Cux1
     longLabel ExcITL23ITL23Cux1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL23 on
+    viewLimits 0:1
 
     track ITL23Foxp1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L23__IT-L23_Foxp1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Foxp1.bw
     shortLabel ITL23Foxp1
     longLabel ExcITL23ITL23Foxp1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL23 on
+    viewLimits 0:1
 
     track ITL23Ptprt
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L23__IT-L23_Ptprt.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Ptprt.bw
     shortLabel ITL23Ptprt
     longLabel ExcITL23ITL23Ptprt
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL23 on
+    viewLimits 0:1
 
     track ITL23Tenm2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L23__IT-L23_Tenm2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Tenm2.bw
     shortLabel ITL23Tenm2
     longLabel ExcITL23ITL23Tenm2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL23 on
+    viewLimits 0:1
 
 track ExcITL4
 shortLabel ExcITL4
 longLabel ExcITL4(2)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track ITL4Astn2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L4__IT-L4_Astn2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L4__IT-L4_Astn2.bw
     shortLabel ITL4Astn2
     longLabel ExcITL4ITL4Astn2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL4 on
+    viewLimits 0:1
 
     track ITL4Shc3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L4__IT-L4_Shc3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L4__IT-L4_Shc3.bw
     shortLabel ITL4Shc3
     longLabel ExcITL4ITL4Shc3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL4 on
+    viewLimits 0:1
 
 track ExcITL5
 shortLabel ExcITL5
 longLabel ExcITL5(3)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track ITL5Cdh8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L5__IT-L5_Cdh8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L5__IT-L5_Cdh8.bw
     shortLabel ITL5Cdh8
     longLabel ExcITL5ITL5Cdh8
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL5 on
+    viewLimits 0:1
 
     track ITL5Etv1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L5__IT-L5_Etv1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L5__IT-L5_Etv1.bw
     shortLabel ITL5Etv1
     longLabel ExcITL5ITL5Etv1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL5 on
+    viewLimits 0:1
 
     track ITL5Grik3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L5__IT-L5_Grik3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L5__IT-L5_Grik3.bw
     shortLabel ITL5Grik3
     longLabel ExcITL5ITL5Grik3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL5 on
+    viewLimits 0:1
 
 track ExcITL6
 shortLabel ExcITL6
 longLabel ExcITL6(4)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track ITL6Cadps2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L6__IT-L6_Cadps2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Cadps2.bw
     shortLabel ITL6Cadps2
     longLabel ExcITL6ITL6Cadps2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL6 on
+    viewLimits 0:1
 
     track ITL6Fstl4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L6__IT-L6_Fstl4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Fstl4.bw
     shortLabel ITL6Fstl4
     longLabel ExcITL6ITL6Fstl4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL6 on
+    viewLimits 0:1
 
     track ITL6Man1c1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L6__IT-L6_Man1c1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Man1c1.bw
     shortLabel ITL6Man1c1
     longLabel ExcITL6ITL6Man1c1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL6 on
+    viewLimits 0:1
 
     track ITL6Oxr1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__IT-L6__IT-L6_Oxr1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Oxr1.bw
     shortLabel ITL6Oxr1
     longLabel ExcITL6ITL6Oxr1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcITL6 on
+    viewLimits 0:1
 
 track ExcL6b
 shortLabel ExcL6b
 longLabel ExcL6b(4)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track L6bAdcy8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__L6b__L6b_Adcy8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Adcy8.bw
     shortLabel L6bAdcy8
     longLabel ExcL6bL6bAdcy8
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcL6b on
+    viewLimits 0:1
 
     track L6bKcnk2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__L6b__L6b_Kcnk2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Kcnk2.bw
     shortLabel L6bKcnk2
     longLabel ExcL6bL6bKcnk2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcL6b on
+    viewLimits 0:1
 
     track L6bNrp2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__L6b__L6b_Nrp2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Nrp2.bw
     shortLabel L6bNrp2
     longLabel ExcL6bL6bNrp2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcL6b on
+    viewLimits 0:1
 
     track L6bPkhd1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__L6b__L6b_Pkhd1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Pkhd1.bw
     shortLabel L6bPkhd1
     longLabel ExcL6bL6bPkhd1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcL6b on
+    viewLimits 0:1
 
 track ExcNPL6
 shortLabel ExcNPL6
 longLabel ExcNPL6(6)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track NPL6Boc
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Boc.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Boc.bw
     shortLabel NPL6Boc
     longLabel ExcNPL6NPL6Boc
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcNPL6 on
+    viewLimits 0:1
 
     track NPL6Cntnap4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Cntnap4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cntnap4.bw
     shortLabel NPL6Cntnap4
     longLabel ExcNPL6NPL6Cntnap4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcNPL6 on
+    viewLimits 0:1
 
     track NPL6Cntnap5a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Cntnap5a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cntnap5a.bw
     shortLabel NPL6Cntnap5a
     longLabel ExcNPL6NPL6Cntnap5a
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcNPL6 on
+    viewLimits 0:1
 
     track NPL6Cyp7b1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Cyp7b1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cyp7b1.bw
     shortLabel NPL6Cyp7b1
     longLabel ExcNPL6NPL6Cyp7b1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcNPL6 on
+    viewLimits 0:1
 
     track NPL6Kcnab1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Kcnab1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Kcnab1.bw
     shortLabel NPL6Kcnab1
     longLabel ExcNPL6NPL6Kcnab1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcNPL6 on
+    viewLimits 0:1
 
     track NPL6Olfml2b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__NP-L6__NP-L6_Olfml2b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Olfml2b.bw
     shortLabel NPL6Olfml2b
     longLabel ExcNPL6NPL6Olfml2b
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcNPL6 on
+    viewLimits 0:1
 
 track ExcOLFExc
 shortLabel ExcOLFExc
 longLabel ExcOLFExc(9)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track OLFExcBmpr1b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Bmpr1b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Bmpr1b.bw
     shortLabel OLFExcBmpr1b
     longLabel ExcOLFExcOLFExcBmpr1b
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
     track OLFExcCdh9
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Cdh9.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Cdh9.bw
     shortLabel OLFExcCdh9
     longLabel ExcOLFExcOLFExcCdh9
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
     track OLFExcCux2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Cux2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Cux2.bw
     shortLabel OLFExcCux2
     longLabel ExcOLFExcOLFExcCux2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
     track OLFExcLrrtm3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Lrrtm3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Lrrtm3.bw
     shortLabel OLFExcLrrtm3
     longLabel ExcOLFExcOLFExcLrrtm3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
     track OLFExcOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Outlier.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Outlier.bw
     shortLabel OLFExcOutlier
     longLabel ExcOLFExcOLFExcOutlier
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
     track OLFExcPld5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Pld5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Pld5.bw
     shortLabel OLFExcPld5
     longLabel ExcOLFExcOLFExcPld5
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
     track OLFExcRmst
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Rmst.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Rmst.bw
     shortLabel OLFExcRmst
     longLabel ExcOLFExcOLFExcRmst
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
     track OLFExcSgcd
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Sgcd.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Sgcd.bw
     shortLabel OLFExcSgcd
     longLabel ExcOLFExcOLFExcSgcd
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
     track OLFExcUnc13c
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__OLF-Exc__OLF-Exc_Unc13c.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Unc13c.bw
     shortLabel OLFExcUnc13c
     longLabel ExcOLFExcOLFExcUnc13c
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcOLFExc on
+    viewLimits 0:1
 
 track ExcPTL5
 shortLabel ExcPTL5
-longLabel ExcPTL5(9)
-type bigBed
+longLabel ExcPTL5(10)
+type bigWig
 visibility hide
 compositeTrack on
 
     track PTL5Abca12
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Abca12.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Abca12.bw
     shortLabel PTL5Abca12
     longLabel ExcPTL5PTL5Abca12
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
 
     track PTL5Astn2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Astn2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Astn2.bw
     shortLabel PTL5Astn2
     longLabel ExcPTL5PTL5Astn2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
 
     track PTL5Kcnh1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Kcnh1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Kcnh1.bw
     shortLabel PTL5Kcnh1
     longLabel ExcPTL5PTL5Kcnh1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
 
     track PTL5Nectin1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Nectin1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Nectin1.bw
     shortLabel PTL5Nectin1
     longLabel ExcPTL5PTL5Nectin1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
+
+    track PTL5Outlier
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Outlier.bw
+    shortLabel PTL5Outlier
+    longLabel ExcPTL5PTL5Outlier
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
+    parent ExcPTL5 on
+    viewLimits 0:1
 
     track PTL5Plcb4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Plcb4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Plcb4.bw
     shortLabel PTL5Plcb4
     longLabel ExcPTL5PTL5Plcb4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
 
     track PTL5Ptprt
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Ptprt.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Ptprt.bw
     shortLabel PTL5Ptprt
     longLabel ExcPTL5PTL5Ptprt
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
 
     track PTL5Tenm2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Tenm2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Tenm2.bw
     shortLabel PTL5Tenm2
     longLabel ExcPTL5PTL5Tenm2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
 
     track PTL5Tmtc2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Tmtc2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Tmtc2.bw
     shortLabel PTL5Tmtc2
     longLabel ExcPTL5PTL5Tmtc2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
 
     track PTL5Unc5b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Exc__PT-L5__PT-L5_Unc5b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Unc5b.bw
     shortLabel PTL5Unc5b
     longLabel ExcPTL5PTL5Unc5b
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent ExcPTL5 on
+    viewLimits 0:1
 
 track InhCGELamp5
 shortLabel InhCGELamp5
 longLabel InhCGELamp5(5)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track CGELamp5Dock5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Dock5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Dock5.bw
     shortLabel CGELamp5Dock5
     longLabel InhCGELamp5CGELamp5Dock5
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGELamp5 on
+    viewLimits 0:1
 
     track CGELamp5Grid1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Grid1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Grid1.bw
     shortLabel CGELamp5Grid1
     longLabel InhCGELamp5CGELamp5Grid1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGELamp5 on
+    viewLimits 0:1
 
     track CGELamp5Grk5
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Grk5.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Grk5.bw
     shortLabel CGELamp5Grk5
     longLabel InhCGELamp5CGELamp5Grk5
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGELamp5 on
+    viewLimits 0:1
 
     track CGELamp5Nrxn3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Nrxn3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Nrxn3.bw
     shortLabel CGELamp5Nrxn3
     longLabel InhCGELamp5CGELamp5Nrxn3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGELamp5 on
+    viewLimits 0:1
 
     track CGELamp5Sorcs1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Lamp5__CGE-Lamp5_Sorcs1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Sorcs1.bw
     shortLabel CGELamp5Sorcs1
     longLabel InhCGELamp5CGELamp5Sorcs1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGELamp5 on
+    viewLimits 0:1
 
 track InhCGEVip
 shortLabel InhCGEVip
 longLabel InhCGEVip(8)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track CGEVipCcser1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Ccser1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Ccser1.bw
     shortLabel CGEVipCcser1
     longLabel InhCGEVipCGEVipCcser1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGEVip on
+    viewLimits 0:1
 
     track CGEVipClstn2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Clstn2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Clstn2.bw
     shortLabel CGEVipClstn2
     longLabel InhCGEVipCGEVipClstn2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGEVip on
+    viewLimits 0:1
 
     track CGEVipFstl4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Fstl4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Fstl4.bw
     shortLabel CGEVipFstl4
     longLabel InhCGEVipCGEVipFstl4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGEVip on
+    viewLimits 0:1
 
     track CGEVipGalnt17
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Galnt17.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Galnt17.bw
     shortLabel CGEVipGalnt17
     longLabel InhCGEVipCGEVipGalnt17
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGEVip on
+    viewLimits 0:1
 
     track CGEVipGrm8
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Grm8.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Grm8.bw
     shortLabel CGEVipGrm8
     longLabel InhCGEVipCGEVipGrm8
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGEVip on
+    viewLimits 0:1
 
     track CGEVipNtng1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Ntng1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Ntng1.bw
     shortLabel CGEVipNtng1
     longLabel InhCGEVipCGEVipNtng1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGEVip on
+    viewLimits 0:1
 
     track CGEVipPtprm
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Ptprm.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Ptprm.bw
     shortLabel CGEVipPtprm
     longLabel InhCGEVipCGEVipPtprm
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGEVip on
+    viewLimits 0:1
 
     track CGEVipRobo1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__CGE-Vip__CGE-Vip_Robo1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Robo1.bw
     shortLabel CGEVipRobo1
     longLabel InhCGEVipCGEVipRobo1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhCGEVip on
+    viewLimits 0:1
 
 track InhChd7
 shortLabel InhChd7
 longLabel InhChd7(3)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track Chd7Kcnc2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Chd7__Chd7_Kcnc2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Chd7__Chd7_Kcnc2.bw
     shortLabel Chd7Kcnc2
     longLabel InhChd7Chd7Kcnc2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhChd7 on
+    viewLimits 0:1
 
     track Chd7Megf11
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Chd7__Chd7_Megf11.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Chd7__Chd7_Megf11.bw
     shortLabel Chd7Megf11
     longLabel InhChd7Chd7Megf11
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhChd7 on
+    viewLimits 0:1
 
     track Chd7Trpc7
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Chd7__Chd7_Trpc7.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Chd7__Chd7_Trpc7.bw
     shortLabel Chd7Trpc7
     longLabel InhChd7Chd7Trpc7
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhChd7 on
+    viewLimits 0:1
 
 track InhD1LFstl4
 shortLabel InhD1LFstl4
 longLabel InhD1LFstl4(5)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track D1LFstl4Cadm1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Cadm1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Cadm1.bw
     shortLabel D1LFstl4Cadm1
     longLabel InhD1LFstl4D1LFstl4Cadm1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhD1LFstl4 on
+    viewLimits 0:1
 
     track D1LFstl4Crim1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Crim1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Crim1.bw
     shortLabel D1LFstl4Crim1
     longLabel InhD1LFstl4D1LFstl4Crim1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhD1LFstl4 on
+    viewLimits 0:1
 
     track D1LFstl4Grm3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Grm3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Grm3.bw
     shortLabel D1LFstl4Grm3
     longLabel InhD1LFstl4D1LFstl4Grm3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhD1LFstl4 on
+    viewLimits 0:1
 
     track D1LFstl4Sipa1l2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Sipa1l2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Sipa1l2.bw
     shortLabel D1LFstl4Sipa1l2
     longLabel InhD1LFstl4D1LFstl4Sipa1l2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhD1LFstl4 on
+    viewLimits 0:1
 
     track D1LFstl4Trps1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-Fstl4__D1L-Fstl4_Trps1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Trps1.bw
     shortLabel D1LFstl4Trps1
     longLabel InhD1LFstl4D1LFstl4Trps1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhD1LFstl4 on
+    viewLimits 0:1
 
 track InhD1LPAL
 shortLabel InhD1LPAL
 longLabel InhD1LPAL(2)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track D1LPALFlrt2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-PAL__D1L-PAL_Flrt2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-PAL__D1L-PAL_Flrt2.bw
     shortLabel D1LPALFlrt2
     longLabel InhD1LPALD1LPALFlrt2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhD1LPAL on
+    viewLimits 0:1
 
     track D1LPALPlcxd3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__D1L-PAL__D1L-PAL_Plcxd3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-PAL__D1L-PAL_Plcxd3.bw
     shortLabel D1LPALPlcxd3
     longLabel InhD1LPALD1LPALPlcxd3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhD1LPAL on
+    viewLimits 0:1
 
 track InhFoxp2
 shortLabel InhFoxp2
 longLabel InhFoxp2(4)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track Foxp2Dchs2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Foxp2__Foxp2_Dchs2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Dchs2.bw
     shortLabel Foxp2Dchs2
     longLabel InhFoxp2Foxp2Dchs2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhFoxp2 on
+    viewLimits 0:1
 
     track Foxp2Homer2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Foxp2__Foxp2_Homer2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Homer2.bw
     shortLabel Foxp2Homer2
     longLabel InhFoxp2Foxp2Homer2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhFoxp2 on
+    viewLimits 0:1
 
     track Foxp2Inpp4b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Foxp2__Foxp2_Inpp4b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Inpp4b.bw
     shortLabel Foxp2Inpp4b
     longLabel InhFoxp2Foxp2Inpp4b
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhFoxp2 on
+    viewLimits 0:1
 
     track Foxp2Trpc7
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Foxp2__Foxp2_Trpc7.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Trpc7.bw
     shortLabel Foxp2Trpc7
     longLabel InhFoxp2Foxp2Trpc7
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhFoxp2 on
+    viewLimits 0:1
 
 track InhLSXInh
 shortLabel InhLSXInh
 longLabel InhLSXInh(7)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track LSXInhCacna1i
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Cacna1i.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Cacna1i.bw
     shortLabel LSXInhCacna1i
     longLabel InhLSXInhLSXInhCacna1i
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhLSXInh on
+    viewLimits 0:1
 
     track LSXInhDock10
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Dock10.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Dock10.bw
     shortLabel LSXInhDock10
     longLabel InhLSXInhLSXInhDock10
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhLSXInh on
+    viewLimits 0:1
 
     track LSXInhEnox1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Enox1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Enox1.bw
     shortLabel LSXInhEnox1
     longLabel InhLSXInhLSXInhEnox1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhLSXInh on
+    viewLimits 0:1
 
     track LSXInhFoxp2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Foxp2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Foxp2.bw
     shortLabel LSXInhFoxp2
     longLabel InhLSXInhLSXInhFoxp2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhLSXInh on
+    viewLimits 0:1
 
     track LSXInhLats2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Lats2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Lats2.bw
     shortLabel LSXInhLats2
     longLabel InhLSXInhLSXInhLats2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhLSXInh on
+    viewLimits 0:1
 
     track LSXInhNxph1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Nxph1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Nxph1.bw
     shortLabel LSXInhNxph1
     longLabel InhLSXInhLSXInhNxph1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhLSXInh on
+    viewLimits 0:1
 
     track LSXInhZeb2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__LSX-Inh__LSX-Inh_Zeb2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Zeb2.bw
     shortLabel LSXInhZeb2
     longLabel InhLSXInhLSXInhZeb2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhLSXInh on
+    viewLimits 0:1
 
 track InhMGEPvalb
 shortLabel InhMGEPvalb
 longLabel InhMGEPvalb(7)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track MGEPvalbCacna1i
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Cacna1i.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Cacna1i.bw
     shortLabel MGEPvalbCacna1i
     longLabel InhMGEPvalbMGEPvalbCacna1i
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGEPvalb on
+    viewLimits 0:1
 
     track MGEPvalbCnih3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Cnih3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Cnih3.bw
     shortLabel MGEPvalbCnih3
     longLabel InhMGEPvalbMGEPvalbCnih3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGEPvalb on
+    viewLimits 0:1
 
     track MGEPvalbEntpd3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Entpd3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Entpd3.bw
     shortLabel MGEPvalbEntpd3
     longLabel InhMGEPvalbMGEPvalbEntpd3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGEPvalb on
+    viewLimits 0:1
 
     track MGEPvalbGfra2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Gfra2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Gfra2.bw
     shortLabel MGEPvalbGfra2
     longLabel InhMGEPvalbMGEPvalbGfra2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGEPvalb on
+    viewLimits 0:1
 
     track MGEPvalbPtprk
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Ptprk.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Ptprk.bw
     shortLabel MGEPvalbPtprk
     longLabel InhMGEPvalbMGEPvalbPtprk
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGEPvalb on
+    viewLimits 0:1
 
     track MGEPvalbSema5a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Sema5a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Sema5a.bw
     shortLabel MGEPvalbSema5a
     longLabel InhMGEPvalbMGEPvalbSema5a
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGEPvalb on
+    viewLimits 0:1
 
     track MGEPvalbThsd7a
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Pvalb__MGE-Pvalb_Thsd7a.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Thsd7a.bw
     shortLabel MGEPvalbThsd7a
     longLabel InhMGEPvalbMGEPvalbThsd7a
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGEPvalb on
+    viewLimits 0:1
 
 track InhMGESst
 shortLabel InhMGESst
 longLabel InhMGESst(11)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track MGESstBmper
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Bmper.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Bmper.bw
     shortLabel MGESstBmper
     longLabel InhMGESstMGESstBmper
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstChodl
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Chodl.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Chodl.bw
     shortLabel MGESstChodl
     longLabel InhMGESstMGESstChodl
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstDock4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Dock4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Dock4.bw
     shortLabel MGESstDock4
     longLabel InhMGESstMGESstDock4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstEtv1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Etv1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Etv1.bw
     shortLabel MGESstEtv1
     longLabel InhMGESstMGESstEtv1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstFrmd6
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Frmd6.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Frmd6.bw
     shortLabel MGESstFrmd6
     longLabel InhMGESstMGESstFrmd6
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstKcnip4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Kcnip4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Kcnip4.bw
     shortLabel MGESstKcnip4
     longLabel InhMGESstMGESstKcnip4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstPtpre
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Ptpre.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Ptpre.bw
     shortLabel MGESstPtpre
     longLabel InhMGESstMGESstPtpre
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstRerg
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Rerg.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Rerg.bw
     shortLabel MGESstRerg
     longLabel InhMGESstMGESstRerg
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstRxra
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Rxra.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Rxra.bw
     shortLabel MGESstRxra
     longLabel InhMGESstMGESstRxra
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstUbtd1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Ubtd1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Ubtd1.bw
     shortLabel MGESstUbtd1
     longLabel InhMGESstMGESstUbtd1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
     track MGESstUnc5b
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MGE-Sst__MGE-Sst_Unc5b.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Unc5b.bw
     shortLabel MGESstUnc5b
     longLabel InhMGESstMGESstUnc5b
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMGESst on
+    viewLimits 0:1
 
 track InhMSND1
 shortLabel InhMSND1
 longLabel InhMSND1(4)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track MSND1Hrh1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D1__MSN-D1_Hrh1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Hrh1.bw
     shortLabel MSND1Hrh1
     longLabel InhMSND1MSND1Hrh1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMSND1 on
+    viewLimits 0:1
 
     track MSND1Khdrbs3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D1__MSN-D1_Khdrbs3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Khdrbs3.bw
     shortLabel MSND1Khdrbs3
     longLabel InhMSND1MSND1Khdrbs3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMSND1 on
+    viewLimits 0:1
 
     track MSND1Ntn1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D1__MSN-D1_Ntn1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Ntn1.bw
     shortLabel MSND1Ntn1
     longLabel InhMSND1MSND1Ntn1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMSND1 on
+    viewLimits 0:1
 
     track MSND1Plxnc1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D1__MSN-D1_Plxnc1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Plxnc1.bw
     shortLabel MSND1Plxnc1
     longLabel InhMSND1MSND1Plxnc1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMSND1 on
+    viewLimits 0:1
 
 track InhMSND2
 shortLabel InhMSND2
 longLabel InhMSND2(4)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track MSND2Casz1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D2__MSN-D2_Casz1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Casz1.bw
     shortLabel MSND2Casz1
     longLabel InhMSND2MSND2Casz1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMSND2 on
+    viewLimits 0:1
 
     track MSND2Col14a1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D2__MSN-D2_Col14a1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Col14a1.bw
     shortLabel MSND2Col14a1
     longLabel InhMSND2MSND2Col14a1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMSND2 on
+    viewLimits 0:1
 
     track MSND2Nrp2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D2__MSN-D2_Nrp2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Nrp2.bw
     shortLabel MSND2Nrp2
     longLabel InhMSND2MSND2Nrp2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMSND2 on
+    viewLimits 0:1
 
     track MSND2Slc24a2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__MSN-D2__MSN-D2_Slc24a2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Slc24a2.bw
     shortLabel MSND2Slc24a2
     longLabel InhMSND2MSND2Slc24a2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhMSND2 on
+    viewLimits 0:1
 
 track InhOLF
 shortLabel InhOLF
 longLabel InhOLF(7)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track OLFGabbr2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Gabbr2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Gabbr2.bw
     shortLabel OLFGabbr2
     longLabel InhOLFOLFGabbr2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhOLF on
+    viewLimits 0:1
 
     track OLFKcnd3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Kcnd3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Kcnd3.bw
     shortLabel OLFKcnd3
     longLabel InhOLFOLFKcnd3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhOLF on
+    viewLimits 0:1
 
     track OLFMapk10
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Mapk10.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Mapk10.bw
     shortLabel OLFMapk10
     longLabel InhOLFOLFMapk10
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhOLF on
+    viewLimits 0:1
 
     track OLFOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Outlier.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Outlier.bw
     shortLabel OLFOutlier
     longLabel InhOLFOLFOutlier
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhOLF on
+    viewLimits 0:1
 
     track OLFPag1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Pag1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Pag1.bw
     shortLabel OLFPag1
     longLabel InhOLFOLFPag1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhOLF on
+    viewLimits 0:1
 
     track OLFTrpc4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Trpc4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Trpc4.bw
     shortLabel OLFTrpc4
     longLabel InhOLFOLFTrpc4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhOLF on
+    viewLimits 0:1
 
     track OLFXkr6
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__OLF__OLF_Xkr6.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Xkr6.bw
     shortLabel OLFXkr6
     longLabel InhOLFOLFXkr6
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhOLF on
+    viewLimits 0:1
 
 track InhPALInh
 shortLabel InhPALInh
 longLabel InhPALInh(11)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track PALInhChat
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Chat.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Chat.bw
     shortLabel PALInhChat
     longLabel InhPALInhPALInhChat
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhDeptor
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Deptor.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Deptor.bw
     shortLabel PALInhDeptor
     longLabel InhPALInhPALInhDeptor
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhIgdcc3
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Igdcc3.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Igdcc3.bw
     shortLabel PALInhIgdcc3
     longLabel InhPALInhPALInhIgdcc3
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhMeis1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Meis1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Meis1.bw
     shortLabel PALInhMeis1
     longLabel InhPALInhPALInhMeis1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhMeis2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Meis2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Meis2.bw
     shortLabel PALInhMeis2
     longLabel InhPALInhPALInhMeis2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhOnecut2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Onecut2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Onecut2.bw
     shortLabel PALInhOnecut2
     longLabel InhPALInhPALInhOnecut2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Outlier.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Outlier.bw
     shortLabel PALInhOutlier
     longLabel InhPALInhPALInhOutlier
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhPtprd
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Ptprd.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Ptprd.bw
     shortLabel PALInhPtprd
     longLabel InhPALInhPALInhPtprd
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhRarb
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Rarb.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Rarb.bw
     shortLabel PALInhRarb
     longLabel InhPALInhPALInhRarb
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhTcf7l2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Tcf7l2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Tcf7l2.bw
     shortLabel PALInhTcf7l2
     longLabel InhPALInhPALInhTcf7l2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
     track PALInhTmem178
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__PAL-Inh__PAL-Inh_Tmem178.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Tmem178.bw
     shortLabel PALInhTmem178
     longLabel InhPALInhPALInhTmem178
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhPALInh on
+    viewLimits 0:1
 
 track InhUnc5c
 shortLabel InhUnc5c
 longLabel InhUnc5c(1)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track Unc5cUnc5c
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/Inh__Unc5c__Unc5c_Unc5c.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Unc5c__Unc5c_Unc5c.bw
     shortLabel Unc5cUnc5c
     longLabel InhUnc5cUnc5cUnc5c
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent InhUnc5c on
+    viewLimits 0:1
 
 track NonNANP
 shortLabel NonNANP
 longLabel NonNANP(2)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track ANPanpdg
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ANP__ANP_anp-dg.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ANP__ANP_anp-dg.bw
     shortLabel ANPanpdg
     longLabel NonNANPANPanpdg
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNANP on
+    viewLimits 0:1
 
     track ANPanpolfcnu
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ANP__ANP_anp-olf-cnu.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ANP__ANP_anp-olf-cnu.bw
     shortLabel ANPanpolfcnu
     longLabel NonNANPANPanpolfcnu
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNANP on
+    viewLimits 0:1
 
 track NonNASC
 shortLabel NonNASC
 longLabel NonNASC(3)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track ASCcortexolf
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ASC__ASC_cortex-olf.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ASC__ASC_cortex-olf.bw
     shortLabel ASCcortexolf
     longLabel NonNASCASCcortexolf
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNASC on
+    viewLimits 0:1
 
     track ASCmid
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ASC__ASC_mid.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ASC__ASC_mid.bw
     shortLabel ASCmid
     longLabel NonNASCASCmid
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNASC on
+    viewLimits 0:1
 
     track ASCstrhpf
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ASC__ASC_str-hpf.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ASC__ASC_str-hpf.bw
     shortLabel ASCstrhpf
     longLabel NonNASCASCstrhpf
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNASC on
+    viewLimits 0:1
 
 track NonNEC
 shortLabel NonNEC
 longLabel NonNEC(2)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track ECAbhd2
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__EC__EC_Abhd2.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__EC__EC_Abhd2.bw
     shortLabel ECAbhd2
     longLabel NonNECECAbhd2
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNEC on
+    viewLimits 0:1
 
     track ECSema3g
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__EC__EC_Sema3g.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__EC__EC_Sema3g.bw
     shortLabel ECSema3g
     longLabel NonNECECSema3g
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNEC on
+    viewLimits 0:1
 
 track NonNMGC
 shortLabel NonNMGC
 longLabel NonNMGC(1)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track MGCmgcall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__MGC__MGC_mgc-all.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__MGC__MGC_mgc-all.bw
     shortLabel MGCmgcall
     longLabel NonNMGCMGCmgcall
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNMGC on
+    viewLimits 0:1
 
 track NonNODC
 shortLabel NonNODC
 longLabel NonNODC(2)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track ODCodclarge
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ODC__ODC_odc-large.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ODC__ODC_odc-large.bw
     shortLabel ODCodclarge
     longLabel NonNODCODCodclarge
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNODC on
+    viewLimits 0:1
 
     track ODCodcsmall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__ODC__ODC_odc-small.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ODC__ODC_odc-small.bw
     shortLabel ODCodcsmall
     longLabel NonNODCODCodcsmall
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNODC on
+    viewLimits 0:1
 
 track NonNOPC
 shortLabel NonNOPC
 longLabel NonNOPC(2)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track OPCopclarge
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__OPC__OPC_opc-large.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__OPC__OPC_opc-large.bw
     shortLabel OPCopclarge
     longLabel NonNOPCOPCopclarge
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNOPC on
+    viewLimits 0:1
 
     track OPCopcsmall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__OPC__OPC_opc-small.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__OPC__OPC_opc-small.bw
     shortLabel OPCopcsmall
     longLabel NonNOPCOPCopcsmall
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNOPC on
+    viewLimits 0:1
 
 track NonNPC
 shortLabel NonNPC
 longLabel NonNPC(1)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track PCpcall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__PC__PC_pc-all.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__PC__PC_pc-all.bw
     shortLabel PCpcall
     longLabel NonNPCPCpcall
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNPC on
+    viewLimits 0:1
 
 track NonNVLMCPia
 shortLabel NonNVLMCPia
 longLabel NonNVLMCPia(1)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track VLMCPiavlmcpiaall
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__VLMC-Pia__VLMC-Pia_vlmc-pia-all.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__VLMC-Pia__VLMC-Pia_vlmc-pia-all.bw
     shortLabel VLMCPiavlmcpiaall
     longLabel NonNVLMCPiaVLMCPiavlmcpiaall
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNVLMCPia on
+    viewLimits 0:1
 
 track NonNVLMC
 shortLabel NonNVLMC
 longLabel NonNVLMC(2)
-type bigBed
+type bigWig
 visibility hide
 compositeTrack on
 
     track VLMCCol4a1
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__VLMC__VLMC_Col4a1.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__VLMC__VLMC_Col4a1.bw
     shortLabel VLMCCol4a1
     longLabel NonNVLMCVLMCCol4a1
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNVLMC on
+    viewLimits 0:1
 
     track VLMCMapk4
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigbed/NonN__VLMC__VLMC_Mapk4.bb
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__VLMC__VLMC_Mapk4.bw
     shortLabel VLMCMapk4
     longLabel NonNVLMCVLMCMapk4
-    type bigBed
-    itemRgb on
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
     parent NonNVLMC on
+    viewLimits 0:1
+
+track
+shortLabel
+longLabel (1)
+type bigWig
+visibility hide
+compositeTrack on
+
+    track
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/____.bw
+    shortLabel
+    longLabel
+    type bigWig
+    autoScale off
+    maxHeightPixels 100:15:5
+    parent  on
+    viewLimits 0:1
