@@ -1,8 +1,8 @@
 track Exc-CA1
 shortLabel Exc-CA1
-longLabel CA1 Exc major group
+longLabel Exc-CA1 | CA1 Exc major group
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track CA1Ak5
@@ -67,9 +67,9 @@ compositeTrack on
 
 track Exc-CA3-St18
 shortLabel Exc-CA3-St18
-longLabel CA3 Exc small group marked by St18, sparse distributed in CA3 pyramidal layer deep side. See St18 ISH from ABA https://mouse.brain-map.org/experiment/show/69290531
+longLabel Exc-CA3-St18 | CA3 Exc small group marked by St18, sparse distributed in CA3 pyramidal layer deep side. See St18 ISH from ABA https://mouse.brain-map.org/experiment/show/69290531
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track CA3St18Epha5
@@ -104,9 +104,9 @@ compositeTrack on
 
 track Exc-CA3
 shortLabel Exc-CA3
-longLabel CA3 Exc major group
+longLabel Exc-CA3 | CA3 Exc major group
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track CA3Cadm2
@@ -131,9 +131,9 @@ compositeTrack on
 
 track Exc-CLA
 shortLabel Exc-CLA
-longLabel Excitatroy neruon from Claustrum. Infered by dissection regions and region specific marker genes, e.g., B3gat2 ISH from ABA https://mouse.brain-map.org/gene/show/93607
+longLabel Exc-CLA | Excitatroy neruon from Claustrum. Infered by dissection regions and region specific marker genes, e.g., B3gat2 ISH from ABA https://mouse.brain-map.org/gene/show/93607
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track CLABcl11a
@@ -168,9 +168,9 @@ compositeTrack on
 
 track Exc-CT-L6
 shortLabel Exc-CT-L6
-longLabel Cortex CT Exc neuron in Layer 6
+longLabel Exc-CT-L6 | Cortex CT Exc neuron in Layer 6
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track CTL6Hcrtr2
@@ -215,9 +215,9 @@ compositeTrack on
 
 track Exc-DG-po
 shortLabel Exc-DG-po
-longLabel DG Exc located in DGpo, infered by dissection regions and region specific marker genes, e.g., Ptpro ISH from ABA https://mouse.brain-map.org/gene/show/19040
+longLabel Exc-DG-po | DG Exc located in DGpo, infered by dissection regions and region specific marker genes, e.g., Ptpro ISH from ABA https://mouse.brain-map.org/gene/show/19040
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track DGpoBcl11a
@@ -252,9 +252,9 @@ compositeTrack on
 
 track Exc-DG
 shortLabel Exc-DG
-longLabel Gruanle cell in DG
+longLabel Exc-DG | Gruanle cell in DG
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track DGdgall
@@ -269,9 +269,9 @@ compositeTrack on
 
 track Exc-EP
 shortLabel Exc-EP
-longLabel Excitatory neuron from Endopriform Nucleus. Infered by dissection regions and region specific marker genes, e.g., Npsr1 ISH from ABA https://mouse.brain-map.org/gene/show/106174
+longLabel Exc-EP | Excitatory neuron from Endopriform Nucleus. Infered by dissection regions and region specific marker genes, e.g., Npsr1 ISH from ABA https://mouse.brain-map.org/gene/show/106174
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track EPAdcy8
@@ -306,9 +306,9 @@ compositeTrack on
 
 track Exc-Gfra1
 shortLabel Exc-Gfra1
-longLabel Sparse distributed excitatory neurons across CA1, CA3 and DGpo marked by Gfra1, see Gfra1 ISH from ABA https://mouse.brain-map.org/gene/show/14361
+longLabel Exc-Gfra1 | Sparse distributed excitatory neurons across CA1, CA3 and DGpo marked by Gfra1, see Gfra1 ISH from ABA https://mouse.brain-map.org/gene/show/14361
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track Gfra1Gfra1
@@ -323,9 +323,9 @@ compositeTrack on
 
 track Exc-IG-CA2
 shortLabel Exc-IG-CA2
-longLabel CA2 and IG Exc. neuron, infered by dissection regions and region specific marker genes, e.g., Ntf3 gene ISH from ABA: https://mouse.brain-map.org/gene/show/17972
+longLabel Exc-IG-CA2 | CA2 and IG Exc. neuron, infered by dissection regions and region specific marker genes, e.g., Ntf3 gene ISH from ABA: https://mouse.brain-map.org/gene/show/17972
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track IGCA2Chrm3
@@ -360,9 +360,9 @@ compositeTrack on
 
 track Exc-IT-L23
 shortLabel Exc-IT-L23
-longLabel Cortex IT Exc neuron in Layer 2-3
+longLabel Exc-IT-L23 | Cortex IT Exc neuron in Layer 2-3
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track ITL23Cux1
@@ -407,9 +407,9 @@ compositeTrack on
 
 track Exc-IT-L4
 shortLabel Exc-IT-L4
-longLabel Cortex IT Exc neuron in Layer 4
+longLabel Exc-IT-L4 | Cortex IT Exc neuron in Layer 4
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track ITL4Astn2
@@ -434,9 +434,9 @@ compositeTrack on
 
 track Exc-IT-L5
 shortLabel Exc-IT-L5
-longLabel Cortex IT Exc neuron in Layer 5
+longLabel Exc-IT-L5 | Cortex IT Exc neuron in Layer 5
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track ITL5Cdh8
@@ -471,9 +471,9 @@ compositeTrack on
 
 track Exc-IT-L6
 shortLabel Exc-IT-L6
-longLabel Cortex IT Exc neuron in Layer 6
+longLabel Exc-IT-L6 | Cortex IT Exc neuron in Layer 6
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track ITL6Cadps2
@@ -518,9 +518,9 @@ compositeTrack on
 
 track Exc-L6b
 shortLabel Exc-L6b
-longLabel Cortex L6b neuron
+longLabel Exc-L6b | Cortex L6b neuron
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track L6bAdcy8
@@ -565,9 +565,9 @@ compositeTrack on
 
 track Exc-NP-L6
 shortLabel Exc-NP-L6
-longLabel Cortex NP Exc neuron in Layer 6
+longLabel Exc-NP-L6 | Cortex NP Exc neuron in Layer 6
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track NPL6Boc
@@ -632,9 +632,9 @@ compositeTrack on
 
 track Exc-OLF-Exc
 shortLabel Exc-OLF-Exc
-longLabel Excitatory neuron from olfactory area dissections including MOB, AON and PIR. Infered by dissection regions
+longLabel Exc-OLF-Exc | Excitatory neuron from olfactory area dissections including MOB, AON and PIR. Infered by dissection regions
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track OLFExcBmpr1b
@@ -729,9 +729,9 @@ compositeTrack on
 
 track Exc-PT-L5
 shortLabel Exc-PT-L5
-longLabel Cortex ET Exc neuron in Layer 5, Note that the L5 ET neurons had been named as pyramidal tract (PT) neurons or subcerebral projection neurons (SCPN) in the literature, we use ET to be consistent with Yao et al., 2020
+longLabel Exc-PT-L5 | Cortex ET Exc neuron in Layer 5, Note that the L5 ET neurons had been named as pyramidal tract (PT) neurons or subcerebral projection neurons (SCPN) in the literature, we use ET to be consistent with Yao et al., 2020
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track PTL5Abca12
@@ -836,9 +836,9 @@ compositeTrack on
 
 track Inh-CGE-Lamp5
 shortLabel Inh-CGE-Lamp5
-longLabel CGE derived Lamp5+ Inh.
+longLabel Inh-CGE-Lamp5 | CGE derived Lamp5+ Inh.
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track CGELamp5Dock5
@@ -893,9 +893,9 @@ compositeTrack on
 
 track Inh-CGE-Vip
 shortLabel Inh-CGE-Vip
-longLabel CGE derived Vip+ Inh.
+longLabel Inh-CGE-Vip | CGE derived Vip+ Inh.
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track CGEVipCcser1
@@ -980,9 +980,9 @@ compositeTrack on
 
 track Inh-Chd7
 shortLabel Inh-Chd7
-longLabel Inh cell shown hypomethylation in both Lhx6 and Chd7 gene
+longLabel Inh-Chd7 | Inh cell shown hypomethylation in both Lhx6 and Chd7 gene
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track Chd7Kcnc2
@@ -1017,9 +1017,9 @@ compositeTrack on
 
 track Inh-D1L-Fstl4
 shortLabel Inh-D1L-Fstl4
-longLabel D1 Like Interneuron, marked by Fstl4 and Drd1
+longLabel Inh-D1L-Fstl4 | D1 Like Interneuron, marked by Fstl4 and Drd1
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track D1LFstl4Cadm1
@@ -1074,9 +1074,9 @@ compositeTrack on
 
 track Inh-D1L-PAL
 shortLabel Inh-D1L-PAL
-longLabel D1 Like Interneuron, mainly come from PAL, marked by Drd1
+longLabel Inh-D1L-PAL | D1 Like Interneuron, mainly come from PAL, marked by Drd1
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track D1LPALFlrt2
@@ -1101,9 +1101,9 @@ compositeTrack on
 
 track Inh-Foxp2
 shortLabel Inh-Foxp2
-longLabel Inh cell marked by Foxp2 gene, mainly come from STR and PAL
+longLabel Inh-Foxp2 | Inh cell marked by Foxp2 gene, mainly come from STR and PAL
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track Foxp2Dchs2
@@ -1148,9 +1148,9 @@ compositeTrack on
 
 track Inh-LSX-Inh
 shortLabel Inh-LSX-Inh
-longLabel LSX Interneuron
+longLabel Inh-LSX-Inh | LSX Interneuron
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track LSXInhCacna1i
@@ -1225,9 +1225,9 @@ compositeTrack on
 
 track Inh-MGE-Pvalb
 shortLabel Inh-MGE-Pvalb
-longLabel MGE derived Pvalb+ Inh.
+longLabel Inh-MGE-Pvalb | MGE derived Pvalb+ Inh.
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track MGEPvalbCacna1i
@@ -1302,9 +1302,9 @@ compositeTrack on
 
 track Inh-MGE-Sst
 shortLabel Inh-MGE-Sst
-longLabel MGE derived Sst+ Inh.
+longLabel Inh-MGE-Sst | MGE derived Sst+ Inh.
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track MGESstBmper
@@ -1419,9 +1419,9 @@ compositeTrack on
 
 track Inh-MSN-D1
 shortLabel Inh-MSN-D1
-longLabel Medium Spiny Neuron D1-type, hypomethylation in Drd1 gene
+longLabel Inh-MSN-D1 | Medium Spiny Neuron D1-type, hypomethylation in Drd1 gene
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track MSND1Hrh1
@@ -1466,9 +1466,9 @@ compositeTrack on
 
 track Inh-MSN-D2
 shortLabel Inh-MSN-D2
-longLabel Medium Spiny Neuron D2-type, hypomethylation in Drd2 gene
+longLabel Inh-MSN-D2 | Medium Spiny Neuron D2-type, hypomethylation in Drd2 gene
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track MSND2Casz1
@@ -1513,9 +1513,9 @@ compositeTrack on
 
 track Inh-OLF
 shortLabel Inh-OLF
-longLabel Granule layer of OLF and associated cell types
+longLabel Inh-OLF | Granule layer of OLF and associated cell types
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track OLFGabbr2
@@ -1590,9 +1590,9 @@ compositeTrack on
 
 track Inh-PAL-Inh
 shortLabel Inh-PAL-Inh
-longLabel PAL Interneuron
+longLabel Inh-PAL-Inh | PAL Interneuron
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track PALInhChat
@@ -1707,9 +1707,9 @@ compositeTrack on
 
 track Inh-Unc5c
 shortLabel Inh-Unc5c
-longLabel Inh cell mainly from HIP but also partly from cortex. Shown hypomethylation in both Lhx6 (CGE marker) and Adarb2 (MGE marker) gene.
+longLabel Inh-Unc5c | Inh cell mainly from HIP but also partly from cortex. Shown hypomethylation in both Lhx6 (CGE marker) and Adarb2 (MGE marker) gene.
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track Unc5cUnc5c
@@ -1724,9 +1724,9 @@ compositeTrack on
 
 track NonN-ANP
 shortLabel NonN-ANP
-longLabel Adulut Neuron Precursor
+longLabel NonN-ANP | Adulut Neuron Precursor
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track ANPanpdg
@@ -1751,9 +1751,9 @@ compositeTrack on
 
 track NonN-ASC
 shortLabel NonN-ASC
-longLabel Astrocyte
+longLabel NonN-ASC | Astrocyte
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track ASCcortexolf
@@ -1788,9 +1788,9 @@ compositeTrack on
 
 track NonN-EC
 shortLabel NonN-EC
-longLabel Endothelial Cell
+longLabel NonN-EC | Endothelial Cell
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track ECAbhd2
@@ -1815,9 +1815,9 @@ compositeTrack on
 
 track NonN-MGC
 shortLabel NonN-MGC
-longLabel Microglia
+longLabel NonN-MGC | Microglia
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track MGCmgcall
@@ -1832,9 +1832,9 @@ compositeTrack on
 
 track NonN-ODC
 shortLabel NonN-ODC
-longLabel Oligodendrocyte
+longLabel NonN-ODC | Oligodendrocyte
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track ODCodclarge
@@ -1859,9 +1859,9 @@ compositeTrack on
 
 track NonN-OPC
 shortLabel NonN-OPC
-longLabel Oligodendrocyte Precursor Cell
+longLabel NonN-OPC | Oligodendrocyte Precursor Cell
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track OPCopclarge
@@ -1886,9 +1886,9 @@ compositeTrack on
 
 track NonN-PC
 shortLabel NonN-PC
-longLabel Perivascular Cell
+longLabel NonN-PC | Perivascular Cell
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track PCpcall
@@ -1903,9 +1903,9 @@ compositeTrack on
 
 track NonN-VLMC-Pia
 shortLabel NonN-VLMC-Pia
-longLabel Vascular Leptomeningeal Cell mainly in Pia
+longLabel NonN-VLMC-Pia | Vascular Leptomeningeal Cell mainly in Pia
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track VLMCPiavlmcpiaall
@@ -1920,9 +1920,9 @@ compositeTrack on
 
 track NonN-VLMC
 shortLabel NonN-VLMC
-longLabel Vascular Leptomeningeal Cell
+longLabel NonN-VLMC | Vascular Leptomeningeal Cell
 type bigWig
-visibility hide
+visibility dense
 compositeTrack on
 
     track VLMCCol4a1
