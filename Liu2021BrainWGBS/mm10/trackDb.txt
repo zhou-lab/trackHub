@@ -1,13 +1,13 @@
 track Exc-CA1
 shortLabel Exc-CA1
-longLabel Exc-CA1 | CA1 Exc major group
+longLabel Exc-CA1 (CA1 Exc major group)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track CA1Ak5
+    track CA1_Ak5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Ak5.bw
-    shortLabel CA1Ak5
+    shortLabel CA1_Ak5
     longLabel Exc__CA1__CA1_Ak5
     type bigWig
     autoScale off
@@ -16,9 +16,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CA1Chrm3
+    track CA1_Chrm3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Chrm3.bw
-    shortLabel CA1Chrm3
+    shortLabel CA1_Chrm3
     longLabel Exc__CA1__CA1_Chrm3
     type bigWig
     autoScale off
@@ -27,9 +27,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CA1Kif26a
+    track CA1_Kif26a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Kif26a.bw
-    shortLabel CA1Kif26a
+    shortLabel CA1_Kif26a
     longLabel Exc__CA1__CA1_Kif26a
     type bigWig
     autoScale off
@@ -38,9 +38,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CA1Lingo2
+    track CA1_Lingo2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Lingo2.bw
-    shortLabel CA1Lingo2
+    shortLabel CA1_Lingo2
     longLabel Exc__CA1__CA1_Lingo2
     type bigWig
     autoScale off
@@ -49,20 +49,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CA1Outlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Outlier.bw
-    shortLabel CA1Outlier
-    longLabel Exc__CA1__CA1_Outlier
-    type bigWig
-    autoScale off
-    maxHeightPixels 100:15:5
-    parent Exc-CA1 on
-    viewLimits 0:1
-    visibility dense
-
-    track CA1Ptprg
+    track CA1_Ptprg
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Ptprg.bw
-    shortLabel CA1Ptprg
+    shortLabel CA1_Ptprg
     longLabel Exc__CA1__CA1_Ptprg
     type bigWig
     autoScale off
@@ -73,14 +62,14 @@ compositeTrack on
 
 track Exc-CA3-St18
 shortLabel Exc-CA3-St18
-longLabel Exc-CA3-St18 | CA3 Exc small group marked by St18, sparse distributed in CA3 pyramidal layer deep side. See St18 ISH from ABA https://mouse.brain-map.org/experiment/show/69290531
+longLabel Exc-CA3-St18 (CA3 Exc small group marked by St18, sparse distributed in CA3 pyramidal layer deep side. See St18 ISH from ABA https://mouse.brain-map.org/experiment/show/69290531)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track CA3St18Epha5
+    track CA3-St18_Epha5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3-St18__CA3-St18_Epha5.bw
-    shortLabel CA3St18Epha5
+    shortLabel CA3-St18_Epha5
     longLabel Exc__CA3-St18__CA3-St18_Epha5
     type bigWig
     autoScale off
@@ -89,9 +78,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CA3St18Nuak1
+    track CA3-St18_Nuak1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3-St18__CA3-St18_Nuak1.bw
-    shortLabel CA3St18Nuak1
+    shortLabel CA3-St18_Nuak1
     longLabel Exc__CA3-St18__CA3-St18_Nuak1
     type bigWig
     autoScale off
@@ -100,9 +89,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CA3St18Tead1
+    track CA3-St18_Tead1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3-St18__CA3-St18_Tead1.bw
-    shortLabel CA3St18Tead1
+    shortLabel CA3-St18_Tead1
     longLabel Exc__CA3-St18__CA3-St18_Tead1
     type bigWig
     autoScale off
@@ -113,14 +102,14 @@ compositeTrack on
 
 track Exc-CA3
 shortLabel Exc-CA3
-longLabel Exc-CA3 | CA3 Exc major group
+longLabel Exc-CA3 (CA3 Exc major group)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track CA3Cadm2
+    track CA3_Cadm2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3__CA3_Cadm2.bw
-    shortLabel CA3Cadm2
+    shortLabel CA3_Cadm2
     longLabel Exc__CA3__CA3_Cadm2
     type bigWig
     autoScale off
@@ -129,9 +118,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CA3Efnb2
+    track CA3_Efnb2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3__CA3_Efnb2.bw
-    shortLabel CA3Efnb2
+    shortLabel CA3_Efnb2
     longLabel Exc__CA3__CA3_Efnb2
     type bigWig
     autoScale off
@@ -142,14 +131,14 @@ compositeTrack on
 
 track Exc-CLA
 shortLabel Exc-CLA
-longLabel Exc-CLA | Excitatroy neruon from Claustrum. Infered by dissection regions and region specific marker genes, e.g., B3gat2 ISH from ABA https://mouse.brain-map.org/gene/show/93607
+longLabel Exc-CLA (Excitatroy neruon from Claustrum. Infered by dissection regions and region specific marker genes, e.g., B3gat2 ISH from ABA https://mouse.brain-map.org/gene/show/93607)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track CLABcl11a
+    track CLA_Bcl11a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CLA__CLA_Bcl11a.bw
-    shortLabel CLABcl11a
+    shortLabel CLA_Bcl11a
     longLabel Exc__CLA__CLA_Bcl11a
     type bigWig
     autoScale off
@@ -158,9 +147,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CLACdh8
+    track CLA_Cdh8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CLA__CLA_Cdh8.bw
-    shortLabel CLACdh8
+    shortLabel CLA_Cdh8
     longLabel Exc__CLA__CLA_Cdh8
     type bigWig
     autoScale off
@@ -169,9 +158,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CLANrp2
+    track CLA_Nrp2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CLA__CLA_Nrp2.bw
-    shortLabel CLANrp2
+    shortLabel CLA_Nrp2
     longLabel Exc__CLA__CLA_Nrp2
     type bigWig
     autoScale off
@@ -182,14 +171,14 @@ compositeTrack on
 
 track Exc-CT-L6
 shortLabel Exc-CT-L6
-longLabel Exc-CT-L6 | Cortex CT Exc neuron in Layer 6
+longLabel Exc-CT-L6 (Cortex CT Exc neuron in Layer 6)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track CTL6Hcrtr2
+    track CT-L6_Hcrtr2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Hcrtr2.bw
-    shortLabel CTL6Hcrtr2
+    shortLabel CT-L6_Hcrtr2
     longLabel Exc__CT-L6__CT-L6_Hcrtr2
     type bigWig
     autoScale off
@@ -198,9 +187,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CTL6Il1rap
+    track CT-L6_Il1rap
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Il1rap.bw
-    shortLabel CTL6Il1rap
+    shortLabel CT-L6_Il1rap
     longLabel Exc__CT-L6__CT-L6_Il1rap
     type bigWig
     autoScale off
@@ -209,9 +198,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CTL6Map4
+    track CT-L6_Map4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Map4.bw
-    shortLabel CTL6Map4
+    shortLabel CT-L6_Map4
     longLabel Exc__CT-L6__CT-L6_Map4
     type bigWig
     autoScale off
@@ -220,9 +209,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CTL6Megf9
+    track CT-L6_Megf9
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Megf9.bw
-    shortLabel CTL6Megf9
+    shortLabel CT-L6_Megf9
     longLabel Exc__CT-L6__CT-L6_Megf9
     type bigWig
     autoScale off
@@ -233,14 +222,14 @@ compositeTrack on
 
 track Exc-DG-po
 shortLabel Exc-DG-po
-longLabel Exc-DG-po | DG Exc located in DGpo, infered by dissection regions and region specific marker genes, e.g., Ptpro ISH from ABA https://mouse.brain-map.org/gene/show/19040
+longLabel Exc-DG-po (DG Exc located in DGpo, infered by dissection regions and region specific marker genes, e.g., Ptpro ISH from ABA https://mouse.brain-map.org/gene/show/19040)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track DGpoBcl11a
+    track DG-po_Bcl11a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG-po__DG-po_Bcl11a.bw
-    shortLabel DGpoBcl11a
+    shortLabel DG-po_Bcl11a
     longLabel Exc__DG-po__DG-po_Bcl11a
     type bigWig
     autoScale off
@@ -249,9 +238,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track DGpoCalb2
+    track DG-po_Calb2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG-po__DG-po_Calb2.bw
-    shortLabel DGpoCalb2
+    shortLabel DG-po_Calb2
     longLabel Exc__DG-po__DG-po_Calb2
     type bigWig
     autoScale off
@@ -260,9 +249,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track DGpoKctd8
+    track DG-po_Kctd8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG-po__DG-po_Kctd8.bw
-    shortLabel DGpoKctd8
+    shortLabel DG-po_Kctd8
     longLabel Exc__DG-po__DG-po_Kctd8
     type bigWig
     autoScale off
@@ -273,14 +262,14 @@ compositeTrack on
 
 track Exc-DG
 shortLabel Exc-DG
-longLabel Exc-DG | Gruanle cell in DG
+longLabel Exc-DG (Gruanle cell in DG)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track DGdgall
+    track DG_dg-all
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG__DG_dg-all.bw
-    shortLabel DGdgall
+    shortLabel DG_dg-all
     longLabel Exc__DG__DG_dg-all
     type bigWig
     autoScale off
@@ -291,14 +280,14 @@ compositeTrack on
 
 track Exc-EP
 shortLabel Exc-EP
-longLabel Exc-EP | Excitatory neuron from Endopriform Nucleus. Infered by dissection regions and region specific marker genes, e.g., Npsr1 ISH from ABA https://mouse.brain-map.org/gene/show/106174
+longLabel Exc-EP (Excitatory neuron from Endopriform Nucleus. Infered by dissection regions and region specific marker genes, e.g., Npsr1 ISH from ABA https://mouse.brain-map.org/gene/show/106174)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track EPAdcy8
+    track EP_Adcy8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__EP__EP_Adcy8.bw
-    shortLabel EPAdcy8
+    shortLabel EP_Adcy8
     longLabel Exc__EP__EP_Adcy8
     type bigWig
     autoScale off
@@ -307,9 +296,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track EPRgs8
+    track EP_Rgs8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__EP__EP_Rgs8.bw
-    shortLabel EPRgs8
+    shortLabel EP_Rgs8
     longLabel Exc__EP__EP_Rgs8
     type bigWig
     autoScale off
@@ -318,9 +307,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track EPTspan5
+    track EP_Tspan5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__EP__EP_Tspan5.bw
-    shortLabel EPTspan5
+    shortLabel EP_Tspan5
     longLabel Exc__EP__EP_Tspan5
     type bigWig
     autoScale off
@@ -331,14 +320,14 @@ compositeTrack on
 
 track Exc-Gfra1
 shortLabel Exc-Gfra1
-longLabel Exc-Gfra1 | Sparse distributed excitatory neurons across CA1, CA3 and DGpo marked by Gfra1, see Gfra1 ISH from ABA https://mouse.brain-map.org/gene/show/14361
+longLabel Exc-Gfra1 (Sparse distributed excitatory neurons across CA1, CA3 and DGpo marked by Gfra1, see Gfra1 ISH from ABA https://mouse.brain-map.org/gene/show/14361)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track Gfra1Gfra1
+    track Gfra1_Gfra1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__Gfra1__Gfra1_Gfra1.bw
-    shortLabel Gfra1Gfra1
+    shortLabel Gfra1_Gfra1
     longLabel Exc__Gfra1__Gfra1_Gfra1
     type bigWig
     autoScale off
@@ -349,14 +338,14 @@ compositeTrack on
 
 track Exc-IG-CA2
 shortLabel Exc-IG-CA2
-longLabel Exc-IG-CA2 | CA2 and IG Exc. neuron, infered by dissection regions and region specific marker genes, e.g., Ntf3 gene ISH from ABA: https://mouse.brain-map.org/gene/show/17972
+longLabel Exc-IG-CA2 (CA2 and IG Exc. neuron, infered by dissection regions and region specific marker genes, e.g., Ntf3 gene ISH from ABA: https://mouse.brain-map.org/gene/show/17972)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track IGCA2Chrm3
+    track IG-CA2_Chrm3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IG-CA2__IG-CA2_Chrm3.bw
-    shortLabel IGCA2Chrm3
+    shortLabel IG-CA2_Chrm3
     longLabel Exc__IG-CA2__IG-CA2_Chrm3
     type bigWig
     autoScale off
@@ -365,9 +354,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track IGCA2Peak1
+    track IG-CA2_Peak1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IG-CA2__IG-CA2_Peak1.bw
-    shortLabel IGCA2Peak1
+    shortLabel IG-CA2_Peak1
     longLabel Exc__IG-CA2__IG-CA2_Peak1
     type bigWig
     autoScale off
@@ -376,9 +365,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track IGCA2Xpr1
+    track IG-CA2_Xpr1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IG-CA2__IG-CA2_Xpr1.bw
-    shortLabel IGCA2Xpr1
+    shortLabel IG-CA2_Xpr1
     longLabel Exc__IG-CA2__IG-CA2_Xpr1
     type bigWig
     autoScale off
@@ -389,14 +378,14 @@ compositeTrack on
 
 track Exc-IT-L23
 shortLabel Exc-IT-L23
-longLabel Exc-IT-L23 | Cortex IT Exc neuron in Layer 2-3
+longLabel Exc-IT-L23 (Cortex IT Exc neuron in Layer 2-3)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track ITL23Cux1
+    track IT-L23_Cux1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Cux1.bw
-    shortLabel ITL23Cux1
+    shortLabel IT-L23_Cux1
     longLabel Exc__IT-L23__IT-L23_Cux1
     type bigWig
     autoScale off
@@ -405,9 +394,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL23Foxp1
+    track IT-L23_Foxp1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Foxp1.bw
-    shortLabel ITL23Foxp1
+    shortLabel IT-L23_Foxp1
     longLabel Exc__IT-L23__IT-L23_Foxp1
     type bigWig
     autoScale off
@@ -416,9 +405,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL23Ptprt
+    track IT-L23_Ptprt
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Ptprt.bw
-    shortLabel ITL23Ptprt
+    shortLabel IT-L23_Ptprt
     longLabel Exc__IT-L23__IT-L23_Ptprt
     type bigWig
     autoScale off
@@ -427,9 +416,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL23Tenm2
+    track IT-L23_Tenm2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Tenm2.bw
-    shortLabel ITL23Tenm2
+    shortLabel IT-L23_Tenm2
     longLabel Exc__IT-L23__IT-L23_Tenm2
     type bigWig
     autoScale off
@@ -440,14 +429,14 @@ compositeTrack on
 
 track Exc-IT-L4
 shortLabel Exc-IT-L4
-longLabel Exc-IT-L4 | Cortex IT Exc neuron in Layer 4
+longLabel Exc-IT-L4 (Cortex IT Exc neuron in Layer 4)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track ITL4Astn2
+    track IT-L4_Astn2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L4__IT-L4_Astn2.bw
-    shortLabel ITL4Astn2
+    shortLabel IT-L4_Astn2
     longLabel Exc__IT-L4__IT-L4_Astn2
     type bigWig
     autoScale off
@@ -456,9 +445,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL4Shc3
+    track IT-L4_Shc3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L4__IT-L4_Shc3.bw
-    shortLabel ITL4Shc3
+    shortLabel IT-L4_Shc3
     longLabel Exc__IT-L4__IT-L4_Shc3
     type bigWig
     autoScale off
@@ -469,14 +458,14 @@ compositeTrack on
 
 track Exc-IT-L5
 shortLabel Exc-IT-L5
-longLabel Exc-IT-L5 | Cortex IT Exc neuron in Layer 5
+longLabel Exc-IT-L5 (Cortex IT Exc neuron in Layer 5)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track ITL5Cdh8
+    track IT-L5_Cdh8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L5__IT-L5_Cdh8.bw
-    shortLabel ITL5Cdh8
+    shortLabel IT-L5_Cdh8
     longLabel Exc__IT-L5__IT-L5_Cdh8
     type bigWig
     autoScale off
@@ -485,9 +474,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL5Etv1
+    track IT-L5_Etv1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L5__IT-L5_Etv1.bw
-    shortLabel ITL5Etv1
+    shortLabel IT-L5_Etv1
     longLabel Exc__IT-L5__IT-L5_Etv1
     type bigWig
     autoScale off
@@ -496,9 +485,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL5Grik3
+    track IT-L5_Grik3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L5__IT-L5_Grik3.bw
-    shortLabel ITL5Grik3
+    shortLabel IT-L5_Grik3
     longLabel Exc__IT-L5__IT-L5_Grik3
     type bigWig
     autoScale off
@@ -509,14 +498,14 @@ compositeTrack on
 
 track Exc-IT-L6
 shortLabel Exc-IT-L6
-longLabel Exc-IT-L6 | Cortex IT Exc neuron in Layer 6
+longLabel Exc-IT-L6 (Cortex IT Exc neuron in Layer 6)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track ITL6Cadps2
+    track IT-L6_Cadps2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Cadps2.bw
-    shortLabel ITL6Cadps2
+    shortLabel IT-L6_Cadps2
     longLabel Exc__IT-L6__IT-L6_Cadps2
     type bigWig
     autoScale off
@@ -525,9 +514,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL6Fstl4
+    track IT-L6_Fstl4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Fstl4.bw
-    shortLabel ITL6Fstl4
+    shortLabel IT-L6_Fstl4
     longLabel Exc__IT-L6__IT-L6_Fstl4
     type bigWig
     autoScale off
@@ -536,9 +525,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL6Man1c1
+    track IT-L6_Man1c1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Man1c1.bw
-    shortLabel ITL6Man1c1
+    shortLabel IT-L6_Man1c1
     longLabel Exc__IT-L6__IT-L6_Man1c1
     type bigWig
     autoScale off
@@ -547,9 +536,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ITL6Oxr1
+    track IT-L6_Oxr1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Oxr1.bw
-    shortLabel ITL6Oxr1
+    shortLabel IT-L6_Oxr1
     longLabel Exc__IT-L6__IT-L6_Oxr1
     type bigWig
     autoScale off
@@ -560,14 +549,14 @@ compositeTrack on
 
 track Exc-L6b
 shortLabel Exc-L6b
-longLabel Exc-L6b | Cortex L6b neuron
+longLabel Exc-L6b (Cortex L6b neuron)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track L6bAdcy8
+    track L6b_Adcy8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Adcy8.bw
-    shortLabel L6bAdcy8
+    shortLabel L6b_Adcy8
     longLabel Exc__L6b__L6b_Adcy8
     type bigWig
     autoScale off
@@ -576,9 +565,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track L6bKcnk2
+    track L6b_Kcnk2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Kcnk2.bw
-    shortLabel L6bKcnk2
+    shortLabel L6b_Kcnk2
     longLabel Exc__L6b__L6b_Kcnk2
     type bigWig
     autoScale off
@@ -587,9 +576,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track L6bNrp2
+    track L6b_Nrp2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Nrp2.bw
-    shortLabel L6bNrp2
+    shortLabel L6b_Nrp2
     longLabel Exc__L6b__L6b_Nrp2
     type bigWig
     autoScale off
@@ -598,9 +587,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track L6bPkhd1
+    track L6b_Pkhd1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Pkhd1.bw
-    shortLabel L6bPkhd1
+    shortLabel L6b_Pkhd1
     longLabel Exc__L6b__L6b_Pkhd1
     type bigWig
     autoScale off
@@ -611,14 +600,14 @@ compositeTrack on
 
 track Exc-NP-L6
 shortLabel Exc-NP-L6
-longLabel Exc-NP-L6 | Cortex NP Exc neuron in Layer 6
+longLabel Exc-NP-L6 (Cortex NP Exc neuron in Layer 6)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track NPL6Boc
+    track NP-L6_Boc
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Boc.bw
-    shortLabel NPL6Boc
+    shortLabel NP-L6_Boc
     longLabel Exc__NP-L6__NP-L6_Boc
     type bigWig
     autoScale off
@@ -627,9 +616,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track NPL6Cntnap4
+    track NP-L6_Cntnap4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cntnap4.bw
-    shortLabel NPL6Cntnap4
+    shortLabel NP-L6_Cntnap4
     longLabel Exc__NP-L6__NP-L6_Cntnap4
     type bigWig
     autoScale off
@@ -638,9 +627,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track NPL6Cntnap5a
+    track NP-L6_Cntnap5a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cntnap5a.bw
-    shortLabel NPL6Cntnap5a
+    shortLabel NP-L6_Cntnap5a
     longLabel Exc__NP-L6__NP-L6_Cntnap5a
     type bigWig
     autoScale off
@@ -649,9 +638,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track NPL6Cyp7b1
+    track NP-L6_Cyp7b1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cyp7b1.bw
-    shortLabel NPL6Cyp7b1
+    shortLabel NP-L6_Cyp7b1
     longLabel Exc__NP-L6__NP-L6_Cyp7b1
     type bigWig
     autoScale off
@@ -660,9 +649,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track NPL6Kcnab1
+    track NP-L6_Kcnab1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Kcnab1.bw
-    shortLabel NPL6Kcnab1
+    shortLabel NP-L6_Kcnab1
     longLabel Exc__NP-L6__NP-L6_Kcnab1
     type bigWig
     autoScale off
@@ -671,9 +660,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track NPL6Olfml2b
+    track NP-L6_Olfml2b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Olfml2b.bw
-    shortLabel NPL6Olfml2b
+    shortLabel NP-L6_Olfml2b
     longLabel Exc__NP-L6__NP-L6_Olfml2b
     type bigWig
     autoScale off
@@ -684,14 +673,14 @@ compositeTrack on
 
 track Exc-OLF-Exc
 shortLabel Exc-OLF-Exc
-longLabel Exc-OLF-Exc | Excitatory neuron from olfactory area dissections including MOB, AON and PIR. Infered by dissection regions
+longLabel Exc-OLF-Exc (Excitatory neuron from olfactory area dissections including MOB, AON and PIR. Infered by dissection regions)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track OLFExcBmpr1b
+    track OLF-Exc_Bmpr1b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Bmpr1b.bw
-    shortLabel OLFExcBmpr1b
+    shortLabel OLF-Exc_Bmpr1b
     longLabel Exc__OLF-Exc__OLF-Exc_Bmpr1b
     type bigWig
     autoScale off
@@ -700,9 +689,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFExcCdh9
+    track OLF-Exc_Cdh9
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Cdh9.bw
-    shortLabel OLFExcCdh9
+    shortLabel OLF-Exc_Cdh9
     longLabel Exc__OLF-Exc__OLF-Exc_Cdh9
     type bigWig
     autoScale off
@@ -711,9 +700,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFExcCux2
+    track OLF-Exc_Cux2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Cux2.bw
-    shortLabel OLFExcCux2
+    shortLabel OLF-Exc_Cux2
     longLabel Exc__OLF-Exc__OLF-Exc_Cux2
     type bigWig
     autoScale off
@@ -722,9 +711,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFExcLrrtm3
+    track OLF-Exc_Lrrtm3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Lrrtm3.bw
-    shortLabel OLFExcLrrtm3
+    shortLabel OLF-Exc_Lrrtm3
     longLabel Exc__OLF-Exc__OLF-Exc_Lrrtm3
     type bigWig
     autoScale off
@@ -733,20 +722,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFExcOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Outlier.bw
-    shortLabel OLFExcOutlier
-    longLabel Exc__OLF-Exc__OLF-Exc_Outlier
-    type bigWig
-    autoScale off
-    maxHeightPixels 100:15:5
-    parent Exc-OLF-Exc on
-    viewLimits 0:1
-    visibility dense
-
-    track OLFExcPld5
+    track OLF-Exc_Pld5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Pld5.bw
-    shortLabel OLFExcPld5
+    shortLabel OLF-Exc_Pld5
     longLabel Exc__OLF-Exc__OLF-Exc_Pld5
     type bigWig
     autoScale off
@@ -755,9 +733,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFExcRmst
+    track OLF-Exc_Rmst
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Rmst.bw
-    shortLabel OLFExcRmst
+    shortLabel OLF-Exc_Rmst
     longLabel Exc__OLF-Exc__OLF-Exc_Rmst
     type bigWig
     autoScale off
@@ -766,9 +744,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFExcSgcd
+    track OLF-Exc_Sgcd
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Sgcd.bw
-    shortLabel OLFExcSgcd
+    shortLabel OLF-Exc_Sgcd
     longLabel Exc__OLF-Exc__OLF-Exc_Sgcd
     type bigWig
     autoScale off
@@ -777,9 +755,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFExcUnc13c
+    track OLF-Exc_Unc13c
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Unc13c.bw
-    shortLabel OLFExcUnc13c
+    shortLabel OLF-Exc_Unc13c
     longLabel Exc__OLF-Exc__OLF-Exc_Unc13c
     type bigWig
     autoScale off
@@ -790,14 +768,14 @@ compositeTrack on
 
 track Exc-PT-L5
 shortLabel Exc-PT-L5
-longLabel Exc-PT-L5 | Cortex ET Exc neuron in Layer 5, Note that the L5 ET neurons had been named as pyramidal tract (PT) neurons or subcerebral projection neurons (SCPN) in the literature, we use ET to be consistent with Yao et al., 2020
+longLabel Exc-PT-L5 (Cortex ET Exc neuron in Layer 5, Note that the L5 ET neurons had been named as pyramidal tract (PT) neurons or subcerebral projection neurons (SCPN) in the literature, we use ET to be consistent with Yao et al., 2020)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track PTL5Abca12
+    track PT-L5_Abca12
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Abca12.bw
-    shortLabel PTL5Abca12
+    shortLabel PT-L5_Abca12
     longLabel Exc__PT-L5__PT-L5_Abca12
     type bigWig
     autoScale off
@@ -806,9 +784,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PTL5Astn2
+    track PT-L5_Astn2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Astn2.bw
-    shortLabel PTL5Astn2
+    shortLabel PT-L5_Astn2
     longLabel Exc__PT-L5__PT-L5_Astn2
     type bigWig
     autoScale off
@@ -817,9 +795,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PTL5Kcnh1
+    track PT-L5_Kcnh1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Kcnh1.bw
-    shortLabel PTL5Kcnh1
+    shortLabel PT-L5_Kcnh1
     longLabel Exc__PT-L5__PT-L5_Kcnh1
     type bigWig
     autoScale off
@@ -828,9 +806,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PTL5Nectin1
+    track PT-L5_Nectin1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Nectin1.bw
-    shortLabel PTL5Nectin1
+    shortLabel PT-L5_Nectin1
     longLabel Exc__PT-L5__PT-L5_Nectin1
     type bigWig
     autoScale off
@@ -839,20 +817,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PTL5Outlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Outlier.bw
-    shortLabel PTL5Outlier
-    longLabel Exc__PT-L5__PT-L5_Outlier
-    type bigWig
-    autoScale off
-    maxHeightPixels 100:15:5
-    parent Exc-PT-L5 on
-    viewLimits 0:1
-    visibility dense
-
-    track PTL5Plcb4
+    track PT-L5_Plcb4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Plcb4.bw
-    shortLabel PTL5Plcb4
+    shortLabel PT-L5_Plcb4
     longLabel Exc__PT-L5__PT-L5_Plcb4
     type bigWig
     autoScale off
@@ -861,9 +828,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PTL5Ptprt
+    track PT-L5_Ptprt
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Ptprt.bw
-    shortLabel PTL5Ptprt
+    shortLabel PT-L5_Ptprt
     longLabel Exc__PT-L5__PT-L5_Ptprt
     type bigWig
     autoScale off
@@ -872,9 +839,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PTL5Tenm2
+    track PT-L5_Tenm2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Tenm2.bw
-    shortLabel PTL5Tenm2
+    shortLabel PT-L5_Tenm2
     longLabel Exc__PT-L5__PT-L5_Tenm2
     type bigWig
     autoScale off
@@ -883,9 +850,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PTL5Tmtc2
+    track PT-L5_Tmtc2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Tmtc2.bw
-    shortLabel PTL5Tmtc2
+    shortLabel PT-L5_Tmtc2
     longLabel Exc__PT-L5__PT-L5_Tmtc2
     type bigWig
     autoScale off
@@ -894,9 +861,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PTL5Unc5b
+    track PT-L5_Unc5b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Unc5b.bw
-    shortLabel PTL5Unc5b
+    shortLabel PT-L5_Unc5b
     longLabel Exc__PT-L5__PT-L5_Unc5b
     type bigWig
     autoScale off
@@ -907,14 +874,14 @@ compositeTrack on
 
 track Inh-CGE-Lamp5
 shortLabel Inh-CGE-Lamp5
-longLabel Inh-CGE-Lamp5 | CGE derived Lamp5+ Inh.
+longLabel Inh-CGE-Lamp5 (CGE derived Lamp5+ Inh. )
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track CGELamp5Dock5
+    track CGE-Lamp5_Dock5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Dock5.bw
-    shortLabel CGELamp5Dock5
+    shortLabel CGE-Lamp5_Dock5
     longLabel Inh__CGE-Lamp5__CGE-Lamp5_Dock5
     type bigWig
     autoScale off
@@ -923,9 +890,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGELamp5Grid1
+    track CGE-Lamp5_Grid1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Grid1.bw
-    shortLabel CGELamp5Grid1
+    shortLabel CGE-Lamp5_Grid1
     longLabel Inh__CGE-Lamp5__CGE-Lamp5_Grid1
     type bigWig
     autoScale off
@@ -934,9 +901,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGELamp5Grk5
+    track CGE-Lamp5_Grk5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Grk5.bw
-    shortLabel CGELamp5Grk5
+    shortLabel CGE-Lamp5_Grk5
     longLabel Inh__CGE-Lamp5__CGE-Lamp5_Grk5
     type bigWig
     autoScale off
@@ -945,9 +912,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGELamp5Nrxn3
+    track CGE-Lamp5_Nrxn3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Nrxn3.bw
-    shortLabel CGELamp5Nrxn3
+    shortLabel CGE-Lamp5_Nrxn3
     longLabel Inh__CGE-Lamp5__CGE-Lamp5_Nrxn3
     type bigWig
     autoScale off
@@ -956,9 +923,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGELamp5Sorcs1
+    track CGE-Lamp5_Sorcs1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Sorcs1.bw
-    shortLabel CGELamp5Sorcs1
+    shortLabel CGE-Lamp5_Sorcs1
     longLabel Inh__CGE-Lamp5__CGE-Lamp5_Sorcs1
     type bigWig
     autoScale off
@@ -969,14 +936,14 @@ compositeTrack on
 
 track Inh-CGE-Vip
 shortLabel Inh-CGE-Vip
-longLabel Inh-CGE-Vip | CGE derived Vip+ Inh.
+longLabel Inh-CGE-Vip (CGE derived Vip+ Inh. )
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track CGEVipCcser1
+    track CGE-Vip_Ccser1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Ccser1.bw
-    shortLabel CGEVipCcser1
+    shortLabel CGE-Vip_Ccser1
     longLabel Inh__CGE-Vip__CGE-Vip_Ccser1
     type bigWig
     autoScale off
@@ -985,9 +952,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGEVipClstn2
+    track CGE-Vip_Clstn2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Clstn2.bw
-    shortLabel CGEVipClstn2
+    shortLabel CGE-Vip_Clstn2
     longLabel Inh__CGE-Vip__CGE-Vip_Clstn2
     type bigWig
     autoScale off
@@ -996,9 +963,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGEVipFstl4
+    track CGE-Vip_Fstl4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Fstl4.bw
-    shortLabel CGEVipFstl4
+    shortLabel CGE-Vip_Fstl4
     longLabel Inh__CGE-Vip__CGE-Vip_Fstl4
     type bigWig
     autoScale off
@@ -1007,9 +974,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGEVipGalnt17
+    track CGE-Vip_Galnt17
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Galnt17.bw
-    shortLabel CGEVipGalnt17
+    shortLabel CGE-Vip_Galnt17
     longLabel Inh__CGE-Vip__CGE-Vip_Galnt17
     type bigWig
     autoScale off
@@ -1018,9 +985,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGEVipGrm8
+    track CGE-Vip_Grm8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Grm8.bw
-    shortLabel CGEVipGrm8
+    shortLabel CGE-Vip_Grm8
     longLabel Inh__CGE-Vip__CGE-Vip_Grm8
     type bigWig
     autoScale off
@@ -1029,9 +996,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGEVipNtng1
+    track CGE-Vip_Ntng1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Ntng1.bw
-    shortLabel CGEVipNtng1
+    shortLabel CGE-Vip_Ntng1
     longLabel Inh__CGE-Vip__CGE-Vip_Ntng1
     type bigWig
     autoScale off
@@ -1040,9 +1007,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGEVipPtprm
+    track CGE-Vip_Ptprm
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Ptprm.bw
-    shortLabel CGEVipPtprm
+    shortLabel CGE-Vip_Ptprm
     longLabel Inh__CGE-Vip__CGE-Vip_Ptprm
     type bigWig
     autoScale off
@@ -1051,9 +1018,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track CGEVipRobo1
+    track CGE-Vip_Robo1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Robo1.bw
-    shortLabel CGEVipRobo1
+    shortLabel CGE-Vip_Robo1
     longLabel Inh__CGE-Vip__CGE-Vip_Robo1
     type bigWig
     autoScale off
@@ -1064,14 +1031,14 @@ compositeTrack on
 
 track Inh-Chd7
 shortLabel Inh-Chd7
-longLabel Inh-Chd7 | Inh cell shown hypomethylation in both Lhx6 and Chd7 gene
+longLabel Inh-Chd7 (Inh cell shown hypomethylation in both Lhx6 and Chd7 gene)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track Chd7Kcnc2
+    track Chd7_Kcnc2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Chd7__Chd7_Kcnc2.bw
-    shortLabel Chd7Kcnc2
+    shortLabel Chd7_Kcnc2
     longLabel Inh__Chd7__Chd7_Kcnc2
     type bigWig
     autoScale off
@@ -1080,9 +1047,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track Chd7Megf11
+    track Chd7_Megf11
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Chd7__Chd7_Megf11.bw
-    shortLabel Chd7Megf11
+    shortLabel Chd7_Megf11
     longLabel Inh__Chd7__Chd7_Megf11
     type bigWig
     autoScale off
@@ -1091,9 +1058,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track Chd7Trpc7
+    track Chd7_Trpc7
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Chd7__Chd7_Trpc7.bw
-    shortLabel Chd7Trpc7
+    shortLabel Chd7_Trpc7
     longLabel Inh__Chd7__Chd7_Trpc7
     type bigWig
     autoScale off
@@ -1104,14 +1071,14 @@ compositeTrack on
 
 track Inh-D1L-Fstl4
 shortLabel Inh-D1L-Fstl4
-longLabel Inh-D1L-Fstl4 | D1 Like Interneuron, marked by Fstl4 and Drd1
+longLabel Inh-D1L-Fstl4 (D1 Like Interneuron, marked by Fstl4 and Drd1)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track D1LFstl4Cadm1
+    track D1L-Fstl4_Cadm1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Cadm1.bw
-    shortLabel D1LFstl4Cadm1
+    shortLabel D1L-Fstl4_Cadm1
     longLabel Inh__D1L-Fstl4__D1L-Fstl4_Cadm1
     type bigWig
     autoScale off
@@ -1120,9 +1087,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track D1LFstl4Crim1
+    track D1L-Fstl4_Crim1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Crim1.bw
-    shortLabel D1LFstl4Crim1
+    shortLabel D1L-Fstl4_Crim1
     longLabel Inh__D1L-Fstl4__D1L-Fstl4_Crim1
     type bigWig
     autoScale off
@@ -1131,9 +1098,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track D1LFstl4Grm3
+    track D1L-Fstl4_Grm3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Grm3.bw
-    shortLabel D1LFstl4Grm3
+    shortLabel D1L-Fstl4_Grm3
     longLabel Inh__D1L-Fstl4__D1L-Fstl4_Grm3
     type bigWig
     autoScale off
@@ -1142,9 +1109,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track D1LFstl4Sipa1l2
+    track D1L-Fstl4_Sipa1l2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Sipa1l2.bw
-    shortLabel D1LFstl4Sipa1l2
+    shortLabel D1L-Fstl4_Sipa1l2
     longLabel Inh__D1L-Fstl4__D1L-Fstl4_Sipa1l2
     type bigWig
     autoScale off
@@ -1153,9 +1120,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track D1LFstl4Trps1
+    track D1L-Fstl4_Trps1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Trps1.bw
-    shortLabel D1LFstl4Trps1
+    shortLabel D1L-Fstl4_Trps1
     longLabel Inh__D1L-Fstl4__D1L-Fstl4_Trps1
     type bigWig
     autoScale off
@@ -1166,14 +1133,14 @@ compositeTrack on
 
 track Inh-D1L-PAL
 shortLabel Inh-D1L-PAL
-longLabel Inh-D1L-PAL | D1 Like Interneuron, mainly come from PAL, marked by Drd1
+longLabel Inh-D1L-PAL (D1 Like Interneuron, mainly come from PAL, marked by Drd1)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track D1LPALFlrt2
+    track D1L-PAL_Flrt2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-PAL__D1L-PAL_Flrt2.bw
-    shortLabel D1LPALFlrt2
+    shortLabel D1L-PAL_Flrt2
     longLabel Inh__D1L-PAL__D1L-PAL_Flrt2
     type bigWig
     autoScale off
@@ -1182,9 +1149,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track D1LPALPlcxd3
+    track D1L-PAL_Plcxd3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-PAL__D1L-PAL_Plcxd3.bw
-    shortLabel D1LPALPlcxd3
+    shortLabel D1L-PAL_Plcxd3
     longLabel Inh__D1L-PAL__D1L-PAL_Plcxd3
     type bigWig
     autoScale off
@@ -1195,14 +1162,14 @@ compositeTrack on
 
 track Inh-Foxp2
 shortLabel Inh-Foxp2
-longLabel Inh-Foxp2 | Inh cell marked by Foxp2 gene, mainly come from STR and PAL
+longLabel Inh-Foxp2 (Inh cell marked by Foxp2 gene, mainly come from STR and PAL)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track Foxp2Dchs2
+    track Foxp2_Dchs2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Dchs2.bw
-    shortLabel Foxp2Dchs2
+    shortLabel Foxp2_Dchs2
     longLabel Inh__Foxp2__Foxp2_Dchs2
     type bigWig
     autoScale off
@@ -1211,9 +1178,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track Foxp2Homer2
+    track Foxp2_Homer2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Homer2.bw
-    shortLabel Foxp2Homer2
+    shortLabel Foxp2_Homer2
     longLabel Inh__Foxp2__Foxp2_Homer2
     type bigWig
     autoScale off
@@ -1222,9 +1189,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track Foxp2Inpp4b
+    track Foxp2_Inpp4b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Inpp4b.bw
-    shortLabel Foxp2Inpp4b
+    shortLabel Foxp2_Inpp4b
     longLabel Inh__Foxp2__Foxp2_Inpp4b
     type bigWig
     autoScale off
@@ -1233,9 +1200,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track Foxp2Trpc7
+    track Foxp2_Trpc7
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Trpc7.bw
-    shortLabel Foxp2Trpc7
+    shortLabel Foxp2_Trpc7
     longLabel Inh__Foxp2__Foxp2_Trpc7
     type bigWig
     autoScale off
@@ -1246,14 +1213,14 @@ compositeTrack on
 
 track Inh-LSX-Inh
 shortLabel Inh-LSX-Inh
-longLabel Inh-LSX-Inh | LSX Interneuron
+longLabel Inh-LSX-Inh (LSX Interneuron)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track LSXInhCacna1i
+    track LSX-Inh_Cacna1i
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Cacna1i.bw
-    shortLabel LSXInhCacna1i
+    shortLabel LSX-Inh_Cacna1i
     longLabel Inh__LSX-Inh__LSX-Inh_Cacna1i
     type bigWig
     autoScale off
@@ -1262,9 +1229,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track LSXInhDock10
+    track LSX-Inh_Dock10
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Dock10.bw
-    shortLabel LSXInhDock10
+    shortLabel LSX-Inh_Dock10
     longLabel Inh__LSX-Inh__LSX-Inh_Dock10
     type bigWig
     autoScale off
@@ -1273,9 +1240,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track LSXInhEnox1
+    track LSX-Inh_Enox1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Enox1.bw
-    shortLabel LSXInhEnox1
+    shortLabel LSX-Inh_Enox1
     longLabel Inh__LSX-Inh__LSX-Inh_Enox1
     type bigWig
     autoScale off
@@ -1284,9 +1251,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track LSXInhFoxp2
+    track LSX-Inh_Foxp2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Foxp2.bw
-    shortLabel LSXInhFoxp2
+    shortLabel LSX-Inh_Foxp2
     longLabel Inh__LSX-Inh__LSX-Inh_Foxp2
     type bigWig
     autoScale off
@@ -1295,9 +1262,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track LSXInhLats2
+    track LSX-Inh_Lats2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Lats2.bw
-    shortLabel LSXInhLats2
+    shortLabel LSX-Inh_Lats2
     longLabel Inh__LSX-Inh__LSX-Inh_Lats2
     type bigWig
     autoScale off
@@ -1306,9 +1273,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track LSXInhNxph1
+    track LSX-Inh_Nxph1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Nxph1.bw
-    shortLabel LSXInhNxph1
+    shortLabel LSX-Inh_Nxph1
     longLabel Inh__LSX-Inh__LSX-Inh_Nxph1
     type bigWig
     autoScale off
@@ -1317,9 +1284,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track LSXInhZeb2
+    track LSX-Inh_Zeb2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Zeb2.bw
-    shortLabel LSXInhZeb2
+    shortLabel LSX-Inh_Zeb2
     longLabel Inh__LSX-Inh__LSX-Inh_Zeb2
     type bigWig
     autoScale off
@@ -1330,14 +1297,14 @@ compositeTrack on
 
 track Inh-MGE-Pvalb
 shortLabel Inh-MGE-Pvalb
-longLabel Inh-MGE-Pvalb | MGE derived Pvalb+ Inh.
+longLabel Inh-MGE-Pvalb (MGE derived Pvalb+ Inh. )
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track MGEPvalbCacna1i
+    track MGE-Pvalb_Cacna1i
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Cacna1i.bw
-    shortLabel MGEPvalbCacna1i
+    shortLabel MGE-Pvalb_Cacna1i
     longLabel Inh__MGE-Pvalb__MGE-Pvalb_Cacna1i
     type bigWig
     autoScale off
@@ -1346,9 +1313,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGEPvalbCnih3
+    track MGE-Pvalb_Cnih3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Cnih3.bw
-    shortLabel MGEPvalbCnih3
+    shortLabel MGE-Pvalb_Cnih3
     longLabel Inh__MGE-Pvalb__MGE-Pvalb_Cnih3
     type bigWig
     autoScale off
@@ -1357,9 +1324,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGEPvalbEntpd3
+    track MGE-Pvalb_Entpd3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Entpd3.bw
-    shortLabel MGEPvalbEntpd3
+    shortLabel MGE-Pvalb_Entpd3
     longLabel Inh__MGE-Pvalb__MGE-Pvalb_Entpd3
     type bigWig
     autoScale off
@@ -1368,9 +1335,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGEPvalbGfra2
+    track MGE-Pvalb_Gfra2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Gfra2.bw
-    shortLabel MGEPvalbGfra2
+    shortLabel MGE-Pvalb_Gfra2
     longLabel Inh__MGE-Pvalb__MGE-Pvalb_Gfra2
     type bigWig
     autoScale off
@@ -1379,9 +1346,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGEPvalbPtprk
+    track MGE-Pvalb_Ptprk
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Ptprk.bw
-    shortLabel MGEPvalbPtprk
+    shortLabel MGE-Pvalb_Ptprk
     longLabel Inh__MGE-Pvalb__MGE-Pvalb_Ptprk
     type bigWig
     autoScale off
@@ -1390,9 +1357,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGEPvalbSema5a
+    track MGE-Pvalb_Sema5a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Sema5a.bw
-    shortLabel MGEPvalbSema5a
+    shortLabel MGE-Pvalb_Sema5a
     longLabel Inh__MGE-Pvalb__MGE-Pvalb_Sema5a
     type bigWig
     autoScale off
@@ -1401,9 +1368,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGEPvalbThsd7a
+    track MGE-Pvalb_Thsd7a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Thsd7a.bw
-    shortLabel MGEPvalbThsd7a
+    shortLabel MGE-Pvalb_Thsd7a
     longLabel Inh__MGE-Pvalb__MGE-Pvalb_Thsd7a
     type bigWig
     autoScale off
@@ -1414,14 +1381,14 @@ compositeTrack on
 
 track Inh-MGE-Sst
 shortLabel Inh-MGE-Sst
-longLabel Inh-MGE-Sst | MGE derived Sst+ Inh.
+longLabel Inh-MGE-Sst (MGE derived Sst+ Inh. )
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track MGESstBmper
+    track MGE-Sst_Bmper
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Bmper.bw
-    shortLabel MGESstBmper
+    shortLabel MGE-Sst_Bmper
     longLabel Inh__MGE-Sst__MGE-Sst_Bmper
     type bigWig
     autoScale off
@@ -1430,9 +1397,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstChodl
+    track MGE-Sst_Chodl
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Chodl.bw
-    shortLabel MGESstChodl
+    shortLabel MGE-Sst_Chodl
     longLabel Inh__MGE-Sst__MGE-Sst_Chodl
     type bigWig
     autoScale off
@@ -1441,9 +1408,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstDock4
+    track MGE-Sst_Dock4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Dock4.bw
-    shortLabel MGESstDock4
+    shortLabel MGE-Sst_Dock4
     longLabel Inh__MGE-Sst__MGE-Sst_Dock4
     type bigWig
     autoScale off
@@ -1452,9 +1419,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstEtv1
+    track MGE-Sst_Etv1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Etv1.bw
-    shortLabel MGESstEtv1
+    shortLabel MGE-Sst_Etv1
     longLabel Inh__MGE-Sst__MGE-Sst_Etv1
     type bigWig
     autoScale off
@@ -1463,9 +1430,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstFrmd6
+    track MGE-Sst_Frmd6
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Frmd6.bw
-    shortLabel MGESstFrmd6
+    shortLabel MGE-Sst_Frmd6
     longLabel Inh__MGE-Sst__MGE-Sst_Frmd6
     type bigWig
     autoScale off
@@ -1474,9 +1441,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstKcnip4
+    track MGE-Sst_Kcnip4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Kcnip4.bw
-    shortLabel MGESstKcnip4
+    shortLabel MGE-Sst_Kcnip4
     longLabel Inh__MGE-Sst__MGE-Sst_Kcnip4
     type bigWig
     autoScale off
@@ -1485,9 +1452,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstPtpre
+    track MGE-Sst_Ptpre
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Ptpre.bw
-    shortLabel MGESstPtpre
+    shortLabel MGE-Sst_Ptpre
     longLabel Inh__MGE-Sst__MGE-Sst_Ptpre
     type bigWig
     autoScale off
@@ -1496,9 +1463,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstRerg
+    track MGE-Sst_Rerg
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Rerg.bw
-    shortLabel MGESstRerg
+    shortLabel MGE-Sst_Rerg
     longLabel Inh__MGE-Sst__MGE-Sst_Rerg
     type bigWig
     autoScale off
@@ -1507,9 +1474,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstRxra
+    track MGE-Sst_Rxra
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Rxra.bw
-    shortLabel MGESstRxra
+    shortLabel MGE-Sst_Rxra
     longLabel Inh__MGE-Sst__MGE-Sst_Rxra
     type bigWig
     autoScale off
@@ -1518,9 +1485,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstUbtd1
+    track MGE-Sst_Ubtd1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Ubtd1.bw
-    shortLabel MGESstUbtd1
+    shortLabel MGE-Sst_Ubtd1
     longLabel Inh__MGE-Sst__MGE-Sst_Ubtd1
     type bigWig
     autoScale off
@@ -1529,9 +1496,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MGESstUnc5b
+    track MGE-Sst_Unc5b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Unc5b.bw
-    shortLabel MGESstUnc5b
+    shortLabel MGE-Sst_Unc5b
     longLabel Inh__MGE-Sst__MGE-Sst_Unc5b
     type bigWig
     autoScale off
@@ -1542,14 +1509,14 @@ compositeTrack on
 
 track Inh-MSN-D1
 shortLabel Inh-MSN-D1
-longLabel Inh-MSN-D1 | Medium Spiny Neuron D1-type, hypomethylation in Drd1 gene
+longLabel Inh-MSN-D1 (Medium Spiny Neuron D1-type, hypomethylation in Drd1 gene)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track MSND1Hrh1
+    track MSN-D1_Hrh1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Hrh1.bw
-    shortLabel MSND1Hrh1
+    shortLabel MSN-D1_Hrh1
     longLabel Inh__MSN-D1__MSN-D1_Hrh1
     type bigWig
     autoScale off
@@ -1558,9 +1525,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MSND1Khdrbs3
+    track MSN-D1_Khdrbs3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Khdrbs3.bw
-    shortLabel MSND1Khdrbs3
+    shortLabel MSN-D1_Khdrbs3
     longLabel Inh__MSN-D1__MSN-D1_Khdrbs3
     type bigWig
     autoScale off
@@ -1569,9 +1536,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MSND1Ntn1
+    track MSN-D1_Ntn1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Ntn1.bw
-    shortLabel MSND1Ntn1
+    shortLabel MSN-D1_Ntn1
     longLabel Inh__MSN-D1__MSN-D1_Ntn1
     type bigWig
     autoScale off
@@ -1580,9 +1547,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MSND1Plxnc1
+    track MSN-D1_Plxnc1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Plxnc1.bw
-    shortLabel MSND1Plxnc1
+    shortLabel MSN-D1_Plxnc1
     longLabel Inh__MSN-D1__MSN-D1_Plxnc1
     type bigWig
     autoScale off
@@ -1593,14 +1560,14 @@ compositeTrack on
 
 track Inh-MSN-D2
 shortLabel Inh-MSN-D2
-longLabel Inh-MSN-D2 | Medium Spiny Neuron D2-type, hypomethylation in Drd2 gene
+longLabel Inh-MSN-D2 (Medium Spiny Neuron D2-type, hypomethylation in Drd2 gene)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track MSND2Casz1
+    track MSN-D2_Casz1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Casz1.bw
-    shortLabel MSND2Casz1
+    shortLabel MSN-D2_Casz1
     longLabel Inh__MSN-D2__MSN-D2_Casz1
     type bigWig
     autoScale off
@@ -1609,9 +1576,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MSND2Col14a1
+    track MSN-D2_Col14a1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Col14a1.bw
-    shortLabel MSND2Col14a1
+    shortLabel MSN-D2_Col14a1
     longLabel Inh__MSN-D2__MSN-D2_Col14a1
     type bigWig
     autoScale off
@@ -1620,9 +1587,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MSND2Nrp2
+    track MSN-D2_Nrp2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Nrp2.bw
-    shortLabel MSND2Nrp2
+    shortLabel MSN-D2_Nrp2
     longLabel Inh__MSN-D2__MSN-D2_Nrp2
     type bigWig
     autoScale off
@@ -1631,9 +1598,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track MSND2Slc24a2
+    track MSN-D2_Slc24a2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Slc24a2.bw
-    shortLabel MSND2Slc24a2
+    shortLabel MSN-D2_Slc24a2
     longLabel Inh__MSN-D2__MSN-D2_Slc24a2
     type bigWig
     autoScale off
@@ -1644,14 +1611,14 @@ compositeTrack on
 
 track Inh-OLF
 shortLabel Inh-OLF
-longLabel Inh-OLF | Granule layer of OLF and associated cell types
+longLabel Inh-OLF (Granule layer of OLF and associated cell types)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track OLFGabbr2
+    track OLF_Gabbr2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Gabbr2.bw
-    shortLabel OLFGabbr2
+    shortLabel OLF_Gabbr2
     longLabel Inh__OLF__OLF_Gabbr2
     type bigWig
     autoScale off
@@ -1660,9 +1627,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFKcnd3
+    track OLF_Kcnd3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Kcnd3.bw
-    shortLabel OLFKcnd3
+    shortLabel OLF_Kcnd3
     longLabel Inh__OLF__OLF_Kcnd3
     type bigWig
     autoScale off
@@ -1671,9 +1638,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFMapk10
+    track OLF_Mapk10
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Mapk10.bw
-    shortLabel OLFMapk10
+    shortLabel OLF_Mapk10
     longLabel Inh__OLF__OLF_Mapk10
     type bigWig
     autoScale off
@@ -1682,20 +1649,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Outlier.bw
-    shortLabel OLFOutlier
-    longLabel Inh__OLF__OLF_Outlier
-    type bigWig
-    autoScale off
-    maxHeightPixels 100:15:5
-    parent Inh-OLF on
-    viewLimits 0:1
-    visibility dense
-
-    track OLFPag1
+    track OLF_Pag1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Pag1.bw
-    shortLabel OLFPag1
+    shortLabel OLF_Pag1
     longLabel Inh__OLF__OLF_Pag1
     type bigWig
     autoScale off
@@ -1704,9 +1660,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFTrpc4
+    track OLF_Trpc4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Trpc4.bw
-    shortLabel OLFTrpc4
+    shortLabel OLF_Trpc4
     longLabel Inh__OLF__OLF_Trpc4
     type bigWig
     autoScale off
@@ -1715,9 +1671,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OLFXkr6
+    track OLF_Xkr6
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Xkr6.bw
-    shortLabel OLFXkr6
+    shortLabel OLF_Xkr6
     longLabel Inh__OLF__OLF_Xkr6
     type bigWig
     autoScale off
@@ -1728,14 +1684,14 @@ compositeTrack on
 
 track Inh-PAL-Inh
 shortLabel Inh-PAL-Inh
-longLabel Inh-PAL-Inh | PAL Interneuron
+longLabel Inh-PAL-Inh (PAL Interneuron)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track PALInhChat
+    track PAL-Inh_Chat
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Chat.bw
-    shortLabel PALInhChat
+    shortLabel PAL-Inh_Chat
     longLabel Inh__PAL-Inh__PAL-Inh_Chat
     type bigWig
     autoScale off
@@ -1744,9 +1700,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhDeptor
+    track PAL-Inh_Deptor
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Deptor.bw
-    shortLabel PALInhDeptor
+    shortLabel PAL-Inh_Deptor
     longLabel Inh__PAL-Inh__PAL-Inh_Deptor
     type bigWig
     autoScale off
@@ -1755,9 +1711,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhIgdcc3
+    track PAL-Inh_Igdcc3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Igdcc3.bw
-    shortLabel PALInhIgdcc3
+    shortLabel PAL-Inh_Igdcc3
     longLabel Inh__PAL-Inh__PAL-Inh_Igdcc3
     type bigWig
     autoScale off
@@ -1766,9 +1722,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhMeis1
+    track PAL-Inh_Meis1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Meis1.bw
-    shortLabel PALInhMeis1
+    shortLabel PAL-Inh_Meis1
     longLabel Inh__PAL-Inh__PAL-Inh_Meis1
     type bigWig
     autoScale off
@@ -1777,9 +1733,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhMeis2
+    track PAL-Inh_Meis2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Meis2.bw
-    shortLabel PALInhMeis2
+    shortLabel PAL-Inh_Meis2
     longLabel Inh__PAL-Inh__PAL-Inh_Meis2
     type bigWig
     autoScale off
@@ -1788,9 +1744,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhOnecut2
+    track PAL-Inh_Onecut2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Onecut2.bw
-    shortLabel PALInhOnecut2
+    shortLabel PAL-Inh_Onecut2
     longLabel Inh__PAL-Inh__PAL-Inh_Onecut2
     type bigWig
     autoScale off
@@ -1799,20 +1755,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhOutlier
-    bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Outlier.bw
-    shortLabel PALInhOutlier
-    longLabel Inh__PAL-Inh__PAL-Inh_Outlier
-    type bigWig
-    autoScale off
-    maxHeightPixels 100:15:5
-    parent Inh-PAL-Inh on
-    viewLimits 0:1
-    visibility dense
-
-    track PALInhPtprd
+    track PAL-Inh_Ptprd
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Ptprd.bw
-    shortLabel PALInhPtprd
+    shortLabel PAL-Inh_Ptprd
     longLabel Inh__PAL-Inh__PAL-Inh_Ptprd
     type bigWig
     autoScale off
@@ -1821,9 +1766,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhRarb
+    track PAL-Inh_Rarb
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Rarb.bw
-    shortLabel PALInhRarb
+    shortLabel PAL-Inh_Rarb
     longLabel Inh__PAL-Inh__PAL-Inh_Rarb
     type bigWig
     autoScale off
@@ -1832,9 +1777,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhTcf7l2
+    track PAL-Inh_Tcf7l2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Tcf7l2.bw
-    shortLabel PALInhTcf7l2
+    shortLabel PAL-Inh_Tcf7l2
     longLabel Inh__PAL-Inh__PAL-Inh_Tcf7l2
     type bigWig
     autoScale off
@@ -1843,9 +1788,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track PALInhTmem178
+    track PAL-Inh_Tmem178
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Tmem178.bw
-    shortLabel PALInhTmem178
+    shortLabel PAL-Inh_Tmem178
     longLabel Inh__PAL-Inh__PAL-Inh_Tmem178
     type bigWig
     autoScale off
@@ -1856,14 +1801,14 @@ compositeTrack on
 
 track Inh-Unc5c
 shortLabel Inh-Unc5c
-longLabel Inh-Unc5c | Inh cell mainly from HIP but also partly from cortex. Shown hypomethylation in both Lhx6 (CGE marker) and Adarb2 (MGE marker) gene.
+longLabel Inh-Unc5c (Inh cell mainly from HIP but also partly from cortex. Shown hypomethylation in both Lhx6 (CGE marker) and Adarb2 (MGE marker) gene.)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track Unc5cUnc5c
+    track Unc5c_Unc5c
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Unc5c__Unc5c_Unc5c.bw
-    shortLabel Unc5cUnc5c
+    shortLabel Unc5c_Unc5c
     longLabel Inh__Unc5c__Unc5c_Unc5c
     type bigWig
     autoScale off
@@ -1874,14 +1819,14 @@ compositeTrack on
 
 track NonN-ANP
 shortLabel NonN-ANP
-longLabel NonN-ANP | Adulut Neuron Precursor
+longLabel NonN-ANP (Adulut Neuron Precursor)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track ANPanpdg
+    track ANP_anp-dg
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ANP__ANP_anp-dg.bw
-    shortLabel ANPanpdg
+    shortLabel ANP_anp-dg
     longLabel NonN__ANP__ANP_anp-dg
     type bigWig
     autoScale off
@@ -1890,9 +1835,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ANPanpolfcnu
+    track ANP_anp-olf-cnu
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ANP__ANP_anp-olf-cnu.bw
-    shortLabel ANPanpolfcnu
+    shortLabel ANP_anp-olf-cnu
     longLabel NonN__ANP__ANP_anp-olf-cnu
     type bigWig
     autoScale off
@@ -1903,14 +1848,14 @@ compositeTrack on
 
 track NonN-ASC
 shortLabel NonN-ASC
-longLabel NonN-ASC | Astrocyte
+longLabel NonN-ASC (Astrocyte)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track ASCcortexolf
+    track ASC_cortex-olf
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ASC__ASC_cortex-olf.bw
-    shortLabel ASCcortexolf
+    shortLabel ASC_cortex-olf
     longLabel NonN__ASC__ASC_cortex-olf
     type bigWig
     autoScale off
@@ -1919,9 +1864,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ASCmid
+    track ASC_mid
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ASC__ASC_mid.bw
-    shortLabel ASCmid
+    shortLabel ASC_mid
     longLabel NonN__ASC__ASC_mid
     type bigWig
     autoScale off
@@ -1930,9 +1875,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ASCstrhpf
+    track ASC_str-hpf
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ASC__ASC_str-hpf.bw
-    shortLabel ASCstrhpf
+    shortLabel ASC_str-hpf
     longLabel NonN__ASC__ASC_str-hpf
     type bigWig
     autoScale off
@@ -1943,14 +1888,14 @@ compositeTrack on
 
 track NonN-EC
 shortLabel NonN-EC
-longLabel NonN-EC | Endothelial Cell
+longLabel NonN-EC (Endothelial Cell)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track ECAbhd2
+    track EC_Abhd2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__EC__EC_Abhd2.bw
-    shortLabel ECAbhd2
+    shortLabel EC_Abhd2
     longLabel NonN__EC__EC_Abhd2
     type bigWig
     autoScale off
@@ -1959,9 +1904,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ECSema3g
+    track EC_Sema3g
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__EC__EC_Sema3g.bw
-    shortLabel ECSema3g
+    shortLabel EC_Sema3g
     longLabel NonN__EC__EC_Sema3g
     type bigWig
     autoScale off
@@ -1972,14 +1917,14 @@ compositeTrack on
 
 track NonN-MGC
 shortLabel NonN-MGC
-longLabel NonN-MGC | Microglia
+longLabel NonN-MGC (Microglia)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track MGCmgcall
+    track MGC_mgc-all
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__MGC__MGC_mgc-all.bw
-    shortLabel MGCmgcall
+    shortLabel MGC_mgc-all
     longLabel NonN__MGC__MGC_mgc-all
     type bigWig
     autoScale off
@@ -1990,14 +1935,14 @@ compositeTrack on
 
 track NonN-ODC
 shortLabel NonN-ODC
-longLabel NonN-ODC | Oligodendrocyte
+longLabel NonN-ODC (Oligodendrocyte)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track ODCodclarge
+    track ODC_odc-large
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ODC__ODC_odc-large.bw
-    shortLabel ODCodclarge
+    shortLabel ODC_odc-large
     longLabel NonN__ODC__ODC_odc-large
     type bigWig
     autoScale off
@@ -2006,9 +1951,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track ODCodcsmall
+    track ODC_odc-small
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ODC__ODC_odc-small.bw
-    shortLabel ODCodcsmall
+    shortLabel ODC_odc-small
     longLabel NonN__ODC__ODC_odc-small
     type bigWig
     autoScale off
@@ -2019,14 +1964,14 @@ compositeTrack on
 
 track NonN-OPC
 shortLabel NonN-OPC
-longLabel NonN-OPC | Oligodendrocyte Precursor Cell
+longLabel NonN-OPC (Oligodendrocyte Precursor Cell)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track OPCopclarge
+    track OPC_opc-large
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__OPC__OPC_opc-large.bw
-    shortLabel OPCopclarge
+    shortLabel OPC_opc-large
     longLabel NonN__OPC__OPC_opc-large
     type bigWig
     autoScale off
@@ -2035,9 +1980,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track OPCopcsmall
+    track OPC_opc-small
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__OPC__OPC_opc-small.bw
-    shortLabel OPCopcsmall
+    shortLabel OPC_opc-small
     longLabel NonN__OPC__OPC_opc-small
     type bigWig
     autoScale off
@@ -2048,14 +1993,14 @@ compositeTrack on
 
 track NonN-PC
 shortLabel NonN-PC
-longLabel NonN-PC | Perivascular Cell
+longLabel NonN-PC (Perivascular Cell)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track PCpcall
+    track PC_pc-all
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__PC__PC_pc-all.bw
-    shortLabel PCpcall
+    shortLabel PC_pc-all
     longLabel NonN__PC__PC_pc-all
     type bigWig
     autoScale off
@@ -2066,14 +2011,14 @@ compositeTrack on
 
 track NonN-VLMC-Pia
 shortLabel NonN-VLMC-Pia
-longLabel NonN-VLMC-Pia | Vascular Leptomeningeal Cell mainly in Pia
+longLabel NonN-VLMC-Pia (Vascular Leptomeningeal Cell mainly in Pia)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track VLMCPiavlmcpiaall
+    track VLMC-Pia_vlmc-pia-all
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__VLMC-Pia__VLMC-Pia_vlmc-pia-all.bw
-    shortLabel VLMCPiavlmcpiaall
+    shortLabel VLMC-Pia_vlmc-pia-all
     longLabel NonN__VLMC-Pia__VLMC-Pia_vlmc-pia-all
     type bigWig
     autoScale off
@@ -2084,14 +2029,14 @@ compositeTrack on
 
 track NonN-VLMC
 shortLabel NonN-VLMC
-longLabel NonN-VLMC | Vascular Leptomeningeal Cell
+longLabel NonN-VLMC (Vascular Leptomeningeal Cell)
 type bigWig
-visibility full
+visibility dense
 compositeTrack on
 
-    track VLMCCol4a1
+    track VLMC_Col4a1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__VLMC__VLMC_Col4a1.bw
-    shortLabel VLMCCol4a1
+    shortLabel VLMC_Col4a1
     longLabel NonN__VLMC__VLMC_Col4a1
     type bigWig
     autoScale off
@@ -2100,9 +2045,9 @@ compositeTrack on
     viewLimits 0:1
     visibility dense
 
-    track VLMCMapk4
+    track VLMC_Mapk4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__VLMC__VLMC_Mapk4.bw
-    shortLabel VLMCMapk4
+    shortLabel VLMC_Mapk4
     longLabel NonN__VLMC__VLMC_Mapk4
     type bigWig
     autoScale off
