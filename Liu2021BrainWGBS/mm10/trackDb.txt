@@ -2,7 +2,7 @@ track Exc-CA1
 shortLabel Exc-CA1
 longLabel Exc-CA1 | CA1 Exc major group
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track CA1Ak5
@@ -14,6 +14,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA1 on
     viewLimits 0:1
+    visibility dense
 
     track CA1Chrm3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Chrm3.bw
@@ -24,6 +25,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA1 on
     viewLimits 0:1
+    visibility dense
 
     track CA1Kif26a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Kif26a.bw
@@ -34,6 +36,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA1 on
     viewLimits 0:1
+    visibility dense
 
     track CA1Lingo2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Lingo2.bw
@@ -44,6 +47,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA1 on
     viewLimits 0:1
+    visibility dense
 
     track CA1Outlier
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Outlier.bw
@@ -54,6 +58,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA1 on
     viewLimits 0:1
+    visibility dense
 
     track CA1Ptprg
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA1__CA1_Ptprg.bw
@@ -64,12 +69,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA1 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-CA3-St18
 shortLabel Exc-CA3-St18
 longLabel Exc-CA3-St18 | CA3 Exc small group marked by St18, sparse distributed in CA3 pyramidal layer deep side. See St18 ISH from ABA https://mouse.brain-map.org/experiment/show/69290531
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track CA3St18Epha5
@@ -81,6 +87,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA3-St18 on
     viewLimits 0:1
+    visibility dense
 
     track CA3St18Nuak1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3-St18__CA3-St18_Nuak1.bw
@@ -91,6 +98,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA3-St18 on
     viewLimits 0:1
+    visibility dense
 
     track CA3St18Tead1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3-St18__CA3-St18_Tead1.bw
@@ -101,12 +109,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA3-St18 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-CA3
 shortLabel Exc-CA3
 longLabel Exc-CA3 | CA3 Exc major group
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track CA3Cadm2
@@ -118,6 +127,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA3 on
     viewLimits 0:1
+    visibility dense
 
     track CA3Efnb2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CA3__CA3_Efnb2.bw
@@ -128,12 +138,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CA3 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-CLA
 shortLabel Exc-CLA
 longLabel Exc-CLA | Excitatroy neruon from Claustrum. Infered by dissection regions and region specific marker genes, e.g., B3gat2 ISH from ABA https://mouse.brain-map.org/gene/show/93607
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track CLABcl11a
@@ -145,6 +156,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CLA on
     viewLimits 0:1
+    visibility dense
 
     track CLACdh8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CLA__CLA_Cdh8.bw
@@ -155,6 +167,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CLA on
     viewLimits 0:1
+    visibility dense
 
     track CLANrp2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CLA__CLA_Nrp2.bw
@@ -165,12 +178,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CLA on
     viewLimits 0:1
+    visibility dense
 
 track Exc-CT-L6
 shortLabel Exc-CT-L6
 longLabel Exc-CT-L6 | Cortex CT Exc neuron in Layer 6
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track CTL6Hcrtr2
@@ -182,6 +196,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CT-L6 on
     viewLimits 0:1
+    visibility dense
 
     track CTL6Il1rap
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Il1rap.bw
@@ -192,6 +207,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CT-L6 on
     viewLimits 0:1
+    visibility dense
 
     track CTL6Map4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Map4.bw
@@ -202,6 +218,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CT-L6 on
     viewLimits 0:1
+    visibility dense
 
     track CTL6Megf9
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__CT-L6__CT-L6_Megf9.bw
@@ -212,12 +229,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-CT-L6 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-DG-po
 shortLabel Exc-DG-po
 longLabel Exc-DG-po | DG Exc located in DGpo, infered by dissection regions and region specific marker genes, e.g., Ptpro ISH from ABA https://mouse.brain-map.org/gene/show/19040
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track DGpoBcl11a
@@ -229,6 +247,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-DG-po on
     viewLimits 0:1
+    visibility dense
 
     track DGpoCalb2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG-po__DG-po_Calb2.bw
@@ -239,6 +258,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-DG-po on
     viewLimits 0:1
+    visibility dense
 
     track DGpoKctd8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__DG-po__DG-po_Kctd8.bw
@@ -249,12 +269,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-DG-po on
     viewLimits 0:1
+    visibility dense
 
 track Exc-DG
 shortLabel Exc-DG
 longLabel Exc-DG | Gruanle cell in DG
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track DGdgall
@@ -266,12 +287,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-DG on
     viewLimits 0:1
+    visibility dense
 
 track Exc-EP
 shortLabel Exc-EP
 longLabel Exc-EP | Excitatory neuron from Endopriform Nucleus. Infered by dissection regions and region specific marker genes, e.g., Npsr1 ISH from ABA https://mouse.brain-map.org/gene/show/106174
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track EPAdcy8
@@ -283,6 +305,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-EP on
     viewLimits 0:1
+    visibility dense
 
     track EPRgs8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__EP__EP_Rgs8.bw
@@ -293,6 +316,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-EP on
     viewLimits 0:1
+    visibility dense
 
     track EPTspan5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__EP__EP_Tspan5.bw
@@ -303,12 +327,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-EP on
     viewLimits 0:1
+    visibility dense
 
 track Exc-Gfra1
 shortLabel Exc-Gfra1
 longLabel Exc-Gfra1 | Sparse distributed excitatory neurons across CA1, CA3 and DGpo marked by Gfra1, see Gfra1 ISH from ABA https://mouse.brain-map.org/gene/show/14361
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track Gfra1Gfra1
@@ -320,12 +345,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-Gfra1 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-IG-CA2
 shortLabel Exc-IG-CA2
 longLabel Exc-IG-CA2 | CA2 and IG Exc. neuron, infered by dissection regions and region specific marker genes, e.g., Ntf3 gene ISH from ABA: https://mouse.brain-map.org/gene/show/17972
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track IGCA2Chrm3
@@ -337,6 +363,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IG-CA2 on
     viewLimits 0:1
+    visibility dense
 
     track IGCA2Peak1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IG-CA2__IG-CA2_Peak1.bw
@@ -347,6 +374,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IG-CA2 on
     viewLimits 0:1
+    visibility dense
 
     track IGCA2Xpr1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IG-CA2__IG-CA2_Xpr1.bw
@@ -357,12 +385,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IG-CA2 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-IT-L23
 shortLabel Exc-IT-L23
 longLabel Exc-IT-L23 | Cortex IT Exc neuron in Layer 2-3
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track ITL23Cux1
@@ -374,6 +403,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L23 on
     viewLimits 0:1
+    visibility dense
 
     track ITL23Foxp1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Foxp1.bw
@@ -384,6 +414,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L23 on
     viewLimits 0:1
+    visibility dense
 
     track ITL23Ptprt
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Ptprt.bw
@@ -394,6 +425,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L23 on
     viewLimits 0:1
+    visibility dense
 
     track ITL23Tenm2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L23__IT-L23_Tenm2.bw
@@ -404,12 +436,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L23 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-IT-L4
 shortLabel Exc-IT-L4
 longLabel Exc-IT-L4 | Cortex IT Exc neuron in Layer 4
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track ITL4Astn2
@@ -421,6 +454,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L4 on
     viewLimits 0:1
+    visibility dense
 
     track ITL4Shc3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L4__IT-L4_Shc3.bw
@@ -431,12 +465,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L4 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-IT-L5
 shortLabel Exc-IT-L5
 longLabel Exc-IT-L5 | Cortex IT Exc neuron in Layer 5
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track ITL5Cdh8
@@ -448,6 +483,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track ITL5Etv1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L5__IT-L5_Etv1.bw
@@ -458,6 +494,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track ITL5Grik3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L5__IT-L5_Grik3.bw
@@ -468,12 +505,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L5 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-IT-L6
 shortLabel Exc-IT-L6
 longLabel Exc-IT-L6 | Cortex IT Exc neuron in Layer 6
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track ITL6Cadps2
@@ -485,6 +523,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L6 on
     viewLimits 0:1
+    visibility dense
 
     track ITL6Fstl4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Fstl4.bw
@@ -495,6 +534,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L6 on
     viewLimits 0:1
+    visibility dense
 
     track ITL6Man1c1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Man1c1.bw
@@ -505,6 +545,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L6 on
     viewLimits 0:1
+    visibility dense
 
     track ITL6Oxr1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__IT-L6__IT-L6_Oxr1.bw
@@ -515,12 +556,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-IT-L6 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-L6b
 shortLabel Exc-L6b
 longLabel Exc-L6b | Cortex L6b neuron
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track L6bAdcy8
@@ -532,6 +574,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-L6b on
     viewLimits 0:1
+    visibility dense
 
     track L6bKcnk2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Kcnk2.bw
@@ -542,6 +585,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-L6b on
     viewLimits 0:1
+    visibility dense
 
     track L6bNrp2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Nrp2.bw
@@ -552,6 +596,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-L6b on
     viewLimits 0:1
+    visibility dense
 
     track L6bPkhd1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__L6b__L6b_Pkhd1.bw
@@ -562,12 +607,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-L6b on
     viewLimits 0:1
+    visibility dense
 
 track Exc-NP-L6
 shortLabel Exc-NP-L6
 longLabel Exc-NP-L6 | Cortex NP Exc neuron in Layer 6
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track NPL6Boc
@@ -579,6 +625,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-NP-L6 on
     viewLimits 0:1
+    visibility dense
 
     track NPL6Cntnap4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cntnap4.bw
@@ -589,6 +636,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-NP-L6 on
     viewLimits 0:1
+    visibility dense
 
     track NPL6Cntnap5a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cntnap5a.bw
@@ -599,6 +647,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-NP-L6 on
     viewLimits 0:1
+    visibility dense
 
     track NPL6Cyp7b1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Cyp7b1.bw
@@ -609,6 +658,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-NP-L6 on
     viewLimits 0:1
+    visibility dense
 
     track NPL6Kcnab1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Kcnab1.bw
@@ -619,6 +669,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-NP-L6 on
     viewLimits 0:1
+    visibility dense
 
     track NPL6Olfml2b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__NP-L6__NP-L6_Olfml2b.bw
@@ -629,12 +680,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-NP-L6 on
     viewLimits 0:1
+    visibility dense
 
 track Exc-OLF-Exc
 shortLabel Exc-OLF-Exc
 longLabel Exc-OLF-Exc | Excitatory neuron from olfactory area dissections including MOB, AON and PIR. Infered by dissection regions
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track OLFExcBmpr1b
@@ -646,6 +698,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
     track OLFExcCdh9
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Cdh9.bw
@@ -656,6 +709,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
     track OLFExcCux2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Cux2.bw
@@ -666,6 +720,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
     track OLFExcLrrtm3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Lrrtm3.bw
@@ -676,6 +731,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
     track OLFExcOutlier
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Outlier.bw
@@ -686,6 +742,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
     track OLFExcPld5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Pld5.bw
@@ -696,6 +753,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
     track OLFExcRmst
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Rmst.bw
@@ -706,6 +764,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
     track OLFExcSgcd
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Sgcd.bw
@@ -716,6 +775,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
     track OLFExcUnc13c
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__OLF-Exc__OLF-Exc_Unc13c.bw
@@ -726,12 +786,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-OLF-Exc on
     viewLimits 0:1
+    visibility dense
 
 track Exc-PT-L5
 shortLabel Exc-PT-L5
 longLabel Exc-PT-L5 | Cortex ET Exc neuron in Layer 5, Note that the L5 ET neurons had been named as pyramidal tract (PT) neurons or subcerebral projection neurons (SCPN) in the literature, we use ET to be consistent with Yao et al., 2020
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track PTL5Abca12
@@ -743,6 +804,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Astn2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Astn2.bw
@@ -753,6 +815,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Kcnh1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Kcnh1.bw
@@ -763,6 +826,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Nectin1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Nectin1.bw
@@ -773,6 +837,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Outlier
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Outlier.bw
@@ -783,6 +848,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Plcb4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Plcb4.bw
@@ -793,6 +859,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Ptprt
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Ptprt.bw
@@ -803,6 +870,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Tenm2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Tenm2.bw
@@ -813,6 +881,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Tmtc2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Tmtc2.bw
@@ -823,6 +892,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
     track PTL5Unc5b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Exc__PT-L5__PT-L5_Unc5b.bw
@@ -833,12 +903,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Exc-PT-L5 on
     viewLimits 0:1
+    visibility dense
 
 track Inh-CGE-Lamp5
 shortLabel Inh-CGE-Lamp5
 longLabel Inh-CGE-Lamp5 | CGE derived Lamp5+ Inh.
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track CGELamp5Dock5
@@ -850,6 +921,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Lamp5 on
     viewLimits 0:1
+    visibility dense
 
     track CGELamp5Grid1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Grid1.bw
@@ -860,6 +932,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Lamp5 on
     viewLimits 0:1
+    visibility dense
 
     track CGELamp5Grk5
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Grk5.bw
@@ -870,6 +943,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Lamp5 on
     viewLimits 0:1
+    visibility dense
 
     track CGELamp5Nrxn3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Nrxn3.bw
@@ -880,6 +954,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Lamp5 on
     viewLimits 0:1
+    visibility dense
 
     track CGELamp5Sorcs1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Lamp5__CGE-Lamp5_Sorcs1.bw
@@ -890,12 +965,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Lamp5 on
     viewLimits 0:1
+    visibility dense
 
 track Inh-CGE-Vip
 shortLabel Inh-CGE-Vip
 longLabel Inh-CGE-Vip | CGE derived Vip+ Inh.
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track CGEVipCcser1
@@ -907,6 +983,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Vip on
     viewLimits 0:1
+    visibility dense
 
     track CGEVipClstn2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Clstn2.bw
@@ -917,6 +994,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Vip on
     viewLimits 0:1
+    visibility dense
 
     track CGEVipFstl4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Fstl4.bw
@@ -927,6 +1005,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Vip on
     viewLimits 0:1
+    visibility dense
 
     track CGEVipGalnt17
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Galnt17.bw
@@ -937,6 +1016,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Vip on
     viewLimits 0:1
+    visibility dense
 
     track CGEVipGrm8
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Grm8.bw
@@ -947,6 +1027,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Vip on
     viewLimits 0:1
+    visibility dense
 
     track CGEVipNtng1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Ntng1.bw
@@ -957,6 +1038,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Vip on
     viewLimits 0:1
+    visibility dense
 
     track CGEVipPtprm
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Ptprm.bw
@@ -967,6 +1049,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Vip on
     viewLimits 0:1
+    visibility dense
 
     track CGEVipRobo1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__CGE-Vip__CGE-Vip_Robo1.bw
@@ -977,12 +1060,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-CGE-Vip on
     viewLimits 0:1
+    visibility dense
 
 track Inh-Chd7
 shortLabel Inh-Chd7
 longLabel Inh-Chd7 | Inh cell shown hypomethylation in both Lhx6 and Chd7 gene
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track Chd7Kcnc2
@@ -994,6 +1078,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-Chd7 on
     viewLimits 0:1
+    visibility dense
 
     track Chd7Megf11
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Chd7__Chd7_Megf11.bw
@@ -1004,6 +1089,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-Chd7 on
     viewLimits 0:1
+    visibility dense
 
     track Chd7Trpc7
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Chd7__Chd7_Trpc7.bw
@@ -1014,12 +1100,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-Chd7 on
     viewLimits 0:1
+    visibility dense
 
 track Inh-D1L-Fstl4
 shortLabel Inh-D1L-Fstl4
 longLabel Inh-D1L-Fstl4 | D1 Like Interneuron, marked by Fstl4 and Drd1
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track D1LFstl4Cadm1
@@ -1031,6 +1118,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-D1L-Fstl4 on
     viewLimits 0:1
+    visibility dense
 
     track D1LFstl4Crim1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Crim1.bw
@@ -1041,6 +1129,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-D1L-Fstl4 on
     viewLimits 0:1
+    visibility dense
 
     track D1LFstl4Grm3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Grm3.bw
@@ -1051,6 +1140,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-D1L-Fstl4 on
     viewLimits 0:1
+    visibility dense
 
     track D1LFstl4Sipa1l2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Sipa1l2.bw
@@ -1061,6 +1151,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-D1L-Fstl4 on
     viewLimits 0:1
+    visibility dense
 
     track D1LFstl4Trps1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-Fstl4__D1L-Fstl4_Trps1.bw
@@ -1071,12 +1162,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-D1L-Fstl4 on
     viewLimits 0:1
+    visibility dense
 
 track Inh-D1L-PAL
 shortLabel Inh-D1L-PAL
 longLabel Inh-D1L-PAL | D1 Like Interneuron, mainly come from PAL, marked by Drd1
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track D1LPALFlrt2
@@ -1088,6 +1180,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-D1L-PAL on
     viewLimits 0:1
+    visibility dense
 
     track D1LPALPlcxd3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__D1L-PAL__D1L-PAL_Plcxd3.bw
@@ -1098,12 +1191,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-D1L-PAL on
     viewLimits 0:1
+    visibility dense
 
 track Inh-Foxp2
 shortLabel Inh-Foxp2
 longLabel Inh-Foxp2 | Inh cell marked by Foxp2 gene, mainly come from STR and PAL
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track Foxp2Dchs2
@@ -1115,6 +1209,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-Foxp2 on
     viewLimits 0:1
+    visibility dense
 
     track Foxp2Homer2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Homer2.bw
@@ -1125,6 +1220,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-Foxp2 on
     viewLimits 0:1
+    visibility dense
 
     track Foxp2Inpp4b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Inpp4b.bw
@@ -1135,6 +1231,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-Foxp2 on
     viewLimits 0:1
+    visibility dense
 
     track Foxp2Trpc7
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__Foxp2__Foxp2_Trpc7.bw
@@ -1145,12 +1242,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-Foxp2 on
     viewLimits 0:1
+    visibility dense
 
 track Inh-LSX-Inh
 shortLabel Inh-LSX-Inh
 longLabel Inh-LSX-Inh | LSX Interneuron
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track LSXInhCacna1i
@@ -1162,6 +1260,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-LSX-Inh on
     viewLimits 0:1
+    visibility dense
 
     track LSXInhDock10
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Dock10.bw
@@ -1172,6 +1271,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-LSX-Inh on
     viewLimits 0:1
+    visibility dense
 
     track LSXInhEnox1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Enox1.bw
@@ -1182,6 +1282,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-LSX-Inh on
     viewLimits 0:1
+    visibility dense
 
     track LSXInhFoxp2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Foxp2.bw
@@ -1192,6 +1293,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-LSX-Inh on
     viewLimits 0:1
+    visibility dense
 
     track LSXInhLats2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Lats2.bw
@@ -1202,6 +1304,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-LSX-Inh on
     viewLimits 0:1
+    visibility dense
 
     track LSXInhNxph1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Nxph1.bw
@@ -1212,6 +1315,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-LSX-Inh on
     viewLimits 0:1
+    visibility dense
 
     track LSXInhZeb2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__LSX-Inh__LSX-Inh_Zeb2.bw
@@ -1222,12 +1326,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-LSX-Inh on
     viewLimits 0:1
+    visibility dense
 
 track Inh-MGE-Pvalb
 shortLabel Inh-MGE-Pvalb
 longLabel Inh-MGE-Pvalb | MGE derived Pvalb+ Inh.
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track MGEPvalbCacna1i
@@ -1239,6 +1344,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Pvalb on
     viewLimits 0:1
+    visibility dense
 
     track MGEPvalbCnih3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Cnih3.bw
@@ -1249,6 +1355,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Pvalb on
     viewLimits 0:1
+    visibility dense
 
     track MGEPvalbEntpd3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Entpd3.bw
@@ -1259,6 +1366,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Pvalb on
     viewLimits 0:1
+    visibility dense
 
     track MGEPvalbGfra2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Gfra2.bw
@@ -1269,6 +1377,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Pvalb on
     viewLimits 0:1
+    visibility dense
 
     track MGEPvalbPtprk
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Ptprk.bw
@@ -1279,6 +1388,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Pvalb on
     viewLimits 0:1
+    visibility dense
 
     track MGEPvalbSema5a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Sema5a.bw
@@ -1289,6 +1399,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Pvalb on
     viewLimits 0:1
+    visibility dense
 
     track MGEPvalbThsd7a
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Pvalb__MGE-Pvalb_Thsd7a.bw
@@ -1299,12 +1410,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Pvalb on
     viewLimits 0:1
+    visibility dense
 
 track Inh-MGE-Sst
 shortLabel Inh-MGE-Sst
 longLabel Inh-MGE-Sst | MGE derived Sst+ Inh.
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track MGESstBmper
@@ -1316,6 +1428,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstChodl
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Chodl.bw
@@ -1326,6 +1439,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstDock4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Dock4.bw
@@ -1336,6 +1450,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstEtv1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Etv1.bw
@@ -1346,6 +1461,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstFrmd6
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Frmd6.bw
@@ -1356,6 +1472,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstKcnip4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Kcnip4.bw
@@ -1366,6 +1483,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstPtpre
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Ptpre.bw
@@ -1376,6 +1494,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstRerg
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Rerg.bw
@@ -1386,6 +1505,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstRxra
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Rxra.bw
@@ -1396,6 +1516,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstUbtd1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Ubtd1.bw
@@ -1406,6 +1527,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
     track MGESstUnc5b
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MGE-Sst__MGE-Sst_Unc5b.bw
@@ -1416,12 +1538,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MGE-Sst on
     viewLimits 0:1
+    visibility dense
 
 track Inh-MSN-D1
 shortLabel Inh-MSN-D1
 longLabel Inh-MSN-D1 | Medium Spiny Neuron D1-type, hypomethylation in Drd1 gene
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track MSND1Hrh1
@@ -1433,6 +1556,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MSN-D1 on
     viewLimits 0:1
+    visibility dense
 
     track MSND1Khdrbs3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Khdrbs3.bw
@@ -1443,6 +1567,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MSN-D1 on
     viewLimits 0:1
+    visibility dense
 
     track MSND1Ntn1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Ntn1.bw
@@ -1453,6 +1578,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MSN-D1 on
     viewLimits 0:1
+    visibility dense
 
     track MSND1Plxnc1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D1__MSN-D1_Plxnc1.bw
@@ -1463,12 +1589,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MSN-D1 on
     viewLimits 0:1
+    visibility dense
 
 track Inh-MSN-D2
 shortLabel Inh-MSN-D2
 longLabel Inh-MSN-D2 | Medium Spiny Neuron D2-type, hypomethylation in Drd2 gene
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track MSND2Casz1
@@ -1480,6 +1607,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MSN-D2 on
     viewLimits 0:1
+    visibility dense
 
     track MSND2Col14a1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Col14a1.bw
@@ -1490,6 +1618,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MSN-D2 on
     viewLimits 0:1
+    visibility dense
 
     track MSND2Nrp2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Nrp2.bw
@@ -1500,6 +1629,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MSN-D2 on
     viewLimits 0:1
+    visibility dense
 
     track MSND2Slc24a2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__MSN-D2__MSN-D2_Slc24a2.bw
@@ -1510,12 +1640,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-MSN-D2 on
     viewLimits 0:1
+    visibility dense
 
 track Inh-OLF
 shortLabel Inh-OLF
 longLabel Inh-OLF | Granule layer of OLF and associated cell types
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track OLFGabbr2
@@ -1527,6 +1658,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-OLF on
     viewLimits 0:1
+    visibility dense
 
     track OLFKcnd3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Kcnd3.bw
@@ -1537,6 +1669,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-OLF on
     viewLimits 0:1
+    visibility dense
 
     track OLFMapk10
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Mapk10.bw
@@ -1547,6 +1680,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-OLF on
     viewLimits 0:1
+    visibility dense
 
     track OLFOutlier
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Outlier.bw
@@ -1557,6 +1691,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-OLF on
     viewLimits 0:1
+    visibility dense
 
     track OLFPag1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Pag1.bw
@@ -1567,6 +1702,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-OLF on
     viewLimits 0:1
+    visibility dense
 
     track OLFTrpc4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Trpc4.bw
@@ -1577,6 +1713,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-OLF on
     viewLimits 0:1
+    visibility dense
 
     track OLFXkr6
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__OLF__OLF_Xkr6.bw
@@ -1587,12 +1724,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-OLF on
     viewLimits 0:1
+    visibility dense
 
 track Inh-PAL-Inh
 shortLabel Inh-PAL-Inh
 longLabel Inh-PAL-Inh | PAL Interneuron
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track PALInhChat
@@ -1604,6 +1742,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhDeptor
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Deptor.bw
@@ -1614,6 +1753,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhIgdcc3
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Igdcc3.bw
@@ -1624,6 +1764,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhMeis1
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Meis1.bw
@@ -1634,6 +1775,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhMeis2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Meis2.bw
@@ -1644,6 +1786,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhOnecut2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Onecut2.bw
@@ -1654,6 +1797,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhOutlier
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Outlier.bw
@@ -1664,6 +1808,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhPtprd
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Ptprd.bw
@@ -1674,6 +1819,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhRarb
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Rarb.bw
@@ -1684,6 +1830,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhTcf7l2
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Tcf7l2.bw
@@ -1694,6 +1841,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
     track PALInhTmem178
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/Inh__PAL-Inh__PAL-Inh_Tmem178.bw
@@ -1704,12 +1852,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-PAL-Inh on
     viewLimits 0:1
+    visibility dense
 
 track Inh-Unc5c
 shortLabel Inh-Unc5c
 longLabel Inh-Unc5c | Inh cell mainly from HIP but also partly from cortex. Shown hypomethylation in both Lhx6 (CGE marker) and Adarb2 (MGE marker) gene.
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track Unc5cUnc5c
@@ -1721,12 +1870,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent Inh-Unc5c on
     viewLimits 0:1
+    visibility dense
 
 track NonN-ANP
 shortLabel NonN-ANP
 longLabel NonN-ANP | Adulut Neuron Precursor
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track ANPanpdg
@@ -1738,6 +1888,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-ANP on
     viewLimits 0:1
+    visibility dense
 
     track ANPanpolfcnu
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ANP__ANP_anp-olf-cnu.bw
@@ -1748,12 +1899,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-ANP on
     viewLimits 0:1
+    visibility dense
 
 track NonN-ASC
 shortLabel NonN-ASC
 longLabel NonN-ASC | Astrocyte
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track ASCcortexolf
@@ -1765,6 +1917,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-ASC on
     viewLimits 0:1
+    visibility dense
 
     track ASCmid
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ASC__ASC_mid.bw
@@ -1775,6 +1928,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-ASC on
     viewLimits 0:1
+    visibility dense
 
     track ASCstrhpf
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ASC__ASC_str-hpf.bw
@@ -1785,12 +1939,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-ASC on
     viewLimits 0:1
+    visibility dense
 
 track NonN-EC
 shortLabel NonN-EC
 longLabel NonN-EC | Endothelial Cell
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track ECAbhd2
@@ -1802,6 +1957,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-EC on
     viewLimits 0:1
+    visibility dense
 
     track ECSema3g
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__EC__EC_Sema3g.bw
@@ -1812,12 +1968,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-EC on
     viewLimits 0:1
+    visibility dense
 
 track NonN-MGC
 shortLabel NonN-MGC
 longLabel NonN-MGC | Microglia
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track MGCmgcall
@@ -1829,12 +1986,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-MGC on
     viewLimits 0:1
+    visibility dense
 
 track NonN-ODC
 shortLabel NonN-ODC
 longLabel NonN-ODC | Oligodendrocyte
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track ODCodclarge
@@ -1846,6 +2004,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-ODC on
     viewLimits 0:1
+    visibility dense
 
     track ODCodcsmall
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__ODC__ODC_odc-small.bw
@@ -1856,12 +2015,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-ODC on
     viewLimits 0:1
+    visibility dense
 
 track NonN-OPC
 shortLabel NonN-OPC
 longLabel NonN-OPC | Oligodendrocyte Precursor Cell
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track OPCopclarge
@@ -1873,6 +2033,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-OPC on
     viewLimits 0:1
+    visibility dense
 
     track OPCopcsmall
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__OPC__OPC_opc-small.bw
@@ -1883,12 +2044,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-OPC on
     viewLimits 0:1
+    visibility dense
 
 track NonN-PC
 shortLabel NonN-PC
 longLabel NonN-PC | Perivascular Cell
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track PCpcall
@@ -1900,12 +2062,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-PC on
     viewLimits 0:1
+    visibility dense
 
 track NonN-VLMC-Pia
 shortLabel NonN-VLMC-Pia
 longLabel NonN-VLMC-Pia | Vascular Leptomeningeal Cell mainly in Pia
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track VLMCPiavlmcpiaall
@@ -1917,12 +2080,13 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-VLMC-Pia on
     viewLimits 0:1
+    visibility dense
 
 track NonN-VLMC
 shortLabel NonN-VLMC
 longLabel NonN-VLMC | Vascular Leptomeningeal Cell
 type bigWig
-visibility dense
+visibility full
 compositeTrack on
 
     track VLMCCol4a1
@@ -1934,6 +2098,7 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-VLMC on
     viewLimits 0:1
+    visibility dense
 
     track VLMCMapk4
     bigDataUrl https://zhouserver.research.chop.edu/trackHub/mm10/Liu2021BrainWGBS/bigwig/NonN__VLMC__VLMC_Mapk4.bw
@@ -1944,3 +2109,4 @@ compositeTrack on
     maxHeightPixels 100:15:5
     parent NonN-VLMC on
     viewLimits 0:1
+    visibility dense
