@@ -1,5 +1,5 @@
 track Exc-CA1
-shortLabel Exc
+shortLabel Exc-CA1
 longLabel CA1 Exc major group
 type bigWig
 visibility hide
@@ -66,7 +66,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-CA3-St18
-shortLabel Exc
+shortLabel Exc-CA3-St18
 longLabel CA3 Exc small group marked by St18, sparse distributed in CA3 pyramidal layer deep side. See St18 ISH from ABA https://mouse.brain-map.org/experiment/show/69290531
 type bigWig
 visibility hide
@@ -103,7 +103,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-CA3
-shortLabel Exc
+shortLabel Exc-CA3
 longLabel CA3 Exc major group
 type bigWig
 visibility hide
@@ -130,7 +130,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-CLA
-shortLabel Exc
+shortLabel Exc-CLA
 longLabel Excitatroy neruon from Claustrum. Infered by dissection regions and region specific marker genes, e.g., B3gat2 ISH from ABA https://mouse.brain-map.org/gene/show/93607
 type bigWig
 visibility hide
@@ -167,7 +167,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-CT-L6
-shortLabel Exc
+shortLabel Exc-CT-L6
 longLabel Cortex CT Exc neuron in Layer 6
 type bigWig
 visibility hide
@@ -214,7 +214,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-DG-po
-shortLabel Exc
+shortLabel Exc-DG-po
 longLabel DG Exc located in DGpo, infered by dissection regions and region specific marker genes, e.g., Ptpro ISH from ABA https://mouse.brain-map.org/gene/show/19040
 type bigWig
 visibility hide
@@ -251,7 +251,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-DG
-shortLabel Exc
+shortLabel Exc-DG
 longLabel Gruanle cell in DG
 type bigWig
 visibility hide
@@ -268,7 +268,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-EP
-shortLabel Exc
+shortLabel Exc-EP
 longLabel Excitatory neuron from Endopriform Nucleus. Infered by dissection regions and region specific marker genes, e.g., Npsr1 ISH from ABA https://mouse.brain-map.org/gene/show/106174
 type bigWig
 visibility hide
@@ -305,7 +305,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-Gfra1
-shortLabel Exc
+shortLabel Exc-Gfra1
 longLabel Sparse distributed excitatory neurons across CA1, CA3 and DGpo marked by Gfra1, see Gfra1 ISH from ABA https://mouse.brain-map.org/gene/show/14361
 type bigWig
 visibility hide
@@ -322,7 +322,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-IG-CA2
-shortLabel Exc
+shortLabel Exc-IG-CA2
 longLabel CA2 and IG Exc. neuron, infered by dissection regions and region specific marker genes, e.g., Ntf3 gene ISH from ABA: https://mouse.brain-map.org/gene/show/17972
 type bigWig
 visibility hide
@@ -359,7 +359,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-IT-L23
-shortLabel Exc
+shortLabel Exc-IT-L23
 longLabel Cortex IT Exc neuron in Layer 2-3
 type bigWig
 visibility hide
@@ -406,7 +406,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-IT-L4
-shortLabel Exc
+shortLabel Exc-IT-L4
 longLabel Cortex IT Exc neuron in Layer 4
 type bigWig
 visibility hide
@@ -433,7 +433,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-IT-L5
-shortLabel Exc
+shortLabel Exc-IT-L5
 longLabel Cortex IT Exc neuron in Layer 5
 type bigWig
 visibility hide
@@ -470,7 +470,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-IT-L6
-shortLabel Exc
+shortLabel Exc-IT-L6
 longLabel Cortex IT Exc neuron in Layer 6
 type bigWig
 visibility hide
@@ -517,7 +517,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-L6b
-shortLabel Exc
+shortLabel Exc-L6b
 longLabel Cortex L6b neuron
 type bigWig
 visibility hide
@@ -564,7 +564,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-NP-L6
-shortLabel Exc
+shortLabel Exc-NP-L6
 longLabel Cortex NP Exc neuron in Layer 6
 type bigWig
 visibility hide
@@ -631,7 +631,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-OLF-Exc
-shortLabel Exc
+shortLabel Exc-OLF-Exc
 longLabel Excitatory neuron from olfactory area dissections including MOB, AON and PIR. Infered by dissection regions
 type bigWig
 visibility hide
@@ -728,7 +728,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Exc-PT-L5
-shortLabel Exc
+shortLabel Exc-PT-L5
 longLabel Cortex ET Exc neuron in Layer 5, Note that the L5 ET neurons had been named as pyramidal tract (PT) neurons or subcerebral projection neurons (SCPN) in the literature, we use ET to be consistent with Yao et al., 2020
 type bigWig
 visibility hide
@@ -835,7 +835,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-CGE-Lamp5
-shortLabel Inh
+shortLabel Inh-CGE-Lamp5
 longLabel CGE derived Lamp5+ Inh.
 type bigWig
 visibility hide
@@ -892,7 +892,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-CGE-Vip
-shortLabel Inh
+shortLabel Inh-CGE-Vip
 longLabel CGE derived Vip+ Inh.
 type bigWig
 visibility hide
@@ -979,7 +979,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-Chd7
-shortLabel Inh
+shortLabel Inh-Chd7
 longLabel Inh cell shown hypomethylation in both Lhx6 and Chd7 gene
 type bigWig
 visibility hide
@@ -1016,7 +1016,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-D1L-Fstl4
-shortLabel Inh
+shortLabel Inh-D1L-Fstl4
 longLabel D1 Like Interneuron, marked by Fstl4 and Drd1
 type bigWig
 visibility hide
@@ -1073,7 +1073,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-D1L-PAL
-shortLabel Inh
+shortLabel Inh-D1L-PAL
 longLabel D1 Like Interneuron, mainly come from PAL, marked by Drd1
 type bigWig
 visibility hide
@@ -1100,7 +1100,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-Foxp2
-shortLabel Inh
+shortLabel Inh-Foxp2
 longLabel Inh cell marked by Foxp2 gene, mainly come from STR and PAL
 type bigWig
 visibility hide
@@ -1147,7 +1147,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-LSX-Inh
-shortLabel Inh
+shortLabel Inh-LSX-Inh
 longLabel LSX Interneuron
 type bigWig
 visibility hide
@@ -1224,7 +1224,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-MGE-Pvalb
-shortLabel Inh
+shortLabel Inh-MGE-Pvalb
 longLabel MGE derived Pvalb+ Inh.
 type bigWig
 visibility hide
@@ -1301,7 +1301,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-MGE-Sst
-shortLabel Inh
+shortLabel Inh-MGE-Sst
 longLabel MGE derived Sst+ Inh.
 type bigWig
 visibility hide
@@ -1418,7 +1418,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-MSN-D1
-shortLabel Inh
+shortLabel Inh-MSN-D1
 longLabel Medium Spiny Neuron D1-type, hypomethylation in Drd1 gene
 type bigWig
 visibility hide
@@ -1465,7 +1465,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-MSN-D2
-shortLabel Inh
+shortLabel Inh-MSN-D2
 longLabel Medium Spiny Neuron D2-type, hypomethylation in Drd2 gene
 type bigWig
 visibility hide
@@ -1512,7 +1512,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-OLF
-shortLabel Inh
+shortLabel Inh-OLF
 longLabel Granule layer of OLF and associated cell types
 type bigWig
 visibility hide
@@ -1589,7 +1589,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-PAL-Inh
-shortLabel Inh
+shortLabel Inh-PAL-Inh
 longLabel PAL Interneuron
 type bigWig
 visibility hide
@@ -1706,7 +1706,7 @@ compositeTrack on
     viewLimits 0:1
 
 track Inh-Unc5c
-shortLabel Inh
+shortLabel Inh-Unc5c
 longLabel Inh cell mainly from HIP but also partly from cortex. Shown hypomethylation in both Lhx6 (CGE marker) and Adarb2 (MGE marker) gene.
 type bigWig
 visibility hide
@@ -1723,7 +1723,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-ANP
-shortLabel NonN
+shortLabel NonN-ANP
 longLabel Adulut Neuron Precursor
 type bigWig
 visibility hide
@@ -1750,7 +1750,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-ASC
-shortLabel NonN
+shortLabel NonN-ASC
 longLabel Astrocyte
 type bigWig
 visibility hide
@@ -1787,7 +1787,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-EC
-shortLabel NonN
+shortLabel NonN-EC
 longLabel Endothelial Cell
 type bigWig
 visibility hide
@@ -1814,7 +1814,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-MGC
-shortLabel NonN
+shortLabel NonN-MGC
 longLabel Microglia
 type bigWig
 visibility hide
@@ -1831,7 +1831,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-ODC
-shortLabel NonN
+shortLabel NonN-ODC
 longLabel Oligodendrocyte
 type bigWig
 visibility hide
@@ -1858,7 +1858,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-OPC
-shortLabel NonN
+shortLabel NonN-OPC
 longLabel Oligodendrocyte Precursor Cell
 type bigWig
 visibility hide
@@ -1885,7 +1885,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-PC
-shortLabel NonN
+shortLabel NonN-PC
 longLabel Perivascular Cell
 type bigWig
 visibility hide
@@ -1902,7 +1902,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-VLMC-Pia
-shortLabel NonN
+shortLabel NonN-VLMC-Pia
 longLabel Vascular Leptomeningeal Cell mainly in Pia
 type bigWig
 visibility hide
@@ -1919,7 +1919,7 @@ compositeTrack on
     viewLimits 0:1
 
 track NonN-VLMC
-shortLabel NonN
+shortLabel NonN-VLMC
 longLabel Vascular Leptomeningeal Cell
 type bigWig
 visibility hide
