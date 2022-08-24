@@ -1,8 +1,8 @@
 genome hg19
-trackDb hg19/trackDb.txt
+trackDb trackDb_hg19.txt
 
 genome hg38
-trackDb hg38/trackDb.txt
+trackDb trackDb_hg38.txt
 
 genome mm10
-trackDb mm10/trackDb.txt
+trackDb trackDb_mm10.txt

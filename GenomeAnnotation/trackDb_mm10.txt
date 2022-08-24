@@ -1,5 +1,5 @@
 track WholeGenomeCpG
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/WholeGenome_CpG_mm10.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/mm10/WholeGenome_CpG_mm10.bb
 shortLabel Whole Genome CpG
 longLabel Whole Genome CpGs of in human genome mm10
 type bigBed
@@ -9,7 +9,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track commonPMD
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/PMD_coordinates_mm10.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/mm10/PMD_coordinates_mm10.bb
 shortLabel commonPMD
 longLabel Common PMD and HMD of human genome mm10
 type bigBed 6 +
@@ -22,7 +22,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track SoloWCGWCpG
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/solo_WCGW_cpg_mm10.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/mm10/solo_WCGW_cpg_mm10.bb
 shortLabel Solo-WCGW-CpGs
 longLabel Solo-WCGW CpGs
 type bigBed
@@ -32,7 +32,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track MouseArray
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/mouse_manifest_final_track.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/mm10/mouse_manifest_final_track.bb
 shortLabel Mouse Array
 longLabel Mouse Array
 type bigBed
@@ -42,7 +42,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track ICR_Wang2014
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/ICRDMR/mm10/20210526_Wang2014Cell_ICR_PMID24813617.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/mm10/20210526_Wang2014Cell_ICR_PMID24813617.bb
 shortLabel ICR_Wang2014
 longLabel ICR Wang et al. 2014 Cell PMID 24813617
 type bigBed
@@ -52,7 +52,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track ICR_Tomizawa2011
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/ICRDMR/mm10/20210526_Tomizawa2011Development_ICR_PMID21247965.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/mm10/20210526_Tomizawa2011Development_ICR_PMID21247965.bb
 shortLabel ICR_Tomizawa2011
 longLabel ICR Tomizawa et al. 2011 Development PMID 21247965
 type bigBed

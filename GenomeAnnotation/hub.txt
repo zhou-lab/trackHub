@@ -2,4 +2,4 @@ hub Genome Annotation
 shortLabel Genome Annotation
 longLabel Genome Annotation
 genomesFile genomes.txt
-email Wanding.Zhou@vai.org
+email wanding.zhou@pennmedicine.upenn.edu

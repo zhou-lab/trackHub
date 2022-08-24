@@ -1,5 +1,5 @@
 track WholeGenomeCpG
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/WholeGenome_CpG_hg19.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/hg19/WholeGenome_CpG_hg19.bb
 shortLabel Whole Genome CpG
 longLabel Whole Genome CpGs of in human genome hg19
 type bigBed
@@ -9,7 +9,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track commonPMD
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/PMD_coordinates_hg19.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/hg19/PMD_coordinates_hg19.bb
 shortLabel commonPMD
 longLabel Common PMD and HMD of human genome hg19
 type bigBed 6 +
@@ -22,7 +22,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track SoloWCGWCpG
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/solo_WCGW_cpg_hg19.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/hg19/solo_WCGW_cpg_hg19.bb
 shortLabel Solo-WCGW-CpGs
 longLabel Solo-WCGW CpGs
 type bigBed
@@ -32,7 +32,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track ModelCpGIsland
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/model-based-cpg-islands-hg19.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/hg19/model-based-cpg-islands-hg19.bb
 shortLabel Model-CGI
 longLabel Model-based CpG island definition hg19
 type bigBed
@@ -42,7 +42,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track NCBIStrictCpGIsland_TJ2003
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/takai.jones.strict.500bpwindow.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/hg19/takai.jones.strict.500bpwindow.bb
 shortLabel NCBI-strict-CGI
 longLabel NCBI-strict CpG island definition hg19
 type bigBed
@@ -52,7 +52,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track NCBIRelaxedCpGIsland_TJ2003
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/takai.jones.relaxed.200bpwindow.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/hg19/takai.jones.relaxed.200bpwindow.bb
 shortLabel NCBI-relaxed-CGI
 longLabel NCBI-relaxed CpG island definition hg19
 type bigBed
@@ -62,7 +62,7 @@ maxHeightPixels 128:25:10
 priority 1
 
 track InfiniumEPIC
-bigDataUrl https://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/EPIC.hg19.manifest.bb
+bigDataUrl https://zhouserver.research.chop.edu/GenomeAnnotation/hg19/EPIC.hg19.manifest.bb
 shortLabel InfiniumEPIC
 longLabel Infinium Human DNA Methylation EPIC array
 type bigBed
