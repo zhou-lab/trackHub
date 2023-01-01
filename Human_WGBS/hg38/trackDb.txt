@@ -18,3 +18,2997 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
+
+track Adipocytes
+type bigWig
+shortLabel Adipocytes
+longLabel Adipocytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652176_Adipocytes.Z000000T7
+    type bigWig
+    shortLabel GSM5652176_Adipocytes.Z000000T7
+    longLabel GSM5652176_Adipocytes.Z000000T7
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652176_Adipocytes.Z000000T7.hg38.bigwig
+    parent Adipocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652177_Adipocytes.Z000000T9
+    type bigWig
+    shortLabel GSM5652177_Adipocytes.Z000000T9
+    longLabel GSM5652177_Adipocytes.Z000000T9
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652177_Adipocytes.Z000000T9.hg38.bigwig
+    parent Adipocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652178_Adipocytes.Z000000T5
+    type bigWig
+    shortLabel GSM5652178_Adipocytes.Z000000T5
+    longLabel GSM5652178_Adipocytes.Z000000T5
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652178_Adipocytes.Z000000T5.hg38.bigwig
+    parent Adipocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Aorta.Endothel
+type bigWig
+shortLabel Aorta.Endothel
+longLabel Aorta.Endothel
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652179_Aorta.Endothel.Z00000422
+    type bigWig
+    shortLabel GSM5652179_Aorta.Endothel.Z00000422
+    longLabel GSM5652179_Aorta.Endothel.Z00000422
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652179_Aorta.Endothel.Z00000422.hg38.bigwig
+    parent Aorta.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652180_Aorta.Endothel.Z0000043G
+    type bigWig
+    shortLabel GSM5652180_Aorta.Endothel.Z0000043G
+    longLabel GSM5652180_Aorta.Endothel.Z0000043G
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652180_Aorta.Endothel.Z0000043G.hg38.bigwig
+    parent Aorta.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Aorta.Smooth.Muscle
+type bigWig
+shortLabel Aorta.Smooth.Muscle
+longLabel Aorta.Smooth.Muscle
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652207_Aorta.Smooth.Muscle.Z0000041U
+    type bigWig
+    shortLabel GSM5652207_Aorta.Smooth.Muscle.Z0000041U
+    longLabel GSM5652207_Aorta.Smooth.Muscle.Z0000041U
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652207_Aorta.Smooth.Muscle.Z0000041U.hg38.bigwig
+    parent Aorta.Smooth.Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Bladder.Epithelial
+type bigWig
+shortLabel Bladder.Epithelial
+longLabel Bladder.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652342_Bladder.Epithelial.Z000000QM
+    type bigWig
+    shortLabel GSM5652342_Bladder.Epithelial.Z000000QM
+    longLabel GSM5652342_Bladder.Epithelial.Z000000QM
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652342_Bladder.Epithelial.Z000000QM.hg38.bigwig
+    parent Bladder.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652343_Bladder.Epithelial.Z000000QP
+    type bigWig
+    shortLabel GSM5652343_Bladder.Epithelial.Z000000QP
+    longLabel GSM5652343_Bladder.Epithelial.Z000000QP
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652343_Bladder.Epithelial.Z000000QP.hg38.bigwig
+    parent Bladder.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652344_Bladder.Epithelial.Z0000043F
+    type bigWig
+    shortLabel GSM5652344_Bladder.Epithelial.Z0000043F
+    longLabel GSM5652344_Bladder.Epithelial.Z0000043F
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652344_Bladder.Epithelial.Z0000043F.hg38.bigwig
+    parent Bladder.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652345_Bladder.Epithelial.Z0000044L
+    type bigWig
+    shortLabel GSM5652345_Bladder.Epithelial.Z0000044L
+    longLabel GSM5652345_Bladder.Epithelial.Z0000044L
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652345_Bladder.Epithelial.Z0000044L.hg38.bigwig
+    parent Bladder.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652346_Bladder.Epithelial.Z00000450
+    type bigWig
+    shortLabel GSM5652346_Bladder.Epithelial.Z00000450
+    longLabel GSM5652346_Bladder.Epithelial.Z00000450
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652346_Bladder.Epithelial.Z00000450.hg38.bigwig
+    parent Bladder.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Bladder.Smooth.Muscle
+type bigWig
+shortLabel Bladder.Smooth.Muscle
+longLabel Bladder.Smooth.Muscle
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652209_Bladder.Smooth.Muscle.Z0000041Z
+    type bigWig
+    shortLabel GSM5652209_Bladder.Smooth.Muscle.Z0000041Z
+    longLabel GSM5652209_Bladder.Smooth.Muscle.Z0000041Z
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652209_Bladder.Smooth.Muscle.Z0000041Z.hg38.bigwig
+    parent Bladder.Smooth.Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.B
+type bigWig
+shortLabel Blood.B
+longLabel Blood.B
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652316_Blood.B.Z000000TX
+    type bigWig
+    shortLabel GSM5652316_Blood.B.Z000000TX
+    longLabel GSM5652316_Blood.B.Z000000TX
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652316_Blood.B.Z000000TX.hg38.bigwig
+    parent Blood.B on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652317_Blood.B.Z000000UB
+    type bigWig
+    shortLabel GSM5652317_Blood.B.Z000000UB
+    longLabel GSM5652317_Blood.B.Z000000UB
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652317_Blood.B.Z000000UB.hg38.bigwig
+    parent Blood.B on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652318_Blood.B.Z000000UR
+    type bigWig
+    shortLabel GSM5652318_Blood.B.Z000000UR
+    longLabel GSM5652318_Blood.B.Z000000UR
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652318_Blood.B.Z000000UR.hg38.bigwig
+    parent Blood.B on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.B.Mem
+type bigWig
+shortLabel Blood.B.Mem
+longLabel Blood.B.Mem
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652319_Blood.B.Mem.Z0000041J
+    type bigWig
+    shortLabel GSM5652319_Blood.B.Mem.Z0000041J
+    longLabel GSM5652319_Blood.B.Mem.Z0000041J
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652319_Blood.B.Mem.Z0000041J.hg38.bigwig
+    parent Blood.B.Mem on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652320_Blood.B.Mem.Z0000041K
+    type bigWig
+    shortLabel GSM5652320_Blood.B.Mem.Z0000041K
+    longLabel GSM5652320_Blood.B.Mem.Z0000041K
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652320_Blood.B.Mem.Z0000041K.hg38.bigwig
+    parent Blood.B.Mem on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.Granulocytes
+type bigWig
+shortLabel Blood.Granulocytes
+longLabel Blood.Granulocytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652313_Blood.Granulocytes.Z000000TZ
+    type bigWig
+    shortLabel GSM5652313_Blood.Granulocytes.Z000000TZ
+    longLabel GSM5652313_Blood.Granulocytes.Z000000TZ
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652313_Blood.Granulocytes.Z000000TZ.hg38.bigwig
+    parent Blood.Granulocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652314_Blood.Granulocytes.Z000000UD
+    type bigWig
+    shortLabel GSM5652314_Blood.Granulocytes.Z000000UD
+    longLabel GSM5652314_Blood.Granulocytes.Z000000UD
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652314_Blood.Granulocytes.Z000000UD.hg38.bigwig
+    parent Blood.Granulocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652315_Blood.Granulocytes.Z000000UT
+    type bigWig
+    shortLabel GSM5652315_Blood.Granulocytes.Z000000UT
+    longLabel GSM5652315_Blood.Granulocytes.Z000000UT
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652315_Blood.Granulocytes.Z000000UT.hg38.bigwig
+    parent Blood.Granulocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.Monocytes
+type bigWig
+shortLabel Blood.Monocytes
+longLabel Blood.Monocytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652302_Blood.Monocytes.Z000000TP
+    type bigWig
+    shortLabel GSM5652302_Blood.Monocytes.Z000000TP
+    longLabel GSM5652302_Blood.Monocytes.Z000000TP
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652302_Blood.Monocytes.Z000000TP.hg38.bigwig
+    parent Blood.Monocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652303_Blood.Monocytes.Z000000U3
+    type bigWig
+    shortLabel GSM5652303_Blood.Monocytes.Z000000U3
+    longLabel GSM5652303_Blood.Monocytes.Z000000U3
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652303_Blood.Monocytes.Z000000U3.hg38.bigwig
+    parent Blood.Monocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652304_Blood.Monocytes.Z000000UH
+    type bigWig
+    shortLabel GSM5652304_Blood.Monocytes.Z000000UH
+    longLabel GSM5652304_Blood.Monocytes.Z000000UH
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652304_Blood.Monocytes.Z000000UH.hg38.bigwig
+    parent Blood.Monocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.NK
+type bigWig
+shortLabel Blood.NK
+longLabel Blood.NK
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652299_Blood.NK.Z000000TM
+    type bigWig
+    shortLabel GSM5652299_Blood.NK.Z000000TM
+    longLabel GSM5652299_Blood.NK.Z000000TM
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652299_Blood.NK.Z000000TM.hg38.bigwig
+    parent Blood.NK on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652300_Blood.NK.Z000000U1
+    type bigWig
+    shortLabel GSM5652300_Blood.NK.Z000000U1
+    longLabel GSM5652300_Blood.NK.Z000000U1
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652300_Blood.NK.Z000000U1.hg38.bigwig
+    parent Blood.NK on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652301_Blood.NK.Z000000UF
+    type bigWig
+    shortLabel GSM5652301_Blood.NK.Z000000UF
+    longLabel GSM5652301_Blood.NK.Z000000UF
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652301_Blood.NK.Z000000UF.hg38.bigwig
+    parent Blood.NK on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.CD3
+type bigWig
+shortLabel Blood.T.CD3
+longLabel Blood.T.CD3
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652277_Blood.T.CD3.Z000000TV
+    type bigWig
+    shortLabel GSM5652277_Blood.T.CD3.Z000000TV
+    longLabel GSM5652277_Blood.T.CD3.Z000000TV
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652277_Blood.T.CD3.Z000000TV.hg38.bigwig
+    parent Blood.T.CD3 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652278_Blood.T.CD3.Z000000UP
+    type bigWig
+    shortLabel GSM5652278_Blood.T.CD3.Z000000UP
+    longLabel GSM5652278_Blood.T.CD3.Z000000UP
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652278_Blood.T.CD3.Z000000UP.hg38.bigwig
+    parent Blood.T.CD3 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.CD4
+type bigWig
+shortLabel Blood.T.CD4
+longLabel Blood.T.CD4
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652279_Blood.T.CD4.Z000000TT
+    type bigWig
+    shortLabel GSM5652279_Blood.T.CD4.Z000000TT
+    longLabel GSM5652279_Blood.T.CD4.Z000000TT
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652279_Blood.T.CD4.Z000000TT.hg38.bigwig
+    parent Blood.T.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652280_Blood.T.CD4.Z000000U7
+    type bigWig
+    shortLabel GSM5652280_Blood.T.CD4.Z000000U7
+    longLabel GSM5652280_Blood.T.CD4.Z000000U7
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652280_Blood.T.CD4.Z000000U7.hg38.bigwig
+    parent Blood.T.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652281_Blood.T.CD4.Z000000UM
+    type bigWig
+    shortLabel GSM5652281_Blood.T.CD4.Z000000UM
+    longLabel GSM5652281_Blood.T.CD4.Z000000UM
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652281_Blood.T.CD4.Z000000UM.hg38.bigwig
+    parent Blood.T.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.CD8
+type bigWig
+shortLabel Blood.T.CD8
+longLabel Blood.T.CD8
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652282_Blood.T.CD8.Z000000TR
+    type bigWig
+    shortLabel GSM5652282_Blood.T.CD8.Z000000TR
+    longLabel GSM5652282_Blood.T.CD8.Z000000TR
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652282_Blood.T.CD8.Z000000TR.hg38.bigwig
+    parent Blood.T.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652283_Blood.T.CD8.Z000000U5
+    type bigWig
+    shortLabel GSM5652283_Blood.T.CD8.Z000000U5
+    longLabel GSM5652283_Blood.T.CD8.Z000000U5
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652283_Blood.T.CD8.Z000000U5.hg38.bigwig
+    parent Blood.T.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652284_Blood.T.CD8.Z000000UK
+    type bigWig
+    shortLabel GSM5652284_Blood.T.CD8.Z000000UK
+    longLabel GSM5652284_Blood.T.CD8.Z000000UK
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652284_Blood.T.CD8.Z000000UK.hg38.bigwig
+    parent Blood.T.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.CenMem.CD4
+type bigWig
+shortLabel Blood.T.CenMem.CD4
+longLabel Blood.T.CenMem.CD4
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652285_Blood.T.CenMem.CD4.Z00000417
+    type bigWig
+    shortLabel GSM5652285_Blood.T.CenMem.CD4.Z00000417
+    longLabel GSM5652285_Blood.T.CenMem.CD4.Z00000417
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652285_Blood.T.CenMem.CD4.Z00000417.hg38.bigwig
+    parent Blood.T.CenMem.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652286_Blood.T.CenMem.CD4.Z0000041D
+    type bigWig
+    shortLabel GSM5652286_Blood.T.CenMem.CD4.Z0000041D
+    longLabel GSM5652286_Blood.T.CenMem.CD4.Z0000041D
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652286_Blood.T.CenMem.CD4.Z0000041D.hg38.bigwig
+    parent Blood.T.CenMem.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652287_Blood.T.CenMem.CD4.Z0000041N
+    type bigWig
+    shortLabel GSM5652287_Blood.T.CenMem.CD4.Z0000041N
+    longLabel GSM5652287_Blood.T.CenMem.CD4.Z0000041N
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652287_Blood.T.CenMem.CD4.Z0000041N.hg38.bigwig
+    parent Blood.T.CenMem.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.Eff.CD8
+type bigWig
+shortLabel Blood.T.Eff.CD8
+longLabel Blood.T.Eff.CD8
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652288_Blood.T.Eff.CD8.Z00000419
+    type bigWig
+    shortLabel GSM5652288_Blood.T.Eff.CD8.Z00000419
+    longLabel GSM5652288_Blood.T.Eff.CD8.Z00000419
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652288_Blood.T.Eff.CD8.Z00000419.hg38.bigwig
+    parent Blood.T.Eff.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652289_Blood.T.Eff.CD8.Z0000041F
+    type bigWig
+    shortLabel GSM5652289_Blood.T.Eff.CD8.Z0000041F
+    longLabel GSM5652289_Blood.T.Eff.CD8.Z0000041F
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652289_Blood.T.Eff.CD8.Z0000041F.hg38.bigwig
+    parent Blood.T.Eff.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652290_Blood.T.Eff.CD8.Z0000041Q
+    type bigWig
+    shortLabel GSM5652290_Blood.T.Eff.CD8.Z0000041Q
+    longLabel GSM5652290_Blood.T.Eff.CD8.Z0000041Q
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652290_Blood.T.Eff.CD8.Z0000041Q.hg38.bigwig
+    parent Blood.T.Eff.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.EffMem.CD4
+type bigWig
+shortLabel Blood.T.EffMem.CD4
+longLabel Blood.T.EffMem.CD4
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652291_Blood.T.EffMem.CD4.Z00000416
+    type bigWig
+    shortLabel GSM5652291_Blood.T.EffMem.CD4.Z00000416
+    longLabel GSM5652291_Blood.T.EffMem.CD4.Z00000416
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652291_Blood.T.EffMem.CD4.Z00000416.hg38.bigwig
+    parent Blood.T.EffMem.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652292_Blood.T.EffMem.CD4.Z0000041C
+    type bigWig
+    shortLabel GSM5652292_Blood.T.EffMem.CD4.Z0000041C
+    longLabel GSM5652292_Blood.T.EffMem.CD4.Z0000041C
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652292_Blood.T.EffMem.CD4.Z0000041C.hg38.bigwig
+    parent Blood.T.EffMem.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652293_Blood.T.EffMem.CD4.Z0000041M
+    type bigWig
+    shortLabel GSM5652293_Blood.T.EffMem.CD4.Z0000041M
+    longLabel GSM5652293_Blood.T.EffMem.CD4.Z0000041M
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652293_Blood.T.EffMem.CD4.Z0000041M.hg38.bigwig
+    parent Blood.T.EffMem.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.EffMem.CD8
+type bigWig
+shortLabel Blood.T.EffMem.CD8
+longLabel Blood.T.EffMem.CD8
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652294_Blood.T.EffMem.CD8.Z0000041A
+    type bigWig
+    shortLabel GSM5652294_Blood.T.EffMem.CD8.Z0000041A
+    longLabel GSM5652294_Blood.T.EffMem.CD8.Z0000041A
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652294_Blood.T.EffMem.CD8.Z0000041A.hg38.bigwig
+    parent Blood.T.EffMem.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652295_Blood.T.EffMem.CD8.Z0000041G
+    type bigWig
+    shortLabel GSM5652295_Blood.T.EffMem.CD8.Z0000041G
+    longLabel GSM5652295_Blood.T.EffMem.CD8.Z0000041G
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652295_Blood.T.EffMem.CD8.Z0000041G.hg38.bigwig
+    parent Blood.T.EffMem.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.Naive.CD4
+type bigWig
+shortLabel Blood.T.Naive.CD4
+longLabel Blood.T.Naive.CD4
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652296_Blood.T.Naive.CD4.Z0000041E
+    type bigWig
+    shortLabel GSM5652296_Blood.T.Naive.CD4.Z0000041E
+    longLabel GSM5652296_Blood.T.Naive.CD4.Z0000041E
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652296_Blood.T.Naive.CD4.Z0000041E.hg38.bigwig
+    parent Blood.T.Naive.CD4 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Blood.T.Naive.CD8
+type bigWig
+shortLabel Blood.T.Naive.CD8
+longLabel Blood.T.Naive.CD8
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652297_Blood.T.Naive.CD8.Z0000041B
+    type bigWig
+    shortLabel GSM5652297_Blood.T.Naive.CD8.Z0000041B
+    longLabel GSM5652297_Blood.T.Naive.CD8.Z0000041B
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652297_Blood.T.Naive.CD8.Z0000041B.hg38.bigwig
+    parent Blood.T.Naive.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652298_Blood.T.Naive.CD8.Z0000041H
+    type bigWig
+    shortLabel GSM5652298_Blood.T.Naive.CD8.Z0000041H
+    longLabel GSM5652298_Blood.T.Naive.CD8.Z0000041H
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652298_Blood.T.Naive.CD8.Z0000041H.hg38.bigwig
+    parent Blood.T.Naive.CD8 on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Bone.Osteoblasts
+type bigWig
+shortLabel Bone.Osteoblasts
+longLabel Bone.Osteoblasts
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652218_Bone.Osteoblasts.Z0000042Z
+    type bigWig
+    shortLabel GSM5652218_Bone.Osteoblasts.Z0000042Z
+    longLabel GSM5652218_Bone.Osteoblasts.Z0000042Z
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652218_Bone.Osteoblasts.Z0000042Z.hg38.bigwig
+    parent Bone.Osteoblasts on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Bone_marrow.Erythrocyte_progenitors
+type bigWig
+shortLabel Bone_marrow.Erythrocyte_progenitors
+longLabel Bone_marrow.Erythrocyte_progenitors
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652274_Bone_marrow.Erythrocyte_progenitors.Z000000RF
+    type bigWig
+    shortLabel GSM5652274_Bone_marrow.Erythrocyte_progenitors.Z000000RF
+    longLabel GSM5652274_Bone_marrow.Erythrocyte_progenitors.Z000000RF
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652274_Bone_marrow.Erythrocyte_progenitors.Z000000RF.hg38.bigwig
+    parent Bone_marrow.Erythrocyte_progenitors on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652275_Bone_marrow.Erythrocyte_progenitors.Z000000RH
+    type bigWig
+    shortLabel GSM5652275_Bone_marrow.Erythrocyte_progenitors.Z000000RH
+    longLabel GSM5652275_Bone_marrow.Erythrocyte_progenitors.Z000000RH
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652275_Bone_marrow.Erythrocyte_progenitors.Z000000RH.hg38.bigwig
+    parent Bone_marrow.Erythrocyte_progenitors on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652276_Bone_marrow.Erythrocyte_progenitors.Z000000RK
+    type bigWig
+    shortLabel GSM5652276_Bone_marrow.Erythrocyte_progenitors.Z000000RK
+    longLabel GSM5652276_Bone_marrow.Erythrocyte_progenitors.Z000000RK
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652276_Bone_marrow.Erythrocyte_progenitors.Z000000RK.hg38.bigwig
+    parent Bone_marrow.Erythrocyte_progenitors on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Breast.Basal.Epithelial
+type bigWig
+shortLabel Breast.Basal.Epithelial
+longLabel Breast.Basal.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652350_Breast.Basal.Epithelial.Z000000V6
+    type bigWig
+    shortLabel GSM5652350_Breast.Basal.Epithelial.Z000000V6
+    longLabel GSM5652350_Breast.Basal.Epithelial.Z000000V6
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652350_Breast.Basal.Epithelial.Z000000V6.hg38.bigwig
+    parent Breast.Basal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652351_Breast.Basal.Epithelial.Z000000VG
+    type bigWig
+    shortLabel GSM5652351_Breast.Basal.Epithelial.Z000000VG
+    longLabel GSM5652351_Breast.Basal.Epithelial.Z000000VG
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652351_Breast.Basal.Epithelial.Z000000VG.hg38.bigwig
+    parent Breast.Basal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652352_Breast.Basal.Epithelial.Z000000VL
+    type bigWig
+    shortLabel GSM5652352_Breast.Basal.Epithelial.Z000000VL
+    longLabel GSM5652352_Breast.Basal.Epithelial.Z000000VL
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652352_Breast.Basal.Epithelial.Z000000VL.hg38.bigwig
+    parent Breast.Basal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652353_Breast.Basal.Epithelial.Z0000043E
+    type bigWig
+    shortLabel GSM5652353_Breast.Basal.Epithelial.Z0000043E
+    longLabel GSM5652353_Breast.Basal.Epithelial.Z0000043E
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652353_Breast.Basal.Epithelial.Z0000043E.hg38.bigwig
+    parent Breast.Basal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Breast.Luminal.Epithelial
+type bigWig
+shortLabel Breast.Luminal.Epithelial
+longLabel Breast.Luminal.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652347_Breast.Luminal.Epithelial.Z000000V2
+    type bigWig
+    shortLabel GSM5652347_Breast.Luminal.Epithelial.Z000000V2
+    longLabel GSM5652347_Breast.Luminal.Epithelial.Z000000V2
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652347_Breast.Luminal.Epithelial.Z000000V2.hg38.bigwig
+    parent Breast.Luminal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652348_Breast.Luminal.Epithelial.Z000000VJ
+    type bigWig
+    shortLabel GSM5652348_Breast.Luminal.Epithelial.Z000000VJ
+    longLabel GSM5652348_Breast.Luminal.Epithelial.Z000000VJ
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652348_Breast.Luminal.Epithelial.Z000000VJ.hg38.bigwig
+    parent Breast.Luminal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652349_Breast.Luminal.Epithelial.Z000000VN
+    type bigWig
+    shortLabel GSM5652349_Breast.Luminal.Epithelial.Z000000VN
+    longLabel GSM5652349_Breast.Luminal.Epithelial.Z000000VN
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652349_Breast.Luminal.Epithelial.Z000000VN.hg38.bigwig
+    parent Breast.Luminal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track CellType_celltype
+type bigWig
+shortLabel CellType_celltype
+longLabel CellType_celltype
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track Sample_ID
+    type bigWig
+    shortLabel Sample_ID
+    longLabel Sample_ID
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/Sample_ID.hg38.bigwig
+    parent CellType_celltype on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Cerebellum.Neuron
+type bigWig
+shortLabel Cerebellum.Neuron
+longLabel Cerebellum.Neuron
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652231_Cerebellum.Neuron.Z000000TB
+    type bigWig
+    shortLabel GSM5652231_Cerebellum.Neuron.Z000000TB
+    longLabel GSM5652231_Cerebellum.Neuron.Z000000TB
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652231_Cerebellum.Neuron.Z000000TB.hg38.bigwig
+    parent Cerebellum.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Colon.Fibroblasts
+type bigWig
+shortLabel Colon.Fibroblasts
+longLabel Colon.Fibroblasts
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652198_Colon.Fibroblasts.Z0000042A
+    type bigWig
+    shortLabel GSM5652198_Colon.Fibroblasts.Z0000042A
+    longLabel GSM5652198_Colon.Fibroblasts.Z0000042A
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652198_Colon.Fibroblasts.Z0000042A.hg38.bigwig
+    parent Colon.Fibroblasts on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652199_Colon.Fibroblasts.Z0000042C
+    type bigWig
+    shortLabel GSM5652199_Colon.Fibroblasts.Z0000042C
+    longLabel GSM5652199_Colon.Fibroblasts.Z0000042C
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652199_Colon.Fibroblasts.Z0000042C.hg38.bigwig
+    parent Colon.Fibroblasts on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Colon.Left.Endocrine
+type bigWig
+shortLabel Colon.Left.Endocrine
+longLabel Colon.Left.Endocrine
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652374_Colon.Left.Endocrine.Z0000044J
+    type bigWig
+    shortLabel GSM5652374_Colon.Left.Endocrine.Z0000044J
+    longLabel GSM5652374_Colon.Left.Endocrine.Z0000044J
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652374_Colon.Left.Endocrine.Z0000044J.hg38.bigwig
+    parent Colon.Left.Endocrine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652375_Colon.Left.Endocrine.Z0000044T
+    type bigWig
+    shortLabel GSM5652375_Colon.Left.Endocrine.Z0000044T
+    longLabel GSM5652375_Colon.Left.Endocrine.Z0000044T
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652375_Colon.Left.Endocrine.Z0000044T.hg38.bigwig
+    parent Colon.Left.Endocrine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Colon.Left.Epithelial
+type bigWig
+shortLabel Colon.Left.Epithelial
+longLabel Colon.Left.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652373_Colon.Left.Epithelial.Z000000VA
+    type bigWig
+    shortLabel GSM5652373_Colon.Left.Epithelial.Z000000VA
+    longLabel GSM5652373_Colon.Left.Epithelial.Z000000VA
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652373_Colon.Left.Epithelial.Z000000VA.hg38.bigwig
+    parent Colon.Left.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652376_Colon.Left.Epithelial.Z0000043B
+    type bigWig
+    shortLabel GSM5652376_Colon.Left.Epithelial.Z0000043B
+    longLabel GSM5652376_Colon.Left.Epithelial.Z0000043B
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652376_Colon.Left.Epithelial.Z0000043B.hg38.bigwig
+    parent Colon.Left.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652377_Colon.Left.Epithelial.Z0000043C
+    type bigWig
+    shortLabel GSM5652377_Colon.Left.Epithelial.Z0000043C
+    longLabel GSM5652377_Colon.Left.Epithelial.Z0000043C
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652377_Colon.Left.Epithelial.Z0000043C.hg38.bigwig
+    parent Colon.Left.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Colon.Macrophages
+type bigWig
+shortLabel Colon.Macrophages
+longLabel Colon.Macrophages
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652305_Colon.Macrophages.Z00000444
+    type bigWig
+    shortLabel GSM5652305_Colon.Macrophages.Z00000444
+    longLabel GSM5652305_Colon.Macrophages.Z00000444
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652305_Colon.Macrophages.Z00000444.hg38.bigwig
+    parent Colon.Macrophages on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652306_Colon.Macrophages.Z00000446
+    type bigWig
+    shortLabel GSM5652306_Colon.Macrophages.Z00000446
+    longLabel GSM5652306_Colon.Macrophages.Z00000446
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652306_Colon.Macrophages.Z00000446.hg38.bigwig
+    parent Colon.Macrophages on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Colon.Right.Endocrine
+type bigWig
+shortLabel Colon.Right.Endocrine
+longLabel Colon.Right.Endocrine
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652372_Colon.Right.Endocrine.Z0000044S
+    type bigWig
+    shortLabel GSM5652372_Colon.Right.Endocrine.Z0000044S
+    longLabel GSM5652372_Colon.Right.Endocrine.Z0000044S
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652372_Colon.Right.Endocrine.Z0000044S.hg38.bigwig
+    parent Colon.Right.Endocrine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Colon.Right.Epithelial
+type bigWig
+shortLabel Colon.Right.Epithelial
+longLabel Colon.Right.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652370_Colon.Right.Epithelial.Z000000V0
+    type bigWig
+    shortLabel GSM5652370_Colon.Right.Epithelial.Z000000V0
+    longLabel GSM5652370_Colon.Right.Epithelial.Z000000V0
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652370_Colon.Right.Epithelial.Z000000V0.hg38.bigwig
+    parent Colon.Right.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652371_Colon.Right.Epithelial.Z000000V8
+    type bigWig
+    shortLabel GSM5652371_Colon.Right.Epithelial.Z000000V8
+    longLabel GSM5652371_Colon.Right.Epithelial.Z000000V8
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652371_Colon.Right.Epithelial.Z000000V8.hg38.bigwig
+    parent Colon.Right.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Coronary.Artery.Smooth.Muscle
+type bigWig
+shortLabel Coronary.Artery.Smooth.Muscle
+longLabel Coronary.Artery.Smooth.Muscle
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652208_Coronary.Artery.Smooth.Muscle.Z00000420
+    type bigWig
+    shortLabel GSM5652208_Coronary.Artery.Smooth.Muscle.Z00000420
+    longLabel GSM5652208_Coronary.Artery.Smooth.Muscle.Z00000420
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652208_Coronary.Artery.Smooth.Muscle.Z00000420.hg38.bigwig
+    parent Coronary.Artery.Smooth.Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Cortex.Neuron
+type bigWig
+shortLabel Cortex.Neuron
+longLabel Cortex.Neuron
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652223_Cortex.Neuron.Z000000TF
+    type bigWig
+    shortLabel GSM5652223_Cortex.Neuron.Z000000TF
+    longLabel GSM5652223_Cortex.Neuron.Z000000TF
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652223_Cortex.Neuron.Z000000TF.hg38.bigwig
+    parent Cortex.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652225_Cortex.Neuron.Z0000042F
+    type bigWig
+    shortLabel GSM5652225_Cortex.Neuron.Z0000042F
+    longLabel GSM5652225_Cortex.Neuron.Z0000042F
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652225_Cortex.Neuron.Z0000042F.hg38.bigwig
+    parent Cortex.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652226_Cortex.Neuron.Z0000042H
+    type bigWig
+    shortLabel GSM5652226_Cortex.Neuron.Z0000042H
+    longLabel GSM5652226_Cortex.Neuron.Z0000042H
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652226_Cortex.Neuron.Z0000042H.hg38.bigwig
+    parent Cortex.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652227_Cortex.Neuron.Z0000042J
+    type bigWig
+    shortLabel GSM5652227_Cortex.Neuron.Z0000042J
+    longLabel GSM5652227_Cortex.Neuron.Z0000042J
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652227_Cortex.Neuron.Z0000042J.hg38.bigwig
+    parent Cortex.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652228_Cortex.Neuron.Z0000042M
+    type bigWig
+    shortLabel GSM5652228_Cortex.Neuron.Z0000042M
+    longLabel GSM5652228_Cortex.Neuron.Z0000042M
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652228_Cortex.Neuron.Z0000042M.hg38.bigwig
+    parent Cortex.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652229_Cortex.Neuron.Z0000042P
+    type bigWig
+    shortLabel GSM5652229_Cortex.Neuron.Z0000042P
+    longLabel GSM5652229_Cortex.Neuron.Z0000042P
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652229_Cortex.Neuron.Z0000042P.hg38.bigwig
+    parent Cortex.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652230_Cortex.Neuron.Z0000042K
+    type bigWig
+    shortLabel GSM5652230_Cortex.Neuron.Z0000042K
+    longLabel GSM5652230_Cortex.Neuron.Z0000042K
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652230_Cortex.Neuron.Z0000042K.hg38.bigwig
+    parent Cortex.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652232_Cortex.Neuron.Z000000TD
+    type bigWig
+    shortLabel GSM5652232_Cortex.Neuron.Z000000TD
+    longLabel GSM5652232_Cortex.Neuron.Z000000TD
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652232_Cortex.Neuron.Z000000TD.hg38.bigwig
+    parent Cortex.Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Dermal.Fibroblasts
+type bigWig
+shortLabel Dermal.Fibroblasts
+longLabel Dermal.Fibroblasts
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652204_Dermal.Fibroblasts.Z00000423
+    type bigWig
+    shortLabel GSM5652204_Dermal.Fibroblasts.Z00000423
+    longLabel GSM5652204_Dermal.Fibroblasts.Z00000423
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652204_Dermal.Fibroblasts.Z00000423.hg38.bigwig
+    parent Dermal.Fibroblasts on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Endometrium.Epithelial
+type bigWig
+shortLabel Endometrium.Epithelial
+longLabel Endometrium.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652271_Endometrium.Epithelial.Z00000434
+    type bigWig
+    shortLabel GSM5652271_Endometrium.Epithelial.Z00000434
+    longLabel GSM5652271_Endometrium.Epithelial.Z00000434
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652271_Endometrium.Epithelial.Z00000434.hg38.bigwig
+    parent Endometrium.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652272_Endometrium.Epithelial.Z00000435
+    type bigWig
+    shortLabel GSM5652272_Endometrium.Epithelial.Z00000435
+    longLabel GSM5652272_Endometrium.Epithelial.Z00000435
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652272_Endometrium.Epithelial.Z00000435.hg38.bigwig
+    parent Endometrium.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652273_Endometrium.Epithelial.Z0000043S
+    type bigWig
+    shortLabel GSM5652273_Endometrium.Epithelial.Z0000043S
+    longLabel GSM5652273_Endometrium.Epithelial.Z0000043S
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652273_Endometrium.Epithelial.Z0000043S.hg38.bigwig
+    parent Endometrium.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Epidermal.Keratinocytes
+type bigWig
+shortLabel Epidermal.Keratinocytes
+longLabel Epidermal.Keratinocytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652321_Epidermal.Keratinocytes.Z00000424
+    type bigWig
+    shortLabel GSM5652321_Epidermal.Keratinocytes.Z00000424
+    longLabel GSM5652321_Epidermal.Keratinocytes.Z00000424
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652321_Epidermal.Keratinocytes.Z00000424.hg38.bigwig
+    parent Epidermal.Keratinocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Esophagus.Epithelial
+type bigWig
+shortLabel Esophagus.Epithelial
+longLabel Esophagus.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652332_Esophagus.Epithelial.Z000000PZ
+    type bigWig
+    shortLabel GSM5652332_Esophagus.Epithelial.Z000000PZ
+    longLabel GSM5652332_Esophagus.Epithelial.Z000000PZ
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652332_Esophagus.Epithelial.Z000000PZ.hg38.bigwig
+    parent Esophagus.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652333_Esophagus.Epithelial.Z00000426
+    type bigWig
+    shortLabel GSM5652333_Esophagus.Epithelial.Z00000426
+    longLabel GSM5652333_Esophagus.Epithelial.Z00000426
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652333_Esophagus.Epithelial.Z00000426.hg38.bigwig
+    parent Esophagus.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Fallopian.Epithelial
+type bigWig
+shortLabel Fallopian.Epithelial
+longLabel Fallopian.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652267_Fallopian.Epithelial.Z000000Q7
+    type bigWig
+    shortLabel GSM5652267_Fallopian.Epithelial.Z000000Q7
+    longLabel GSM5652267_Fallopian.Epithelial.Z000000Q7
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652267_Fallopian.Epithelial.Z000000Q7.hg38.bigwig
+    parent Fallopian.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652268_Fallopian.Epithelial.Z000000S9
+    type bigWig
+    shortLabel GSM5652268_Fallopian.Epithelial.Z000000S9
+    longLabel GSM5652268_Fallopian.Epithelial.Z000000S9
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652268_Fallopian.Epithelial.Z000000S9.hg38.bigwig
+    parent Fallopian.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652269_Fallopian.Epithelial.Z000000UV
+    type bigWig
+    shortLabel GSM5652269_Fallopian.Epithelial.Z000000UV
+    longLabel GSM5652269_Fallopian.Epithelial.Z000000UV
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652269_Fallopian.Epithelial.Z000000UV.hg38.bigwig
+    parent Fallopian.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Gallbladder.Epithelial
+type bigWig
+shortLabel Gallbladder.Epithelial
+longLabel Gallbladder.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652358_Gallbladder.Epithelial.Z00000432
+    type bigWig
+    shortLabel GSM5652358_Gallbladder.Epithelial.Z00000432
+    longLabel GSM5652358_Gallbladder.Epithelial.Z00000432
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652358_Gallbladder.Epithelial.Z00000432.hg38.bigwig
+    parent Gallbladder.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Gastric.antrum.Endocrine
+type bigWig
+shortLabel Gastric.antrum.Endocrine
+longLabel Gastric.antrum.Endocrine
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652368_Gastric.antrum.Endocrine.Z00000437
+    type bigWig
+    shortLabel GSM5652368_Gastric.antrum.Endocrine.Z00000437
+    longLabel GSM5652368_Gastric.antrum.Endocrine.Z00000437
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652368_Gastric.antrum.Endocrine.Z00000437.hg38.bigwig
+    parent Gastric.antrum.Endocrine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652369_Gastric.antrum.Endocrine.Z00000438
+    type bigWig
+    shortLabel GSM5652369_Gastric.antrum.Endocrine.Z00000438
+    longLabel GSM5652369_Gastric.antrum.Endocrine.Z00000438
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652369_Gastric.antrum.Endocrine.Z00000438.hg38.bigwig
+    parent Gastric.antrum.Endocrine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Gastric.antrum.Epithelial
+type bigWig
+shortLabel Gastric.antrum.Epithelial
+longLabel Gastric.antrum.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652365_Gastric.antrum.Epithelial.Z000000SF
+    type bigWig
+    shortLabel GSM5652365_Gastric.antrum.Epithelial.Z000000SF
+    longLabel GSM5652365_Gastric.antrum.Epithelial.Z000000SF
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652365_Gastric.antrum.Epithelial.Z000000SF.hg38.bigwig
+    parent Gastric.antrum.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652366_Gastric.antrum.Epithelial.Z000000SP
+    type bigWig
+    shortLabel GSM5652366_Gastric.antrum.Epithelial.Z000000SP
+    longLabel GSM5652366_Gastric.antrum.Epithelial.Z000000SP
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652366_Gastric.antrum.Epithelial.Z000000SP.hg38.bigwig
+    parent Gastric.antrum.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652367_Gastric.antrum.Epithelial.Z000000SR
+    type bigWig
+    shortLabel GSM5652367_Gastric.antrum.Epithelial.Z000000SR
+    longLabel GSM5652367_Gastric.antrum.Epithelial.Z000000SR
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652367_Gastric.antrum.Epithelial.Z000000SR.hg38.bigwig
+    parent Gastric.antrum.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Gastric.body.Epithelial
+type bigWig
+shortLabel Gastric.body.Epithelial
+longLabel Gastric.body.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652362_Gastric.body.Epithelial.Z000000SD
+    type bigWig
+    shortLabel GSM5652362_Gastric.body.Epithelial.Z000000SD
+    longLabel GSM5652362_Gastric.body.Epithelial.Z000000SD
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652362_Gastric.body.Epithelial.Z000000SD.hg38.bigwig
+    parent Gastric.body.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652363_Gastric.body.Epithelial.Z000000SM
+    type bigWig
+    shortLabel GSM5652363_Gastric.body.Epithelial.Z000000SM
+    longLabel GSM5652363_Gastric.body.Epithelial.Z000000SM
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652363_Gastric.body.Epithelial.Z000000SM.hg38.bigwig
+    parent Gastric.body.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652364_Gastric.body.Epithelial.Z000000ST
+    type bigWig
+    shortLabel GSM5652364_Gastric.body.Epithelial.Z000000ST
+    longLabel GSM5652364_Gastric.body.Epithelial.Z000000ST
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652364_Gastric.body.Epithelial.Z000000ST.hg38.bigwig
+    parent Gastric.body.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Gastric.fundus.Epithelial
+type bigWig
+shortLabel Gastric.fundus.Epithelial
+longLabel Gastric.fundus.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652359_Gastric.fundus.Epithelial.Z000000RX
+    type bigWig
+    shortLabel GSM5652359_Gastric.fundus.Epithelial.Z000000RX
+    longLabel GSM5652359_Gastric.fundus.Epithelial.Z000000RX
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652359_Gastric.fundus.Epithelial.Z000000RX.hg38.bigwig
+    parent Gastric.fundus.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652360_Gastric.fundus.Epithelial.Z000000SK
+    type bigWig
+    shortLabel GSM5652360_Gastric.fundus.Epithelial.Z000000SK
+    longLabel GSM5652360_Gastric.fundus.Epithelial.Z000000SK
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652360_Gastric.fundus.Epithelial.Z000000SK.hg38.bigwig
+    parent Gastric.fundus.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652361_Gastric.fundus.Epithelial.Z000000SV
+    type bigWig
+    shortLabel GSM5652361_Gastric.fundus.Epithelial.Z000000SV
+    longLabel GSM5652361_Gastric.fundus.Epithelial.Z000000SV
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652361_Gastric.fundus.Epithelial.Z000000SV.hg38.bigwig
+    parent Gastric.fundus.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Heart.Cardiomyocyte
+type bigWig
+shortLabel Heart.Cardiomyocyte
+longLabel Heart.Cardiomyocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652212_Heart.Cardiomyocyte.Z0000044G
+    type bigWig
+    shortLabel GSM5652212_Heart.Cardiomyocyte.Z0000044G
+    longLabel GSM5652212_Heart.Cardiomyocyte.Z0000044G
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652212_Heart.Cardiomyocyte.Z0000044G.hg38.bigwig
+    parent Heart.Cardiomyocyte on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652213_Heart.Cardiomyocyte.Z0000044K
+    type bigWig
+    shortLabel GSM5652213_Heart.Cardiomyocyte.Z0000044K
+    longLabel GSM5652213_Heart.Cardiomyocyte.Z0000044K
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652213_Heart.Cardiomyocyte.Z0000044K.hg38.bigwig
+    parent Heart.Cardiomyocyte on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652214_Heart.Cardiomyocyte.Z0000044N
+    type bigWig
+    shortLabel GSM5652214_Heart.Cardiomyocyte.Z0000044N
+    longLabel GSM5652214_Heart.Cardiomyocyte.Z0000044N
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652214_Heart.Cardiomyocyte.Z0000044N.hg38.bigwig
+    parent Heart.Cardiomyocyte on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652215_Heart.Cardiomyocyte.Z0000044P
+    type bigWig
+    shortLabel GSM5652215_Heart.Cardiomyocyte.Z0000044P
+    longLabel GSM5652215_Heart.Cardiomyocyte.Z0000044P
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652215_Heart.Cardiomyocyte.Z0000044P.hg38.bigwig
+    parent Heart.Cardiomyocyte on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652216_Heart.Cardiomyocyte.Z0000044Q
+    type bigWig
+    shortLabel GSM5652216_Heart.Cardiomyocyte.Z0000044Q
+    longLabel GSM5652216_Heart.Cardiomyocyte.Z0000044Q
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652216_Heart.Cardiomyocyte.Z0000044Q.hg38.bigwig
+    parent Heart.Cardiomyocyte on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652217_Heart.Cardiomyocyte.Z0000044R
+    type bigWig
+    shortLabel GSM5652217_Heart.Cardiomyocyte.Z0000044R
+    longLabel GSM5652217_Heart.Cardiomyocyte.Z0000044R
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652217_Heart.Cardiomyocyte.Z0000044R.hg38.bigwig
+    parent Heart.Cardiomyocyte on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Heart.Fibroblasts
+type bigWig
+shortLabel Heart.Fibroblasts
+longLabel Heart.Fibroblasts
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652200_Heart.Fibroblasts.Z0000043R
+    type bigWig
+    shortLabel GSM5652200_Heart.Fibroblasts.Z0000043R
+    longLabel GSM5652200_Heart.Fibroblasts.Z0000043R
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652200_Heart.Fibroblasts.Z0000043R.hg38.bigwig
+    parent Heart.Fibroblasts on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652201_Heart.Fibroblasts.Z0000041V
+    type bigWig
+    shortLabel GSM5652201_Heart.Fibroblasts.Z0000041V
+    longLabel GSM5652201_Heart.Fibroblasts.Z0000041V
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652201_Heart.Fibroblasts.Z0000041V.hg38.bigwig
+    parent Heart.Fibroblasts on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652202_Heart.Fibroblasts.Z0000041W
+    type bigWig
+    shortLabel GSM5652202_Heart.Fibroblasts.Z0000041W
+    longLabel GSM5652202_Heart.Fibroblasts.Z0000041W
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652202_Heart.Fibroblasts.Z0000041W.hg38.bigwig
+    parent Heart.Fibroblasts on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652203_Heart.Fibroblasts.Z0000041X
+    type bigWig
+    shortLabel GSM5652203_Heart.Fibroblasts.Z0000041X
+    longLabel GSM5652203_Heart.Fibroblasts.Z0000041X
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652203_Heart.Fibroblasts.Z0000041X.hg38.bigwig
+    parent Heart.Fibroblasts on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Kidney.Glomerular.Endothel
+type bigWig
+shortLabel Kidney.Glomerular.Endothel
+longLabel Kidney.Glomerular.Endothel
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652184_Kidney.Glomerular.Endothel.Z000000Q5
+    type bigWig
+    shortLabel GSM5652184_Kidney.Glomerular.Endothel.Z000000Q5
+    longLabel GSM5652184_Kidney.Glomerular.Endothel.Z000000Q5
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652184_Kidney.Glomerular.Endothel.Z000000Q5.hg38.bigwig
+    parent Kidney.Glomerular.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652185_Kidney.Glomerular.Endothel.Z00000443
+    type bigWig
+    shortLabel GSM5652185_Kidney.Glomerular.Endothel.Z00000443
+    longLabel GSM5652185_Kidney.Glomerular.Endothel.Z00000443
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652185_Kidney.Glomerular.Endothel.Z00000443.hg38.bigwig
+    parent Kidney.Glomerular.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652186_Kidney.Glomerular.Endothel.Z0000045J
+    type bigWig
+    shortLabel GSM5652186_Kidney.Glomerular.Endothel.Z0000045J
+    longLabel GSM5652186_Kidney.Glomerular.Endothel.Z0000045J
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652186_Kidney.Glomerular.Endothel.Z0000045J.hg38.bigwig
+    parent Kidney.Glomerular.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Kidney.Glomerular.Epithelial
+type bigWig
+shortLabel Kidney.Glomerular.Epithelial
+longLabel Kidney.Glomerular.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652256_Kidney.Glomerular.Epithelial.Z0000045K
+    type bigWig
+    shortLabel GSM5652256_Kidney.Glomerular.Epithelial.Z0000045K
+    longLabel GSM5652256_Kidney.Glomerular.Epithelial.Z0000045K
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652256_Kidney.Glomerular.Epithelial.Z0000045K.hg38.bigwig
+    parent Kidney.Glomerular.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652257_Kidney.Glomerular.Epithelial.Z0000045L
+    type bigWig
+    shortLabel GSM5652257_Kidney.Glomerular.Epithelial.Z0000045L
+    longLabel GSM5652257_Kidney.Glomerular.Epithelial.Z0000045L
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652257_Kidney.Glomerular.Epithelial.Z0000045L.hg38.bigwig
+    parent Kidney.Glomerular.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Kidney.Glomerular.Podocytes
+type bigWig
+shortLabel Kidney.Glomerular.Podocytes
+longLabel Kidney.Glomerular.Podocytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652261_Kidney.Glomerular.Podocytes.Z0000042W
+    type bigWig
+    shortLabel GSM5652261_Kidney.Glomerular.Podocytes.Z0000042W
+    longLabel GSM5652261_Kidney.Glomerular.Podocytes.Z0000042W
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652261_Kidney.Glomerular.Podocytes.Z0000042W.hg38.bigwig
+    parent Kidney.Glomerular.Podocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652262_Kidney.Glomerular.Podocytes.Z00000441
+    type bigWig
+    shortLabel GSM5652262_Kidney.Glomerular.Podocytes.Z00000441
+    longLabel GSM5652262_Kidney.Glomerular.Podocytes.Z00000441
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652262_Kidney.Glomerular.Podocytes.Z00000441.hg38.bigwig
+    parent Kidney.Glomerular.Podocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652263_Kidney.Glomerular.Podocytes.Z00000442
+    type bigWig
+    shortLabel GSM5652263_Kidney.Glomerular.Podocytes.Z00000442
+    longLabel GSM5652263_Kidney.Glomerular.Podocytes.Z00000442
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652263_Kidney.Glomerular.Podocytes.Z00000442.hg38.bigwig
+    parent Kidney.Glomerular.Podocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Kidney.Tubular.Endothel
+type bigWig
+shortLabel Kidney.Tubular.Endothel
+longLabel Kidney.Tubular.Endothel
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652187_Kidney.Tubular.Endothel.Z000000PX
+    type bigWig
+    shortLabel GSM5652187_Kidney.Tubular.Endothel.Z000000PX
+    longLabel GSM5652187_Kidney.Tubular.Endothel.Z000000PX
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652187_Kidney.Tubular.Endothel.Z000000PX.hg38.bigwig
+    parent Kidney.Tubular.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652188_Kidney.Tubular.Endothel.Z000000Q3
+    type bigWig
+    shortLabel GSM5652188_Kidney.Tubular.Endothel.Z000000Q3
+    longLabel GSM5652188_Kidney.Tubular.Endothel.Z000000Q3
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652188_Kidney.Tubular.Endothel.Z000000Q3.hg38.bigwig
+    parent Kidney.Tubular.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652189_Kidney.Tubular.Endothel.Z0000042R
+    type bigWig
+    shortLabel GSM5652189_Kidney.Tubular.Endothel.Z0000042R
+    longLabel GSM5652189_Kidney.Tubular.Endothel.Z0000042R
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652189_Kidney.Tubular.Endothel.Z0000042R.hg38.bigwig
+    parent Kidney.Tubular.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Kidney.Tubular.Epithelial
+type bigWig
+shortLabel Kidney.Tubular.Epithelial
+longLabel Kidney.Tubular.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652258_Kidney.Tubular.Epithelial.Z000000QH
+    type bigWig
+    shortLabel GSM5652258_Kidney.Tubular.Epithelial.Z000000QH
+    longLabel GSM5652258_Kidney.Tubular.Epithelial.Z000000QH
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652258_Kidney.Tubular.Epithelial.Z000000QH.hg38.bigwig
+    parent Kidney.Tubular.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652259_Kidney.Tubular.Epithelial.Z0000043Z
+    type bigWig
+    shortLabel GSM5652259_Kidney.Tubular.Epithelial.Z0000043Z
+    longLabel GSM5652259_Kidney.Tubular.Epithelial.Z0000043Z
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652259_Kidney.Tubular.Epithelial.Z0000043Z.hg38.bigwig
+    parent Kidney.Tubular.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652260_Kidney.Tubular.Epithelial.Z00000440
+    type bigWig
+    shortLabel GSM5652260_Kidney.Tubular.Epithelial.Z00000440
+    longLabel GSM5652260_Kidney.Tubular.Epithelial.Z00000440
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652260_Kidney.Tubular.Epithelial.Z00000440.hg38.bigwig
+    parent Kidney.Tubular.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Larynx.Epithelial
+type bigWig
+shortLabel Larynx.Epithelial
+longLabel Larynx.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652331_Larynx.Epithelial.Z000000QB
+    type bigWig
+    shortLabel GSM5652331_Larynx.Epithelial.Z000000QB
+    longLabel GSM5652331_Larynx.Epithelial.Z000000QB
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652331_Larynx.Epithelial.Z000000QB.hg38.bigwig
+    parent Larynx.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Liver.Endothelium
+type bigWig
+shortLabel Liver.Endothelium
+longLabel Liver.Endothelium
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652190_Liver.Endothelium.Z000000RB
+    type bigWig
+    shortLabel GSM5652190_Liver.Endothelium.Z000000RB
+    longLabel GSM5652190_Liver.Endothelium.Z000000RB
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652190_Liver.Endothelium.Z000000RB.hg38.bigwig
+    parent Liver.Endothelium on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Liver.Hepatocytes
+type bigWig
+shortLabel Liver.Hepatocytes
+longLabel Liver.Hepatocytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652233_Liver.Hepatocytes.Z000000R3
+    type bigWig
+    shortLabel GSM5652233_Liver.Hepatocytes.Z000000R3
+    longLabel GSM5652233_Liver.Hepatocytes.Z000000R3
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652233_Liver.Hepatocytes.Z000000R3.hg38.bigwig
+    parent Liver.Hepatocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652234_Liver.Hepatocytes.Z000000T3
+    type bigWig
+    shortLabel GSM5652234_Liver.Hepatocytes.Z000000T3
+    longLabel GSM5652234_Liver.Hepatocytes.Z000000T3
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652234_Liver.Hepatocytes.Z000000T3.hg38.bigwig
+    parent Liver.Hepatocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652235_Liver.Hepatocytes.Z0000043Q
+    type bigWig
+    shortLabel GSM5652235_Liver.Hepatocytes.Z0000043Q
+    longLabel GSM5652235_Liver.Hepatocytes.Z0000043Q
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652235_Liver.Hepatocytes.Z0000043Q.hg38.bigwig
+    parent Liver.Hepatocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652236_Liver.Hepatocytes.Z0000044H
+    type bigWig
+    shortLabel GSM5652236_Liver.Hepatocytes.Z0000044H
+    longLabel GSM5652236_Liver.Hepatocytes.Z0000044H
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652236_Liver.Hepatocytes.Z0000044H.hg38.bigwig
+    parent Liver.Hepatocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652237_Liver.Hepatocytes.Z0000044M
+    type bigWig
+    shortLabel GSM5652237_Liver.Hepatocytes.Z0000044M
+    longLabel GSM5652237_Liver.Hepatocytes.Z0000044M
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652237_Liver.Hepatocytes.Z0000044M.hg38.bigwig
+    parent Liver.Hepatocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652238_Liver.Hepatocytes.Z00000431
+    type bigWig
+    shortLabel GSM5652238_Liver.Hepatocytes.Z00000431
+    longLabel GSM5652238_Liver.Hepatocytes.Z00000431
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652238_Liver.Hepatocytes.Z00000431.hg38.bigwig
+    parent Liver.Hepatocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Liver.Macrophages
+type bigWig
+shortLabel Liver.Macrophages
+longLabel Liver.Macrophages
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652307_Liver.Macrophages.Z0000043P
+    type bigWig
+    shortLabel GSM5652307_Liver.Macrophages.Z0000043P
+    longLabel GSM5652307_Liver.Macrophages.Z0000043P
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652307_Liver.Macrophages.Z0000043P.hg38.bigwig
+    parent Liver.Macrophages on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Lung.Alveolar.Endothel
+type bigWig
+shortLabel Lung.Alveolar.Endothel
+longLabel Lung.Alveolar.Endothel
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652191_Lung.Alveolar.Endothel.Z000000Q1
+    type bigWig
+    shortLabel GSM5652191_Lung.Alveolar.Endothel.Z000000Q1
+    longLabel GSM5652191_Lung.Alveolar.Endothel.Z000000Q1
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652191_Lung.Alveolar.Endothel.Z000000Q1.hg38.bigwig
+    parent Lung.Alveolar.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652192_Lung.Alveolar.Endothel.Z000000QK
+    type bigWig
+    shortLabel GSM5652192_Lung.Alveolar.Endothel.Z000000QK
+    longLabel GSM5652192_Lung.Alveolar.Endothel.Z000000QK
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652192_Lung.Alveolar.Endothel.Z000000QK.hg38.bigwig
+    parent Lung.Alveolar.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652193_Lung.Alveolar.Endothel.Z0000045H
+    type bigWig
+    shortLabel GSM5652193_Lung.Alveolar.Endothel.Z0000045H
+    longLabel GSM5652193_Lung.Alveolar.Endothel.Z0000045H
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652193_Lung.Alveolar.Endothel.Z0000045H.hg38.bigwig
+    parent Lung.Alveolar.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Lung.Alveolar.Epithelial
+type bigWig
+shortLabel Lung.Alveolar.Epithelial
+longLabel Lung.Alveolar.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652354_Lung.Alveolar.Epithelial.Z000000T1
+    type bigWig
+    shortLabel GSM5652354_Lung.Alveolar.Epithelial.Z000000T1
+    longLabel GSM5652354_Lung.Alveolar.Epithelial.Z000000T1
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652354_Lung.Alveolar.Epithelial.Z000000T1.hg38.bigwig
+    parent Lung.Alveolar.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652355_Lung.Alveolar.Epithelial.Z000000VC
+    type bigWig
+    shortLabel GSM5652355_Lung.Alveolar.Epithelial.Z000000VC
+    longLabel GSM5652355_Lung.Alveolar.Epithelial.Z000000VC
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652355_Lung.Alveolar.Epithelial.Z000000VC.hg38.bigwig
+    parent Lung.Alveolar.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652356_Lung.Alveolar.Epithelial.Z000000VE
+    type bigWig
+    shortLabel GSM5652356_Lung.Alveolar.Epithelial.Z000000VE
+    longLabel GSM5652356_Lung.Alveolar.Epithelial.Z000000VE
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652356_Lung.Alveolar.Epithelial.Z000000VE.hg38.bigwig
+    parent Lung.Alveolar.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Lung.Alveolar.Macrophages
+type bigWig
+shortLabel Lung.Alveolar.Macrophages
+longLabel Lung.Alveolar.Macrophages
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652308_Lung.Alveolar.Macrophages.Z00000448
+    type bigWig
+    shortLabel GSM5652308_Lung.Alveolar.Macrophages.Z00000448
+    longLabel GSM5652308_Lung.Alveolar.Macrophages.Z00000448
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652308_Lung.Alveolar.Macrophages.Z00000448.hg38.bigwig
+    parent Lung.Alveolar.Macrophages on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652309_Lung.Alveolar.Macrophages.Z0000044C
+    type bigWig
+    shortLabel GSM5652309_Lung.Alveolar.Macrophages.Z0000044C
+    longLabel GSM5652309_Lung.Alveolar.Macrophages.Z0000044C
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652309_Lung.Alveolar.Macrophages.Z0000044C.hg38.bigwig
+    parent Lung.Alveolar.Macrophages on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Lung.Bronchus.Epithelial
+type bigWig
+shortLabel Lung.Bronchus.Epithelial
+longLabel Lung.Bronchus.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652335_Lung.Bronchus.Epithelial.Z000000QD
+    type bigWig
+    shortLabel GSM5652335_Lung.Bronchus.Epithelial.Z000000QD
+    longLabel GSM5652335_Lung.Bronchus.Epithelial.Z000000QD
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652335_Lung.Bronchus.Epithelial.Z000000QD.hg38.bigwig
+    parent Lung.Bronchus.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652336_Lung.Bronchus.Epithelial.Z000000RZ
+    type bigWig
+    shortLabel GSM5652336_Lung.Bronchus.Epithelial.Z000000RZ
+    longLabel GSM5652336_Lung.Bronchus.Epithelial.Z000000RZ
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652336_Lung.Bronchus.Epithelial.Z000000RZ.hg38.bigwig
+    parent Lung.Bronchus.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652337_Lung.Bronchus.Epithelial.Z000000S5
+    type bigWig
+    shortLabel GSM5652337_Lung.Bronchus.Epithelial.Z000000S5
+    longLabel GSM5652337_Lung.Bronchus.Epithelial.Z000000S5
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652337_Lung.Bronchus.Epithelial.Z000000S5.hg38.bigwig
+    parent Lung.Bronchus.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Lung.Bronchus.Smooth.Muscle
+type bigWig
+shortLabel Lung.Bronchus.Smooth.Muscle
+longLabel Lung.Bronchus.Smooth.Muscle
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652211_Lung.Bronchus.Smooth.Muscle.Z00000421
+    type bigWig
+    shortLabel GSM5652211_Lung.Bronchus.Smooth.Muscle.Z00000421
+    longLabel GSM5652211_Lung.Bronchus.Smooth.Muscle.Z00000421
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652211_Lung.Bronchus.Smooth.Muscle.Z00000421.hg38.bigwig
+    parent Lung.Bronchus.Smooth.Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Lung.Interstitial.Macrophages
+type bigWig
+shortLabel Lung.Interstitial.Macrophages
+longLabel Lung.Interstitial.Macrophages
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652310_Lung.Interstitial.Macrophages.Z00000447
+    type bigWig
+    shortLabel GSM5652310_Lung.Interstitial.Macrophages.Z00000447
+    longLabel GSM5652310_Lung.Interstitial.Macrophages.Z00000447
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652310_Lung.Interstitial.Macrophages.Z00000447.hg38.bigwig
+    parent Lung.Interstitial.Macrophages on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652311_Lung.Interstitial.Macrophages.Z0000044D
+    type bigWig
+    shortLabel GSM5652311_Lung.Interstitial.Macrophages.Z0000044D
+    longLabel GSM5652311_Lung.Interstitial.Macrophages.Z0000044D
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652311_Lung.Interstitial.Macrophages.Z0000044D.hg38.bigwig
+    parent Lung.Interstitial.Macrophages on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652312_Lung.Interstitial.Macrophages.Z0000044E
+    type bigWig
+    shortLabel GSM5652312_Lung.Interstitial.Macrophages.Z0000044E
+    longLabel GSM5652312_Lung.Interstitial.Macrophages.Z0000044E
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652312_Lung.Interstitial.Macrophages.Z0000044E.hg38.bigwig
+    parent Lung.Interstitial.Macrophages on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Lung.Pleura
+type bigWig
+shortLabel Lung.Pleura
+longLabel Lung.Pleura
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652357_Lung.Pleura.Z0000042B
+    type bigWig
+    shortLabel GSM5652357_Lung.Pleura.Z0000042B
+    longLabel GSM5652357_Lung.Pleura.Z0000042B
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652357_Lung.Pleura.Z0000042B.hg38.bigwig
+    parent Lung.Pleura on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Neuron
+type bigWig
+shortLabel Neuron
+longLabel Neuron
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652224_Neuron.Z000000TH
+    type bigWig
+    shortLabel GSM5652224_Neuron.Z000000TH
+    longLabel GSM5652224_Neuron.Z000000TH
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652224_Neuron.Z000000TH.hg38.bigwig
+    parent Neuron on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Oligodendrocytes
+type bigWig
+shortLabel Oligodendrocytes
+longLabel Oligodendrocytes
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652219_Oligodendrocytes.Z000000TK
+    type bigWig
+    shortLabel GSM5652219_Oligodendrocytes.Z000000TK
+    longLabel GSM5652219_Oligodendrocytes.Z000000TK
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652219_Oligodendrocytes.Z000000TK.hg38.bigwig
+    parent Oligodendrocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652220_Oligodendrocytes.Z0000042E
+    type bigWig
+    shortLabel GSM5652220_Oligodendrocytes.Z0000042E
+    longLabel GSM5652220_Oligodendrocytes.Z0000042E
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652220_Oligodendrocytes.Z0000042E.hg38.bigwig
+    parent Oligodendrocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652221_Oligodendrocytes.Z0000042L
+    type bigWig
+    shortLabel GSM5652221_Oligodendrocytes.Z0000042L
+    longLabel GSM5652221_Oligodendrocytes.Z0000042L
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652221_Oligodendrocytes.Z0000042L.hg38.bigwig
+    parent Oligodendrocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652222_Oligodendrocytes.Z0000042N
+    type bigWig
+    shortLabel GSM5652222_Oligodendrocytes.Z0000042N
+    longLabel GSM5652222_Oligodendrocytes.Z0000042N
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652222_Oligodendrocytes.Z0000042N.hg38.bigwig
+    parent Oligodendrocytes on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Ovary.Epithelial
+type bigWig
+shortLabel Ovary.Epithelial
+longLabel Ovary.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652270_Ovary.Epithelial.Z000000QT
+    type bigWig
+    shortLabel GSM5652270_Ovary.Epithelial.Z000000QT
+    longLabel GSM5652270_Ovary.Epithelial.Z000000QT
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652270_Ovary.Epithelial.Z000000QT.hg38.bigwig
+    parent Ovary.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Pancreas.Acinar
+type bigWig
+shortLabel Pancreas.Acinar
+longLabel Pancreas.Acinar
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652243_Pancreas.Acinar.Z000000QX
+    type bigWig
+    shortLabel GSM5652243_Pancreas.Acinar.Z000000QX
+    longLabel GSM5652243_Pancreas.Acinar.Z000000QX
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652243_Pancreas.Acinar.Z000000QX.hg38.bigwig
+    parent Pancreas.Acinar on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652244_Pancreas.Acinar.Z0000043W
+    type bigWig
+    shortLabel GSM5652244_Pancreas.Acinar.Z0000043W
+    longLabel GSM5652244_Pancreas.Acinar.Z0000043W
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652244_Pancreas.Acinar.Z0000043W.hg38.bigwig
+    parent Pancreas.Acinar on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652245_Pancreas.Acinar.Z0000043X
+    type bigWig
+    shortLabel GSM5652245_Pancreas.Acinar.Z0000043X
+    longLabel GSM5652245_Pancreas.Acinar.Z0000043X
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652245_Pancreas.Acinar.Z0000043X.hg38.bigwig
+    parent Pancreas.Acinar on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652246_Pancreas.Acinar.Z0000043Y
+    type bigWig
+    shortLabel GSM5652246_Pancreas.Acinar.Z0000043Y
+    longLabel GSM5652246_Pancreas.Acinar.Z0000043Y
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652246_Pancreas.Acinar.Z0000043Y.hg38.bigwig
+    parent Pancreas.Acinar on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Pancreas.Alpha
+type bigWig
+shortLabel Pancreas.Alpha
+longLabel Pancreas.Alpha
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652253_Pancreas.Alpha.Z00000453
+    type bigWig
+    shortLabel GSM5652253_Pancreas.Alpha.Z00000453
+    longLabel GSM5652253_Pancreas.Alpha.Z00000453
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652253_Pancreas.Alpha.Z00000453.hg38.bigwig
+    parent Pancreas.Alpha on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652254_Pancreas.Alpha.Z00000456
+    type bigWig
+    shortLabel GSM5652254_Pancreas.Alpha.Z00000456
+    longLabel GSM5652254_Pancreas.Alpha.Z00000456
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652254_Pancreas.Alpha.Z00000456.hg38.bigwig
+    parent Pancreas.Alpha on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652255_Pancreas.Alpha.Z00000459
+    type bigWig
+    shortLabel GSM5652255_Pancreas.Alpha.Z00000459
+    longLabel GSM5652255_Pancreas.Alpha.Z00000459
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652255_Pancreas.Alpha.Z00000459.hg38.bigwig
+    parent Pancreas.Alpha on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Pancreas.Beta
+type bigWig
+shortLabel Pancreas.Beta
+longLabel Pancreas.Beta
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652250_Pancreas.Beta.Z00000452
+    type bigWig
+    shortLabel GSM5652250_Pancreas.Beta.Z00000452
+    longLabel GSM5652250_Pancreas.Beta.Z00000452
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652250_Pancreas.Beta.Z00000452.hg38.bigwig
+    parent Pancreas.Beta on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652251_Pancreas.Beta.Z00000455
+    type bigWig
+    shortLabel GSM5652251_Pancreas.Beta.Z00000455
+    longLabel GSM5652251_Pancreas.Beta.Z00000455
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652251_Pancreas.Beta.Z00000455.hg38.bigwig
+    parent Pancreas.Beta on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652252_Pancreas.Beta.Z00000458
+    type bigWig
+    shortLabel GSM5652252_Pancreas.Beta.Z00000458
+    longLabel GSM5652252_Pancreas.Beta.Z00000458
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652252_Pancreas.Beta.Z00000458.hg38.bigwig
+    parent Pancreas.Beta on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Pancreas.Delta
+type bigWig
+shortLabel Pancreas.Delta
+longLabel Pancreas.Delta
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652247_Pancreas.Delta.Z00000451
+    type bigWig
+    shortLabel GSM5652247_Pancreas.Delta.Z00000451
+    longLabel GSM5652247_Pancreas.Delta.Z00000451
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652247_Pancreas.Delta.Z00000451.hg38.bigwig
+    parent Pancreas.Delta on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652248_Pancreas.Delta.Z00000454
+    type bigWig
+    shortLabel GSM5652248_Pancreas.Delta.Z00000454
+    longLabel GSM5652248_Pancreas.Delta.Z00000454
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652248_Pancreas.Delta.Z00000454.hg38.bigwig
+    parent Pancreas.Delta on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652249_Pancreas.Delta.Z00000457
+    type bigWig
+    shortLabel GSM5652249_Pancreas.Delta.Z00000457
+    longLabel GSM5652249_Pancreas.Delta.Z00000457
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652249_Pancreas.Delta.Z00000457.hg38.bigwig
+    parent Pancreas.Delta on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Pancreas.Duct
+type bigWig
+shortLabel Pancreas.Duct
+longLabel Pancreas.Duct
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652239_Pancreas.Duct.Z0000043T
+    type bigWig
+    shortLabel GSM5652239_Pancreas.Duct.Z0000043T
+    longLabel GSM5652239_Pancreas.Duct.Z0000043T
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652239_Pancreas.Duct.Z0000043T.hg38.bigwig
+    parent Pancreas.Duct on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652240_Pancreas.Duct.Z0000043U
+    type bigWig
+    shortLabel GSM5652240_Pancreas.Duct.Z0000043U
+    longLabel GSM5652240_Pancreas.Duct.Z0000043U
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652240_Pancreas.Duct.Z0000043U.hg38.bigwig
+    parent Pancreas.Duct on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652241_Pancreas.Duct.Z0000043V
+    type bigWig
+    shortLabel GSM5652241_Pancreas.Duct.Z0000043V
+    longLabel GSM5652241_Pancreas.Duct.Z0000043V
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652241_Pancreas.Duct.Z0000043V.hg38.bigwig
+    parent Pancreas.Duct on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652242_Pancreas.Duct.Z000000QZ
+    type bigWig
+    shortLabel GSM5652242_Pancreas.Duct.Z000000QZ
+    longLabel GSM5652242_Pancreas.Duct.Z000000QZ
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652242_Pancreas.Duct.Z000000QZ.hg38.bigwig
+    parent Pancreas.Duct on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Pancreas.Endothel
+type bigWig
+shortLabel Pancreas.Endothel
+longLabel Pancreas.Endothel
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652194_Pancreas.Endothel.Z0000042D
+    type bigWig
+    shortLabel GSM5652194_Pancreas.Endothel.Z0000042D
+    longLabel GSM5652194_Pancreas.Endothel.Z0000042D
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652194_Pancreas.Endothel.Z0000042D.hg38.bigwig
+    parent Pancreas.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652195_Pancreas.Endothel.Z0000042X
+    type bigWig
+    shortLabel GSM5652195_Pancreas.Endothel.Z0000042X
+    longLabel GSM5652195_Pancreas.Endothel.Z0000042X
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652195_Pancreas.Endothel.Z0000042X.hg38.bigwig
+    parent Pancreas.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652196_Pancreas.Endothel.Z00000430
+    type bigWig
+    shortLabel GSM5652196_Pancreas.Endothel.Z00000430
+    longLabel GSM5652196_Pancreas.Endothel.Z00000430
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652196_Pancreas.Endothel.Z00000430.hg38.bigwig
+    parent Pancreas.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Pancreas.Islet.Endothel
+type bigWig
+shortLabel Pancreas.Islet.Endothel
+longLabel Pancreas.Islet.Endothel
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652197_Pancreas.Islet.Endothel.Z0000042Y
+    type bigWig
+    shortLabel GSM5652197_Pancreas.Islet.Endothel.Z0000042Y
+    longLabel GSM5652197_Pancreas.Islet.Endothel.Z0000042Y
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652197_Pancreas.Islet.Endothel.Z0000042Y.hg38.bigwig
+    parent Pancreas.Islet.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Pharynx.Epithelial
+type bigWig
+shortLabel Pharynx.Epithelial
+longLabel Pharynx.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652334_Pharynx.Epithelial.Z0000044A
+    type bigWig
+    shortLabel GSM5652334_Pharynx.Epithelial.Z0000044A
+    longLabel GSM5652334_Pharynx.Epithelial.Z0000044A
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652334_Pharynx.Epithelial.Z0000044A.hg38.bigwig
+    parent Pharynx.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Prostate.Epithelial
+type bigWig
+shortLabel Prostate.Epithelial
+longLabel Prostate.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652338_Prostate.Epithelial.Z000000RV
+    type bigWig
+    shortLabel GSM5652338_Prostate.Epithelial.Z000000RV
+    longLabel GSM5652338_Prostate.Epithelial.Z000000RV
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652338_Prostate.Epithelial.Z000000RV.hg38.bigwig
+    parent Prostate.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652339_Prostate.Epithelial.Z000000S3
+    type bigWig
+    shortLabel GSM5652339_Prostate.Epithelial.Z000000S3
+    longLabel GSM5652339_Prostate.Epithelial.Z000000S3
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652339_Prostate.Epithelial.Z000000S3.hg38.bigwig
+    parent Prostate.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652340_Prostate.Epithelial.Z0000045F
+    type bigWig
+    shortLabel GSM5652340_Prostate.Epithelial.Z0000045F
+    longLabel GSM5652340_Prostate.Epithelial.Z0000045F
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652340_Prostate.Epithelial.Z0000045F.hg38.bigwig
+    parent Prostate.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652341_Prostate.Epithelial.Z0000045G
+    type bigWig
+    shortLabel GSM5652341_Prostate.Epithelial.Z0000045G
+    longLabel GSM5652341_Prostate.Epithelial.Z0000045G
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652341_Prostate.Epithelial.Z0000045G.hg38.bigwig
+    parent Prostate.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Prostate.Smooth.Muscle
+type bigWig
+shortLabel Prostate.Smooth.Muscle
+longLabel Prostate.Smooth.Muscle
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652210_Prostate.Smooth.Muscle.Z0000041Y
+    type bigWig
+    shortLabel GSM5652210_Prostate.Smooth.Muscle.Z0000041Y
+    longLabel GSM5652210_Prostate.Smooth.Muscle.Z0000041Y
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652210_Prostate.Smooth.Muscle.Z0000041Y.hg38.bigwig
+    parent Prostate.Smooth.Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Saphenous.Vein.Endothel
+type bigWig
+shortLabel Saphenous.Vein.Endothel
+longLabel Saphenous.Vein.Endothel
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652181_Saphenous.Vein.Endothel.Z000000RM
+    type bigWig
+    shortLabel GSM5652181_Saphenous.Vein.Endothel.Z000000RM
+    longLabel GSM5652181_Saphenous.Vein.Endothel.Z000000RM
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652181_Saphenous.Vein.Endothel.Z000000RM.hg38.bigwig
+    parent Saphenous.Vein.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652182_Saphenous.Vein.Endothel.Z000000S7
+    type bigWig
+    shortLabel GSM5652182_Saphenous.Vein.Endothel.Z000000S7
+    longLabel GSM5652182_Saphenous.Vein.Endothel.Z000000S7
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652182_Saphenous.Vein.Endothel.Z000000S7.hg38.bigwig
+    parent Saphenous.Vein.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652183_Saphenous.Vein.Endothel.Z000000SB
+    type bigWig
+    shortLabel GSM5652183_Saphenous.Vein.Endothel.Z000000SB
+    longLabel GSM5652183_Saphenous.Vein.Endothel.Z000000SB
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652183_Saphenous.Vein.Endothel.Z000000SB.hg38.bigwig
+    parent Saphenous.Vein.Endothel on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Skeletal.Muscle
+type bigWig
+shortLabel Skeletal.Muscle
+longLabel Skeletal.Muscle
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652205_Skeletal.Muscle.Z00000427
+    type bigWig
+    shortLabel GSM5652205_Skeletal.Muscle.Z00000427
+    longLabel GSM5652205_Skeletal.Muscle.Z00000427
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652205_Skeletal.Muscle.Z00000427.hg38.bigwig
+    parent Skeletal.Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652206_Skeletal.Muscle.Z00000429
+    type bigWig
+    shortLabel GSM5652206_Skeletal.Muscle.Z00000429
+    longLabel GSM5652206_Skeletal.Muscle.Z00000429
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652206_Skeletal.Muscle.Z00000429.hg38.bigwig
+    parent Skeletal.Muscle on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Small.int.Endocrine
+type bigWig
+shortLabel Small.int.Endocrine
+longLabel Small.int.Endocrine
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652382_Small.int.Endocrine.Z00000436
+    type bigWig
+    shortLabel GSM5652382_Small.int.Endocrine.Z00000436
+    longLabel GSM5652382_Small.int.Endocrine.Z00000436
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652382_Small.int.Endocrine.Z00000436.hg38.bigwig
+    parent Small.int.Endocrine on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Small.int.Epithelial
+type bigWig
+shortLabel Small.int.Epithelial
+longLabel Small.int.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652378_Small.int.Epithelial.Z0000042V
+    type bigWig
+    shortLabel GSM5652378_Small.int.Epithelial.Z0000042V
+    longLabel GSM5652378_Small.int.Epithelial.Z0000042V
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652378_Small.int.Epithelial.Z0000042V.hg38.bigwig
+    parent Small.int.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652379_Small.int.Epithelial.Z000000RT
+    type bigWig
+    shortLabel GSM5652379_Small.int.Epithelial.Z000000RT
+    longLabel GSM5652379_Small.int.Epithelial.Z000000RT
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652379_Small.int.Epithelial.Z000000RT.hg38.bigwig
+    parent Small.int.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652380_Small.int.Epithelial.Z000000UW
+    type bigWig
+    shortLabel GSM5652380_Small.int.Epithelial.Z000000UW
+    longLabel GSM5652380_Small.int.Epithelial.Z000000UW
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652380_Small.int.Epithelial.Z000000UW.hg38.bigwig
+    parent Small.int.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652381_Small.int.Epithelial.Z000000UY
+    type bigWig
+    shortLabel GSM5652381_Small.int.Epithelial.Z000000UY
+    longLabel GSM5652381_Small.int.Epithelial.Z000000UY
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652381_Small.int.Epithelial.Z000000UY.hg38.bigwig
+    parent Small.int.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Thyroid.Epithelial
+type bigWig
+shortLabel Thyroid.Epithelial
+longLabel Thyroid.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652264_Thyroid.Epithelial.Z0000042S
+    type bigWig
+    shortLabel GSM5652264_Thyroid.Epithelial.Z0000042S
+    longLabel GSM5652264_Thyroid.Epithelial.Z0000042S
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652264_Thyroid.Epithelial.Z0000042S.hg38.bigwig
+    parent Thyroid.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652265_Thyroid.Epithelial.Z0000042T
+    type bigWig
+    shortLabel GSM5652265_Thyroid.Epithelial.Z0000042T
+    longLabel GSM5652265_Thyroid.Epithelial.Z0000042T
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652265_Thyroid.Epithelial.Z0000042T.hg38.bigwig
+    parent Thyroid.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652266_Thyroid.Epithelial.Z0000042U
+    type bigWig
+    shortLabel GSM5652266_Thyroid.Epithelial.Z0000042U
+    longLabel GSM5652266_Thyroid.Epithelial.Z0000042U
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652266_Thyroid.Epithelial.Z0000042U.hg38.bigwig
+    parent Thyroid.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Tongue.Epithelial
+type bigWig
+shortLabel Tongue.Epithelial
+longLabel Tongue.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652327_Tongue.Epithelial.Z000000QV
+    type bigWig
+    shortLabel GSM5652327_Tongue.Epithelial.Z000000QV
+    longLabel GSM5652327_Tongue.Epithelial.Z000000QV
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652327_Tongue.Epithelial.Z000000QV.hg38.bigwig
+    parent Tongue.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652328_Tongue.Epithelial.Z00000449
+    type bigWig
+    shortLabel GSM5652328_Tongue.Epithelial.Z00000449
+    longLabel GSM5652328_Tongue.Epithelial.Z00000449
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652328_Tongue.Epithelial.Z00000449.hg38.bigwig
+    parent Tongue.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652329_Tongue.Epithelial.Z0000044F
+    type bigWig
+    shortLabel GSM5652329_Tongue.Epithelial.Z0000044F
+    longLabel GSM5652329_Tongue.Epithelial.Z0000044F
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652329_Tongue.Epithelial.Z0000044F.hg38.bigwig
+    parent Tongue.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Tongue_base.Epithelial
+type bigWig
+shortLabel Tongue_base.Epithelial
+longLabel Tongue_base.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652330_Tongue_base.Epithelial.Z0000044B
+    type bigWig
+    shortLabel GSM5652330_Tongue_base.Epithelial.Z0000044B
+    longLabel GSM5652330_Tongue_base.Epithelial.Z0000044B
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652330_Tongue_base.Epithelial.Z0000044B.hg38.bigwig
+    parent Tongue_base.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Tonsil.Palatine.Epithelial
+type bigWig
+shortLabel Tonsil.Palatine.Epithelial
+longLabel Tonsil.Palatine.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652322_Tonsil.Palatine.Epithelial.Z000000QF
+    type bigWig
+    shortLabel GSM5652322_Tonsil.Palatine.Epithelial.Z000000QF
+    longLabel GSM5652322_Tonsil.Palatine.Epithelial.Z000000QF
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652322_Tonsil.Palatine.Epithelial.Z000000QF.hg38.bigwig
+    parent Tonsil.Palatine.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652323_Tonsil.Palatine.Epithelial.Z000000RP
+    type bigWig
+    shortLabel GSM5652323_Tonsil.Palatine.Epithelial.Z000000RP
+    longLabel GSM5652323_Tonsil.Palatine.Epithelial.Z000000RP
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652323_Tonsil.Palatine.Epithelial.Z000000RP.hg38.bigwig
+    parent Tonsil.Palatine.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652324_Tonsil.Palatine.Epithelial.Z000000RR
+    type bigWig
+    shortLabel GSM5652324_Tonsil.Palatine.Epithelial.Z000000RR
+    longLabel GSM5652324_Tonsil.Palatine.Epithelial.Z000000RR
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652324_Tonsil.Palatine.Epithelial.Z000000RR.hg38.bigwig
+    parent Tonsil.Palatine.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track Tonsil.Pharyngeal.Epithelial
+type bigWig
+shortLabel Tonsil.Pharyngeal.Epithelial
+longLabel Tonsil.Pharyngeal.Epithelial
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track GSM5652325_Tonsil.Pharyngeal.Epithelial.Z000000Q9
+    type bigWig
+    shortLabel GSM5652325_Tonsil.Pharyngeal.Epithelial.Z000000Q9
+    longLabel GSM5652325_Tonsil.Pharyngeal.Epithelial.Z000000Q9
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652325_Tonsil.Pharyngeal.Epithelial.Z000000Q9.hg38.bigwig
+    parent Tonsil.Pharyngeal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track GSM5652326_Tonsil.Pharyngeal.Epithelial.Z000000S1
+    type bigWig
+    shortLabel GSM5652326_Tonsil.Pharyngeal.Epithelial.Z000000S1
+    longLabel GSM5652326_Tonsil.Pharyngeal.Epithelial.Z000000S1
+    bigDataUrl https://zhouserver.research.chop.edu/trackHub/hg38/Loyfer2023WGBS/bigwig/GSM5652326_Tonsil.Pharyngeal.Epithelial.Z000000S1.hg38.bigwig
+    parent Tonsil.Pharyngeal.Epithelial on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
