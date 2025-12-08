@@ -1,4 +1,5 @@
 track CD4_CM_A
+type bigWig
 shortLabel CD4_CM_A
 longLabel CD4_CM_A
 compositeTrack off
@@ -30,6 +31,7 @@ dragAndDrop on
 
 
 track CD4_CM_E
+type bigWig
 shortLabel CD4_CM_E
 longLabel CD4_CM_E
 compositeTrack off
@@ -71,6 +73,7 @@ dragAndDrop on
 
 
 track CD4_Naive_A
+type bigWig
 shortLabel CD4_Naive_A
 longLabel CD4_Naive_A
 compositeTrack off
@@ -102,6 +105,7 @@ dragAndDrop on
 
 
 track CD4_Naive_E
+type bigWig
 shortLabel CD4_Naive_E
 longLabel CD4_Naive_E
 compositeTrack off
@@ -143,6 +147,7 @@ dragAndDrop on
 
 
 track CD4_Tfh_A
+type bigWig
 shortLabel CD4_Tfh_A
 longLabel CD4_Tfh_A
 compositeTrack off
@@ -184,6 +189,7 @@ dragAndDrop on
 
 
 track CD4_Tfh_E
+type bigWig
 shortLabel CD4_Tfh_E
 longLabel CD4_Tfh_E
 compositeTrack off
@@ -235,6 +241,7 @@ dragAndDrop on
 
 
 track CD4_Th17.1_A
+type bigWig
 shortLabel CD4_Th17.1_A
 longLabel CD4_Th17.1_A
 compositeTrack off
@@ -256,6 +263,7 @@ dragAndDrop on
 
 
 track CD4_Th17.1_E
+type bigWig
 shortLabel CD4_Th17.1_E
 longLabel CD4_Th17.1_E
 compositeTrack off
@@ -297,6 +305,7 @@ dragAndDrop on
 
 
 track CD4_Th17_A
+type bigWig
 shortLabel CD4_Th17_A
 longLabel CD4_Th17_A
 compositeTrack off
@@ -338,6 +347,7 @@ dragAndDrop on
 
 
 track CD4_Th17_E
+type bigWig
 shortLabel CD4_Th17_E
 longLabel CD4_Th17_E
 compositeTrack off
@@ -379,6 +389,7 @@ dragAndDrop on
 
 
 track CD4_Th1_A
+type bigWig
 shortLabel CD4_Th1_A
 longLabel CD4_Th1_A
 compositeTrack off
@@ -410,6 +421,7 @@ dragAndDrop on
 
 
 track CD4_Th1_E
+type bigWig
 shortLabel CD4_Th1_E
 longLabel CD4_Th1_E
 compositeTrack off
@@ -461,6 +473,7 @@ dragAndDrop on
 
 
 track CD4_Th22_A
+type bigWig
 shortLabel CD4_Th22_A
 longLabel CD4_Th22_A
 compositeTrack off
@@ -482,6 +495,7 @@ dragAndDrop on
 
 
 track CD4_Th22_E
+type bigWig
 shortLabel CD4_Th22_E
 longLabel CD4_Th22_E
 compositeTrack off
@@ -521,8 +535,8 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
-
 track CD4_Th2_A
+type bigWig
 shortLabel CD4_Th2_A
 longLabel CD4_Th2_A
 compositeTrack off
@@ -564,6 +578,7 @@ dragAndDrop on
 
 
 track CD4_Th2_E
+type bigWig
 shortLabel CD4_Th2_E
 longLabel CD4_Th2_E
 compositeTrack off
@@ -615,6 +630,7 @@ dragAndDrop on
 
 
 track CD4_Th9_A
+type bigWig
 shortLabel CD4_Th9_A
 longLabel CD4_Th9_A
 compositeTrack off
@@ -636,6 +652,7 @@ dragAndDrop on
 
 
 track CD4_Th9_E
+type bigWig
 shortLabel CD4_Th9_E
 longLabel CD4_Th9_E
 compositeTrack off
@@ -667,6 +684,7 @@ dragAndDrop on
 
 
 track CD4_ThG_E
+type bigWig
 shortLabel CD4_ThG_E
 longLabel CD4_ThG_E
 compositeTrack off
@@ -698,6 +716,7 @@ dragAndDrop on
 
 
 track CD4_Treg_A
+type bigWig
 shortLabel CD4_Treg_A
 longLabel CD4_Treg_A
 compositeTrack off
@@ -739,6 +758,7 @@ dragAndDrop on
 
 
 track CD4_Treg_E
+type bigWig
 shortLabel CD4_Treg_E
 longLabel CD4_Treg_E
 compositeTrack off
