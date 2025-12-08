@@ -33,6 +33,10 @@
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/Human_WGBS/hub.txt`
 
+- Human 5hmC hub
+
+`https://raw.githubusercontent.com/zwdzwd/trackHub/master/Human_5hmC/hub.txt`
+
 - HM450 Normal hub
 
 `https://raw.githubusercontent.com/zwdzwd/trackHub/master/HM450/hub.txt`
