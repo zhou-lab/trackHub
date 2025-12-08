@@ -1,0 +1,5 @@
+hub Human 5hmC
+shortLabel Human 5hmC
+longLabel All Human 5hmC
+genomesFile genomes.txt
+email wanding.zhou@pennmedicine.upenn.edu

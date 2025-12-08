@@ -1,0 +1,779 @@
+track CD4_CM_A
+shortLabel CD4_CM_A
+longLabel CD4_CM_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_CM_ZD769_A
+    type bigWig
+    shortLabel CD4_CM_ZD769_A
+    longLabel CD4_CM_ZD769_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD769_A_cg1.bw
+    parent CD4_CM_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_CM_ZD780_A
+    type bigWig
+    shortLabel CD4_CM_ZD780_A
+    longLabel CD4_CM_ZD780_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD780_A_cg1.bw
+    parent CD4_CM_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_CM_E
+shortLabel CD4_CM_E
+longLabel CD4_CM_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_CM_ZD751_E
+    type bigWig
+    shortLabel CD4_CM_ZD751_E
+    longLabel CD4_CM_ZD751_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD751_E_cg1.bw
+    parent CD4_CM_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_CM_ZD769_E
+    type bigWig
+    shortLabel CD4_CM_ZD769_E
+    longLabel CD4_CM_ZD769_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD769_E_cg1.bw
+    parent CD4_CM_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_CM_ZD780_E
+    type bigWig
+    shortLabel CD4_CM_ZD780_E
+    longLabel CD4_CM_ZD780_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD780_E_cg1.bw
+    parent CD4_CM_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Naive_A
+shortLabel CD4_Naive_A
+longLabel CD4_Naive_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Naive_ZD768_A
+    type bigWig
+    shortLabel CD4_Naive_ZD768_A
+    longLabel CD4_Naive_ZD768_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD768_A_cg1.bw
+    parent CD4_Naive_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Naive_ZD801_A
+    type bigWig
+    shortLabel CD4_Naive_ZD801_A
+    longLabel CD4_Naive_ZD801_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD801_A_cg1.bw
+    parent CD4_Naive_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Naive_E
+shortLabel CD4_Naive_E
+longLabel CD4_Naive_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Naive_ZD750_E
+    type bigWig
+    shortLabel CD4_Naive_ZD750_E
+    longLabel CD4_Naive_ZD750_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD750_E_cg1.bw
+    parent CD4_Naive_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Naive_ZD768_E
+    type bigWig
+    shortLabel CD4_Naive_ZD768_E
+    longLabel CD4_Naive_ZD768_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD768_E_cg1.bw
+    parent CD4_Naive_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Naive_ZD801_E
+    type bigWig
+    shortLabel CD4_Naive_ZD801_E
+    longLabel CD4_Naive_ZD801_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD801_E_cg1.bw
+    parent CD4_Naive_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Tfh_A
+shortLabel CD4_Tfh_A
+longLabel CD4_Tfh_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Tfh_ZD770_A
+    type bigWig
+    shortLabel CD4_Tfh_ZD770_A
+    longLabel CD4_Tfh_ZD770_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD770_A_cg1.bw
+    parent CD4_Tfh_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Tfh_ZD792_A
+    type bigWig
+    shortLabel CD4_Tfh_ZD792_A
+    longLabel CD4_Tfh_ZD792_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD792_A_cg1.bw
+    parent CD4_Tfh_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Tfh_ZD803_A
+    type bigWig
+    shortLabel CD4_Tfh_ZD803_A
+    longLabel CD4_Tfh_ZD803_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD803_A_cg1.bw
+    parent CD4_Tfh_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Tfh_E
+shortLabel CD4_Tfh_E
+longLabel CD4_Tfh_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Tfh_ZD753_E
+    type bigWig
+    shortLabel CD4_Tfh_ZD753_E
+    longLabel CD4_Tfh_ZD753_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD753_E_cg1.bw
+    parent CD4_Tfh_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Tfh_ZD770_E
+    type bigWig
+    shortLabel CD4_Tfh_ZD770_E
+    longLabel CD4_Tfh_ZD770_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD770_E_cg1.bw
+    parent CD4_Tfh_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Tfh_ZD792_E
+    type bigWig
+    shortLabel CD4_Tfh_ZD792_E
+    longLabel CD4_Tfh_ZD792_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD792_E_cg1.bw
+    parent CD4_Tfh_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Tfh_ZD803_E
+    type bigWig
+    shortLabel CD4_Tfh_ZD803_E
+    longLabel CD4_Tfh_ZD803_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD803_E_cg1.bw
+    parent CD4_Tfh_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th17.1_A
+shortLabel CD4_Th17.1_A
+longLabel CD4_Th17.1_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th17.1_ZD820_A
+    type bigWig
+    shortLabel CD4_Th17.1_ZD820_A
+    longLabel CD4_Th17.1_ZD820_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD820_A_cg1.bw
+    parent CD4_Th17.1_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th17.1_E
+shortLabel CD4_Th17.1_E
+longLabel CD4_Th17.1_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th17.1_ZD776_E
+    type bigWig
+    shortLabel CD4_Th17.1_ZD776_E
+    longLabel CD4_Th17.1_ZD776_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD776_E_cg1.bw
+    parent CD4_Th17.1_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th17.1_ZD787_E
+    type bigWig
+    shortLabel CD4_Th17.1_ZD787_E
+    longLabel CD4_Th17.1_ZD787_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD787_E_cg1.bw
+    parent CD4_Th17.1_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th17.1_ZD820_E
+    type bigWig
+    shortLabel CD4_Th17.1_ZD820_E
+    longLabel CD4_Th17.1_ZD820_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD820_E_cg1.bw
+    parent CD4_Th17.1_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th17_A
+shortLabel CD4_Th17_A
+longLabel CD4_Th17_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th17_ZD797_A
+    type bigWig
+    shortLabel CD4_Th17_ZD797_A
+    longLabel CD4_Th17_ZD797_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD797_A_cg1.bw
+    parent CD4_Th17_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th17_ZD808_A
+    type bigWig
+    shortLabel CD4_Th17_ZD808_A
+    longLabel CD4_Th17_ZD808_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD808_A_cg1.bw
+    parent CD4_Th17_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th17_ZD819_A
+    type bigWig
+    shortLabel CD4_Th17_ZD819_A
+    longLabel CD4_Th17_ZD819_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD819_A_cg1.bw
+    parent CD4_Th17_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th17_E
+shortLabel CD4_Th17_E
+longLabel CD4_Th17_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th17_ZD797_E
+    type bigWig
+    shortLabel CD4_Th17_ZD797_E
+    longLabel CD4_Th17_ZD797_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD797_E_cg1.bw
+    parent CD4_Th17_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th17_ZD808_E
+    type bigWig
+    shortLabel CD4_Th17_ZD808_E
+    longLabel CD4_Th17_ZD808_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD808_E_cg1.bw
+    parent CD4_Th17_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th17_ZD819_E
+    type bigWig
+    shortLabel CD4_Th17_ZD819_E
+    longLabel CD4_Th17_ZD819_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD819_E_cg1.bw
+    parent CD4_Th17_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th1_A
+shortLabel CD4_Th1_A
+longLabel CD4_Th1_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th1_ZD794_A
+    type bigWig
+    shortLabel CD4_Th1_ZD794_A
+    longLabel CD4_Th1_ZD794_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD794_A_cg1.bw
+    parent CD4_Th1_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th1_ZD805_A
+    type bigWig
+    shortLabel CD4_Th1_ZD805_A
+    longLabel CD4_Th1_ZD805_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD805_A_cg1.bw
+    parent CD4_Th1_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th1_E
+shortLabel CD4_Th1_E
+longLabel CD4_Th1_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th1_ZD754_E
+    type bigWig
+    shortLabel CD4_Th1_ZD754_E
+    longLabel CD4_Th1_ZD754_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD754_E_cg1.bw
+    parent CD4_Th1_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th1_ZD772_E
+    type bigWig
+    shortLabel CD4_Th1_ZD772_E
+    longLabel CD4_Th1_ZD772_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD772_E_cg1.bw
+    parent CD4_Th1_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th1_ZD794_E
+    type bigWig
+    shortLabel CD4_Th1_ZD794_E
+    longLabel CD4_Th1_ZD794_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD794_E_cg1.bw
+    parent CD4_Th1_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th1_ZD805_E
+    type bigWig
+    shortLabel CD4_Th1_ZD805_E
+    longLabel CD4_Th1_ZD805_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD805_E_cg1.bw
+    parent CD4_Th1_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th22_A
+shortLabel CD4_Th22_A
+longLabel CD4_Th22_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th22_ZD810_A
+    type bigWig
+    shortLabel CD4_Th22_ZD810_A
+    longLabel CD4_Th22_ZD810_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD810_A_cg1.bw
+    parent CD4_Th22_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th22_E
+shortLabel CD4_Th22_E
+longLabel CD4_Th22_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th22_ZD766_E
+    type bigWig
+    shortLabel CD4_Th22_ZD766_E
+    longLabel CD4_Th22_ZD766_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD766_E_cg1.bw
+    parent CD4_Th22_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th22_ZD777_E
+    type bigWig
+    shortLabel CD4_Th22_ZD777_E
+    longLabel CD4_Th22_ZD777_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD777_E_cg1.bw
+    parent CD4_Th22_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th22_ZD810_E
+    type bigWig
+    shortLabel CD4_Th22_ZD810_E
+    longLabel CD4_Th22_ZD810_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD810_E_cg1.bw
+    parent CD4_Th22_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th2_A
+shortLabel CD4_Th2_A
+longLabel CD4_Th2_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th2_ZD762_A
+    type bigWig
+    shortLabel CD4_Th2_ZD762_A
+    longLabel CD4_Th2_ZD762_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD762_A_cg1.bw
+    parent CD4_Th2_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th2_ZD795_A
+    type bigWig
+    shortLabel CD4_Th2_ZD795_A
+    longLabel CD4_Th2_ZD795_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD795_A_cg1.bw
+    parent CD4_Th2_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th2_ZD817_A
+    type bigWig
+    shortLabel CD4_Th2_ZD817_A
+    longLabel CD4_Th2_ZD817_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD817_A_cg1.bw
+    parent CD4_Th2_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th2_E
+shortLabel CD4_Th2_E
+longLabel CD4_Th2_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th2_ZD762_E
+    type bigWig
+    shortLabel CD4_Th2_ZD762_E
+    longLabel CD4_Th2_ZD762_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD762_E_cg1.bw
+    parent CD4_Th2_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th2_ZD773_E
+    type bigWig
+    shortLabel CD4_Th2_ZD773_E
+    longLabel CD4_Th2_ZD773_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD773_E_cg1.bw
+    parent CD4_Th2_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th2_ZD795_E
+    type bigWig
+    shortLabel CD4_Th2_ZD795_E
+    longLabel CD4_Th2_ZD795_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD795_E_cg1.bw
+    parent CD4_Th2_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th2_ZD817_E
+    type bigWig
+    shortLabel CD4_Th2_ZD817_E
+    longLabel CD4_Th2_ZD817_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD817_E_cg1.bw
+    parent CD4_Th2_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th9_A
+shortLabel CD4_Th9_A
+longLabel CD4_Th9_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th9_ZD818_A
+    type bigWig
+    shortLabel CD4_Th9_ZD818_A
+    longLabel CD4_Th9_ZD818_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD818_A_cg1.bw
+    parent CD4_Th9_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Th9_E
+shortLabel CD4_Th9_E
+longLabel CD4_Th9_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Th9_ZD774_E
+    type bigWig
+    shortLabel CD4_Th9_ZD774_E
+    longLabel CD4_Th9_ZD774_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD774_E_cg1.bw
+    parent CD4_Th9_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Th9_ZD818_E
+    type bigWig
+    shortLabel CD4_Th9_ZD818_E
+    longLabel CD4_Th9_ZD818_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD818_E_cg1.bw
+    parent CD4_Th9_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_ThG_E
+shortLabel CD4_ThG_E
+longLabel CD4_ThG_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_ThG_ZD800_E
+    type bigWig
+    shortLabel CD4_ThG_ZD800_E
+    longLabel CD4_ThG_ZD800_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD800_E_cg1.bw
+    parent CD4_ThG_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_ThG_ZD822_E
+    type bigWig
+    shortLabel CD4_ThG_ZD822_E
+    longLabel CD4_ThG_ZD822_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD822_E_cg1.bw
+    parent CD4_ThG_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Treg_A
+shortLabel CD4_Treg_A
+longLabel CD4_Treg_A
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Treg_ZD771_A
+    type bigWig
+    shortLabel CD4_Treg_ZD771_A
+    longLabel CD4_Treg_ZD771_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD771_A_cg1.bw
+    parent CD4_Treg_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Treg_ZD793_A
+    type bigWig
+    shortLabel CD4_Treg_ZD793_A
+    longLabel CD4_Treg_ZD793_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD793_A_cg1.bw
+    parent CD4_Treg_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Treg_ZD804_A
+    type bigWig
+    shortLabel CD4_Treg_ZD804_A
+    longLabel CD4_Treg_ZD804_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD804_A_cg1.bw
+    parent CD4_Treg_A on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+
+track CD4_Treg_E
+shortLabel CD4_Treg_E
+longLabel CD4_Treg_E
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track CD4_Treg_ZD752_E
+    type bigWig
+    shortLabel CD4_Treg_ZD752_E
+    longLabel CD4_Treg_ZD752_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD752_E_cg1.bw
+    parent CD4_Treg_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Treg_ZD793_E
+    type bigWig
+    shortLabel CD4_Treg_ZD793_E
+    longLabel CD4_Treg_ZD793_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD793_E_cg1.bw
+    parent CD4_Treg_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track CD4_Treg_ZD804_E
+    type bigWig
+    shortLabel CD4_Treg_ZD804_E
+    longLabel CD4_Treg_ZD804_E
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD804_E_cg1.bw
+    parent CD4_Treg_E on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
