@@ -3,7 +3,7 @@ type bigWig
 shortLabel CD4_CM_A
 longLabel CD4_CM_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -17,7 +17,7 @@ dragAndDrop on
     parent CD4_CM_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_CM_ZD780_A
     type bigWig
@@ -27,7 +27,7 @@ dragAndDrop on
     parent CD4_CM_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_CM_E
@@ -77,7 +77,7 @@ type bigWig
 shortLabel CD4_Naive_A
 longLabel CD4_Naive_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -91,7 +91,7 @@ dragAndDrop on
     parent CD4_Naive_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Naive_ZD801_A
     type bigWig
@@ -101,7 +101,7 @@ dragAndDrop on
     parent CD4_Naive_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Naive_E
@@ -151,7 +151,7 @@ type bigWig
 shortLabel CD4_Tfh_A
 longLabel CD4_Tfh_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -165,7 +165,7 @@ dragAndDrop on
     parent CD4_Tfh_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Tfh_ZD792_A
     type bigWig
@@ -175,7 +175,7 @@ dragAndDrop on
     parent CD4_Tfh_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Tfh_ZD803_A
     type bigWig
@@ -185,7 +185,7 @@ dragAndDrop on
     parent CD4_Tfh_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Tfh_E
@@ -245,7 +245,7 @@ type bigWig
 shortLabel CD4_Th17.1_A
 longLabel CD4_Th17.1_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -259,7 +259,7 @@ dragAndDrop on
     parent CD4_Th17.1_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Th17.1_E
@@ -309,7 +309,7 @@ type bigWig
 shortLabel CD4_Th17_A
 longLabel CD4_Th17_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -323,7 +323,7 @@ dragAndDrop on
     parent CD4_Th17_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Th17_ZD808_A
     type bigWig
@@ -333,7 +333,7 @@ dragAndDrop on
     parent CD4_Th17_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Th17_ZD819_A
     type bigWig
@@ -343,7 +343,7 @@ dragAndDrop on
     parent CD4_Th17_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Th17_E
@@ -393,7 +393,7 @@ type bigWig
 shortLabel CD4_Th1_A
 longLabel CD4_Th1_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -407,7 +407,7 @@ dragAndDrop on
     parent CD4_Th1_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Th1_ZD805_A
     type bigWig
@@ -417,7 +417,7 @@ dragAndDrop on
     parent CD4_Th1_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Th1_E
@@ -477,7 +477,7 @@ type bigWig
 shortLabel CD4_Th22_A
 longLabel CD4_Th22_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -491,7 +491,7 @@ dragAndDrop on
     parent CD4_Th22_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Th22_E
@@ -540,7 +540,7 @@ type bigWig
 shortLabel CD4_Th2_A
 longLabel CD4_Th2_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -554,7 +554,7 @@ dragAndDrop on
     parent CD4_Th2_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Th2_ZD795_A
     type bigWig
@@ -564,7 +564,7 @@ dragAndDrop on
     parent CD4_Th2_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Th2_ZD817_A
     type bigWig
@@ -574,7 +574,7 @@ dragAndDrop on
     parent CD4_Th2_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Th2_E
@@ -634,7 +634,7 @@ type bigWig
 shortLabel CD4_Th9_A
 longLabel CD4_Th9_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -648,7 +648,7 @@ dragAndDrop on
     parent CD4_Th9_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Th9_E
@@ -720,7 +720,7 @@ type bigWig
 shortLabel CD4_Treg_A
 longLabel CD4_Treg_A
 compositeTrack off
-viewLimits 0.0:1.0
+viewLimits 0.0:0.5
 maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
@@ -734,7 +734,7 @@ dragAndDrop on
     parent CD4_Treg_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Treg_ZD793_A
     type bigWig
@@ -744,7 +744,7 @@ dragAndDrop on
     parent CD4_Treg_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
     track CD4_Treg_ZD804_A
     type bigWig
@@ -754,7 +754,7 @@ dragAndDrop on
     parent CD4_Treg_A on
     color 0,102,255
     maxHeightPixels 128:25:10
-    viewLimits 0.0:1.0
+    viewLimits 0.0:0.5
 
 
 track CD4_Treg_E
