@@ -1,0 +1,1176 @@
+track ALL
+type bigWig
+shortLabel ALL
+longLabel ALL
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track BP_bone_marrow_S0179DA1_precursor_B_cell_AcuteLymphocyticLeukemia
+    type bigWig
+    shortLabel ALL
+    longLabel BP_bone_marrow_S0179DA1_precursor_B_cell_AcuteLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S0179DA1_precursor_B_cell_AcuteLymphocyticLeukemia.bw
+    parent ALL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S017E3A1_precursor_B_cell_AcuteLymphocyticLeukemia
+    type bigWig
+    shortLabel ALL
+    longLabel BP_bone_marrow_S017E3A1_precursor_B_cell_AcuteLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S017E3A1_precursor_B_cell_AcuteLymphocyticLeukemia.bw
+    parent ALL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S01GRFA1_precursor_B_cell_AcuteLymphocyticLeukemia
+    type bigWig
+    shortLabel ALL
+    longLabel BP_bone_marrow_S01GRFA1_precursor_B_cell_AcuteLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S01GRFA1_precursor_B_cell_AcuteLymphocyticLeukemia.bw
+    parent ALL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S01GSDA1_precursor_B_cell_AcuteLymphocyticLeukemia
+    type bigWig
+    shortLabel ALL
+    longLabel BP_bone_marrow_S01GSDA1_precursor_B_cell_AcuteLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S01GSDA1_precursor_B_cell_AcuteLymphocyticLeukemia.bw
+    parent ALL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S01GTBA1_precursor_B_cell_AcuteLymphocyticLeukemia
+    type bigWig
+    shortLabel ALL
+    longLabel BP_bone_marrow_S01GTBA1_precursor_B_cell_AcuteLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S01GTBA1_precursor_B_cell_AcuteLymphocyticLeukemia.bw
+    parent ALL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S017B9A1_precursor_B_cell_AcuteLymphocyticLeukemia
+    type bigWig
+    shortLabel ALL
+    longLabel BP_venous_blood_S017B9A1_precursor_B_cell_AcuteLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S017B9A1_precursor_B_cell_AcuteLymphocyticLeukemia.bw
+    parent ALL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S017C7A1_precursor_B_cell_AcuteLymphocyticLeukemia
+    type bigWig
+    shortLabel ALL
+    longLabel BP_venous_blood_S017C7A1_precursor_B_cell_AcuteLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S017C7A1_precursor_B_cell_AcuteLymphocyticLeukemia.bw
+    parent ALL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track AML
+type bigWig
+shortLabel AML
+longLabel AML
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track BP_bone_marrow_S004XMA1_myeloid_cell_AcutePromyelocyticLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S004XMA1_myeloid_cell_AcutePromyelocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S004XMA1_myeloid_cell_AcutePromyelocyticLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S0050AA1_myeloid_cell_AcutePromyelocyticLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S0050AA1_myeloid_cell_AcutePromyelocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S0050AA1_myeloid_cell_AcutePromyelocyticLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S005EJA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S005EJA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S005EJA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S005FHA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S005FHA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S005FHA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S008QKA1_myeloid_cell_AcutePromyelocyticLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S008QKA1_myeloid_cell_AcutePromyelocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S008QKA1_myeloid_cell_AcutePromyelocyticLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S008X6A1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S008X6A1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S008X6A1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S00CXRA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S00CXRA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S00CXRA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S00CYPA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S00CYPA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S00CYPA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S00D0FA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S00D0FA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S00D0FA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S013M3A1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S013M3A1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S013M3A1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S013N1A1_mononuclear_cell_of_bone_marrow_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_bone_marrow_S013N1A1_mononuclear_cell_of_bone_marrow_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S013N1A1_mononuclear_cell_of_bone_marrow_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00CWTA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00CWTA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00CWTA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00D1DA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00D1DA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00D1DA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00D2BA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00D2BA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00D2BA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00D39A1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00D39A1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00D39A1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00Q7NA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00Q7NA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00Q7NA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00XWJA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00XWJA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00XWJA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00Y05A1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00Y05A1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00Y05A1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00Y13A1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00Y13A1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00Y13A1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00Y4YA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00Y4YA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00Y4YA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00Y6UA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S00Y6UA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00Y6UA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S013PYA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S013PYA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S013PYA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S013RUA1_peripheral_blood_mononuclear_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S013RUA1_peripheral_blood_mononuclear_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S013RUA1_peripheral_blood_mononuclear_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S013SSA1_myeloid_cell_AcuteMyeloidLeukemia
+    type bigWig
+    shortLabel AML
+    longLabel BP_venous_blood_S013SSA1_myeloid_cell_AcuteMyeloidLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S013SSA1_myeloid_cell_AcuteMyeloidLeukemia.bw
+    parent AML on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track BLCA
+type bigWig
+shortLabel BLCA
+longLabel BLCA
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track TCGA_BLCA_A13J
+    type bigWig
+    shortLabel Bladder
+    longLabel TCGA_BLCA_A13J
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BLCA_A13J.bw
+    parent BLCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BLCA_A1AA
+    type bigWig
+    shortLabel Bladder
+    longLabel TCGA_BLCA_A1AA
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BLCA_A1AA.bw
+    parent BLCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BLCA_A1AG
+    type bigWig
+    shortLabel Bladder
+    longLabel TCGA_BLCA_A1AG
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BLCA_A1AG.bw
+    parent BLCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BLCA_A20V
+    type bigWig
+    shortLabel Bladder
+    longLabel TCGA_BLCA_A20V
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BLCA_A20V.bw
+    parent BLCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BLCA_A2HQ
+    type bigWig
+    shortLabel Bladder
+    longLabel TCGA_BLCA_A2HQ
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BLCA_A2HQ.bw
+    parent BLCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BLCA_A2LA
+    type bigWig
+    shortLabel Bladder
+    longLabel TCGA_BLCA_A2LA
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BLCA_A2LA.bw
+    parent BLCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track BRCA
+type bigWig
+shortLabel BRCA
+longLabel BRCA
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track TCGA_BRCA_A04X
+    type bigWig
+    shortLabel Breast
+    longLabel TCGA_BRCA_A04X
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BRCA_A04X.bw
+    parent BRCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BRCA_A07I
+    type bigWig
+    shortLabel Breast
+    longLabel TCGA_BRCA_A07I
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BRCA_A07I.bw
+    parent BRCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BRCA_A0CE
+    type bigWig
+    shortLabel Breast
+    longLabel TCGA_BRCA_A0CE
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BRCA_A0CE.bw
+    parent BRCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BRCA_A0YG
+    type bigWig
+    shortLabel Breast
+    longLabel TCGA_BRCA_A0YG
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BRCA_A0YG.bw
+    parent BRCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_BRCA_A15H
+    type bigWig
+    shortLabel Breast
+    longLabel TCGA_BRCA_A15H
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_BRCA_A15H.bw
+    parent BRCA on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track CLL
+type bigWig
+shortLabel CLL
+longLabel CLL
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track BP_venous_blood_S00AYXU1_NA_ChronicLymphocyticLeukemia
+    type bigWig
+    shortLabel CLL
+    longLabel BP_venous_blood_S00AYXU1_NA_ChronicLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00AYXU1_NA_ChronicLymphocyticLeukemia.bw
+    parent CLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00B0NU1_NA_ChronicLymphocyticLeukemia
+    type bigWig
+    shortLabel CLL
+    longLabel BP_venous_blood_S00B0NU1_NA_ChronicLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00B0NU1_NA_ChronicLymphocyticLeukemia.bw
+    parent CLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00B1LU1_NA_ChronicLymphocyticLeukemia
+    type bigWig
+    shortLabel CLL
+    longLabel BP_venous_blood_S00B1LU1_NA_ChronicLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00B1LU1_NA_ChronicLymphocyticLeukemia.bw
+    parent CLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00B2JA1_NA_ChronicLymphocyticLeukemia
+    type bigWig
+    shortLabel CLL
+    longLabel BP_venous_blood_S00B2JA1_NA_ChronicLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00B2JA1_NA_ChronicLymphocyticLeukemia.bw
+    parent CLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S00GPRA1_NA_ChronicLymphocyticLeukemia
+    type bigWig
+    shortLabel CLL
+    longLabel BP_venous_blood_S00GPRA1_NA_ChronicLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S00GPRA1_NA_ChronicLymphocyticLeukemia.bw
+    parent CLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S01FG4A1_NA_ChronicLymphocyticLeukemia
+    type bigWig
+    shortLabel CLL
+    longLabel BP_venous_blood_S01FG4A1_NA_ChronicLymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S01FG4A1_NA_ChronicLymphocyticLeukemia.bw
+    parent CLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track CRC
+type bigWig
+shortLabel CRC
+longLabel CRC
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track Colon_Metastasis_Heyn_2016_GSM1279520
+    type bigWig
+    shortLabel LowerGI
+    longLabel Colon_Metastasis_Heyn_2016_GSM1279520
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Colon_Metastasis_Heyn_2016_GSM1279520.bw
+    parent CRC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Colon_Tumor_Heyn_2016_GSM1279521
+    type bigWig
+    shortLabel LowerGI
+    longLabel Colon_Tumor_Heyn_2016_GSM1279521
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Colon_Tumor_Heyn_2016_GSM1279521.bw
+    parent CRC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_COAD_3158
+    type bigWig
+    shortLabel LowerGI
+    longLabel TCGA_COAD_3158
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_COAD_3158.bw
+    parent CRC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_COAD_A00R
+    type bigWig
+    shortLabel LowerGI
+    longLabel TCGA_COAD_A00R
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_COAD_A00R.bw
+    parent CRC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_READ_2689
+    type bigWig
+    shortLabel LowerGI
+    longLabel TCGA_READ_2689
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_READ_2689.bw
+    parent CRC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_READ_3593
+    type bigWig
+    shortLabel LowerGI
+    longLabel TCGA_READ_3593
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_READ_3593.bw
+    parent CRC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Ziller_GSM1204465_1120_Colon_Primary_Tumor
+    type bigWig
+    shortLabel LowerGI
+    longLabel Ziller_GSM1204465_1120_Colon_Primary_Tumor
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Ziller_GSM1204465_1120_Colon_Primary_Tumor.bw
+    parent CRC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track methbase_Berman_2012_Human_ColonCancer
+    type bigWig
+    shortLabel LowerGI
+    longLabel methbase_Berman_2012_Human_ColonCancer
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/methbase_Berman_2012_Human_ColonCancer.bw
+    parent CRC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track GBM
+type bigWig
+shortLabel GBM
+longLabel GBM
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track TCGA_GBM_0128
+    type bigWig
+    shortLabel GBM_0128
+    longLabel TCGA_GBM_0128
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_GBM_0128.bw
+    parent GBM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_GBM_1401
+    type bigWig
+    shortLabel GBM_1401
+    longLabel TCGA_GBM_1401
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_GBM_1401.bw
+    parent GBM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_GBM_1454
+    type bigWig
+    shortLabel GBM_1454
+    longLabel TCGA_GBM_1454
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_GBM_1454.bw
+    parent GBM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_GBM_1460
+    type bigWig
+    shortLabel GBM_1460
+    longLabel TCGA_GBM_1460
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_GBM_1460.bw
+    parent GBM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_GBM_1788
+    type bigWig
+    shortLabel GBM_1788
+    longLabel TCGA_GBM_1788
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_GBM_1788.bw
+    parent GBM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_GBM_3477
+    type bigWig
+    shortLabel GBM_3477
+    longLabel TCGA_GBM_3477
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_GBM_3477.bw
+    parent GBM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track HCC
+type bigWig
+shortLabel HCC
+longLabel HCC
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track Liver_T1_Li_2016_GSM1716959
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_T1_Li_2016_GSM1716959
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Liver_T1_Li_2016_GSM1716959.bw
+    parent HCC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Liver_T2_Li_2016_GSM1716963
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_T2_Li_2016_GSM1716963
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Liver_T2_Li_2016_GSM1716963.bw
+    parent HCC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Liver_T3_Li_2016_GSM1716967
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_T3_Li_2016_GSM1716967
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Liver_T3_Li_2016_GSM1716967.bw
+    parent HCC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Liver_T4_Li_2016_GSM1716971
+    type bigWig
+    shortLabel Liver
+    longLabel Liver_T4_Li_2016_GSM1716971
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Liver_T4_Li_2016_GSM1716971.bw
+    parent HCC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track LC
+type bigWig
+shortLabel LC
+longLabel LC
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track Lung_T1_Li_2016_GSM1716975
+    type bigWig
+    shortLabel Lung
+    longLabel Lung_T1_Li_2016_GSM1716975
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Lung_T1_Li_2016_GSM1716975.bw
+    parent LC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Lung_T2_Li_2016_GSM1716979
+    type bigWig
+    shortLabel Lung
+    longLabel Lung_T2_Li_2016_GSM1716979
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Lung_T2_Li_2016_GSM1716979.bw
+    parent LC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track Lung_T3_Li_2016_GSM1716983
+    type bigWig
+    shortLabel Lung
+    longLabel Lung_T3_Li_2016_GSM1716983
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/Lung_T3_Li_2016_GSM1716983.bw
+    parent LC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track LUAD
+type bigWig
+shortLabel LUAD
+longLabel LUAD
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track TCGA_LUAD_4630
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUAD_4630
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUAD_4630.bw
+    parent LUAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_LUAD_6148
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUAD_6148
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUAD_6148.bw
+    parent LUAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_LUAD_6215
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUAD_6215
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUAD_6215.bw
+    parent LUAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_LUAD_6840
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUAD_6840
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUAD_6840.bw
+    parent LUAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_LUAD_7156
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUAD_7156
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUAD_7156.bw
+    parent LUAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track LUSC
+type bigWig
+shortLabel LUSC
+longLabel LUSC
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track TCGA_LUSC_1078
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUSC_1078
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUSC_1078.bw
+    parent LUSC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_LUSC_2600
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUSC_2600
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUSC_2600.bw
+    parent LUSC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_LUSC_2695
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUSC_2695
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUSC_2695.bw
+    parent LUSC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_LUSC_2722
+    type bigWig
+    shortLabel Lung
+    longLabel TCGA_LUSC_2722
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_LUSC_2722.bw
+    parent LUSC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track MCL
+type bigWig
+shortLabel MCL
+longLabel MCL
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track BP_venous_blood_S01FE8A1_NA_MantleCellLymphoma
+    type bigWig
+    shortLabel MCL
+    longLabel BP_venous_blood_S01FE8A1_NA_MantleCellLymphoma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S01FE8A1_NA_MantleCellLymphoma.bw
+    parent MCL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S01FF6A1_NA_MantleCellLymphoma
+    type bigWig
+    shortLabel MCL
+    longLabel BP_venous_blood_S01FF6A1_NA_MantleCellLymphoma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S01FF6A1_NA_MantleCellLymphoma.bw
+    parent MCL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S01FH2A1_NA_MantleCellLymphoma
+    type bigWig
+    shortLabel MCL
+    longLabel BP_venous_blood_S01FH2A1_NA_MantleCellLymphoma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S01FH2A1_NA_MantleCellLymphoma.bw
+    parent MCL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S01FJZA1_NA_MantleCellLymphoma
+    type bigWig
+    shortLabel MCL
+    longLabel BP_venous_blood_S01FJZA1_NA_MantleCellLymphoma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S01FJZA1_NA_MantleCellLymphoma.bw
+    parent MCL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S01FKXA1_NA_MantleCellLymphoma
+    type bigWig
+    shortLabel MCL
+    longLabel BP_venous_blood_S01FKXA1_NA_MantleCellLymphoma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S01FKXA1_NA_MantleCellLymphoma.bw
+    parent MCL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track MM
+type bigWig
+shortLabel MM
+longLabel MM
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track BP_bone_marrow_G203_plasma_cell_MultipleMyeloma
+    type bigWig
+    shortLabel MM
+    longLabel BP_bone_marrow_G203_plasma_cell_MultipleMyeloma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_G203_plasma_cell_MultipleMyeloma.bw
+    parent MM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_G204_plasma_cell_MultipleMyeloma
+    type bigWig
+    shortLabel MM
+    longLabel BP_bone_marrow_G204_plasma_cell_MultipleMyeloma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_G204_plasma_cell_MultipleMyeloma.bw
+    parent MM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S00XCMA1_plasma_cell_MultipleMyeloma
+    type bigWig
+    shortLabel MM
+    longLabel BP_bone_marrow_S00XCMA1_plasma_cell_MultipleMyeloma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S00XCMA1_plasma_cell_MultipleMyeloma.bw
+    parent MM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S00XDKU1_plasma_cell_MultipleMyeloma
+    type bigWig
+    shortLabel MM
+    longLabel BP_bone_marrow_S00XDKU1_plasma_cell_MultipleMyeloma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S00XDKU1_plasma_cell_MultipleMyeloma.bw
+    parent MM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_bone_marrow_S00XEIU1_plasma_cell_MultipleMyeloma
+    type bigWig
+    shortLabel MM
+    longLabel BP_bone_marrow_S00XEIU1_plasma_cell_MultipleMyeloma
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_bone_marrow_S00XEIU1_plasma_cell_MultipleMyeloma.bw
+    parent MM on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track STAD
+type bigWig
+shortLabel STAD
+longLabel STAD
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track TCGA_STAD_5730
+    type bigWig
+    shortLabel UpperGI
+    longLabel TCGA_STAD_5730
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_STAD_5730.bw
+    parent STAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_STAD_6177
+    type bigWig
+    shortLabel UpperGI
+    longLabel TCGA_STAD_6177
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_STAD_6177.bw
+    parent STAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_STAD_6452
+    type bigWig
+    shortLabel UpperGI
+    longLabel TCGA_STAD_6452
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_STAD_6452.bw
+    parent STAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_STAD_6519
+    type bigWig
+    shortLabel UpperGI
+    longLabel TCGA_STAD_6519
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_STAD_6519.bw
+    parent STAD on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track TPLL
+type bigWig
+shortLabel TPLL
+longLabel TPLL
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track BP_venous_blood_S0145XU1_NA_TcellProlymphocyticLeukemia
+    type bigWig
+    shortLabel TPLL
+    longLabel BP_venous_blood_S0145XU1_NA_TcellProlymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S0145XU1_NA_TcellProlymphocyticLeukemia.bw
+    parent TPLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S016KWU1_NA_TcellProlymphocyticLeukemia
+    type bigWig
+    shortLabel TPLL
+    longLabel BP_venous_blood_S016KWU1_NA_TcellProlymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S016KWU1_NA_TcellProlymphocyticLeukemia.bw
+    parent TPLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track BP_venous_blood_S016MSU1_NA_TcellProlymphocyticLeukemia
+    type bigWig
+    shortLabel TPLL
+    longLabel BP_venous_blood_S016MSU1_NA_TcellProlymphocyticLeukemia
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/BP_venous_blood_S016MSU1_NA_TcellProlymphocyticLeukemia.bw
+    parent TPLL on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+track UCEC
+type bigWig
+shortLabel UCEC
+longLabel UCEC
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track TCGA_UCEC_A05J
+    type bigWig
+    shortLabel Endometrial
+    longLabel TCGA_UCEC_A05J
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_UCEC_A05J.bw
+    parent UCEC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_UCEC_A0G2
+    type bigWig
+    shortLabel Endometrial
+    longLabel TCGA_UCEC_A0G2
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_UCEC_A0G2.bw
+    parent UCEC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_UCEC_A0K6
+    type bigWig
+    shortLabel Endometrial
+    longLabel TCGA_UCEC_A0K6
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_UCEC_A0K6.bw
+    parent UCEC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_UCEC_A1CI
+    type bigWig
+    shortLabel Endometrial
+    longLabel TCGA_UCEC_A1CI
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_UCEC_A1CI.bw
+    parent UCEC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
+    track TCGA_UCEC_A1CK
+    type bigWig
+    shortLabel Endometrial
+    longLabel TCGA_UCEC_A1CK
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38a/TCGA_UCEC_A1CK.bw
+    parent UCEC on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+
