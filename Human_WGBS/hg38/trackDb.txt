@@ -441,10 +441,10 @@ dragAndDrop on
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
 
-track LF_MESO_MUSCLE
+track LF_MESO_MUSC
 type bigBed
-shortLabel LF_MESO_MUSCLE
-longLabel LF_MESO_MUSCLE
+shortLabel LF_MESO_MUSC
+longLabel LF_MESO_MUSC
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -457,7 +457,7 @@ dragAndDrop on
   shortLabel GSM5652212_Heart-Cardiomyocyte-Z0000044G
   longLabel GSM5652212_Heart-Cardiomyocyte-Z0000044G
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652212_Heart.Cardiomyocyte.Z0000044G.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -467,7 +467,7 @@ dragAndDrop on
   shortLabel GSM5652213_Heart-Cardiomyocyte-Z0000044K
   longLabel GSM5652213_Heart-Cardiomyocyte-Z0000044K
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652213_Heart.Cardiomyocyte.Z0000044K.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -477,7 +477,7 @@ dragAndDrop on
   shortLabel GSM5652214_Heart-Cardiomyocyte-Z0000044N
   longLabel GSM5652214_Heart-Cardiomyocyte-Z0000044N
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652214_Heart.Cardiomyocyte.Z0000044N.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -487,7 +487,7 @@ dragAndDrop on
   shortLabel GSM5652215_Heart-Cardiomyocyte-Z0000044P
   longLabel GSM5652215_Heart-Cardiomyocyte-Z0000044P
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652215_Heart.Cardiomyocyte.Z0000044P.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -497,7 +497,7 @@ dragAndDrop on
   shortLabel GSM5652216_Heart-Cardiomyocyte-Z0000044Q
   longLabel GSM5652216_Heart-Cardiomyocyte-Z0000044Q
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652216_Heart.Cardiomyocyte.Z0000044Q.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -507,7 +507,7 @@ dragAndDrop on
   shortLabel GSM5652217_Heart-Cardiomyocyte-Z0000044R
   longLabel GSM5652217_Heart-Cardiomyocyte-Z0000044R
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652217_Heart.Cardiomyocyte.Z0000044R.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -517,7 +517,7 @@ dragAndDrop on
   shortLabel GSM5652205_Skeletal-Muscle-Z00000427
   longLabel GSM5652205_Skeletal-Muscle-Z00000427
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652205_Skeletal.Muscle.Z00000427.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -527,7 +527,7 @@ dragAndDrop on
   shortLabel GSM5652206_Skeletal-Muscle-Z00000429
   longLabel GSM5652206_Skeletal-Muscle-Z00000429
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652206_Skeletal.Muscle.Z00000429.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -537,7 +537,7 @@ dragAndDrop on
   shortLabel GSM5652207_Aorta-Smooth-Muscle-Z0000041U
   longLabel GSM5652207_Aorta-Smooth-Muscle-Z0000041U
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652207_Aorta.Smooth.Muscle.Z0000041U.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -547,7 +547,7 @@ dragAndDrop on
   shortLabel GSM5652208_Coronary-Artery-Smooth-Muscle-Z00000420
   longLabel GSM5652208_Coronary-Artery-Smooth-Muscle-Z00000420
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652208_Coronary.Artery.Smooth.Muscle.Z00000420.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -557,7 +557,7 @@ dragAndDrop on
   shortLabel GSM5652209_Bladder-Smooth-Muscle-Z0000041Z
   longLabel GSM5652209_Bladder-Smooth-Muscle-Z0000041Z
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652209_Bladder.Smooth.Muscle.Z0000041Z.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -567,7 +567,7 @@ dragAndDrop on
   shortLabel GSM5652210_Prostate-Smooth-Muscle-Z0000041Y
   longLabel GSM5652210_Prostate-Smooth-Muscle-Z0000041Y
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652210_Prostate.Smooth.Muscle.Z0000041Y.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -577,7 +577,7 @@ dragAndDrop on
   shortLabel GSM5652211_Lung-Bronchus-Smooth-Muscle-Z00000421
   longLabel GSM5652211_Lung-Bronchus-Smooth-Muscle-Z00000421
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652211_Lung.Bronchus.Smooth.Muscle.Z00000421.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -587,7 +587,7 @@ dragAndDrop on
   shortLabel GSM5652198_Colon-Fibroblasts-Z0000042A
   longLabel GSM5652198_Colon-Fibroblasts-Z0000042A
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652198_Colon.Fibroblasts.Z0000042A.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -597,7 +597,7 @@ dragAndDrop on
   shortLabel GSM5652199_Colon-Fibroblasts-Z0000042C
   longLabel GSM5652199_Colon-Fibroblasts-Z0000042C
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652199_Colon.Fibroblasts.Z0000042C.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -607,7 +607,7 @@ dragAndDrop on
   shortLabel GSM5652200_Heart-Fibroblasts-Z0000043R
   longLabel GSM5652200_Heart-Fibroblasts-Z0000043R
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652200_Heart.Fibroblasts.Z0000043R.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -617,7 +617,7 @@ dragAndDrop on
   shortLabel GSM5652201_Heart-Fibroblasts-Z0000041V
   longLabel GSM5652201_Heart-Fibroblasts-Z0000041V
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652201_Heart.Fibroblasts.Z0000041V.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -627,7 +627,7 @@ dragAndDrop on
   shortLabel GSM5652202_Heart-Fibroblasts-Z0000041W
   longLabel GSM5652202_Heart-Fibroblasts-Z0000041W
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652202_Heart.Fibroblasts.Z0000041W.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -637,7 +637,7 @@ dragAndDrop on
   shortLabel GSM5652203_Heart-Fibroblasts-Z0000041X
   longLabel GSM5652203_Heart-Fibroblasts-Z0000041X
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652203_Heart.Fibroblasts.Z0000041X.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -647,7 +647,7 @@ dragAndDrop on
   shortLabel GSM5652204_Dermal-Fibroblasts-Z00000423
   longLabel GSM5652204_Dermal-Fibroblasts-Z00000423
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652204_Dermal.Fibroblasts.Z00000423.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -657,7 +657,7 @@ dragAndDrop on
   shortLabel GSM5652218_Bone-Osteoblasts-Z0000042Z
   longLabel GSM5652218_Bone-Osteoblasts-Z0000042Z
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652218_Bone.Osteoblasts.Z0000042Z.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -667,7 +667,7 @@ dragAndDrop on
   shortLabel GSM5652176_Adipocytes-Z000000T7
   longLabel GSM5652176_Adipocytes-Z000000T7
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652176_Adipocytes.Z000000T7.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -677,7 +677,7 @@ dragAndDrop on
   shortLabel GSM5652177_Adipocytes-Z000000T9
   longLabel GSM5652177_Adipocytes-Z000000T9
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652177_Adipocytes.Z000000T9.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -687,7 +687,7 @@ dragAndDrop on
   shortLabel GSM5652178_Adipocytes-Z000000T5
   longLabel GSM5652178_Adipocytes-Z000000T5
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652178_Adipocytes.Z000000T5.hg38.bigwig
-  parent LF_MESO_MUSCLE
+  parent LF_MESO_MUSC
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1173,10 +1173,10 @@ dragAndDrop on
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
 
-track LF_MESO_OTHER
+track LF_MESO_OT
 type bigBed
-shortLabel LF_MESO_OTHER
-longLabel LF_MESO_OTHER
+shortLabel LF_MESO_OT
+longLabel LF_MESO_OT
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -1189,7 +1189,7 @@ dragAndDrop on
   shortLabel GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
   longLabel GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652256_Kidney.Glomerular.Epithelial.Z0000045K.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1199,7 +1199,7 @@ dragAndDrop on
   shortLabel GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
   longLabel GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652257_Kidney.Glomerular.Epithelial.Z0000045L.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1209,7 +1209,7 @@ dragAndDrop on
   shortLabel GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
   longLabel GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652258_Kidney.Tubular.Epithelial.Z000000QH.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1219,7 +1219,7 @@ dragAndDrop on
   shortLabel GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
   longLabel GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652259_Kidney.Tubular.Epithelial.Z0000043Z.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1229,7 +1229,7 @@ dragAndDrop on
   shortLabel GSM5652260_Kidney-Tubular-Epithelial-Z00000440
   longLabel GSM5652260_Kidney-Tubular-Epithelial-Z00000440
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652260_Kidney.Tubular.Epithelial.Z00000440.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1239,7 +1239,7 @@ dragAndDrop on
   shortLabel GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
   longLabel GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652261_Kidney.Glomerular.Podocytes.Z0000042W.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1249,7 +1249,7 @@ dragAndDrop on
   shortLabel GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
   longLabel GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652262_Kidney.Glomerular.Podocytes.Z00000441.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1259,7 +1259,7 @@ dragAndDrop on
   shortLabel GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
   longLabel GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652263_Kidney.Glomerular.Podocytes.Z00000442.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1269,7 +1269,7 @@ dragAndDrop on
   shortLabel GSM5652267_Fallopian-Epithelial-Z000000Q7
   longLabel GSM5652267_Fallopian-Epithelial-Z000000Q7
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652267_Fallopian.Epithelial.Z000000Q7.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1279,7 +1279,7 @@ dragAndDrop on
   shortLabel GSM5652268_Fallopian-Epithelial-Z000000S9
   longLabel GSM5652268_Fallopian-Epithelial-Z000000S9
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652268_Fallopian.Epithelial.Z000000S9.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1289,7 +1289,7 @@ dragAndDrop on
   shortLabel GSM5652269_Fallopian-Epithelial-Z000000UV
   longLabel GSM5652269_Fallopian-Epithelial-Z000000UV
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652269_Fallopian.Epithelial.Z000000UV.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1299,7 +1299,7 @@ dragAndDrop on
   shortLabel GSM5652270_Ovary-Epithelial-Z000000QT
   longLabel GSM5652270_Ovary-Epithelial-Z000000QT
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652270_Ovary.Epithelial.Z000000QT.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1309,7 +1309,7 @@ dragAndDrop on
   shortLabel GSM5652271_Endometrium-Epithelial-Z00000434
   longLabel GSM5652271_Endometrium-Epithelial-Z00000434
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652271_Endometrium.Epithelial.Z00000434.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1319,7 +1319,7 @@ dragAndDrop on
   shortLabel GSM5652272_Endometrium-Epithelial-Z00000435
   longLabel GSM5652272_Endometrium-Epithelial-Z00000435
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652272_Endometrium.Epithelial.Z00000435.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1329,7 +1329,7 @@ dragAndDrop on
   shortLabel GSM5652273_Endometrium-Epithelial-Z0000043S
   longLabel GSM5652273_Endometrium-Epithelial-Z0000043S
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652273_Endometrium.Epithelial.Z0000043S.hg38.bigwig
-  parent LF_MESO_OTHER
+  parent LF_MESO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1726,10 +1726,10 @@ dragAndDrop on
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
 
-track LF_ENDO_OTHER
+track LF_ENDO_OT
 type bigBed
-shortLabel LF_ENDO_OTHER
-longLabel LF_ENDO_OTHER
+shortLabel LF_ENDO_OT
+longLabel LF_ENDO_OT
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -1742,7 +1742,7 @@ dragAndDrop on
   shortLabel GSM5652233_Liver-Hepatocytes-Z000000R3
   longLabel GSM5652233_Liver-Hepatocytes-Z000000R3
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652233_Liver.Hepatocytes.Z000000R3.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1752,7 +1752,7 @@ dragAndDrop on
   shortLabel GSM5652234_Liver-Hepatocytes-Z000000T3
   longLabel GSM5652234_Liver-Hepatocytes-Z000000T3
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652234_Liver.Hepatocytes.Z000000T3.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1762,7 +1762,7 @@ dragAndDrop on
   shortLabel GSM5652235_Liver-Hepatocytes-Z0000043Q
   longLabel GSM5652235_Liver-Hepatocytes-Z0000043Q
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652235_Liver.Hepatocytes.Z0000043Q.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1772,7 +1772,7 @@ dragAndDrop on
   shortLabel GSM5652236_Liver-Hepatocytes-Z0000044H
   longLabel GSM5652236_Liver-Hepatocytes-Z0000044H
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652236_Liver.Hepatocytes.Z0000044H.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1782,7 +1782,7 @@ dragAndDrop on
   shortLabel GSM5652237_Liver-Hepatocytes-Z0000044M
   longLabel GSM5652237_Liver-Hepatocytes-Z0000044M
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652237_Liver.Hepatocytes.Z0000044M.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1792,7 +1792,7 @@ dragAndDrop on
   shortLabel GSM5652238_Liver-Hepatocytes-Z00000431
   longLabel GSM5652238_Liver-Hepatocytes-Z00000431
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652238_Liver.Hepatocytes.Z00000431.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1802,7 +1802,7 @@ dragAndDrop on
   shortLabel GSM5652358_Gallbladder-Epithelial-Z00000432
   longLabel GSM5652358_Gallbladder-Epithelial-Z00000432
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652358_Gallbladder.Epithelial.Z00000432.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1812,7 +1812,7 @@ dragAndDrop on
   shortLabel GSM5652239_Pancreas-Duct-Z0000043T
   longLabel GSM5652239_Pancreas-Duct-Z0000043T
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652239_Pancreas.Duct.Z0000043T.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1822,7 +1822,7 @@ dragAndDrop on
   shortLabel GSM5652240_Pancreas-Duct-Z0000043U
   longLabel GSM5652240_Pancreas-Duct-Z0000043U
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652240_Pancreas.Duct.Z0000043U.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1832,7 +1832,7 @@ dragAndDrop on
   shortLabel GSM5652241_Pancreas-Duct-Z0000043V
   longLabel GSM5652241_Pancreas-Duct-Z0000043V
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652241_Pancreas.Duct.Z0000043V.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1842,7 +1842,7 @@ dragAndDrop on
   shortLabel GSM5652242_Pancreas-Duct-Z000000QZ
   longLabel GSM5652242_Pancreas-Duct-Z000000QZ
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652242_Pancreas.Duct.Z000000QZ.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1852,7 +1852,7 @@ dragAndDrop on
   shortLabel GSM5652243_Pancreas-Acinar-Z000000QX
   longLabel GSM5652243_Pancreas-Acinar-Z000000QX
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652243_Pancreas.Acinar.Z000000QX.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1862,7 +1862,7 @@ dragAndDrop on
   shortLabel GSM5652244_Pancreas-Acinar-Z0000043W
   longLabel GSM5652244_Pancreas-Acinar-Z0000043W
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652244_Pancreas.Acinar.Z0000043W.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1872,7 +1872,7 @@ dragAndDrop on
   shortLabel GSM5652245_Pancreas-Acinar-Z0000043X
   longLabel GSM5652245_Pancreas-Acinar-Z0000043X
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652245_Pancreas.Acinar.Z0000043X.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1882,7 +1882,7 @@ dragAndDrop on
   shortLabel GSM5652246_Pancreas-Acinar-Z0000043Y
   longLabel GSM5652246_Pancreas-Acinar-Z0000043Y
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652246_Pancreas.Acinar.Z0000043Y.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1892,7 +1892,7 @@ dragAndDrop on
   shortLabel GSM5652253_Pancreas-Alpha-Z00000453
   longLabel GSM5652253_Pancreas-Alpha-Z00000453
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652253_Pancreas.Alpha.Z00000453.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1902,7 +1902,7 @@ dragAndDrop on
   shortLabel GSM5652254_Pancreas-Alpha-Z00000456
   longLabel GSM5652254_Pancreas-Alpha-Z00000456
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652254_Pancreas.Alpha.Z00000456.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1912,7 +1912,7 @@ dragAndDrop on
   shortLabel GSM5652255_Pancreas-Alpha-Z00000459
   longLabel GSM5652255_Pancreas-Alpha-Z00000459
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652255_Pancreas.Alpha.Z00000459.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1922,7 +1922,7 @@ dragAndDrop on
   shortLabel GSM5652250_Pancreas-Beta-Z00000452
   longLabel GSM5652250_Pancreas-Beta-Z00000452
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652250_Pancreas.Beta.Z00000452.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1932,7 +1932,7 @@ dragAndDrop on
   shortLabel GSM5652251_Pancreas-Beta-Z00000455
   longLabel GSM5652251_Pancreas-Beta-Z00000455
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652251_Pancreas.Beta.Z00000455.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1942,7 +1942,7 @@ dragAndDrop on
   shortLabel GSM5652252_Pancreas-Beta-Z00000458
   longLabel GSM5652252_Pancreas-Beta-Z00000458
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652252_Pancreas.Beta.Z00000458.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1952,7 +1952,7 @@ dragAndDrop on
   shortLabel GSM5652247_Pancreas-Delta-Z00000451
   longLabel GSM5652247_Pancreas-Delta-Z00000451
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652247_Pancreas.Delta.Z00000451.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1962,7 +1962,7 @@ dragAndDrop on
   shortLabel GSM5652248_Pancreas-Delta-Z00000454
   longLabel GSM5652248_Pancreas-Delta-Z00000454
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652248_Pancreas.Delta.Z00000454.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1972,7 +1972,7 @@ dragAndDrop on
   shortLabel GSM5652249_Pancreas-Delta-Z00000457
   longLabel GSM5652249_Pancreas-Delta-Z00000457
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652249_Pancreas.Delta.Z00000457.hg38.bigwig
-  parent LF_ENDO_OTHER
+  parent LF_ENDO_OT
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
