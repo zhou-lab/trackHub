@@ -3663,3 +3663,1544 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+track ScHuman
+type bigWig
+shortLabel ScHuman
+longLabel ScHuman
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+    track Alpha.cg
+    type bigWig
+    shortLabel Alpha.cg
+    longLabel Alpha.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Alpha.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track ASC.cg
+    type bigWig
+    shortLabel ASC.cg
+    longLabel ASC.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/ASC.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track AT1.cg
+    type bigWig
+    shortLabel AT1.cg
+    longLabel AT1.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/AT1.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track AT2.cg
+    type bigWig
+    shortLabel AT2.cg
+    longLabel AT2.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/AT2.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Basal_Brst.cg
+    type bigWig
+    shortLabel Basal_Brst.cg
+    longLabel Basal_Brst.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Basal_Brst.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Basal_Club_Goblet.cg
+    type bigWig
+    shortLabel Basal_Club_Goblet.cg
+    longLabel Basal_Club_Goblet.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Basal_Club_Goblet.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Basal_Sk.cg
+    type bigWig
+    shortLabel Basal_Sk.cg
+    longLabel Basal_Sk.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Basal_Sk.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Beta.cg
+    type bigWig
+    shortLabel Beta.cg
+    longLabel Beta.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Beta.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track B_Mem.cg
+    type bigWig
+    shortLabel B_Mem.cg
+    longLabel B_Mem.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/B_Mem.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track B_Naive.cg
+    type bigWig
+    shortLabel B_Naive.cg
+    longLabel B_Naive.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/B_Naive.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track B_Plasma.cg
+    type bigWig
+    shortLabel B_Plasma.cg
+    longLabel B_Plasma.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/B_Plasma.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Capsule.cg
+    type bigWig
+    shortLabel Capsule.cg
+    longLabel Capsule.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Capsule.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Chief.cg
+    type bigWig
+    shortLabel Chief.cg
+    longLabel Chief.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Chief.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track CLA.cg
+    type bigWig
+    shortLabel CLA.cg
+    longLabel CLA.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/CLA.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track CT_L6.cg
+    type bigWig
+    shortLabel CT_L6.cg
+    longLabel CT_L6.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/CT_L6.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track DC.cg
+    type bigWig
+    shortLabel DC.cg
+    longLabel DC.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/DC.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Delta.cg
+    type bigWig
+    shortLabel Delta.cg
+    longLabel Delta.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Delta.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endocrine.cg
+    type bigWig
+    shortLabel Endocrine.cg
+    longLabel Endocrine.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endocrine.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Lym_Brs.cg
+    type bigWig
+    shortLabel Endo_Lym_Brs.cg
+    longLabel Endo_Lym_Brs.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Lym_Brs.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Lym_Esp.cg
+    type bigWig
+    shortLabel Endo_Lym_Esp.cg
+    longLabel Endo_Lym_Esp.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Lym_Esp.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Lym_Mix.cg
+    type bigWig
+    shortLabel Endo_Lym_Mix.cg
+    longLabel Endo_Lym_Mix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Lym_Mix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Lym_Skn.cg
+    type bigWig
+    shortLabel Endo_Lym_Skn.cg
+    longLabel Endo_Lym_Skn.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Lym_Skn.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_Adr.cg
+    type bigWig
+    shortLabel Endo_Vsc_Adr.cg
+    longLabel Endo_Vsc_Adr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_Adr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_ArtAtr.cg
+    type bigWig
+    shortLabel Endo_Vsc_ArtAtr.cg
+    longLabel Endo_Vsc_ArtAtr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_ArtAtr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_Brn.cg
+    type bigWig
+    shortLabel Endo_Vsc_Brn.cg
+    longLabel Endo_Vsc_Brn.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_Brn.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_CapAtr.cg
+    type bigWig
+    shortLabel Endo_Vsc_CapAtr.cg
+    longLabel Endo_Vsc_CapAtr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_CapAtr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_CapMix.cg
+    type bigWig
+    shortLabel Endo_Vsc_CapMix.cg
+    longLabel Endo_Vsc_CapMix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_CapMix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_CapVen.cg
+    type bigWig
+    shortLabel Endo_Vsc_CapVen.cg
+    longLabel Endo_Vsc_CapVen.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_CapVen.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_CapVnt.cg
+    type bigWig
+    shortLabel Endo_Vsc_CapVnt.cg
+    longLabel Endo_Vsc_CapVnt.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_CapVnt.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_FibroPlct.cg
+    type bigWig
+    shortLabel Endo_Vsc_FibroPlct.cg
+    longLabel Endo_Vsc_FibroPlct.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_FibroPlct.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_Lng.cg
+    type bigWig
+    shortLabel Endo_Vsc_Lng.cg
+    longLabel Endo_Vsc_Lng.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_Lng.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_Plct.cg
+    type bigWig
+    shortLabel Endo_Vsc_Plct.cg
+    longLabel Endo_Vsc_Plct.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_Plct.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_VenAdr.cg
+    type bigWig
+    shortLabel Endo_Vsc_VenAdr.cg
+    longLabel Endo_Vsc_VenAdr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_VenAdr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_VenAtr.cg
+    type bigWig
+    shortLabel Endo_Vsc_VenAtr.cg
+    longLabel Endo_Vsc_VenAtr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_VenAtr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_VenMix.cg
+    type bigWig
+    shortLabel Endo_Vsc_VenMix.cg
+    longLabel Endo_Vsc_VenMix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_VenMix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Endo_Vsc_VenVen.cg
+    type bigWig
+    shortLabel Endo_Vsc_VenVen.cg
+    longLabel Endo_Vsc_VenVen.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Endo_Vsc_VenVen.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Ent_Co.cg
+    type bigWig
+    shortLabel Ent_Co.cg
+    longLabel Ent_Co.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Ent_Co.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Ent_Ileum.cg
+    type bigWig
+    shortLabel Ent_Ileum.cg
+    longLabel Ent_Ileum.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Ent_Ileum.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Epi_Aci.cg
+    type bigWig
+    shortLabel Epi_Aci.cg
+    longLabel Epi_Aci.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Epi_Aci.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Epi_Duc.cg
+    type bigWig
+    shortLabel Epi_Duc.cg
+    longLabel Epi_Duc.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Epi_Duc.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Esp.cg
+    type bigWig
+    shortLabel Esp.cg
+    longLabel Esp.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Esp.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Adr.cg
+    type bigWig
+    shortLabel Fibro_Adr.cg
+    longLabel Fibro_Adr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Adr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Brst.cg
+    type bigWig
+    shortLabel Fibro_Brst.cg
+    longLabel Fibro_Brst.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Brst.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_EndN.cg
+    type bigWig
+    shortLabel Fibro_EndN.cg
+    longLabel Fibro_EndN.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_EndN.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_EpiN.cg
+    type bigWig
+    shortLabel Fibro_EpiN.cg
+    longLabel Fibro_EpiN.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_EpiN.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_Adv.cg
+    type bigWig
+    shortLabel Fibro_GI_Adv.cg
+    longLabel Fibro_GI_Adv.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_Adv.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_Alv.cg
+    type bigWig
+    shortLabel Fibro_GI_Alv.cg
+    longLabel Fibro_GI_Alv.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_Alv.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_Crypt_Co.cg
+    type bigWig
+    shortLabel Fibro_GI_Crypt_Co.cg
+    longLabel Fibro_GI_Crypt_Co.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_Crypt_Co.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_Esp.cg
+    type bigWig
+    shortLabel Fibro_GI_Esp.cg
+    longLabel Fibro_GI_Esp.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_Esp.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_Myo_Int.cg
+    type bigWig
+    shortLabel Fibro_GI_Myo_Int.cg
+    longLabel Fibro_GI_Myo_Int.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_Myo_Int.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_RSPO_Int.cg
+    type bigWig
+    shortLabel Fibro_GI_RSPO_Int.cg
+    longLabel Fibro_GI_RSPO_Int.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_RSPO_Int.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_Stm.cg
+    type bigWig
+    shortLabel Fibro_GI_Stm.cg
+    longLabel Fibro_GI_Stm.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_Stm.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_WNT2B_Ileum.cg
+    type bigWig
+    shortLabel Fibro_GI_WNT2B_Ileum.cg
+    longLabel Fibro_GI_WNT2B_Ileum.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_WNT2B_Ileum.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_GI_WNT5B_Int.cg
+    type bigWig
+    shortLabel Fibro_GI_WNT5B_Int.cg
+    longLabel Fibro_GI_WNT5B_Int.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_GI_WNT5B_Int.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_HT.cg
+    type bigWig
+    shortLabel Fibro_HT.cg
+    longLabel Fibro_HT.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_HT.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Mus_AdipoP.cg
+    type bigWig
+    shortLabel Fibro_Mus_AdipoP.cg
+    longLabel Fibro_Mus_AdipoP.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Mus_AdipoP.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Mus.cg
+    type bigWig
+    shortLabel Fibro_Mus.cg
+    longLabel Fibro_Mus.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Mus.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Myo_Esp.cg
+    type bigWig
+    shortLabel Fibro_Myo_Esp.cg
+    longLabel Fibro_Myo_Esp.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Myo_Esp.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Myo_Myo_Co.cg
+    type bigWig
+    shortLabel Fibro_Myo_Myo_Co.cg
+    longLabel Fibro_Myo_Myo_Co.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Myo_Myo_Co.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_PeriN.cg
+    type bigWig
+    shortLabel Fibro_PeriN.cg
+    longLabel Fibro_PeriN.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_PeriN.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_PI_Brn.cg
+    type bigWig
+    shortLabel Fibro_PI_Brn.cg
+    longLabel Fibro_PI_Brn.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_PI_Brn.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Sk_Mes.cg
+    type bigWig
+    shortLabel Fibro_Sk_Mes.cg
+    longLabel Fibro_Sk_Mes.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Sk_Mes.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Sk_Pap.cg
+    type bigWig
+    shortLabel Fibro_Sk_Pap.cg
+    longLabel Fibro_Sk_Pap.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Sk_Pap.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Sk_Proinf.cg
+    type bigWig
+    shortLabel Fibro_Sk_Proinf.cg
+    longLabel Fibro_Sk_Proinf.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Sk_Proinf.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Fibro_Sk_Ret.cg
+    type bigWig
+    shortLabel Fibro_Sk_Ret.cg
+    longLabel Fibro_Sk_Ret.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Fibro_Sk_Ret.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Foveolar.cg
+    type bigWig
+    shortLabel Foveolar.cg
+    longLabel Foveolar.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Foveolar.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Gamma.cg
+    type bigWig
+    shortLabel Gamma.cg
+    longLabel Gamma.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Gamma.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Gob_Co.cg
+    type bigWig
+    shortLabel Gob_Co.cg
+    longLabel Gob_Co.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Gob_Co.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Gob_Ileum.cg
+    type bigWig
+    shortLabel Gob_Ileum.cg
+    longLabel Gob_Ileum.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Gob_Ileum.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Hofb.cg
+    type bigWig
+    shortLabel Hofb.cg
+    longLabel Hofb.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Hofb.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track IT_L2_3.cg
+    type bigWig
+    shortLabel IT_L2_3.cg
+    longLabel IT_L2_3.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/IT_L2_3.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track IT_L4.cg
+    type bigWig
+    shortLabel IT_L4.cg
+    longLabel IT_L4.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/IT_L4.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track IT_L5.cg
+    type bigWig
+    shortLabel IT_L5.cg
+    longLabel IT_L5.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/IT_L5.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track IT_L6.cg
+    type bigWig
+    shortLabel IT_L6.cg
+    longLabel IT_L6.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/IT_L6.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track L6b.cg
+    type bigWig
+    shortLabel L6b.cg
+    longLabel L6b.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/L6b.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track LAMP5.cg
+    type bigWig
+    shortLabel LAMP5.cg
+    longLabel LAMP5.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/LAMP5.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track LAMP5_LHX6.cg
+    type bigWig
+    shortLabel LAMP5_LHX6.cg
+    longLabel LAMP5_LHX6.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/LAMP5_LHX6.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track LHS.cg
+    type bigWig
+    shortLabel LHS.cg
+    longLabel LHS.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/LHS.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track LSP.cg
+    type bigWig
+    shortLabel LSP.cg
+    longLabel LSP.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/LSP.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mac_Adr.cg
+    type bigWig
+    shortLabel Mac_Adr.cg
+    longLabel Mac_Adr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mac_Adr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mac_Alv.cg
+    type bigWig
+    shortLabel Mac_Alv.cg
+    longLabel Mac_Alv.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mac_Alv.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mac_Esp.cg
+    type bigWig
+    shortLabel Mac_Esp.cg
+    longLabel Mac_Esp.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mac_Esp.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mac_HT.cg
+    type bigWig
+    shortLabel Mac_HT.cg
+    longLabel Mac_HT.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mac_HT.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mac_Int.cg
+    type bigWig
+    shortLabel Mac_Int.cg
+    longLabel Mac_Int.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mac_Int.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mac_Mix.cg
+    type bigWig
+    shortLabel Mac_Mix.cg
+    longLabel Mac_Mix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mac_Mix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mac_Mus.cg
+    type bigWig
+    shortLabel Mac_Mus.cg
+    longLabel Mac_Mus.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mac_Mus.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mac_Nrv.cg
+    type bigWig
+    shortLabel Mac_Nrv.cg
+    longLabel Mac_Nrv.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mac_Nrv.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mast_Atr.cg
+    type bigWig
+    shortLabel Mast_Atr.cg
+    longLabel Mast_Atr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mast_Atr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mast_Esp.cg
+    type bigWig
+    shortLabel Mast_Esp.cg
+    longLabel Mast_Esp.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mast_Esp.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mast_GI.cg
+    type bigWig
+    shortLabel Mast_GI.cg
+    longLabel Mast_GI.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mast_GI.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mast_Lng.cg
+    type bigWig
+    shortLabel Mast_Lng.cg
+    longLabel Mast_Lng.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mast_Lng.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mast_Mix.cg
+    type bigWig
+    shortLabel Mast_Mix.cg
+    longLabel Mast_Mix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mast_Mix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mast_Skn.cg
+    type bigWig
+    shortLabel Mast_Skn.cg
+    longLabel Mast_Skn.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mast_Skn.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track MesoAtr.cg
+    type bigWig
+    shortLabel MesoAtr.cg
+    longLabel MesoAtr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/MesoAtr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mic.cg
+    type bigWig
+    shortLabel Mic.cg
+    longLabel Mic.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mic.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mono.cg
+    type bigWig
+    shortLabel Mono.cg
+    longLabel Mono.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mono.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mono_HT.cg
+    type bigWig
+    shortLabel Mono_HT.cg
+    longLabel Mono_HT.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mono_HT.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mus_Crd_Atr.cg
+    type bigWig
+    shortLabel Mus_Crd_Atr.cg
+    longLabel Mus_Crd_Atr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mus_Crd_Atr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mus_Crd_Ven.cg
+    type bigWig
+    shortLabel Mus_Crd_Ven.cg
+    longLabel Mus_Crd_Ven.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mus_Crd_Ven.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mus_Fast.cg
+    type bigWig
+    shortLabel Mus_Fast.cg
+    longLabel Mus_Fast.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mus_Fast.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mus_Slow.cg
+    type bigWig
+    shortLabel Mus_Slow.cg
+    longLabel Mus_Slow.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mus_Slow.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Mus_Stem.cg
+    type bigWig
+    shortLabel Mus_Stem.cg
+    longLabel Mus_Stem.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Mus_Stem.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Neck.cg
+    type bigWig
+    shortLabel Neck.cg
+    longLabel Neck.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Neck.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track NK_CD16_Bld.cg
+    type bigWig
+    shortLabel NK_CD16_Bld.cg
+    longLabel NK_CD16_Bld.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/NK_CD16_Bld.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track NK_CD16_Lng.cg
+    type bigWig
+    shortLabel NK_CD16_Lng.cg
+    longLabel NK_CD16_Lng.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/NK_CD16_Lng.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track NK_CD56_Bld.cg
+    type bigWig
+    shortLabel NK_CD56_Bld.cg
+    longLabel NK_CD56_Bld.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/NK_CD56_Bld.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track NK_CD56_Mix.cg
+    type bigWig
+    shortLabel NK_CD56_Mix.cg
+    longLabel NK_CD56_Mix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/NK_CD56_Mix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track NK_CD56_Skn.cg
+    type bigWig
+    shortLabel NK_CD56_Skn.cg
+    longLabel NK_CD56_Skn.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/NK_CD56_Skn.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track NK_ILC.cg
+    type bigWig
+    shortLabel NK_ILC.cg
+    longLabel NK_ILC.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/NK_ILC.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track NP.cg
+    type bigWig
+    shortLabel NP.cg
+    longLabel NP.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/NP.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track ODC.cg
+    type bigWig
+    shortLabel ODC.cg
+    longLabel ODC.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/ODC.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track OPC.cg
+    type bigWig
+    shortLabel OPC.cg
+    longLabel OPC.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/OPC.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Parietal.cg
+    type bigWig
+    shortLabel Parietal.cg
+    longLabel Parietal.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Parietal.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track PeriAtr.cg
+    type bigWig
+    shortLabel PeriAtr.cg
+    longLabel PeriAtr.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/PeriAtr.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track PeriBrn.cg
+    type bigWig
+    shortLabel PeriBrn.cg
+    longLabel PeriBrn.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/PeriBrn.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track PeriBrst.cg
+    type bigWig
+    shortLabel PeriBrst.cg
+    longLabel PeriBrst.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/PeriBrst.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track PeriMix.cg
+    type bigWig
+    shortLabel PeriMix.cg
+    longLabel PeriMix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/PeriMix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track PeriMus.cg
+    type bigWig
+    shortLabel PeriMus.cg
+    longLabel PeriMus.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/PeriMus.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track PeriVen.cg
+    type bigWig
+    shortLabel PeriVen.cg
+    longLabel PeriVen.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/PeriVen.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track PVALB_BC.cg
+    type bigWig
+    shortLabel PVALB_BC.cg
+    longLabel PVALB_BC.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/PVALB_BC.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track PVALB_ChC.cg
+    type bigWig
+    shortLabel PVALB_ChC.cg
+    longLabel PVALB_ChC.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/PVALB_ChC.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Schw_HT.cg
+    type bigWig
+    shortLabel Schw_HT.cg
+    longLabel Schw_HT.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Schw_HT.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Schw_Mix.cg
+    type bigWig
+    shortLabel Schw_Mix.cg
+    longLabel Schw_Mix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Schw_Mix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Schw_Myl.cg
+    type bigWig
+    shortLabel Schw_Myl.cg
+    longLabel Schw_Myl.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Schw_Myl.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Schw_Non-Myl.cg
+    type bigWig
+    shortLabel Schw_Non-Myl.cg
+    longLabel Schw_Non-Myl.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Schw_Non-Myl.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track SCT.cg
+    type bigWig
+    shortLabel SCT.cg
+    longLabel SCT.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/SCT.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track SmMus_HT.cg
+    type bigWig
+    shortLabel SmMus_HT.cg
+    longLabel SmMus_HT.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/SmMus_HT.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track SmMus_Mix.cg
+    type bigWig
+    shortLabel SmMus_Mix.cg
+    longLabel SmMus_Mix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/SmMus_Mix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track SmMus_Mus.cg
+    type bigWig
+    shortLabel SmMus_Mus.cg
+    longLabel SmMus_Mus.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/SmMus_Mus.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track SNCG.cg
+    type bigWig
+    shortLabel SNCG.cg
+    longLabel SNCG.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/SNCG.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track SpBas.cg
+    type bigWig
+    shortLabel SpBas.cg
+    longLabel SpBas.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/SpBas.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track SST.cg
+    type bigWig
+    shortLabel SST.cg
+    longLabel SST.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/SST.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Stem.cg
+    type bigWig
+    shortLabel Stem.cg
+    longLabel Stem.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Stem.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_CD4_GI.cg
+    type bigWig
+    shortLabel Tmem_CD4_GI.cg
+    longLabel Tmem_CD4_GI.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_CD4_GI.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_CD4_Lng.cg
+    type bigWig
+    shortLabel Tmem_CD4_Lng.cg
+    longLabel Tmem_CD4_Lng.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_CD4_Lng.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_CD4_Skn.cg
+    type bigWig
+    shortLabel Tmem_CD4_Skn.cg
+    longLabel Tmem_CD4_Skn.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_CD4_Skn.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_CD8_Esp.cg
+    type bigWig
+    shortLabel Tmem_CD8_Esp.cg
+    longLabel Tmem_CD8_Esp.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_CD8_Esp.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_CD8_Ileum.cg
+    type bigWig
+    shortLabel Tmem_CD8_Ileum.cg
+    longLabel Tmem_CD8_Ileum.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_CD8_Ileum.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_CD8_Mix.cg
+    type bigWig
+    shortLabel Tmem_CD8_Mix.cg
+    longLabel Tmem_CD8_Mix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_CD8_Mix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_gdT_CD8_Lng.cg
+    type bigWig
+    shortLabel Tmem_gdT_CD8_Lng.cg
+    longLabel Tmem_gdT_CD8_Lng.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_gdT_CD8_Lng.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_MAIT.cg
+    type bigWig
+    shortLabel Tmem_MAIT.cg
+    longLabel Tmem_MAIT.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_MAIT.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_Tcm_CD4_Bld.cg
+    type bigWig
+    shortLabel Tmem_Tcm_CD4_Bld.cg
+    longLabel Tmem_Tcm_CD4_Bld.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_Tcm_CD4_Bld.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_Tem_CD8_Bld.cg
+    type bigWig
+    shortLabel Tmem_Tem_CD8_Bld.cg
+    longLabel Tmem_Tem_CD8_Bld.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_Tem_CD8_Bld.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_Tem_CD8_Mix.cg
+    type bigWig
+    shortLabel Tmem_Tem_CD8_Mix.cg
+    longLabel Tmem_Tem_CD8_Mix.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_Tem_CD8_Mix.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_Tfh_CD4_Int.cg
+    type bigWig
+    shortLabel Tmem_Tfh_CD4_Int.cg
+    longLabel Tmem_Tfh_CD4_Int.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_Tfh_CD4_Int.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tmem_Treg_CD4_Skn.cg
+    type bigWig
+    shortLabel Tmem_Treg_CD4_Skn.cg
+    longLabel Tmem_Treg_CD4_Skn.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tmem_Treg_CD4_Skn.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tnaive_CD4.cg
+    type bigWig
+    shortLabel Tnaive_CD4.cg
+    longLabel Tnaive_CD4.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tnaive_CD4.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Tnaive_CD8.cg
+    type bigWig
+    shortLabel Tnaive_CD8.cg
+    longLabel Tnaive_CD8.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Tnaive_CD8.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track Trans_Amp.cg
+    type bigWig
+    shortLabel Trans_Amp.cg
+    longLabel Trans_Amp.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/Trans_Amp.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track VCT.cg
+    type bigWig
+    shortLabel VCT.cg
+    longLabel VCT.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/VCT.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track VIP.cg
+    type bigWig
+    shortLabel VIP.cg
+    longLabel VIP.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/VIP.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track ZG.cg
+    type bigWig
+    shortLabel ZG.cg
+    longLabel ZG.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/ZG.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
+    track ZR_ZF.cg
+    type bigWig
+    shortLabel ZR_ZF.cg
+    longLabel ZR_ZF.cg
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38_zhou2025/ZR_ZF.cg.bw
+    parent ScHuman on
+    color 0,102,255
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:1.0
+    
