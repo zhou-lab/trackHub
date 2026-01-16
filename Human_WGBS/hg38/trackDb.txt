@@ -13,7 +13,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652176_Adipocytes-Z000000T7
   longLabel GSM5652176_Adipocytes-Z000000T7
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652176_Adipocytes-Z000000T7.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652176_Adipocytes.Z000000T7.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -23,7 +23,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652177_Adipocytes-Z000000T9
   longLabel GSM5652177_Adipocytes-Z000000T9
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652177_Adipocytes-Z000000T9.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652177_Adipocytes.Z000000T9.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -33,7 +33,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652178_Adipocytes-Z000000T5
   longLabel GSM5652178_Adipocytes-Z000000T5
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652178_Adipocytes-Z000000T5.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652178_Adipocytes.Z000000T5.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -43,7 +43,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652179_Aorta-Endothel-Z00000422
   longLabel GSM5652179_Aorta-Endothel-Z00000422
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652179_Aorta-Endothel-Z00000422.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652179_Aorta.Endothel.Z00000422.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -53,7 +53,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652180_Aorta-Endothel-Z0000043G
   longLabel GSM5652180_Aorta-Endothel-Z0000043G
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652180_Aorta-Endothel-Z0000043G.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652180_Aorta.Endothel.Z0000043G.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -63,7 +63,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652181_Saphenous-Vein-Endothel-Z000000RM
   longLabel GSM5652181_Saphenous-Vein-Endothel-Z000000RM
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652181_Saphenous-Vein-Endothel-Z000000RM.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652181_Saphenous.Vein.Endothel.Z000000RM.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -73,7 +73,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652182_Saphenous-Vein-Endothel-Z000000S7
   longLabel GSM5652182_Saphenous-Vein-Endothel-Z000000S7
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652182_Saphenous-Vein-Endothel-Z000000S7.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652182_Saphenous.Vein.Endothel.Z000000S7.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -83,7 +83,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652183_Saphenous-Vein-Endothel-Z000000SB
   longLabel GSM5652183_Saphenous-Vein-Endothel-Z000000SB
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652183_Saphenous-Vein-Endothel-Z000000SB.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652183_Saphenous.Vein.Endothel.Z000000SB.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -93,7 +93,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652184_Kidney-Glomerular-Endothel-Z000000Q5
   longLabel GSM5652184_Kidney-Glomerular-Endothel-Z000000Q5
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652184_Kidney-Glomerular-Endothel-Z000000Q5.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652184_Kidney.Glomerular.Endothel.Z000000Q5.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -103,7 +103,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652185_Kidney-Glomerular-Endothel-Z00000443
   longLabel GSM5652185_Kidney-Glomerular-Endothel-Z00000443
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652185_Kidney-Glomerular-Endothel-Z00000443.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652185_Kidney.Glomerular.Endothel.Z00000443.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -113,7 +113,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652186_Kidney-Glomerular-Endothel-Z0000045J
   longLabel GSM5652186_Kidney-Glomerular-Endothel-Z0000045J
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652186_Kidney-Glomerular-Endothel-Z0000045J.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652186_Kidney.Glomerular.Endothel.Z0000045J.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -123,7 +123,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652187_Kidney-Tubular-Endothel-Z000000PX
   longLabel GSM5652187_Kidney-Tubular-Endothel-Z000000PX
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652187_Kidney-Tubular-Endothel-Z000000PX.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652187_Kidney.Tubular.Endothel.Z000000PX.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -133,7 +133,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652188_Kidney-Tubular-Endothel-Z000000Q3
   longLabel GSM5652188_Kidney-Tubular-Endothel-Z000000Q3
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652188_Kidney-Tubular-Endothel-Z000000Q3.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652188_Kidney.Tubular.Endothel.Z000000Q3.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -143,7 +143,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652189_Kidney-Tubular-Endothel-Z0000042R
   longLabel GSM5652189_Kidney-Tubular-Endothel-Z0000042R
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652189_Kidney-Tubular-Endothel-Z0000042R.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652189_Kidney.Tubular.Endothel.Z0000042R.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -153,7 +153,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652190_Liver-Endothelium-Z000000RB
   longLabel GSM5652190_Liver-Endothelium-Z000000RB
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652190_Liver-Endothelium-Z000000RB.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652190_Liver.Endothelium.Z000000RB.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -163,7 +163,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652191_Lung-Alveolar-Endothel-Z000000Q1
   longLabel GSM5652191_Lung-Alveolar-Endothel-Z000000Q1
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652191_Lung-Alveolar-Endothel-Z000000Q1.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652191_Lung.Alveolar.Endothel.Z000000Q1.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -173,7 +173,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652192_Lung-Alveolar-Endothel-Z000000QK
   longLabel GSM5652192_Lung-Alveolar-Endothel-Z000000QK
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652192_Lung-Alveolar-Endothel-Z000000QK.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652192_Lung.Alveolar.Endothel.Z000000QK.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -183,7 +183,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652193_Lung-Alveolar-Endothel-Z0000045H
   longLabel GSM5652193_Lung-Alveolar-Endothel-Z0000045H
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652193_Lung-Alveolar-Endothel-Z0000045H.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652193_Lung.Alveolar.Endothel.Z0000045H.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -193,7 +193,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652194_Pancreas-Endothel-Z0000042D
   longLabel GSM5652194_Pancreas-Endothel-Z0000042D
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652194_Pancreas-Endothel-Z0000042D.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652194_Pancreas.Endothel.Z0000042D.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -203,7 +203,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652195_Pancreas-Endothel-Z0000042X
   longLabel GSM5652195_Pancreas-Endothel-Z0000042X
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652195_Pancreas-Endothel-Z0000042X.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652195_Pancreas.Endothel.Z0000042X.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -213,7 +213,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652196_Pancreas-Endothel-Z00000430
   longLabel GSM5652196_Pancreas-Endothel-Z00000430
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652196_Pancreas-Endothel-Z00000430.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652196_Pancreas.Endothel.Z00000430.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -223,7 +223,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652197_Pancreas-Islet-Endothel-Z0000042Y
   longLabel GSM5652197_Pancreas-Islet-Endothel-Z0000042Y
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652197_Pancreas-Islet-Endothel-Z0000042Y.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652197_Pancreas.Islet.Endothel.Z0000042Y.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -233,7 +233,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652198_Colon-Fibroblasts-Z0000042A
   longLabel GSM5652198_Colon-Fibroblasts-Z0000042A
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652198_Colon-Fibroblasts-Z0000042A.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652198_Colon.Fibroblasts.Z0000042A.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -243,7 +243,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652199_Colon-Fibroblasts-Z0000042C
   longLabel GSM5652199_Colon-Fibroblasts-Z0000042C
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652199_Colon-Fibroblasts-Z0000042C.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652199_Colon.Fibroblasts.Z0000042C.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -253,7 +253,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652200_Heart-Fibroblasts-Z0000043R
   longLabel GSM5652200_Heart-Fibroblasts-Z0000043R
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652200_Heart-Fibroblasts-Z0000043R.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652200_Heart.Fibroblasts.Z0000043R.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -263,7 +263,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652201_Heart-Fibroblasts-Z0000041V
   longLabel GSM5652201_Heart-Fibroblasts-Z0000041V
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652201_Heart-Fibroblasts-Z0000041V.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652201_Heart.Fibroblasts.Z0000041V.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -273,7 +273,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652202_Heart-Fibroblasts-Z0000041W
   longLabel GSM5652202_Heart-Fibroblasts-Z0000041W
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652202_Heart-Fibroblasts-Z0000041W.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652202_Heart.Fibroblasts.Z0000041W.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -283,7 +283,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652203_Heart-Fibroblasts-Z0000041X
   longLabel GSM5652203_Heart-Fibroblasts-Z0000041X
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652203_Heart-Fibroblasts-Z0000041X.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652203_Heart.Fibroblasts.Z0000041X.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -293,7 +293,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652204_Dermal-Fibroblasts-Z00000423
   longLabel GSM5652204_Dermal-Fibroblasts-Z00000423
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652204_Dermal-Fibroblasts-Z00000423.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652204_Dermal.Fibroblasts.Z00000423.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -303,7 +303,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652205_Skeletal-Muscle-Z00000427
   longLabel GSM5652205_Skeletal-Muscle-Z00000427
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652205_Skeletal-Muscle-Z00000427.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652205_Skeletal.Muscle.Z00000427.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -313,7 +313,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652206_Skeletal-Muscle-Z00000429
   longLabel GSM5652206_Skeletal-Muscle-Z00000429
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652206_Skeletal-Muscle-Z00000429.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652206_Skeletal.Muscle.Z00000429.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -323,7 +323,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652207_Aorta-Smooth-Muscle-Z0000041U
   longLabel GSM5652207_Aorta-Smooth-Muscle-Z0000041U
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652207_Aorta-Smooth-Muscle-Z0000041U.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652207_Aorta.Smooth.Muscle.Z0000041U.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -333,7 +333,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652208_Coronary-Artery-Smooth-Muscle-Z00000420
   longLabel GSM5652208_Coronary-Artery-Smooth-Muscle-Z00000420
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652208_Coronary-Artery-Smooth-Muscle-Z00000420.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652208_Coronary.Artery.Smooth.Muscle.Z00000420.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -343,7 +343,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652209_Bladder-Smooth-Muscle-Z0000041Z
   longLabel GSM5652209_Bladder-Smooth-Muscle-Z0000041Z
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652209_Bladder-Smooth-Muscle-Z0000041Z.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652209_Bladder.Smooth.Muscle.Z0000041Z.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -353,7 +353,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652210_Prostate-Smooth-Muscle-Z0000041Y
   longLabel GSM5652210_Prostate-Smooth-Muscle-Z0000041Y
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652210_Prostate-Smooth-Muscle-Z0000041Y.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652210_Prostate.Smooth.Muscle.Z0000041Y.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -363,7 +363,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652211_Lung-Bronchus-Smooth-Muscle-Z00000421
   longLabel GSM5652211_Lung-Bronchus-Smooth-Muscle-Z00000421
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652211_Lung-Bronchus-Smooth-Muscle-Z00000421.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652211_Lung.Bronchus.Smooth.Muscle.Z00000421.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -373,7 +373,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652212_Heart-Cardiomyocyte-Z0000044G
   longLabel GSM5652212_Heart-Cardiomyocyte-Z0000044G
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652212_Heart-Cardiomyocyte-Z0000044G.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652212_Heart.Cardiomyocyte.Z0000044G.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -383,7 +383,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652213_Heart-Cardiomyocyte-Z0000044K
   longLabel GSM5652213_Heart-Cardiomyocyte-Z0000044K
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652213_Heart-Cardiomyocyte-Z0000044K.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652213_Heart.Cardiomyocyte.Z0000044K.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -393,7 +393,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652214_Heart-Cardiomyocyte-Z0000044N
   longLabel GSM5652214_Heart-Cardiomyocyte-Z0000044N
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652214_Heart-Cardiomyocyte-Z0000044N.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652214_Heart.Cardiomyocyte.Z0000044N.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -403,7 +403,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652215_Heart-Cardiomyocyte-Z0000044P
   longLabel GSM5652215_Heart-Cardiomyocyte-Z0000044P
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652215_Heart-Cardiomyocyte-Z0000044P.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652215_Heart.Cardiomyocyte.Z0000044P.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -413,7 +413,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652216_Heart-Cardiomyocyte-Z0000044Q
   longLabel GSM5652216_Heart-Cardiomyocyte-Z0000044Q
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652216_Heart-Cardiomyocyte-Z0000044Q.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652216_Heart.Cardiomyocyte.Z0000044Q.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -423,7 +423,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652217_Heart-Cardiomyocyte-Z0000044R
   longLabel GSM5652217_Heart-Cardiomyocyte-Z0000044R
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652217_Heart-Cardiomyocyte-Z0000044R.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652217_Heart.Cardiomyocyte.Z0000044R.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -433,7 +433,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652218_Bone-Osteoblasts-Z0000042Z
   longLabel GSM5652218_Bone-Osteoblasts-Z0000042Z
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652218_Bone-Osteoblasts-Z0000042Z.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652218_Bone.Osteoblasts.Z0000042Z.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -443,7 +443,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652219_Oligodendrocytes-Z000000TK
   longLabel GSM5652219_Oligodendrocytes-Z000000TK
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652219_Oligodendrocytes-Z000000TK.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652219_Oligodendrocytes.Z000000TK.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -453,7 +453,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652220_Oligodendrocytes-Z0000042E
   longLabel GSM5652220_Oligodendrocytes-Z0000042E
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652220_Oligodendrocytes-Z0000042E.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652220_Oligodendrocytes.Z0000042E.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -463,7 +463,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652221_Oligodendrocytes-Z0000042L
   longLabel GSM5652221_Oligodendrocytes-Z0000042L
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652221_Oligodendrocytes-Z0000042L.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652221_Oligodendrocytes.Z0000042L.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -473,7 +473,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652222_Oligodendrocytes-Z0000042N
   longLabel GSM5652222_Oligodendrocytes-Z0000042N
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652222_Oligodendrocytes-Z0000042N.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652222_Oligodendrocytes.Z0000042N.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -483,7 +483,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652223_Cortex-Neuron-Z000000TF
   longLabel GSM5652223_Cortex-Neuron-Z000000TF
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652223_Cortex-Neuron-Z000000TF.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652223_Cortex.Neuron.Z000000TF.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -493,7 +493,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652224_Neuron-Z000000TH
   longLabel GSM5652224_Neuron-Z000000TH
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652224_Neuron-Z000000TH.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652224_Neuron.Z000000TH.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -503,7 +503,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652225_Cortex-Neuron-Z0000042F
   longLabel GSM5652225_Cortex-Neuron-Z0000042F
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652225_Cortex-Neuron-Z0000042F.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652225_Cortex.Neuron.Z0000042F.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -513,7 +513,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652226_Cortex-Neuron-Z0000042H
   longLabel GSM5652226_Cortex-Neuron-Z0000042H
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652226_Cortex-Neuron-Z0000042H.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652226_Cortex.Neuron.Z0000042H.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -523,7 +523,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652227_Cortex-Neuron-Z0000042J
   longLabel GSM5652227_Cortex-Neuron-Z0000042J
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652227_Cortex-Neuron-Z0000042J.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652227_Cortex.Neuron.Z0000042J.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -533,7 +533,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652228_Cortex-Neuron-Z0000042M
   longLabel GSM5652228_Cortex-Neuron-Z0000042M
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652228_Cortex-Neuron-Z0000042M.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652228_Cortex.Neuron.Z0000042M.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -543,7 +543,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652229_Cortex-Neuron-Z0000042P
   longLabel GSM5652229_Cortex-Neuron-Z0000042P
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652229_Cortex-Neuron-Z0000042P.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652229_Cortex.Neuron.Z0000042P.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -553,7 +553,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652230_Cortex-Neuron-Z0000042K
   longLabel GSM5652230_Cortex-Neuron-Z0000042K
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652230_Cortex-Neuron-Z0000042K.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652230_Cortex.Neuron.Z0000042K.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -563,7 +563,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652231_Cerebellum-Neuron-Z000000TB
   longLabel GSM5652231_Cerebellum-Neuron-Z000000TB
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652231_Cerebellum-Neuron-Z000000TB.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652231_Cerebellum.Neuron.Z000000TB.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -573,7 +573,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652232_Cortex-Neuron-Z000000TD
   longLabel GSM5652232_Cortex-Neuron-Z000000TD
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652232_Cortex-Neuron-Z000000TD.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652232_Cortex.Neuron.Z000000TD.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -583,7 +583,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652233_Liver-Hepatocytes-Z000000R3
   longLabel GSM5652233_Liver-Hepatocytes-Z000000R3
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652233_Liver-Hepatocytes-Z000000R3.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652233_Liver.Hepatocytes.Z000000R3.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -593,7 +593,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652234_Liver-Hepatocytes-Z000000T3
   longLabel GSM5652234_Liver-Hepatocytes-Z000000T3
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652234_Liver-Hepatocytes-Z000000T3.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652234_Liver.Hepatocytes.Z000000T3.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -603,7 +603,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652235_Liver-Hepatocytes-Z0000043Q
   longLabel GSM5652235_Liver-Hepatocytes-Z0000043Q
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652235_Liver-Hepatocytes-Z0000043Q.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652235_Liver.Hepatocytes.Z0000043Q.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -613,7 +613,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652236_Liver-Hepatocytes-Z0000044H
   longLabel GSM5652236_Liver-Hepatocytes-Z0000044H
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652236_Liver-Hepatocytes-Z0000044H.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652236_Liver.Hepatocytes.Z0000044H.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -623,7 +623,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652237_Liver-Hepatocytes-Z0000044M
   longLabel GSM5652237_Liver-Hepatocytes-Z0000044M
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652237_Liver-Hepatocytes-Z0000044M.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652237_Liver.Hepatocytes.Z0000044M.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -633,7 +633,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652238_Liver-Hepatocytes-Z00000431
   longLabel GSM5652238_Liver-Hepatocytes-Z00000431
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652238_Liver-Hepatocytes-Z00000431.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652238_Liver.Hepatocytes.Z00000431.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -643,7 +643,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652239_Pancreas-Duct-Z0000043T
   longLabel GSM5652239_Pancreas-Duct-Z0000043T
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652239_Pancreas-Duct-Z0000043T.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652239_Pancreas.Duct.Z0000043T.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -653,7 +653,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652240_Pancreas-Duct-Z0000043U
   longLabel GSM5652240_Pancreas-Duct-Z0000043U
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652240_Pancreas-Duct-Z0000043U.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652240_Pancreas.Duct.Z0000043U.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -663,7 +663,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652241_Pancreas-Duct-Z0000043V
   longLabel GSM5652241_Pancreas-Duct-Z0000043V
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652241_Pancreas-Duct-Z0000043V.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652241_Pancreas.Duct.Z0000043V.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -673,7 +673,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652242_Pancreas-Duct-Z000000QZ
   longLabel GSM5652242_Pancreas-Duct-Z000000QZ
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652242_Pancreas-Duct-Z000000QZ.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652242_Pancreas.Duct.Z000000QZ.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -683,7 +683,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652243_Pancreas-Acinar-Z000000QX
   longLabel GSM5652243_Pancreas-Acinar-Z000000QX
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652243_Pancreas-Acinar-Z000000QX.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652243_Pancreas.Acinar.Z000000QX.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -693,7 +693,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652244_Pancreas-Acinar-Z0000043W
   longLabel GSM5652244_Pancreas-Acinar-Z0000043W
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652244_Pancreas-Acinar-Z0000043W.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652244_Pancreas.Acinar.Z0000043W.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -703,7 +703,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652245_Pancreas-Acinar-Z0000043X
   longLabel GSM5652245_Pancreas-Acinar-Z0000043X
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652245_Pancreas-Acinar-Z0000043X.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652245_Pancreas.Acinar.Z0000043X.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -713,7 +713,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652246_Pancreas-Acinar-Z0000043Y
   longLabel GSM5652246_Pancreas-Acinar-Z0000043Y
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652246_Pancreas-Acinar-Z0000043Y.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652246_Pancreas.Acinar.Z0000043Y.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -723,7 +723,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652247_Pancreas-Delta-Z00000451
   longLabel GSM5652247_Pancreas-Delta-Z00000451
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652247_Pancreas-Delta-Z00000451.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652247_Pancreas.Delta.Z00000451.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -733,7 +733,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652248_Pancreas-Delta-Z00000454
   longLabel GSM5652248_Pancreas-Delta-Z00000454
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652248_Pancreas-Delta-Z00000454.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652248_Pancreas.Delta.Z00000454.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -743,7 +743,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652249_Pancreas-Delta-Z00000457
   longLabel GSM5652249_Pancreas-Delta-Z00000457
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652249_Pancreas-Delta-Z00000457.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652249_Pancreas.Delta.Z00000457.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -753,7 +753,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652250_Pancreas-Beta-Z00000452
   longLabel GSM5652250_Pancreas-Beta-Z00000452
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652250_Pancreas-Beta-Z00000452.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652250_Pancreas.Beta.Z00000452.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -763,7 +763,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652251_Pancreas-Beta-Z00000455
   longLabel GSM5652251_Pancreas-Beta-Z00000455
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652251_Pancreas-Beta-Z00000455.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652251_Pancreas.Beta.Z00000455.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -773,7 +773,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652252_Pancreas-Beta-Z00000458
   longLabel GSM5652252_Pancreas-Beta-Z00000458
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652252_Pancreas-Beta-Z00000458.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652252_Pancreas.Beta.Z00000458.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -783,7 +783,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652253_Pancreas-Alpha-Z00000453
   longLabel GSM5652253_Pancreas-Alpha-Z00000453
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652253_Pancreas-Alpha-Z00000453.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652253_Pancreas.Alpha.Z00000453.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -793,7 +793,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652254_Pancreas-Alpha-Z00000456
   longLabel GSM5652254_Pancreas-Alpha-Z00000456
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652254_Pancreas-Alpha-Z00000456.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652254_Pancreas.Alpha.Z00000456.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -803,7 +803,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652255_Pancreas-Alpha-Z00000459
   longLabel GSM5652255_Pancreas-Alpha-Z00000459
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652255_Pancreas-Alpha-Z00000459.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652255_Pancreas.Alpha.Z00000459.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -813,7 +813,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
   longLabel GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652256_Kidney.Glomerular.Epithelial.Z0000045K.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -823,7 +823,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
   longLabel GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652257_Kidney.Glomerular.Epithelial.Z0000045L.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -833,7 +833,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
   longLabel GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652258_Kidney-Tubular-Epithelial-Z000000QH.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652258_Kidney.Tubular.Epithelial.Z000000QH.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -843,7 +843,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
   longLabel GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652259_Kidney.Tubular.Epithelial.Z0000043Z.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -853,7 +853,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652260_Kidney-Tubular-Epithelial-Z00000440
   longLabel GSM5652260_Kidney-Tubular-Epithelial-Z00000440
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652260_Kidney-Tubular-Epithelial-Z00000440.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652260_Kidney.Tubular.Epithelial.Z00000440.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -863,7 +863,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
   longLabel GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652261_Kidney.Glomerular.Podocytes.Z0000042W.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -873,7 +873,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
   longLabel GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652262_Kidney-Glomerular-Podocytes-Z00000441.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652262_Kidney.Glomerular.Podocytes.Z00000441.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -883,7 +883,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
   longLabel GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652263_Kidney-Glomerular-Podocytes-Z00000442.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652263_Kidney.Glomerular.Podocytes.Z00000442.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -893,7 +893,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652264_Thyroid-Epithelial-Z0000042S
   longLabel GSM5652264_Thyroid-Epithelial-Z0000042S
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652264_Thyroid-Epithelial-Z0000042S.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652264_Thyroid.Epithelial.Z0000042S.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -903,7 +903,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652265_Thyroid-Epithelial-Z0000042T
   longLabel GSM5652265_Thyroid-Epithelial-Z0000042T
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652265_Thyroid-Epithelial-Z0000042T.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652265_Thyroid.Epithelial.Z0000042T.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -913,7 +913,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652266_Thyroid-Epithelial-Z0000042U
   longLabel GSM5652266_Thyroid-Epithelial-Z0000042U
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652266_Thyroid-Epithelial-Z0000042U.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652266_Thyroid.Epithelial.Z0000042U.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -923,7 +923,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652267_Fallopian-Epithelial-Z000000Q7
   longLabel GSM5652267_Fallopian-Epithelial-Z000000Q7
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652267_Fallopian-Epithelial-Z000000Q7.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652267_Fallopian.Epithelial.Z000000Q7.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -933,7 +933,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652268_Fallopian-Epithelial-Z000000S9
   longLabel GSM5652268_Fallopian-Epithelial-Z000000S9
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652268_Fallopian-Epithelial-Z000000S9.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652268_Fallopian.Epithelial.Z000000S9.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -943,7 +943,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652269_Fallopian-Epithelial-Z000000UV
   longLabel GSM5652269_Fallopian-Epithelial-Z000000UV
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652269_Fallopian-Epithelial-Z000000UV.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652269_Fallopian.Epithelial.Z000000UV.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -953,7 +953,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652270_Ovary-Epithelial-Z000000QT
   longLabel GSM5652270_Ovary-Epithelial-Z000000QT
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652270_Ovary-Epithelial-Z000000QT.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652270_Ovary.Epithelial.Z000000QT.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -963,7 +963,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652271_Endometrium-Epithelial-Z00000434
   longLabel GSM5652271_Endometrium-Epithelial-Z00000434
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652271_Endometrium-Epithelial-Z00000434.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652271_Endometrium.Epithelial.Z00000434.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -973,7 +973,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652272_Endometrium-Epithelial-Z00000435
   longLabel GSM5652272_Endometrium-Epithelial-Z00000435
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652272_Endometrium-Epithelial-Z00000435.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652272_Endometrium.Epithelial.Z00000435.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -983,7 +983,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652273_Endometrium-Epithelial-Z0000043S
   longLabel GSM5652273_Endometrium-Epithelial-Z0000043S
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652273_Endometrium-Epithelial-Z0000043S.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652273_Endometrium.Epithelial.Z0000043S.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -993,7 +993,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652274_Bone_marrow-Erythrocyte_progenitors-Z000000RF
   longLabel GSM5652274_Bone_marrow-Erythrocyte_progenitors-Z000000RF
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652274_Bone_marrow-Erythrocyte_progenitors-Z000000RF.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652274_Bone_marrow.Erythrocyte_progenitors.Z000000RF.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1003,7 +1003,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652275_Bone_marrow-Erythrocyte_progenitors-Z000000RH
   longLabel GSM5652275_Bone_marrow-Erythrocyte_progenitors-Z000000RH
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652275_Bone_marrow-Erythrocyte_progenitors-Z000000RH.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652275_Bone_marrow.Erythrocyte_progenitors.Z000000RH.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1013,7 +1013,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652276_Bone_marrow-Erythrocyte_progenitors-Z000000RK
   longLabel GSM5652276_Bone_marrow-Erythrocyte_progenitors-Z000000RK
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652276_Bone_marrow-Erythrocyte_progenitors-Z000000RK.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652276_Bone_marrow.Erythrocyte_progenitors.Z000000RK.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1023,7 +1023,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652277_Blood-T-CD3-Z000000TV
   longLabel GSM5652277_Blood-T-CD3-Z000000TV
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652277_Blood-T-CD3-Z000000TV.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652277_Blood.T.CD3.Z000000TV.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1033,7 +1033,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652278_Blood-T-CD3-Z000000UP
   longLabel GSM5652278_Blood-T-CD3-Z000000UP
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652278_Blood-T-CD3-Z000000UP.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652278_Blood.T.CD3.Z000000UP.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1043,7 +1043,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652279_Blood-T-CD4-Z000000TT
   longLabel GSM5652279_Blood-T-CD4-Z000000TT
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652279_Blood-T-CD4-Z000000TT.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652279_Blood.T.CD4.Z000000TT.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1053,7 +1053,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652280_Blood-T-CD4-Z000000U7
   longLabel GSM5652280_Blood-T-CD4-Z000000U7
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652280_Blood-T-CD4-Z000000U7.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652280_Blood.T.CD4.Z000000U7.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1063,7 +1063,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652281_Blood-T-CD4-Z000000UM
   longLabel GSM5652281_Blood-T-CD4-Z000000UM
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652281_Blood-T-CD4-Z000000UM.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652281_Blood.T.CD4.Z000000UM.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1073,7 +1073,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652282_Blood-T-CD8-Z000000TR
   longLabel GSM5652282_Blood-T-CD8-Z000000TR
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652282_Blood-T-CD8-Z000000TR.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652282_Blood.T.CD8.Z000000TR.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1083,7 +1083,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652283_Blood-T-CD8-Z000000U5
   longLabel GSM5652283_Blood-T-CD8-Z000000U5
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652283_Blood-T-CD8-Z000000U5.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652283_Blood.T.CD8.Z000000U5.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1093,7 +1093,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652284_Blood-T-CD8-Z000000UK
   longLabel GSM5652284_Blood-T-CD8-Z000000UK
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652284_Blood-T-CD8-Z000000UK.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652284_Blood.T.CD8.Z000000UK.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1103,7 +1103,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652285_Blood-T-CenMem-CD4-Z00000417
   longLabel GSM5652285_Blood-T-CenMem-CD4-Z00000417
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652285_Blood-T-CenMem-CD4-Z00000417.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652285_Blood.T.CenMem.CD4.Z00000417.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1113,7 +1113,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652286_Blood-T-CenMem-CD4-Z0000041D
   longLabel GSM5652286_Blood-T-CenMem-CD4-Z0000041D
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652286_Blood-T-CenMem-CD4-Z0000041D.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652286_Blood.T.CenMem.CD4.Z0000041D.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1123,7 +1123,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652287_Blood-T-CenMem-CD4-Z0000041N
   longLabel GSM5652287_Blood-T-CenMem-CD4-Z0000041N
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652287_Blood-T-CenMem-CD4-Z0000041N.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652287_Blood.T.CenMem.CD4.Z0000041N.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1133,7 +1133,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652288_Blood-T-Eff-CD8-Z00000419
   longLabel GSM5652288_Blood-T-Eff-CD8-Z00000419
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652288_Blood-T-Eff-CD8-Z00000419.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652288_Blood.T.Eff.CD8.Z00000419.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1143,7 +1143,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652289_Blood-T-Eff-CD8-Z0000041F
   longLabel GSM5652289_Blood-T-Eff-CD8-Z0000041F
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652289_Blood-T-Eff-CD8-Z0000041F.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652289_Blood.T.Eff.CD8.Z0000041F.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1153,7 +1153,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652290_Blood-T-Eff-CD8-Z0000041Q
   longLabel GSM5652290_Blood-T-Eff-CD8-Z0000041Q
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652290_Blood-T-Eff-CD8-Z0000041Q.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652290_Blood.T.Eff.CD8.Z0000041Q.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1163,7 +1163,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652291_Blood-T-EffMem-CD4-Z00000416
   longLabel GSM5652291_Blood-T-EffMem-CD4-Z00000416
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652291_Blood-T-EffMem-CD4-Z00000416.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652291_Blood.T.EffMem.CD4.Z00000416.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1173,7 +1173,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652292_Blood-T-EffMem-CD4-Z0000041C
   longLabel GSM5652292_Blood-T-EffMem-CD4-Z0000041C
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652292_Blood-T-EffMem-CD4-Z0000041C.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652292_Blood.T.EffMem.CD4.Z0000041C.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1183,7 +1183,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652293_Blood-T-EffMem-CD4-Z0000041M
   longLabel GSM5652293_Blood-T-EffMem-CD4-Z0000041M
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652293_Blood-T-EffMem-CD4-Z0000041M.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652293_Blood.T.EffMem.CD4.Z0000041M.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1193,7 +1193,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652294_Blood-T-EffMem-CD8-Z0000041A
   longLabel GSM5652294_Blood-T-EffMem-CD8-Z0000041A
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652294_Blood-T-EffMem-CD8-Z0000041A.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652294_Blood.T.EffMem.CD8.Z0000041A.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1203,7 +1203,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652295_Blood-T-EffMem-CD8-Z0000041G
   longLabel GSM5652295_Blood-T-EffMem-CD8-Z0000041G
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652295_Blood-T-EffMem-CD8-Z0000041G.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652295_Blood.T.EffMem.CD8.Z0000041G.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1213,7 +1213,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652296_Blood-T-Naive-CD4-Z0000041E
   longLabel GSM5652296_Blood-T-Naive-CD4-Z0000041E
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652296_Blood-T-Naive-CD4-Z0000041E.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652296_Blood.T.Naive.CD4.Z0000041E.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1223,7 +1223,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652297_Blood-T-Naive-CD8-Z0000041B
   longLabel GSM5652297_Blood-T-Naive-CD8-Z0000041B
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652297_Blood-T-Naive-CD8-Z0000041B.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652297_Blood.T.Naive.CD8.Z0000041B.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1233,7 +1233,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652298_Blood-T-Naive-CD8-Z0000041H
   longLabel GSM5652298_Blood-T-Naive-CD8-Z0000041H
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652298_Blood-T-Naive-CD8-Z0000041H.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652298_Blood.T.Naive.CD8.Z0000041H.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1243,7 +1243,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652299_Blood-NK-Z000000TM
   longLabel GSM5652299_Blood-NK-Z000000TM
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652299_Blood-NK-Z000000TM.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652299_Blood.NK.Z000000TM.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1253,7 +1253,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652300_Blood-NK-Z000000U1
   longLabel GSM5652300_Blood-NK-Z000000U1
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652300_Blood-NK-Z000000U1.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652300_Blood.NK.Z000000U1.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1263,7 +1263,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652301_Blood-NK-Z000000UF
   longLabel GSM5652301_Blood-NK-Z000000UF
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652301_Blood-NK-Z000000UF.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652301_Blood.NK.Z000000UF.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1273,7 +1273,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652302_Blood-Monocytes-Z000000TP
   longLabel GSM5652302_Blood-Monocytes-Z000000TP
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652302_Blood-Monocytes-Z000000TP.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652302_Blood.Monocytes.Z000000TP.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1283,7 +1283,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652303_Blood-Monocytes-Z000000U3
   longLabel GSM5652303_Blood-Monocytes-Z000000U3
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652303_Blood-Monocytes-Z000000U3.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652303_Blood.Monocytes.Z000000U3.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1293,7 +1293,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652304_Blood-Monocytes-Z000000UH
   longLabel GSM5652304_Blood-Monocytes-Z000000UH
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652304_Blood-Monocytes-Z000000UH.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652304_Blood.Monocytes.Z000000UH.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1303,7 +1303,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652305_Colon-Macrophages-Z00000444
   longLabel GSM5652305_Colon-Macrophages-Z00000444
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652305_Colon-Macrophages-Z00000444.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652305_Colon.Macrophages.Z00000444.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1313,7 +1313,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652306_Colon-Macrophages-Z00000446
   longLabel GSM5652306_Colon-Macrophages-Z00000446
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652306_Colon-Macrophages-Z00000446.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652306_Colon.Macrophages.Z00000446.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1323,7 +1323,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652307_Liver-Macrophages-Z0000043P
   longLabel GSM5652307_Liver-Macrophages-Z0000043P
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652307_Liver-Macrophages-Z0000043P.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652307_Liver.Macrophages.Z0000043P.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1333,7 +1333,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652308_Lung-Alveolar-Macrophages-Z00000448
   longLabel GSM5652308_Lung-Alveolar-Macrophages-Z00000448
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652308_Lung-Alveolar-Macrophages-Z00000448.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652308_Lung.Alveolar.Macrophages.Z00000448.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1343,7 +1343,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652309_Lung-Alveolar-Macrophages-Z0000044C
   longLabel GSM5652309_Lung-Alveolar-Macrophages-Z0000044C
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652309_Lung-Alveolar-Macrophages-Z0000044C.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652309_Lung.Alveolar.Macrophages.Z0000044C.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1353,7 +1353,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652310_Lung-Interstitial-Macrophages-Z00000447
   longLabel GSM5652310_Lung-Interstitial-Macrophages-Z00000447
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652310_Lung-Interstitial-Macrophages-Z00000447.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652310_Lung.Interstitial.Macrophages.Z00000447.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1363,7 +1363,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652311_Lung-Interstitial-Macrophages-Z0000044D
   longLabel GSM5652311_Lung-Interstitial-Macrophages-Z0000044D
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652311_Lung-Interstitial-Macrophages-Z0000044D.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652311_Lung.Interstitial.Macrophages.Z0000044D.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1373,7 +1373,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652312_Lung-Interstitial-Macrophages-Z0000044E
   longLabel GSM5652312_Lung-Interstitial-Macrophages-Z0000044E
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652312_Lung-Interstitial-Macrophages-Z0000044E.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652312_Lung.Interstitial.Macrophages.Z0000044E.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1383,7 +1383,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652313_Blood-Granulocytes-Z000000TZ
   longLabel GSM5652313_Blood-Granulocytes-Z000000TZ
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652313_Blood-Granulocytes-Z000000TZ.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652313_Blood.Granulocytes.Z000000TZ.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1393,7 +1393,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652314_Blood-Granulocytes-Z000000UD
   longLabel GSM5652314_Blood-Granulocytes-Z000000UD
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652314_Blood-Granulocytes-Z000000UD.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652314_Blood.Granulocytes.Z000000UD.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1403,7 +1403,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652315_Blood-Granulocytes-Z000000UT
   longLabel GSM5652315_Blood-Granulocytes-Z000000UT
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652315_Blood-Granulocytes-Z000000UT.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652315_Blood.Granulocytes.Z000000UT.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1413,7 +1413,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652316_Blood-B-Z000000TX
   longLabel GSM5652316_Blood-B-Z000000TX
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652316_Blood-B-Z000000TX.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652316_Blood.B.Z000000TX.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1423,7 +1423,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652317_Blood-B-Z000000UB
   longLabel GSM5652317_Blood-B-Z000000UB
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652317_Blood-B-Z000000UB.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652317_Blood.B.Z000000UB.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1433,7 +1433,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652318_Blood-B-Z000000UR
   longLabel GSM5652318_Blood-B-Z000000UR
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652318_Blood-B-Z000000UR.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652318_Blood.B.Z000000UR.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1443,7 +1443,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652319_Blood-B-Mem-Z0000041J
   longLabel GSM5652319_Blood-B-Mem-Z0000041J
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652319_Blood-B-Mem-Z0000041J.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652319_Blood.B.Mem.Z0000041J.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1453,7 +1453,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652320_Blood-B-Mem-Z0000041K
   longLabel GSM5652320_Blood-B-Mem-Z0000041K
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652320_Blood-B-Mem-Z0000041K.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652320_Blood.B.Mem.Z0000041K.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1463,7 +1463,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652321_Epidermal-Keratinocytes-Z00000424
   longLabel GSM5652321_Epidermal-Keratinocytes-Z00000424
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652321_Epidermal-Keratinocytes-Z00000424.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652321_Epidermal.Keratinocytes.Z00000424.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1473,7 +1473,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652322_Tonsil-Palatine-Epithelial-Z000000QF
   longLabel GSM5652322_Tonsil-Palatine-Epithelial-Z000000QF
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652322_Tonsil-Palatine-Epithelial-Z000000QF.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652322_Tonsil.Palatine.Epithelial.Z000000QF.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1483,7 +1483,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652323_Tonsil-Palatine-Epithelial-Z000000RP
   longLabel GSM5652323_Tonsil-Palatine-Epithelial-Z000000RP
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652323_Tonsil-Palatine-Epithelial-Z000000RP.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652323_Tonsil.Palatine.Epithelial.Z000000RP.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1493,7 +1493,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652324_Tonsil-Palatine-Epithelial-Z000000RR
   longLabel GSM5652324_Tonsil-Palatine-Epithelial-Z000000RR
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652324_Tonsil-Palatine-Epithelial-Z000000RR.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652324_Tonsil.Palatine.Epithelial.Z000000RR.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1503,7 +1503,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652325_Tonsil-Pharyngeal-Epithelial-Z000000Q9
   longLabel GSM5652325_Tonsil-Pharyngeal-Epithelial-Z000000Q9
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652325_Tonsil-Pharyngeal-Epithelial-Z000000Q9.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652325_Tonsil.Pharyngeal.Epithelial.Z000000Q9.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1513,7 +1513,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652326_Tonsil-Pharyngeal-Epithelial-Z000000S1
   longLabel GSM5652326_Tonsil-Pharyngeal-Epithelial-Z000000S1
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652326_Tonsil-Pharyngeal-Epithelial-Z000000S1.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652326_Tonsil.Pharyngeal.Epithelial.Z000000S1.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1523,7 +1523,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652327_Tongue-Epithelial-Z000000QV
   longLabel GSM5652327_Tongue-Epithelial-Z000000QV
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652327_Tongue-Epithelial-Z000000QV.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652327_Tongue.Epithelial.Z000000QV.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1533,7 +1533,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652328_Tongue-Epithelial-Z00000449
   longLabel GSM5652328_Tongue-Epithelial-Z00000449
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652328_Tongue-Epithelial-Z00000449.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652328_Tongue.Epithelial.Z00000449.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1543,7 +1543,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652329_Tongue-Epithelial-Z0000044F
   longLabel GSM5652329_Tongue-Epithelial-Z0000044F
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652329_Tongue-Epithelial-Z0000044F.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652329_Tongue.Epithelial.Z0000044F.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1553,7 +1553,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652330_Tongue_base-Epithelial-Z0000044B
   longLabel GSM5652330_Tongue_base-Epithelial-Z0000044B
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652330_Tongue_base-Epithelial-Z0000044B.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652330_Tongue_base.Epithelial.Z0000044B.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1563,7 +1563,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652331_Larynx-Epithelial-Z000000QB
   longLabel GSM5652331_Larynx-Epithelial-Z000000QB
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652331_Larynx-Epithelial-Z000000QB.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652331_Larynx.Epithelial.Z000000QB.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1573,7 +1573,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652332_Esophagus-Epithelial-Z000000PZ
   longLabel GSM5652332_Esophagus-Epithelial-Z000000PZ
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652332_Esophagus-Epithelial-Z000000PZ.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652332_Esophagus.Epithelial.Z000000PZ.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1583,7 +1583,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652333_Esophagus-Epithelial-Z00000426
   longLabel GSM5652333_Esophagus-Epithelial-Z00000426
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652333_Esophagus-Epithelial-Z00000426.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652333_Esophagus.Epithelial.Z00000426.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1593,7 +1593,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652334_Pharynx-Epithelial-Z0000044A
   longLabel GSM5652334_Pharynx-Epithelial-Z0000044A
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652334_Pharynx-Epithelial-Z0000044A.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652334_Pharynx.Epithelial.Z0000044A.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1603,7 +1603,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652335_Lung-Bronchus-Epithelial-Z000000QD
   longLabel GSM5652335_Lung-Bronchus-Epithelial-Z000000QD
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652335_Lung-Bronchus-Epithelial-Z000000QD.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652335_Lung.Bronchus.Epithelial.Z000000QD.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1613,7 +1613,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652336_Lung-Bronchus-Epithelial-Z000000RZ
   longLabel GSM5652336_Lung-Bronchus-Epithelial-Z000000RZ
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652336_Lung-Bronchus-Epithelial-Z000000RZ.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652336_Lung.Bronchus.Epithelial.Z000000RZ.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1623,7 +1623,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652337_Lung-Bronchus-Epithelial-Z000000S5
   longLabel GSM5652337_Lung-Bronchus-Epithelial-Z000000S5
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652337_Lung-Bronchus-Epithelial-Z000000S5.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652337_Lung.Bronchus.Epithelial.Z000000S5.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1633,7 +1633,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652338_Prostate-Epithelial-Z000000RV
   longLabel GSM5652338_Prostate-Epithelial-Z000000RV
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652338_Prostate-Epithelial-Z000000RV.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652338_Prostate.Epithelial.Z000000RV.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1643,7 +1643,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652339_Prostate-Epithelial-Z000000S3
   longLabel GSM5652339_Prostate-Epithelial-Z000000S3
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652339_Prostate-Epithelial-Z000000S3.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652339_Prostate.Epithelial.Z000000S3.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1653,7 +1653,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652340_Prostate-Epithelial-Z0000045F
   longLabel GSM5652340_Prostate-Epithelial-Z0000045F
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652340_Prostate-Epithelial-Z0000045F.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652340_Prostate.Epithelial.Z0000045F.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1663,7 +1663,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652341_Prostate-Epithelial-Z0000045G
   longLabel GSM5652341_Prostate-Epithelial-Z0000045G
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652341_Prostate-Epithelial-Z0000045G.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652341_Prostate.Epithelial.Z0000045G.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1673,7 +1673,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652342_Bladder-Epithelial-Z000000QM
   longLabel GSM5652342_Bladder-Epithelial-Z000000QM
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652342_Bladder-Epithelial-Z000000QM.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652342_Bladder.Epithelial.Z000000QM.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1683,7 +1683,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652343_Bladder-Epithelial-Z000000QP
   longLabel GSM5652343_Bladder-Epithelial-Z000000QP
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652343_Bladder-Epithelial-Z000000QP.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652343_Bladder.Epithelial.Z000000QP.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1693,7 +1693,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652344_Bladder-Epithelial-Z0000043F
   longLabel GSM5652344_Bladder-Epithelial-Z0000043F
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652344_Bladder-Epithelial-Z0000043F.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652344_Bladder.Epithelial.Z0000043F.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1703,7 +1703,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652345_Bladder-Epithelial-Z0000044L
   longLabel GSM5652345_Bladder-Epithelial-Z0000044L
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652345_Bladder-Epithelial-Z0000044L.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652345_Bladder.Epithelial.Z0000044L.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1713,7 +1713,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652346_Bladder-Epithelial-Z00000450
   longLabel GSM5652346_Bladder-Epithelial-Z00000450
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652346_Bladder-Epithelial-Z00000450.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652346_Bladder.Epithelial.Z00000450.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1723,7 +1723,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652347_Breast-Luminal-Epithelial-Z000000V2
   longLabel GSM5652347_Breast-Luminal-Epithelial-Z000000V2
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652347_Breast-Luminal-Epithelial-Z000000V2.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652347_Breast.Luminal.Epithelial.Z000000V2.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1733,7 +1733,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652348_Breast-Luminal-Epithelial-Z000000VJ
   longLabel GSM5652348_Breast-Luminal-Epithelial-Z000000VJ
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652348_Breast-Luminal-Epithelial-Z000000VJ.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652348_Breast.Luminal.Epithelial.Z000000VJ.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1743,7 +1743,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652349_Breast-Luminal-Epithelial-Z000000VN
   longLabel GSM5652349_Breast-Luminal-Epithelial-Z000000VN
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652349_Breast-Luminal-Epithelial-Z000000VN.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652349_Breast.Luminal.Epithelial.Z000000VN.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1753,7 +1753,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652350_Breast-Basal-Epithelial-Z000000V6
   longLabel GSM5652350_Breast-Basal-Epithelial-Z000000V6
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652350_Breast-Basal-Epithelial-Z000000V6.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652350_Breast.Basal.Epithelial.Z000000V6.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1763,7 +1763,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652351_Breast-Basal-Epithelial-Z000000VG
   longLabel GSM5652351_Breast-Basal-Epithelial-Z000000VG
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652351_Breast-Basal-Epithelial-Z000000VG.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652351_Breast.Basal.Epithelial.Z000000VG.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1773,7 +1773,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652352_Breast-Basal-Epithelial-Z000000VL
   longLabel GSM5652352_Breast-Basal-Epithelial-Z000000VL
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652352_Breast-Basal-Epithelial-Z000000VL.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652352_Breast.Basal.Epithelial.Z000000VL.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1783,7 +1783,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652353_Breast-Basal-Epithelial-Z0000043E
   longLabel GSM5652353_Breast-Basal-Epithelial-Z0000043E
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652353_Breast-Basal-Epithelial-Z0000043E.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652353_Breast.Basal.Epithelial.Z0000043E.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1793,7 +1793,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652354_Lung-Alveolar-Epithelial-Z000000T1
   longLabel GSM5652354_Lung-Alveolar-Epithelial-Z000000T1
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652354_Lung-Alveolar-Epithelial-Z000000T1.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652354_Lung.Alveolar.Epithelial.Z000000T1.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1803,7 +1803,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652355_Lung-Alveolar-Epithelial-Z000000VC
   longLabel GSM5652355_Lung-Alveolar-Epithelial-Z000000VC
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652355_Lung-Alveolar-Epithelial-Z000000VC.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652355_Lung.Alveolar.Epithelial.Z000000VC.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1813,7 +1813,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652356_Lung-Alveolar-Epithelial-Z000000VE
   longLabel GSM5652356_Lung-Alveolar-Epithelial-Z000000VE
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652356_Lung-Alveolar-Epithelial-Z000000VE.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652356_Lung.Alveolar.Epithelial.Z000000VE.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1823,7 +1823,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652357_Lung-Pleura-Z0000042B
   longLabel GSM5652357_Lung-Pleura-Z0000042B
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652357_Lung-Pleura-Z0000042B.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652357_Lung.Pleura.Z0000042B.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1833,7 +1833,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652358_Gallbladder-Epithelial-Z00000432
   longLabel GSM5652358_Gallbladder-Epithelial-Z00000432
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652358_Gallbladder-Epithelial-Z00000432.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652358_Gallbladder.Epithelial.Z00000432.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1843,7 +1843,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652359_Gastric-fundus-Epithelial-Z000000RX
   longLabel GSM5652359_Gastric-fundus-Epithelial-Z000000RX
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652359_Gastric-fundus-Epithelial-Z000000RX.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652359_Gastric.fundus.Epithelial.Z000000RX.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1853,7 +1853,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652360_Gastric-fundus-Epithelial-Z000000SK
   longLabel GSM5652360_Gastric-fundus-Epithelial-Z000000SK
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652360_Gastric-fundus-Epithelial-Z000000SK.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652360_Gastric.fundus.Epithelial.Z000000SK.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1863,7 +1863,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652361_Gastric-fundus-Epithelial-Z000000SV
   longLabel GSM5652361_Gastric-fundus-Epithelial-Z000000SV
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652361_Gastric-fundus-Epithelial-Z000000SV.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652361_Gastric.fundus.Epithelial.Z000000SV.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1873,7 +1873,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652362_Gastric-body-Epithelial-Z000000SD
   longLabel GSM5652362_Gastric-body-Epithelial-Z000000SD
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652362_Gastric-body-Epithelial-Z000000SD.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652362_Gastric.body.Epithelial.Z000000SD.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1883,7 +1883,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652363_Gastric-body-Epithelial-Z000000SM
   longLabel GSM5652363_Gastric-body-Epithelial-Z000000SM
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652363_Gastric-body-Epithelial-Z000000SM.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652363_Gastric.body.Epithelial.Z000000SM.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1893,7 +1893,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652364_Gastric-body-Epithelial-Z000000ST
   longLabel GSM5652364_Gastric-body-Epithelial-Z000000ST
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652364_Gastric-body-Epithelial-Z000000ST.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652364_Gastric.body.Epithelial.Z000000ST.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1903,7 +1903,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652365_Gastric-antrum-Epithelial-Z000000SF
   longLabel GSM5652365_Gastric-antrum-Epithelial-Z000000SF
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652365_Gastric-antrum-Epithelial-Z000000SF.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652365_Gastric.antrum.Epithelial.Z000000SF.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1913,7 +1913,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652366_Gastric-antrum-Epithelial-Z000000SP
   longLabel GSM5652366_Gastric-antrum-Epithelial-Z000000SP
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652366_Gastric-antrum-Epithelial-Z000000SP.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652366_Gastric.antrum.Epithelial.Z000000SP.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1923,7 +1923,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652367_Gastric-antrum-Epithelial-Z000000SR
   longLabel GSM5652367_Gastric-antrum-Epithelial-Z000000SR
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652367_Gastric-antrum-Epithelial-Z000000SR.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652367_Gastric.antrum.Epithelial.Z000000SR.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1933,7 +1933,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652368_Gastric-antrum-Endocrine-Z00000437
   longLabel GSM5652368_Gastric-antrum-Endocrine-Z00000437
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652368_Gastric-antrum-Endocrine-Z00000437.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652368_Gastric.antrum.Endocrine.Z00000437.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1943,7 +1943,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652369_Gastric-antrum-Endocrine-Z00000438
   longLabel GSM5652369_Gastric-antrum-Endocrine-Z00000438
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652369_Gastric-antrum-Endocrine-Z00000438.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652369_Gastric.antrum.Endocrine.Z00000438.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1953,7 +1953,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652370_Colon-Right-Epithelial-Z000000V0
   longLabel GSM5652370_Colon-Right-Epithelial-Z000000V0
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652370_Colon-Right-Epithelial-Z000000V0.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652370_Colon.Right.Epithelial.Z000000V0.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1963,7 +1963,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652371_Colon-Right-Epithelial-Z000000V8
   longLabel GSM5652371_Colon-Right-Epithelial-Z000000V8
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652371_Colon-Right-Epithelial-Z000000V8.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652371_Colon.Right.Epithelial.Z000000V8.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1973,7 +1973,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652372_Colon-Right-Endocrine-Z0000044S
   longLabel GSM5652372_Colon-Right-Endocrine-Z0000044S
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652372_Colon-Right-Endocrine-Z0000044S.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652372_Colon.Right.Endocrine.Z0000044S.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1983,7 +1983,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652373_Colon-Left-Epithelial-Z000000VA
   longLabel GSM5652373_Colon-Left-Epithelial-Z000000VA
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652373_Colon-Left-Epithelial-Z000000VA.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652373_Colon.Left.Epithelial.Z000000VA.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -1993,7 +1993,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652374_Colon-Left-Endocrine-Z0000044J
   longLabel GSM5652374_Colon-Left-Endocrine-Z0000044J
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652374_Colon-Left-Endocrine-Z0000044J.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652374_Colon.Left.Endocrine.Z0000044J.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -2003,7 +2003,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652375_Colon-Left-Endocrine-Z0000044T
   longLabel GSM5652375_Colon-Left-Endocrine-Z0000044T
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652375_Colon-Left-Endocrine-Z0000044T.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652375_Colon.Left.Endocrine.Z0000044T.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -2013,7 +2013,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652376_Colon-Left-Epithelial-Z0000043B
   longLabel GSM5652376_Colon-Left-Epithelial-Z0000043B
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652376_Colon-Left-Epithelial-Z0000043B.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652376_Colon.Left.Epithelial.Z0000043B.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -2023,7 +2023,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652377_Colon-Left-Epithelial-Z0000043C
   longLabel GSM5652377_Colon-Left-Epithelial-Z0000043C
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652377_Colon-Left-Epithelial-Z0000043C.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652377_Colon.Left.Epithelial.Z0000043C.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -2033,7 +2033,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652378_Small-int-Epithelial-Z0000042V
   longLabel GSM5652378_Small-int-Epithelial-Z0000042V
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652378_Small-int-Epithelial-Z0000042V.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652378_Small.int.Epithelial.Z0000042V.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -2043,7 +2043,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652379_Small-int-Epithelial-Z000000RT
   longLabel GSM5652379_Small-int-Epithelial-Z000000RT
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652379_Small-int-Epithelial-Z000000RT.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652379_Small.int.Epithelial.Z000000RT.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -2053,7 +2053,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652380_Small-int-Epithelial-Z000000UW
   longLabel GSM5652380_Small-int-Epithelial-Z000000UW
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652380_Small-int-Epithelial-Z000000UW.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652380_Small.int.Epithelial.Z000000UW.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -2063,7 +2063,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652381_Small-int-Epithelial-Z000000UY
   longLabel GSM5652381_Small-int-Epithelial-Z000000UY
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652381_Small-int-Epithelial-Z000000UY.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652381_Small.int.Epithelial.Z000000UY.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
@@ -2073,7 +2073,7 @@ dragAndDrop on
   type bigWig
   shortLabel GSM5652382_Small-int-Endocrine-Z00000436
   longLabel GSM5652382_Small-int-Endocrine-Z00000436
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652382_Small-int-Endocrine-Z00000436.hg38.bigwig
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652382_Small.int.Endocrine.Z00000436.hg38.bigwig
   parent Loyfer_2023
   color 0,102,255
   maxHeightPixels 128:25:10
