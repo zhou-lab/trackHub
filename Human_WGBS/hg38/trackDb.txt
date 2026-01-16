@@ -1495,10 +1495,10 @@ dragAndDrop on
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
 
-track Loyfer_OTHERDIGEST
+track Loyfer_ENDO_OTHER
 type bigBed
-shortLabel Loyfer_OTHERDIGEST
-longLabel Loyfer_OTHERDIGEST
+shortLabel Loyfer_ENDO_OTHER
+longLabel Loyfer_ENDO_OTHER
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -1511,7 +1511,7 @@ dragAndDrop on
   shortLabel GSM5652233_Liver-Hepatocytes-Z000000R3
   longLabel GSM5652233_Liver-Hepatocytes-Z000000R3
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652233_Liver.Hepatocytes.Z000000R3.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1521,7 +1521,7 @@ dragAndDrop on
   shortLabel GSM5652234_Liver-Hepatocytes-Z000000T3
   longLabel GSM5652234_Liver-Hepatocytes-Z000000T3
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652234_Liver.Hepatocytes.Z000000T3.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1531,7 +1531,7 @@ dragAndDrop on
   shortLabel GSM5652235_Liver-Hepatocytes-Z0000043Q
   longLabel GSM5652235_Liver-Hepatocytes-Z0000043Q
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652235_Liver.Hepatocytes.Z0000043Q.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1541,7 +1541,7 @@ dragAndDrop on
   shortLabel GSM5652236_Liver-Hepatocytes-Z0000044H
   longLabel GSM5652236_Liver-Hepatocytes-Z0000044H
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652236_Liver.Hepatocytes.Z0000044H.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1551,7 +1551,7 @@ dragAndDrop on
   shortLabel GSM5652237_Liver-Hepatocytes-Z0000044M
   longLabel GSM5652237_Liver-Hepatocytes-Z0000044M
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652237_Liver.Hepatocytes.Z0000044M.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1561,7 +1561,7 @@ dragAndDrop on
   shortLabel GSM5652238_Liver-Hepatocytes-Z00000431
   longLabel GSM5652238_Liver-Hepatocytes-Z00000431
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652238_Liver.Hepatocytes.Z00000431.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1571,7 +1571,7 @@ dragAndDrop on
   shortLabel GSM5652358_Gallbladder-Epithelial-Z00000432
   longLabel GSM5652358_Gallbladder-Epithelial-Z00000432
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652358_Gallbladder.Epithelial.Z00000432.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1581,7 +1581,7 @@ dragAndDrop on
   shortLabel GSM5652239_Pancreas-Duct-Z0000043T
   longLabel GSM5652239_Pancreas-Duct-Z0000043T
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652239_Pancreas.Duct.Z0000043T.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1591,7 +1591,7 @@ dragAndDrop on
   shortLabel GSM5652240_Pancreas-Duct-Z0000043U
   longLabel GSM5652240_Pancreas-Duct-Z0000043U
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652240_Pancreas.Duct.Z0000043U.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1601,7 +1601,7 @@ dragAndDrop on
   shortLabel GSM5652241_Pancreas-Duct-Z0000043V
   longLabel GSM5652241_Pancreas-Duct-Z0000043V
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652241_Pancreas.Duct.Z0000043V.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1611,7 +1611,7 @@ dragAndDrop on
   shortLabel GSM5652242_Pancreas-Duct-Z000000QZ
   longLabel GSM5652242_Pancreas-Duct-Z000000QZ
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652242_Pancreas.Duct.Z000000QZ.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1621,7 +1621,7 @@ dragAndDrop on
   shortLabel GSM5652243_Pancreas-Acinar-Z000000QX
   longLabel GSM5652243_Pancreas-Acinar-Z000000QX
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652243_Pancreas.Acinar.Z000000QX.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1631,7 +1631,7 @@ dragAndDrop on
   shortLabel GSM5652244_Pancreas-Acinar-Z0000043W
   longLabel GSM5652244_Pancreas-Acinar-Z0000043W
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652244_Pancreas.Acinar.Z0000043W.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1641,7 +1641,7 @@ dragAndDrop on
   shortLabel GSM5652245_Pancreas-Acinar-Z0000043X
   longLabel GSM5652245_Pancreas-Acinar-Z0000043X
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652245_Pancreas.Acinar.Z0000043X.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1651,7 +1651,7 @@ dragAndDrop on
   shortLabel GSM5652246_Pancreas-Acinar-Z0000043Y
   longLabel GSM5652246_Pancreas-Acinar-Z0000043Y
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652246_Pancreas.Acinar.Z0000043Y.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1661,7 +1661,7 @@ dragAndDrop on
   shortLabel GSM5652253_Pancreas-Alpha-Z00000453
   longLabel GSM5652253_Pancreas-Alpha-Z00000453
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652253_Pancreas.Alpha.Z00000453.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1671,7 +1671,7 @@ dragAndDrop on
   shortLabel GSM5652254_Pancreas-Alpha-Z00000456
   longLabel GSM5652254_Pancreas-Alpha-Z00000456
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652254_Pancreas.Alpha.Z00000456.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1681,7 +1681,7 @@ dragAndDrop on
   shortLabel GSM5652255_Pancreas-Alpha-Z00000459
   longLabel GSM5652255_Pancreas-Alpha-Z00000459
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652255_Pancreas.Alpha.Z00000459.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1691,7 +1691,7 @@ dragAndDrop on
   shortLabel GSM5652250_Pancreas-Beta-Z00000452
   longLabel GSM5652250_Pancreas-Beta-Z00000452
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652250_Pancreas.Beta.Z00000452.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1701,7 +1701,7 @@ dragAndDrop on
   shortLabel GSM5652251_Pancreas-Beta-Z00000455
   longLabel GSM5652251_Pancreas-Beta-Z00000455
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652251_Pancreas.Beta.Z00000455.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1711,7 +1711,7 @@ dragAndDrop on
   shortLabel GSM5652252_Pancreas-Beta-Z00000458
   longLabel GSM5652252_Pancreas-Beta-Z00000458
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652252_Pancreas.Beta.Z00000458.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1721,7 +1721,7 @@ dragAndDrop on
   shortLabel GSM5652247_Pancreas-Delta-Z00000451
   longLabel GSM5652247_Pancreas-Delta-Z00000451
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652247_Pancreas.Delta.Z00000451.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1731,7 +1731,7 @@ dragAndDrop on
   shortLabel GSM5652248_Pancreas-Delta-Z00000454
   longLabel GSM5652248_Pancreas-Delta-Z00000454
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652248_Pancreas.Delta.Z00000454.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1741,7 +1741,7 @@ dragAndDrop on
   shortLabel GSM5652249_Pancreas-Delta-Z00000457
   longLabel GSM5652249_Pancreas-Delta-Z00000457
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652249_Pancreas.Delta.Z00000457.hg38.bigwig
-  parent Loyfer_OTHERDIGEST
+  parent Loyfer_ENDO_OTHER
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
