@@ -149,10 +149,10 @@ dragAndDrop on
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
 
-track LF_ECTO_INTEGUMENTARY
+track LF_ECTO_SURFACE
 type bigBed
-shortLabel LF_ECTO_INTEGUMENTARY
-longLabel LF_ECTO_INTEGUMENTARY
+shortLabel LF_ECTO_SURFACE
+longLabel LF_ECTO_SURFACE
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -165,7 +165,77 @@ dragAndDrop on
   shortLabel GSM5652321_Epidermal-Keratinocytes-Z00000424
   longLabel GSM5652321_Epidermal-Keratinocytes-Z00000424
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652321_Epidermal.Keratinocytes.Z00000424.hg38.bigwig
-  parent LF_ECTO_INTEGUMENTARY
+  parent LF_ECTO_SURFACE
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652347_Breast-Luminal-Epithelial-Z000000V2
+  type bigWig
+  shortLabel GSM5652347_Breast-Luminal-Epithelial-Z000000V2
+  longLabel GSM5652347_Breast-Luminal-Epithelial-Z000000V2
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652347_Breast.Luminal.Epithelial.Z000000V2.hg38.bigwig
+  parent LF_ECTO_SURFACE
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652348_Breast-Luminal-Epithelial-Z000000VJ
+  type bigWig
+  shortLabel GSM5652348_Breast-Luminal-Epithelial-Z000000VJ
+  longLabel GSM5652348_Breast-Luminal-Epithelial-Z000000VJ
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652348_Breast.Luminal.Epithelial.Z000000VJ.hg38.bigwig
+  parent LF_ECTO_SURFACE
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652349_Breast-Luminal-Epithelial-Z000000VN
+  type bigWig
+  shortLabel GSM5652349_Breast-Luminal-Epithelial-Z000000VN
+  longLabel GSM5652349_Breast-Luminal-Epithelial-Z000000VN
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652349_Breast.Luminal.Epithelial.Z000000VN.hg38.bigwig
+  parent LF_ECTO_SURFACE
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652350_Breast-Basal-Epithelial-Z000000V6
+  type bigWig
+  shortLabel GSM5652350_Breast-Basal-Epithelial-Z000000V6
+  longLabel GSM5652350_Breast-Basal-Epithelial-Z000000V6
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652350_Breast.Basal.Epithelial.Z000000V6.hg38.bigwig
+  parent LF_ECTO_SURFACE
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652351_Breast-Basal-Epithelial-Z000000VG
+  type bigWig
+  shortLabel GSM5652351_Breast-Basal-Epithelial-Z000000VG
+  longLabel GSM5652351_Breast-Basal-Epithelial-Z000000VG
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652351_Breast.Basal.Epithelial.Z000000VG.hg38.bigwig
+  parent LF_ECTO_SURFACE
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652352_Breast-Basal-Epithelial-Z000000VL
+  type bigWig
+  shortLabel GSM5652352_Breast-Basal-Epithelial-Z000000VL
+  longLabel GSM5652352_Breast-Basal-Epithelial-Z000000VL
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652352_Breast.Basal.Epithelial.Z000000VL.hg38.bigwig
+  parent LF_ECTO_SURFACE
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652353_Breast-Basal-Epithelial-Z0000043E
+  type bigWig
+  shortLabel GSM5652353_Breast-Basal-Epithelial-Z0000043E
+  longLabel GSM5652353_Breast-Basal-Epithelial-Z0000043E
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652353_Breast.Basal.Epithelial.Z0000043E.hg38.bigwig
+  parent LF_ECTO_SURFACE
   color 0,102,255
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
@@ -1103,6 +1173,167 @@ dragAndDrop on
   maxHeightPixels 128:25:10
   viewLimits 0.0:1.0
 
+track LF_MESO_OTHER
+type bigBed
+shortLabel LF_MESO_OTHER
+longLabel LF_MESO_OTHER
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+  track GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
+  type bigWig
+  shortLabel GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
+  longLabel GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652256_Kidney.Glomerular.Epithelial.Z0000045K.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
+  type bigWig
+  shortLabel GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
+  longLabel GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652257_Kidney.Glomerular.Epithelial.Z0000045L.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
+  type bigWig
+  shortLabel GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
+  longLabel GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652258_Kidney.Tubular.Epithelial.Z000000QH.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
+  type bigWig
+  shortLabel GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
+  longLabel GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652259_Kidney.Tubular.Epithelial.Z0000043Z.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652260_Kidney-Tubular-Epithelial-Z00000440
+  type bigWig
+  shortLabel GSM5652260_Kidney-Tubular-Epithelial-Z00000440
+  longLabel GSM5652260_Kidney-Tubular-Epithelial-Z00000440
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652260_Kidney.Tubular.Epithelial.Z00000440.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
+  type bigWig
+  shortLabel GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
+  longLabel GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652261_Kidney.Glomerular.Podocytes.Z0000042W.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
+  type bigWig
+  shortLabel GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
+  longLabel GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652262_Kidney.Glomerular.Podocytes.Z00000441.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
+  type bigWig
+  shortLabel GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
+  longLabel GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652263_Kidney.Glomerular.Podocytes.Z00000442.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652267_Fallopian-Epithelial-Z000000Q7
+  type bigWig
+  shortLabel GSM5652267_Fallopian-Epithelial-Z000000Q7
+  longLabel GSM5652267_Fallopian-Epithelial-Z000000Q7
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652267_Fallopian.Epithelial.Z000000Q7.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652268_Fallopian-Epithelial-Z000000S9
+  type bigWig
+  shortLabel GSM5652268_Fallopian-Epithelial-Z000000S9
+  longLabel GSM5652268_Fallopian-Epithelial-Z000000S9
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652268_Fallopian.Epithelial.Z000000S9.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652269_Fallopian-Epithelial-Z000000UV
+  type bigWig
+  shortLabel GSM5652269_Fallopian-Epithelial-Z000000UV
+  longLabel GSM5652269_Fallopian-Epithelial-Z000000UV
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652269_Fallopian.Epithelial.Z000000UV.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652270_Ovary-Epithelial-Z000000QT
+  type bigWig
+  shortLabel GSM5652270_Ovary-Epithelial-Z000000QT
+  longLabel GSM5652270_Ovary-Epithelial-Z000000QT
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652270_Ovary.Epithelial.Z000000QT.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652271_Endometrium-Epithelial-Z00000434
+  type bigWig
+  shortLabel GSM5652271_Endometrium-Epithelial-Z00000434
+  longLabel GSM5652271_Endometrium-Epithelial-Z00000434
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652271_Endometrium.Epithelial.Z00000434.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652272_Endometrium-Epithelial-Z00000435
+  type bigWig
+  shortLabel GSM5652272_Endometrium-Epithelial-Z00000435
+  longLabel GSM5652272_Endometrium-Epithelial-Z00000435
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652272_Endometrium.Epithelial.Z00000435.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM5652273_Endometrium-Epithelial-Z0000043S
+  type bigWig
+  shortLabel GSM5652273_Endometrium-Epithelial-Z0000043S
+  longLabel GSM5652273_Endometrium-Epithelial-Z0000043S
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652273_Endometrium.Epithelial.Z0000043S.hg38.bigwig
+  parent LF_MESO_OTHER
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
 track LF_ENDO_UGI
 type bigBed
 shortLabel LF_ENDO_UGI
@@ -1838,86 +2069,6 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
-  track GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
-  type bigWig
-  shortLabel GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
-  longLabel GSM5652256_Kidney-Glomerular-Epithelial-Z0000045K
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652256_Kidney.Glomerular.Epithelial.Z0000045K.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
-  type bigWig
-  shortLabel GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
-  longLabel GSM5652257_Kidney-Glomerular-Epithelial-Z0000045L
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652257_Kidney.Glomerular.Epithelial.Z0000045L.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
-  type bigWig
-  shortLabel GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
-  longLabel GSM5652258_Kidney-Tubular-Epithelial-Z000000QH
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652258_Kidney.Tubular.Epithelial.Z000000QH.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
-  type bigWig
-  shortLabel GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
-  longLabel GSM5652259_Kidney-Tubular-Epithelial-Z0000043Z
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652259_Kidney.Tubular.Epithelial.Z0000043Z.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652260_Kidney-Tubular-Epithelial-Z00000440
-  type bigWig
-  shortLabel GSM5652260_Kidney-Tubular-Epithelial-Z00000440
-  longLabel GSM5652260_Kidney-Tubular-Epithelial-Z00000440
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652260_Kidney.Tubular.Epithelial.Z00000440.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
-  type bigWig
-  shortLabel GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
-  longLabel GSM5652261_Kidney-Glomerular-Podocytes-Z0000042W
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652261_Kidney.Glomerular.Podocytes.Z0000042W.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
-  type bigWig
-  shortLabel GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
-  longLabel GSM5652262_Kidney-Glomerular-Podocytes-Z00000441
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652262_Kidney.Glomerular.Podocytes.Z00000441.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
-  type bigWig
-  shortLabel GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
-  longLabel GSM5652263_Kidney-Glomerular-Podocytes-Z00000442
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652263_Kidney.Glomerular.Podocytes.Z00000442.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
   track GSM5652342_Bladder-Epithelial-Z000000QM
   type bigWig
   shortLabel GSM5652342_Bladder-Epithelial-Z000000QM
@@ -1963,146 +2114,6 @@ dragAndDrop on
   shortLabel GSM5652346_Bladder-Epithelial-Z00000450
   longLabel GSM5652346_Bladder-Epithelial-Z00000450
   bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652346_Bladder.Epithelial.Z00000450.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652267_Fallopian-Epithelial-Z000000Q7
-  type bigWig
-  shortLabel GSM5652267_Fallopian-Epithelial-Z000000Q7
-  longLabel GSM5652267_Fallopian-Epithelial-Z000000Q7
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652267_Fallopian.Epithelial.Z000000Q7.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652268_Fallopian-Epithelial-Z000000S9
-  type bigWig
-  shortLabel GSM5652268_Fallopian-Epithelial-Z000000S9
-  longLabel GSM5652268_Fallopian-Epithelial-Z000000S9
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652268_Fallopian.Epithelial.Z000000S9.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652269_Fallopian-Epithelial-Z000000UV
-  type bigWig
-  shortLabel GSM5652269_Fallopian-Epithelial-Z000000UV
-  longLabel GSM5652269_Fallopian-Epithelial-Z000000UV
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652269_Fallopian.Epithelial.Z000000UV.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652270_Ovary-Epithelial-Z000000QT
-  type bigWig
-  shortLabel GSM5652270_Ovary-Epithelial-Z000000QT
-  longLabel GSM5652270_Ovary-Epithelial-Z000000QT
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652270_Ovary.Epithelial.Z000000QT.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652271_Endometrium-Epithelial-Z00000434
-  type bigWig
-  shortLabel GSM5652271_Endometrium-Epithelial-Z00000434
-  longLabel GSM5652271_Endometrium-Epithelial-Z00000434
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652271_Endometrium.Epithelial.Z00000434.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652272_Endometrium-Epithelial-Z00000435
-  type bigWig
-  shortLabel GSM5652272_Endometrium-Epithelial-Z00000435
-  longLabel GSM5652272_Endometrium-Epithelial-Z00000435
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652272_Endometrium.Epithelial.Z00000435.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652273_Endometrium-Epithelial-Z0000043S
-  type bigWig
-  shortLabel GSM5652273_Endometrium-Epithelial-Z0000043S
-  longLabel GSM5652273_Endometrium-Epithelial-Z0000043S
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652273_Endometrium.Epithelial.Z0000043S.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652347_Breast-Luminal-Epithelial-Z000000V2
-  type bigWig
-  shortLabel GSM5652347_Breast-Luminal-Epithelial-Z000000V2
-  longLabel GSM5652347_Breast-Luminal-Epithelial-Z000000V2
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652347_Breast.Luminal.Epithelial.Z000000V2.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652348_Breast-Luminal-Epithelial-Z000000VJ
-  type bigWig
-  shortLabel GSM5652348_Breast-Luminal-Epithelial-Z000000VJ
-  longLabel GSM5652348_Breast-Luminal-Epithelial-Z000000VJ
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652348_Breast.Luminal.Epithelial.Z000000VJ.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652349_Breast-Luminal-Epithelial-Z000000VN
-  type bigWig
-  shortLabel GSM5652349_Breast-Luminal-Epithelial-Z000000VN
-  longLabel GSM5652349_Breast-Luminal-Epithelial-Z000000VN
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652349_Breast.Luminal.Epithelial.Z000000VN.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652350_Breast-Basal-Epithelial-Z000000V6
-  type bigWig
-  shortLabel GSM5652350_Breast-Basal-Epithelial-Z000000V6
-  longLabel GSM5652350_Breast-Basal-Epithelial-Z000000V6
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652350_Breast.Basal.Epithelial.Z000000V6.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652351_Breast-Basal-Epithelial-Z000000VG
-  type bigWig
-  shortLabel GSM5652351_Breast-Basal-Epithelial-Z000000VG
-  longLabel GSM5652351_Breast-Basal-Epithelial-Z000000VG
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652351_Breast.Basal.Epithelial.Z000000VG.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652352_Breast-Basal-Epithelial-Z000000VL
-  type bigWig
-  shortLabel GSM5652352_Breast-Basal-Epithelial-Z000000VL
-  longLabel GSM5652352_Breast-Basal-Epithelial-Z000000VL
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652352_Breast.Basal.Epithelial.Z000000VL.hg38.bigwig
-  parent LF_ENDO_URI
-  color 0,102,255
-  maxHeightPixels 128:25:10
-  viewLimits 0.0:1.0
-
-  track GSM5652353_Breast-Basal-Epithelial-Z0000043E
-  type bigWig
-  shortLabel GSM5652353_Breast-Basal-Epithelial-Z0000043E
-  longLabel GSM5652353_Breast-Basal-Epithelial-Z0000043E
-  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_WGBS/hg38/GSM5652353_Breast.Basal.Epithelial.Z0000043E.hg38.bigwig
   parent LF_ENDO_URI
   color 0,102,255
   maxHeightPixels 128:25:10
