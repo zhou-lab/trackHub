@@ -1174,3 +1174,1114 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
+track GSE212391
+type bigWig
+shortLabel GSE212391
+longLabel GSE212391
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+  track GSM6529275_20A041498_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529275_20A041498_Esophageal_carcinoma
+  longLabel GSM6529275_20A041498_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529275_20A041498_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529276_20A041505_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529276_20A041505_Esophageal_carcinoma
+  longLabel GSM6529276_20A041505_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529276_20A041505_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529277_20A041506_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529277_20A041506_Esophageal_carcinoma
+  longLabel GSM6529277_20A041506_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529277_20A041506_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529278_20A041508_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529278_20A041508_Esophageal_carcinoma
+  longLabel GSM6529278_20A041508_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529278_20A041508_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529279_20A041510_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529279_20A041510_Esophageal_carcinoma
+  longLabel GSM6529279_20A041510_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529279_20A041510_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529280_20A041517_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529280_20A041517_Esophageal_carcinoma
+  longLabel GSM6529280_20A041517_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529280_20A041517_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529281_20A041519_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529281_20A041519_Esophageal_carcinoma
+  longLabel GSM6529281_20A041519_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529281_20A041519_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529282_20A041523_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529282_20A041523_Pancreatic_carcinoma
+  longLabel GSM6529282_20A041523_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529282_20A041523_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529283_20A041529_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529283_20A041529_Liver_hepatocellular_carcinoma
+  longLabel GSM6529283_20A041529_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529283_20A041529_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529284_20A041537_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529284_20A041537_Esophageal_carcinoma
+  longLabel GSM6529284_20A041537_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529284_20A041537_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529285_20A041543_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529285_20A041543_Liver_hepatocellular_carcinoma
+  longLabel GSM6529285_20A041543_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529285_20A041543_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529286_20A041544_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529286_20A041544_Liver_hepatocellular_carcinoma
+  longLabel GSM6529286_20A041544_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529286_20A041544_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529287_20A041547_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529287_20A041547_Liver_hepatocellular_carcinoma
+  longLabel GSM6529287_20A041547_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529287_20A041547_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529288_20A041556_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529288_20A041556_Liver_hepatocellular_carcinoma
+  longLabel GSM6529288_20A041556_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529288_20A041556_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529289_20A041558_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529289_20A041558_Liver_hepatocellular_carcinoma
+  longLabel GSM6529289_20A041558_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529289_20A041558_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529290_20A041564_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529290_20A041564_Liver_hepatocellular_carcinoma
+  longLabel GSM6529290_20A041564_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529290_20A041564_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529291_20A041566_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529291_20A041566_Liver_hepatocellular_carcinoma
+  longLabel GSM6529291_20A041566_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529291_20A041566_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529292_20A041567_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529292_20A041567_Liver_hepatocellular_carcinoma
+  longLabel GSM6529292_20A041567_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529292_20A041567_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529293_20A041573_Liver_hepatocellular_carcinoma
+  type bigWig
+  shortLabel GSM6529293_20A041573_Liver_hepatocellular_carcinoma
+  longLabel GSM6529293_20A041573_Liver_hepatocellular_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529293_20A041573_Liver_hepatocellular_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529294_20A041583_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529294_20A041583_Pancreatic_carcinoma
+  longLabel GSM6529294_20A041583_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529294_20A041583_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529295_20A041593_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529295_20A041593_Pancreatic_carcinoma
+  longLabel GSM6529295_20A041593_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529295_20A041593_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529296_20A041594_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529296_20A041594_Pancreatic_carcinoma
+  longLabel GSM6529296_20A041594_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529296_20A041594_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529297_20A041597_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529297_20A041597_Pancreatic_carcinoma
+  longLabel GSM6529297_20A041597_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529297_20A041597_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529298_20A041603_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529298_20A041603_Pancreatic_carcinoma
+  longLabel GSM6529298_20A041603_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529298_20A041603_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529299_20A041605_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529299_20A041605_Pancreatic_carcinoma
+  longLabel GSM6529299_20A041605_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529299_20A041605_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529300_20A041606_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529300_20A041606_Pancreatic_carcinoma
+  longLabel GSM6529300_20A041606_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529300_20A041606_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529301_20A041609_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529301_20A041609_Pancreatic_carcinoma
+  longLabel GSM6529301_20A041609_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529301_20A041609_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529302_20A041614_Esophageal_carcinoma
+  type bigWig
+  shortLabel GSM6529302_20A041614_Esophageal_carcinoma
+  longLabel GSM6529302_20A041614_Esophageal_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529302_20A041614_Esophageal_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529303_20A041685_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529303_20A041685_Pancreatic_carcinoma
+  longLabel GSM6529303_20A041685_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529303_20A041685_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529304_20A041686_Pancreatic_carcinoma
+  type bigWig
+  shortLabel GSM6529304_20A041686_Pancreatic_carcinoma
+  longLabel GSM6529304_20A041686_Pancreatic_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529304_20A041686_Pancreatic_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529305_20A042130_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529305_20A042130_Stomach_adenocarcinoma
+  longLabel GSM6529305_20A042130_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529305_20A042130_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529306_20A042135_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529306_20A042135_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529306_20A042135_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529306_20A042135_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529307_20A042137_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529307_20A042137_Stomach_adenocarcinoma
+  longLabel GSM6529307_20A042137_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529307_20A042137_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529308_20A042139_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529308_20A042139_Non-small_cell_lung_cancer
+  longLabel GSM6529308_20A042139_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529308_20A042139_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529309_20A042143_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529309_20A042143_Non-small_cell_lung_cancer
+  longLabel GSM6529309_20A042143_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529309_20A042143_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529310_20A042147_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529310_20A042147_Stomach_adenocarcinoma
+  longLabel GSM6529310_20A042147_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529310_20A042147_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529311_20A042149_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529311_20A042149_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529311_20A042149_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529311_20A042149_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529312_20A042150_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529312_20A042150_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529312_20A042150_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529312_20A042150_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529313_20A042161_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529313_20A042161_Non-small_cell_lung_cancer
+  longLabel GSM6529313_20A042161_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529313_20A042161_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529314_20A042163_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529314_20A042163_Non-small_cell_lung_cancer
+  longLabel GSM6529314_20A042163_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529314_20A042163_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529315_20A042174_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529315_20A042174_Colon_adenocarcinoma
+  longLabel GSM6529315_20A042174_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529315_20A042174_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529316_20A042175_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529316_20A042175_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529316_20A042175_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529316_20A042175_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529317_20A042178_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529317_20A042178_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529317_20A042178_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529317_20A042178_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529318_20A042183_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529318_20A042183_Thyroid_carcinoma
+  longLabel GSM6529318_20A042183_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529318_20A042183_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529319_20A042185_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529319_20A042185_Non-small_cell_lung_cancer
+  longLabel GSM6529319_20A042185_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529319_20A042185_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529320_20A042191_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529320_20A042191_Thyroid_carcinoma
+  longLabel GSM6529320_20A042191_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529320_20A042191_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529321_20A042200_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529321_20A042200_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529321_20A042200_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529321_20A042200_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529322_20A042216_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529322_20A042216_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529322_20A042216_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529322_20A042216_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529323_20A042217_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529323_20A042217_Stomach_adenocarcinoma
+  longLabel GSM6529323_20A042217_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529323_20A042217_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529324_20A042220_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529324_20A042220_Non-small_cell_lung_cancer
+  longLabel GSM6529324_20A042220_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529324_20A042220_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529325_20A042221_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529325_20A042221_Non-small_cell_lung_cancer
+  longLabel GSM6529325_20A042221_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529325_20A042221_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529326_20A042245_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529326_20A042245_Stomach_adenocarcinoma
+  longLabel GSM6529326_20A042245_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529326_20A042245_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529327_20A042263_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529327_20A042263_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529327_20A042263_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529327_20A042263_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529328_20A042270_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529328_20A042270_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529328_20A042270_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529328_20A042270_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529329_20A042279_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529329_20A042279_Cervical_and_endocervical_cancers
+  longLabel GSM6529329_20A042279_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529329_20A042279_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529330_20A042287_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529330_20A042287_Thyroid_carcinoma
+  longLabel GSM6529330_20A042287_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529330_20A042287_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529331_20A042288_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529331_20A042288_Thyroid_carcinoma
+  longLabel GSM6529331_20A042288_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529331_20A042288_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529332_20A042296_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529332_20A042296_Thyroid_carcinoma
+  longLabel GSM6529332_20A042296_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529332_20A042296_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529333_20A042300_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529333_20A042300_Cervical_and_endocervical_cancers
+  longLabel GSM6529333_20A042300_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529333_20A042300_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529334_20A042301_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529334_20A042301_Colon_adenocarcinoma
+  longLabel GSM6529334_20A042301_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529334_20A042301_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529335_20A042302_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529335_20A042302_Colon_adenocarcinoma
+  longLabel GSM6529335_20A042302_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529335_20A042302_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529336_20A042306_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529336_20A042306_Colon_adenocarcinoma
+  longLabel GSM6529336_20A042306_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529336_20A042306_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529337_20A042317_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529337_20A042317_Stomach_adenocarcinoma
+  longLabel GSM6529337_20A042317_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529337_20A042317_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529338_20A042328_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529338_20A042328_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529338_20A042328_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529338_20A042328_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529339_20A042330_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529339_20A042330_Thyroid_carcinoma
+  longLabel GSM6529339_20A042330_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529339_20A042330_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529340_20A042331_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529340_20A042331_Stomach_adenocarcinoma
+  longLabel GSM6529340_20A042331_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529340_20A042331_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529341_20A042333_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529341_20A042333_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529341_20A042333_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529341_20A042333_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529342_20A042336_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529342_20A042336_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529342_20A042336_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529342_20A042336_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529343_20A042337_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529343_20A042337_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529343_20A042337_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529343_20A042337_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529344_20A042339_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529344_20A042339_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529344_20A042339_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529344_20A042339_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529345_20A042343_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529345_20A042343_Breast_carcinoma
+  longLabel GSM6529345_20A042343_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529345_20A042343_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529346_20A042344_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529346_20A042344_Colon_adenocarcinoma
+  longLabel GSM6529346_20A042344_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529346_20A042344_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529347_20A042346_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529347_20A042346_Colon_adenocarcinoma
+  longLabel GSM6529347_20A042346_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529347_20A042346_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529348_20A042352_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529348_20A042352_Breast_carcinoma
+  longLabel GSM6529348_20A042352_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529348_20A042352_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529349_20A042360_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529349_20A042360_Breast_carcinoma
+  longLabel GSM6529349_20A042360_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529349_20A042360_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529350_20A042368_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529350_20A042368_Breast_carcinoma
+  longLabel GSM6529350_20A042368_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529350_20A042368_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529351_20A042377_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529351_20A042377_Stomach_adenocarcinoma
+  longLabel GSM6529351_20A042377_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529351_20A042377_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529352_20A042381_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529352_20A042381_Cervical_and_endocervical_cancers
+  longLabel GSM6529352_20A042381_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529352_20A042381_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529353_20A042394_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529353_20A042394_Breast_carcinoma
+  longLabel GSM6529353_20A042394_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529353_20A042394_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529354_20A042401_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529354_20A042401_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529354_20A042401_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529354_20A042401_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529355_20A042405_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529355_20A042405_Colon_adenocarcinoma
+  longLabel GSM6529355_20A042405_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529355_20A042405_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529356_20A042406_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529356_20A042406_Cervical_and_endocervical_cancers
+  longLabel GSM6529356_20A042406_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529356_20A042406_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529357_20A042420_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529357_20A042420_Thyroid_carcinoma
+  longLabel GSM6529357_20A042420_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529357_20A042420_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529358_20A042421_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529358_20A042421_Stomach_adenocarcinoma
+  longLabel GSM6529358_20A042421_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529358_20A042421_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529359_20A042433_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529359_20A042433_Colon_adenocarcinoma
+  longLabel GSM6529359_20A042433_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529359_20A042433_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529360_20A042438_Stomach_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529360_20A042438_Stomach_adenocarcinoma
+  longLabel GSM6529360_20A042438_Stomach_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529360_20A042438_Stomach_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529361_20A042440_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529361_20A042440_Non-small_cell_lung_cancer
+  longLabel GSM6529361_20A042440_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529361_20A042440_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529362_20A042444_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529362_20A042444_Breast_carcinoma
+  longLabel GSM6529362_20A042444_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529362_20A042444_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529363_20A042450_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529363_20A042450_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529363_20A042450_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529363_20A042450_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529364_20A042453_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529364_20A042453_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529364_20A042453_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529364_20A042453_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529365_20A042462_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529365_20A042462_Cervical_and_endocervical_cancers
+  longLabel GSM6529365_20A042462_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529365_20A042462_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529366_20A042490_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529366_20A042490_Colon_adenocarcinoma
+  longLabel GSM6529366_20A042490_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529366_20A042490_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529367_20A042496_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529367_20A042496_Cervical_and_endocervical_cancers
+  longLabel GSM6529367_20A042496_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529367_20A042496_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529368_20A042504_Colon_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529368_20A042504_Colon_adenocarcinoma
+  longLabel GSM6529368_20A042504_Colon_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529368_20A042504_Colon_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529369_20A042527_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529369_20A042527_Non-small_cell_lung_cancer
+  longLabel GSM6529369_20A042527_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529369_20A042527_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529370_20A042539_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529370_20A042539_Breast_carcinoma
+  longLabel GSM6529370_20A042539_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529370_20A042539_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529371_20A042540_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529371_20A042540_Thyroid_carcinoma
+  longLabel GSM6529371_20A042540_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529371_20A042540_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529372_20A042553_Ovarian_serous_adenocarcinoma
+  type bigWig
+  shortLabel GSM6529372_20A042553_Ovarian_serous_adenocarcinoma
+  longLabel GSM6529372_20A042553_Ovarian_serous_adenocarcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529372_20A042553_Ovarian_serous_adenocarcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529373_20A042558_Non-small_cell_lung_cancer
+  type bigWig
+  shortLabel GSM6529373_20A042558_Non-small_cell_lung_cancer
+  longLabel GSM6529373_20A042558_Non-small_cell_lung_cancer
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529373_20A042558_Non.small_cell_lung_cancer.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529374_20A042565_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529374_20A042565_Breast_carcinoma
+  longLabel GSM6529374_20A042565_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529374_20A042565_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529375_20A042566_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529375_20A042566_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529375_20A042566_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529375_20A042566_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529376_20A042571_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529376_20A042571_Cervical_and_endocervical_cancers
+  longLabel GSM6529376_20A042571_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529376_20A042571_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529377_20A042590_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529377_20A042590_Thyroid_carcinoma
+  longLabel GSM6529377_20A042590_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529377_20A042590_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529378_20A042591_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529378_20A042591_Cervical_and_endocervical_cancers
+  longLabel GSM6529378_20A042591_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529378_20A042591_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529379_20A042592_Head_and_neck_squamous_cell_carcinoma
+  type bigWig
+  shortLabel GSM6529379_20A042592_Head_and_neck_squamous_cell_carcinoma
+  longLabel GSM6529379_20A042592_Head_and_neck_squamous_cell_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529379_20A042592_Head_and_neck_squamous_cell_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529380_20A042599_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529380_20A042599_Thyroid_carcinoma
+  longLabel GSM6529380_20A042599_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529380_20A042599_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529381_20A042612_Cervical_and_endocervical_cancers
+  type bigWig
+  shortLabel GSM6529381_20A042612_Cervical_and_endocervical_cancers
+  longLabel GSM6529381_20A042612_Cervical_and_endocervical_cancers
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529381_20A042612_Cervical_and_endocervical_cancers.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529382_20A042615_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529382_20A042615_Breast_carcinoma
+  longLabel GSM6529382_20A042615_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529382_20A042615_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529383_20A042625_Breast_carcinoma
+  type bigWig
+  shortLabel GSM6529383_20A042625_Breast_carcinoma
+  longLabel GSM6529383_20A042625_Breast_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529383_20A042625_Breast_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
+  track GSM6529384_20A042628_Thyroid_carcinoma
+  type bigWig
+  shortLabel GSM6529384_20A042628_Thyroid_carcinoma
+  longLabel GSM6529384_20A042628_Thyroid_carcinoma
+  bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_Cancer/hg38/GSM6529384_20A042628_Thyroid_carcinoma.bw
+  parent GSE212391
+  color 0,102,255
+  maxHeightPixels 128:25:10
+  viewLimits 0.0:1.0
+
