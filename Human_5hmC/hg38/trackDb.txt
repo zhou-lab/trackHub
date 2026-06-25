@@ -50,6 +50,16 @@ visibility hide
 allButtonPair on
 dragAndDrop on
 
+    track ZD784_A
+    type bigWig
+    shortLabel CD4_Th2_ZD784_A
+    longLabel CD4_Th2_ZD784_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD784_A_cg1.bw
+    parent CD4 on
+    color 204,0,0
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:0.5
+
     track ZD751_E
     type bigWig
     shortLabel CD4_CM_ZD751_E
@@ -875,30 +885,30 @@ dragAndDrop on
 
     track ZD220_A
     type bigWig
-    shortLabel Neutrophil_ZD220_A
-    longLabel Neutrophil_ZD220_A
+    shortLabel Monocyte_ZD220_A
+    longLabel Monocyte_ZD220_A
     bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD220_A_cg1.bw
-    parent Neutrophil on
+    parent Monocyte on
     color 204,0,0
     maxHeightPixels 128:25:10
     viewLimits 0.0:0.5
 
     track ZD220_E
     type bigWig
-    shortLabel Neutrophil_ZD220_E
-    longLabel Neutrophil_ZD220_E
+    shortLabel Monocyte_ZD220_E
+    longLabel Monocyte_ZD220_E
     bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD220_E_cg1.bw
-    parent Neutrophil on
+    parent Monocyte on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
 
     track ZD346_E
     type bigWig
-    shortLabel Neutrophil_ZD346_E
-    longLabel Neutrophil_ZD346_E
+    shortLabel Monocyte_ZD346_E
+    longLabel Monocyte_ZD346_E
     bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD346_E_cg1.bw
-    parent Neutrophil on
+    parent Monocyte on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
@@ -912,4 +922,14 @@ dragAndDrop on
     color 0,102,255
     maxHeightPixels 128:25:10
     viewLimits 0.0:1.0
+
+    track ZD351_A
+    type bigWig
+    shortLabel Neutrophil_ZD351_A
+    longLabel Neutrophil_ZD351_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD351_A_cg1.bw
+    parent Neutrophil on
+    color 204,0,0
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:0.5
 
