@@ -933,3 +933,23 @@ dragAndDrop on
     maxHeightPixels 128:25:10
     viewLimits 0.0:0.5
 
+    track ZD536_A
+    type bigWig
+    shortLabel Neutrophil_ZD536_A
+    longLabel Neutrophil_ZD536_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD536_A_cg1.bw
+    parent Neutrophil on
+    color 204,0,0
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:0.5
+
+    track ZD538_A
+    type bigWig
+    shortLabel Neutrophil_ZD538_A
+    longLabel Neutrophil_ZD538_A
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Human_5hmC/hg38/ZD538_A_cg1.bw
+    parent Neutrophil on
+    color 204,0,0
+    maxHeightPixels 128:25:10
+    viewLimits 0.0:0.5
+
